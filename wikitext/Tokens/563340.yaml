@@ -1,0 +1,29 @@
+title: Spool Token
+wikitext: |-
+  {{CardTable2
+  | fr_name     = Jeton Bobine
+  | de_name     = Spool-Spielmark
+  | it_name     = Segna-Spola
+  | ko_name     = 스풀 토큰
+  | pt_name     = Ficha de Carretel
+  | es_name     = Ficha Carrete
+  | ja_name     = スプールトークン
+  | romaji_name = Supūru Tōkun
+  | image       = SpoolToken-MADU-EN-VG-artwork.png
+  | card_type   = Token
+  | attribute   = LIGHT
+  | types       = Cyberse / Normal
+  | level       = 1
+  | atk         = 0
+  | def         = 0
+  | summoned_by = Spool Code
+  | text        = 
+  | fr_text     = 
+  | de_text     = 
+  | it_text     = 
+  | ko_text     = 
+  | pt_text     = 
+  | es_text     = 
+  | ja_text     = 
+  | database_id = 13968
+  }}

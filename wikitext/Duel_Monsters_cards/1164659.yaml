@@ -1,0 +1,52 @@
+title: Underworld Circle
+wikitext: |-
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|黄|よ}}{{Ruby|泉|み}}{{Ruby|天|てん}}{{Ruby|輪|りん}}
+  | romaji_name           = Yomi Tenrin
+  | translated_name       = Netherworld Heavenly Circle
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 黄泉天轮
+  | image                 = UnderworldCircle-LOCH-JP-UR.png
+  | card_type             = Spell
+  | property              = Continuous
+  | password              = 73443672
+  | effect_types          = Effect, Trigger-like, Condition
+  | text                  = [[Activate]] this card if both players have 5 or more [[monster]]s in their [[GY]]s; [[destroy]] as many monsters on the [[field]] as possible, then each player [[banish]]es ([[face-down]]) all monsters from their [[Deck]], then you can [[Special Summon]] 1 [[Normal Monster]] from your GY. [[Once per turn]], during the [[Standby Phase]]: Activate this [[effect]]; each player can Special Summon 1 monster from their GY, [[ignoring its Summoning conditions]], but banish it when it [[leaves the field]]. You can only activate 1 "Underworld Circle" per [[Duel]].
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = このカード名のカードはデュエル中に１枚しか発動できない。①：お互いの墓地のモンスターがそれぞれ５体以上の場合にこのカードを発動できる。フィールドのモンスターを全て破壊する。その後、お互いは自身のデッキのモンスターを全て裏側で除外する。さらに自分は自身の墓地から通常モンスター１体を特殊召喚できる。②：自分・相手のスタンバイフェイズに発動する。お互いはそれぞれ自身の墓地からモンスター１体を召喚条件を無視して特殊召喚できる。この効果で特殊召喚したモンスターは、フィールドから離れた場合に除外される。
+  | ko_text               = 
+  | sc_text               = 此卡名的卡在决斗中仅可发动1张。①：双方墓地的怪兽各有5只以上的情况下可以发动此卡。将场上的怪兽全部破坏。然后，双方将自身牌组的怪兽全部以里侧除外。自己进而可从自身墓地将1只通常怪兽特殊召唤。②：在自己・对手的准备阶段发动。双方可各从自身墓地将1只怪兽无视召唤条件特殊召唤。以此效果特殊召唤的怪兽从场上离开的情况下，将其除外。
+  | jp_sets               = 
+  LOCH-JP019; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | sc_sets               = 
+  LOCH-SC019; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | supports              = Normal Monster
+  | m/s/t                 =
+  * Destroys your Monster Cards
+  * Destroys your opponent's Monster Cards
+  | summoning             =
+  * Special Summons from your Graveyard
+  * Special Summons from your opponent's Graveyard to your opponent's field
+  * Ignoring the Summoning conditions
+  | banished              =
+  * Banishes from your Deck
+  * Banishes from your opponent's Deck
+  * Banishes face-down
+  * Banishes cards when they leave the field
+  | misc                  = 
+  * Limited activations
+  * During the Standby Phase
+  * Only once per Duel
+  | database_id           = 22708
+  }}

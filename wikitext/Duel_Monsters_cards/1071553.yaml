@@ -1,0 +1,63 @@
+title: Odd-Eyes Solblaze Dragon
+wikitext: |-
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = オッドアイズ・ソルブレイズ・ドラゴン
+  | romaji_name           = Oddoaizu Sorubureizu Doragon
+  | ko_name               = 오드아이즈 솔브레이즈 드래곤
+  | ko_rr_name            = 
+  | sc_name               = 异色眼阳焰龙
+  | image                 = OddEyesSolblazeDragon-YO09-JP-UR.png
+  | attribute             = LIGHT
+  | types                 = Dragon / Synchro / Tuner / Effect
+  | level                 = 8
+  | atk                   = 2000
+  | def                   = 2500
+  | password              = 29325276
+  | material              = 1 Tuner + 1 or more non-Tuner monsters
+  | effect_types          = Trigger, Ignition, Condition
+  | text                  = 1 [[Tuner]] + 1+ non-Tuners<br />If this card is [[Special Summon]]ed: You can Special Summon 1 [[face-up]] [[Pendulum Monster]] from your [[Extra Deck]], but you cannot Special Summon, except Pendulum Monsters, while you [[control]] that face-up monster. If this card is in your [[GY]]: You can [[banish]] 2 other monsters ([[Fusion Monster|Fusion]]/[[Synchro Monster|Synchro]]/[[Xyz Monster|Xyz]]/Pendulum) from your GY; Special Summon this card. You can only use 1 "Odd-Eyes Solblaze Dragon" effect per turn, and only once that turn.
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = チューナー＋チューナー以外のモンスター１体以上<br />このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードが特殊召喚した場合に発動できる。自分のＥＸデッキ（表側）からＰモンスター１体を特殊召喚する。この効果で特殊召喚したモンスターが自分フィールドに表側表示で存在する限り、自分はＰモンスターしか特殊召喚できない。②：このカードが墓地に存在する場合、自分の墓地から他の融合・Ｓ・Ｘ・Ｐモンスター２体を除外して発動できる。このカードを特殊召喚する。
+  | ko_text               = 튜너 ＋ 튜너 이외의 몬스터 1장 이상<br />이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드를 특수 소환했을 경우에 발동할 수 있다. 자신의 엑스트라 덱(앞면)에서 펜듈럼 몬스터 1장을 특수 소환한다. 이 효과로 특수 소환한 몬스터가 자신 필드에 앞면 표시로 존재하는 한, 자신은 펜듈럼 몬스터밖에 특수 소환할 수 없다. ②: 이 카드가 묘지에 존재할 경우, 자신 묘지에서 다른 융합 / 싱크로 / 엑시즈 / 펜듈럼 몬스터 2장을 제외하고 발동할 수 있다. 이 카드를 특수 소환한다.
+  | sc_text               = 协调＋协调以外的怪兽1只以上<br />此卡名的①②效果1回合1次，仅可使用其中1个。①：此卡特殊召唤的情况下可以发动。从自己额外牌组（表侧）将1只灵摆怪兽特殊召唤。只要以此效果特殊召唤的怪兽以表侧表示存在于自己场上，自己仅可特殊召唤灵摆怪兽。②：此卡存在于墓地的情况下，从自己墓地将2只其他的融合・同步・超量・灵摆怪兽除外可以发动。将此卡特殊召唤。
+  | en_sets               = 
+  | fr_sets               = 
+  | de_sets               = 
+  | it_sets               = 
+  | pt_sets               = 
+  | sp_sets               = 
+  | jp_sets               = 
+  YO09-JP001; Yu-Gi-Oh! OCG Structures Volume 9 promotional card; Ultra Rare
+  | kr_sets               = 
+  25PP-KRB17; Premium Pack 2025 2nd Wave; Common, Normal Parallel Rare, Super Rare, Secret Rare, Secret Rare (Special Red Version)
+  | sc_sets               = 
+  NE03-SC061; Nature Pack: Righteous Warriors; Super Rare, Secret Rare
+  | supports              = 
+  * Pendulum Monster
+  * Fusion Monster
+  * Synchro Monster
+  * Xyz Monster
+  | archseries            = Odd-Eyes
+  | related_to_archseries = Four Dimensional Dragons
+  | action                = 
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  | summoning             = 
+  * 1 or more non-Tuner Synchro Materials
+  * Does not require specific Synchro Materials
+  * Special Summons from your Extra Deck
+  * Restricts the player's Special Summons
+  * Special Summons from your Graveyard
+  | banished              = Banishes from Graveyard for cost
+  | misc                  = Only 1 effect once per turn
+  | database_id           = 20473
+  }}

@@ -1,0 +1,21 @@
+title: Offering to the Snake Deity (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Sacrifice au Dieu Serpent
+  | de_name      = Opfer für den Schlangengott
+  | it_name      = Offerta alla Divinità dei Serpenti
+  | es_name      = Ofrenda al Dios Serpiente
+  | ko_name      = 독사의 공물
+  | image        = OfferingtotheSnakeDeity-DULI-EN-VG.png
+  | card_type    = Trap
+  | property     = Normal
+  | rarity       = SR
+  | effect_types = Effect
+  | text         = [[Target]] 1 [[face-up]] [[Reptile]]-Type [[Monster Card|monster]] you [[control]] and 2 cards your opponent controls; [[destroy]] all three targets.
+  | fr_text      = Ciblez 1 monstre de Type Reptile face recto que vous contrôlez et 2 cartes contrôlées par votre adversaire ; détruisez les trois cibles.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=card_trader}}
+  {{Duel Links release table/footer}}
+  }}

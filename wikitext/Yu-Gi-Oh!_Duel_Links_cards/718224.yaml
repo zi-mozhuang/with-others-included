@@ -1,0 +1,27 @@
+title: Fiendish Rhino Warrior (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Guerrier Rhino Démoniaque
+  | de_name      = Teuflischer Nashornkrieger
+  | it_name      = Guerriero Rinoceronte Demoniaco
+  | es_name      = Guerrero Rinoceronte Demoníaco
+  | ko_name      = 마주사이의 전사
+  | image        = FiendishRhinoWarrior-DULI-EN-VG.png
+  | ja_image     = FiendishRhinoWarrior-DULI-JP-VG.png
+  | attribute    = EARTH
+  | types        = Fiend / Effect
+  | atk          = 1400
+  | def          = 900
+  | level        = 3
+  | rarity       = SR
+  | effect_types = Continuous, Trigger, Condition
+  | text         = [[Fiend]]-Type [[Monster Card|monsters]] you [[control]], except "Fiendish Rhino Warrior", cannot be [[destroy]]ed [[Destroyed by battle|by battle]] or card [[effect]]s. If this card is [[sent]] to the Graveyard: You can send 1 Fiend-Type monster from your [[Main Deck|Deck]] to the Graveyard, except "Fiendish Rhino Warrior". You can only use this effect of "Fiendish Rhino Warrior" [[once per turn]].
+  | fr_text      = Les monstres Démon que vous contrôlez ("Guerrier Rhino Démoniaque" exclu) ne peuvent être détruits ni au combat ni par des effets de carte. Si cette carte est envoyée au Cimetière : vous pouvez envoyer 1 monstre de Type Démon ("Guerrier Rhino Démoniaque" exclu) depuis votre Deck au Cimetière. Vous ne pouvez utiliser cet effet de "Guerrier Rhino Démoniaque" qu'une fois par tour.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Maximum Gustav}}
+  {{Duel Links release table|type=box|Selection BOX Vol.06}}
+  {{Duel Links release table|type=box|Pick Up Box: Ruler's Abyss}}
+  {{Duel Links release table/footer}}
+  }}

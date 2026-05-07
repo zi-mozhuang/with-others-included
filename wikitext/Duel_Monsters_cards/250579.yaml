@@ -1,0 +1,65 @@
+title: Blackfeather Darkrage Dragon
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Dragon Ragesombre Plumenoire
+  | de_name               = Schwarzfeder-Dunkelwutdrache
+  | it_name               = Drago Rabbiaoscura Piumanera
+  | pt_name               = Dragão Penanegra Fúria Obscura
+  | es_name               = Dragón Rabiaoscura Plumanegra
+  | ja_name               = {{Ruby|玄|げん}}{{Ruby|翼|よく}}{{Ruby|竜|りゅう}} ブラック・フェザー
+  | romaji_name           = Gen'yokuryū Burakku Fezā
+  | translated_name       = Darkwing Dragon Black Feather
+  | ko_name               = 현익룡 블랙 페더
+  | sc_name               = 玄翼龙 黑翅
+  | image                 = BlackfeatherDarkrageDragon-PGLD-EN-GScR-1E.png
+  | attribute             = DARK
+  | types                 = Dragon / Synchro / Effect
+  | level                 = 8
+  | atk                   = 2800
+  | def                   = 1600
+  | password              = 60992105
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
+  | effect_types          = Trigger
+  | text                  = 1 [[Tuner monster|Tuner]] + 1 or more non-Tuner [[monster]]s<br />[[Once per turn]], when you take [[damage]]: You can [[send]] up to 5 cards from the top of your [[Main Deck|Deck]] to the [[Graveyard]], then if any monsters were sent to the Graveyard by this [[effect]], this card gains 400 [[ATK]].
+  | fr_text               = 1 Syntoniseur + 1 monstre non-Syntoniseur ou plus<br />Une fois par tour, lorsque vous recevez des dommages : vous pouvez envoyer max. 5 cartes du dessus de votre Deck au Cimetière, puis si un ou plusieurs monstres ont été envoyés au Cimetière par cet effet, cette carte gagne 400 ATK.
+  | de_text               = 1 Empfänger- + 1 oder mehr Nicht-Empfänger-Monster<br />Einmal pro Spielzug, wenn du Schaden erhältst: Du kannst die bis zu 5 obersten Karten deines Decks auf den Friedhof legen, dann, falls durch diesen Effekt Monster auf den Friedhof gelegt wurden, erhält diese Karte 400 ATK.
+  | it_text               = 1 Tuner + 1 o più mostri non-Tuner<br />Una volta per turno, quando subisci danno: puoi mandare fino a 5 carte dalla cima del tuo Deck al Cimitero, poi se un qualsiasi mostro è stato mandato al Cimitero da questo effetto, questa carta guadagna 400 ATK.
+  | pt_text               = 1 Regulador + 1 ou mais monstros não-Reguladores<br />Uma vez por turno, quando você sofrer dano: você pode enviar até 5 cards do topo do seu Deck para o Cemitério e, depois, se algum monstro foi enviado para o Cemitério por este efeito, este card ganha 400 de ATK.
+  | es_text               = 1 Cantante + 1 o más monstruos que no sean Cantantes<br />Una vez por turno, cuando recibes daño: puedes mandar al Cementerio hasta 5 cartas de la parte superior de tu Deck y después, si algún monstruo fue mandado al Cementerio por este efecto, esta carta gana 400 ATK.
+  | ja_text               = チューナー＋チューナー以外のモンスター１体以上<br />１ターンに１度、戦闘またはカードの効果によって自分がダメージを受けた時に発動できる。自分のデッキの上からカードを５枚まで墓地へ送る。この効果で墓地へ送ったカードの中にモンスターカードがあった場合、このカードの攻撃力は４００ポイントアップする。
+  | ko_text               = 튜너 ＋ 튜너 이외의 몬스터 1장 이상<br />①: 1턴에 1번, 자신이 전투 / 효과로 데미지를 받았을 때에 발동할 수 있다. 자신의 덱 위에서 카드를 5장까지 묘지로 보낸다. 이 효과로 몬스터가 묘지로 보내졌을 경우, 이 카드의 공격력은 400 올린다.
+  | sc_text               = 协调＋协调以外的怪兽1只以上<br />①：1回合1次，自己因战斗・效果受到伤害时可以发动。从自己牌组上面将最多5张卡送至墓地。有怪兽因此效果被送至墓地的情况下，此卡的攻击力进而上升400。
+  | en_sets               = 
+  PGLD-EN017; Premium Gold; Gold Secret Rare
+  | fr_sets               = 
+  PGLD-FR017; Premium Gold; Gold Secret Rare
+  | de_sets               = 
+  PGLD-DE017; Premium Gold; Gold Secret Rare
+  | it_sets               = 
+  PGLD-IT017; Premium Gold; Gold Secret Rare
+  | pt_sets               = 
+  PGLD-PT017; Premium Gold; Gold Secret Rare
+  | sp_sets               = 
+  PGLD-SP017; Premium Gold; Gold Secret Rare
+  | jp_sets               = 
+  PP16-JP008; Premium Pack 16; Common, Secret Rare
+  | kr_sets               = 
+  PP09-KR008; Premium Pack Vol.9; Super Rare
+  SYP1-KR013; Synergy Pack 01: Syncro Acceleration; Common, Secret Rare
+  | sc_sets               = 
+  NE03-SC146; Nature Pack: Righteous Warriors; Ultra Rare, Secret Rare, Secret Rare (Special Red Version)
+  | archseries            = Duel Dragon
+  | related_to_archseries = 
+  * Signer Dragon
+  * Blackwing
+  | summoning             = 
+  * 1 or more non-Tuner Synchro Materials
+  * Does not require specific Synchro Materials
+  | action                = 
+  * Activates if you take battle damage
+  * Activates if you take effect damage
+  * Sends from the top of your Deck to your Graveyard
+  | stat_change           = This card gains ATK
+  | misc                  = Limited activations
+  | database_id           = 11012
+  }}

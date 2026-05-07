@@ -1,0 +1,23 @@
+title: Phantasm Spiral Token
+wikitext: |-
+  {{CardTable2
+  | fr_name         = Jeton Spirale Spectre
+  | de_name         = Phantasmaspiral-Spielmarke
+  | it_name         = Segna-Spirale Fantasmatica
+  | pt_name         = Ficha de Fantasma Espiral
+  | es_name         = Ficha Fantasma Espiral
+  | ko_name         = 환황룡 토큰
+  | ja_name         = {{Ruby|幻|げん}}{{Ruby|煌|おう}}{{Ruby|龍|りゅう}}トークン
+  | romaji_name     = Gen'ōryū Tōkun
+  | translated_name = Phantasm Dragon Token
+  | image           = PhantasmSpiralToken-MADU-EN-VG-artwork.png
+  | card_type       = Token
+  | types           = Wyrm / Normal
+  | level           = 8
+  | attribute       = WATER
+  | atk             = 2000
+  | def             = 2000
+  | summoned_by     = Pacifis, the Phantasm City
+  | archseries      = Phantasm Spiral
+  | database_id     = 12995
+  }}

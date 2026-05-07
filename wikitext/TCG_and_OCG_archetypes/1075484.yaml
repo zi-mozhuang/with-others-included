@@ -1,0 +1,266 @@
+title: Maliss
+wikitext: |-
+  {{Redirect|Malice|the monsters named "Malice"|"[[Malice, Lady of Lament]]" or "[[Malice Doll of Demise]]"}}
+  {{stub}}
+  {{Infobox archseries
+  | cut_from_names = yes
+  | image          = MalissinUnderground-MADU-JP-VG-artwork.png
+  | caption        = "[[Maliss P White Rabbit|Maliss <&#80;> White Rabbit]]", "[[Maliss P Dormouse|Dormouse]]", and "[[Maliss P Chessy Cat|Chessy Cat]]" in the artwork of "[[Maliss in Underground]]"
+  | ja_name        = {{Ruby|Ｍ∀ＬＩＣＥ|マリス}}
+  | romaji         = Marisu
+  | trans          = MⱯLICE
+  | fr_name        = Maliss
+  | de_name        = Maliss
+  | it_name        = Maliss
+  | ko_name        = {{Ruby|M∀LICE|맬리스|lang=ko}}
+  | ko_romanized   = 
+  | pt_name        = Maliss
+  | es_name        = Maliss
+  | sc_name        = 码丽丝
+  | sets           = [[Alliance Insight]]
+  | tcg            = [[Crossover Breakers]]
+  | ocg            = [[Deck-Build Pack: Crossover Breakers]]
+  | manga          = [[Yu-Gi-Oh! OCG Structures]]
+  }}
+
+  "'''Maliss'''", known as "'''MⱯLICE'''" ({{Ruby|Ｍ∀ＬＩＣＥ|マリス}} ''Marisu'') in Japan, is an archetype of [[DARK]] [[Cyberse]] monsters introduced in ''[[Deck-Build Pack: Crossover Breakers]]''/''[[Crossover Breakers]]''.
+
+  == Lore ==
+  {{Main|The Valuable Book EX 5 card storylines#No. 3: Maliss}}
+
+  == Design ==
+  === Etymology ===
+  The name "Maliss" is derived from the word "malice", in reference to malicious software or [[wikipedia:malware|malware]], and the name "Alice", the protagonist of [[wikipedia:Lewis Carroll|Lewis Carroll]]'s most notable works: ''[[wikipedia:Alice's Adventures in Wonderland|Alice's Adventures in Wonderland]]'' and ''[[wikipedia:Through the Looking-Glass|Through the Looking-Glass]]''. The name "[[wikipedia:Alice and Bob|Alice]]" is also commonly used as a placeholder name in scenarios and discussions about cryptographic systems and protocols.
+
+  In mathematical logic, the turned A (Ɐ) symbol is used to indicate [[wikipedia:Universal quantification|universal quantification]] as a logical constant representing "for all" in a set. In addition to referencing Carroll's work in mathematics and the use of math in computer code, it may be a visual pun on how the worlds the protagonist of the novels explore are metaphorical "upside-down worlds" where normal logic is suspended, and which are supposedly geographically located underground or on the other side of a reflection.
+
+  The Chinese name "码丽丝" is a phono-semantic matching of "Maliss", consisting of the character 码 (''mǎ'', lit. "code") and the latter half of the name 爱丽丝 (''Àilìsī'', lit. "Alice")
+
+  === Members ===
+  The monsters resemble female humanoids based on characters from Lewis Carroll's novels. Their designs have visual elements of digital technology and cyberspace in reference to the archetype's theme of malware.
+
+  The designation of [[Main Deck]] monsters as [[wikipedia:Pawn (chess)|pawns]] and the [[Link Monster]]s as [[wikipedia:Queen (chess)|queens]] is based on the special rule of [[wikipedia:Promotion (chess)|promotion]] in the game of chess. This is a reference to ''Through the Looking-Glass'', where Alice takes the role of a pawn and is promoted to a queen.
+
+  {| class="wikitable" style="text-align: center"
+  ! scope="col" | Monster
+  ! scope="col" | [[wikipedia:Lewis Carroll|Lewis Carroll]] character
+  ! scope="col" | [[wikipedia:Playing card suit|Playing card suit]]
+  ! scope="col" | [[wikipedia:Chess piece|Chess piece]]
+  ! scope="col" | [[wikipedia:Malware|Malware]] origin
+  |-
+  | [[Maliss P Chessy Cat|<nowiki><Pawn></nowiki> Chessy Cat]]
+  | [[wikipedia:Cheshire Cat|Cheshire Cat]]
+  | [[wikipedia:Clubs (suit)|Clubs]]
+  | [[wikipedia:Pawn (chess)|Pawn]]
+  | [[wikipedia:BlackCat (cyber gang)|BlackCat]]
+  |-
+  | [[Maliss P Dormouse|<nowiki><Pawn></nowiki> Dormouse]]
+  | [[wikipedia:Dormouse (Alice's Adventures in Wonderland character)|Dormouse]]
+  | [[wikipedia:Diamonds (suit)|Diamonds]]
+  | [[wikipedia:Pawn (chess)|Pawn]]
+  | [[wikipedia:Clickjacking#MouseJack|MouseJack]]
+  |-
+  | [[Maliss P March Hare|<nowiki><Pawn></nowiki> March Hare]]
+  | [[wikipedia:March Hare|March Hare]]
+  | [[wikipedia:Spades (suit)|Spades]]
+  | [[wikipedia:Pawn (chess)|Pawn]]
+  | [[wikipedia:Hare (computer virus)|Hare]]
+  |-
+  | [[Maliss P White Rabbit|<nowiki><Pawn></nowiki> White Rabbit]]
+  | [[wikipedia:White Rabbit|White Rabbit]]
+  | [[wikipedia:Hearts (suit)|Hearts]]
+  | [[wikipedia:Pawn (chess)|Pawn]]
+  | [[wikipedia:Ransomware#Bad Rabbit|Bad Rabbit]]
+  |-
+  | [[Maliss Q Hearts Crypter|<nowiki><Queen></nowiki> Hearts Crypter]]
+  | [[wikipedia:Queen of Hearts (Alice's Adventures in Wonderland)|Queen of Hearts]]
+  | [[wikipedia:Hearts (suit)|Hearts]]
+  | [[wikipedia:Queen (playing card)|(Cards) Queen]]
+  | [[wiktionary:crypter|crypter]]
+  |-
+  | [[Maliss Q Red Ransom|<nowiki><Queen></nowiki> Red Ransom]]
+  | [[wikipedia:Red Queen (Through the Looking-Glass)|Red Queen]]
+  | ''<span style="color: grey;">None</span>''
+  | [[wikipedia:Queen (chess)|Queen]]
+  | [[wikipedia:Ransomware|Ransomware]]
+  |-
+  | [[Maliss Q White Binder|<nowiki><Queen></nowiki> White Binder]]
+  | [[wikipedia:White Queen (Through the Looking-Glass)|White Queen]]
+  | ''<span style="color: grey;">None</span>''
+  | [[wikipedia:Queen (chess)|Queen]]
+  | [[wikipedia:File binder|File binder]]
+  |}
+
+  The related monster "[[Mad Hacker]]" is based on the character [[wikipedia:Hatter (Alice's Adventures in Wonderland)|Mad Hatter]] and the act of [[wikipedia:Hacker|hacking]].
+
+  The [[Trap Card]]s are named after acronyms based on phrases in specific chapters from ''Alice's Adventures in Wonderland''.
+
+  {| class="wikitable" style="text-align: center"
+  ! scope="col" rowspan="2" | Trap
+  ! scope="col" colspan="2" | ''[[wikipedia:Alice's Adventures in Wonderland|Alice's Adventures in Wonderland]]'' origin
+  |-
+  ! Phrase
+  ! Chapter
+  |-
+  | [[Maliss C GWC-06|GWC-06]]
+  | '''G'''rin '''W'''ithout a '''C'''at
+  | VI
+  |-
+  | [[Maliss C MTP-07|MTP-07]]
+  | '''M'''ad '''T'''ea '''P'''arty
+  | VII
+  |-
+  | [[Maliss C TB-11|TB-11]]
+  | '''T'''hree '''B'''lasts
+  | XI
+  |}
+
+  == Playing style ==
+  "Maliss" revolves around using self-banishing in order to swarm the field with materials for [[Link Summon]]s; most of its monsters can Special Summon themselves upon being banished. In conjunction with the Deck's Link-only Extra Deck lock, a "Maliss" Deck is typically geared towards a Link Monster beatdown strategy.
+
+  Each Main Deck member of the archetype has effects that allow you to gain benefits by banishing another "Maliss" card from the hand, with the banished monster being able to Special Summon itself back to the field at the cost of 300 Life Points each (with the exception of "March Hare", which instead returns a banished "Maliss" monster to the hand). The Link Monsters further this strategy by continuously banishing both players' cards, while also being able to summon themselves back to the field upon being banished, albeit at the cost of 900 Life Points each. On-field, "Maliss" Main Deck "Pawns" provide protection to their Link Monster "Queens" while the latter [[points to]] them.
+
+  Other existing Cyberse monsters that benefit from being banished include "[[Dotscaper]]", which can Summon itself upon being banished, and "[[Balancer Lord]]", which allows the player to Summon another card from their hand.
+
+  "[[Bystial]]" monsters have great synergy with this Deck; not only are they useful [[hand trap]]s, but they also can be used on the player's own "Maliss" monsters in the Graveyard to activate their on-banish effects.
+
+  An "[[@Ignister]]" package can easily be slotted into a "Maliss" Deck to increase its swarming potential. As a Cyberse-focused Deck, "Maliss" is unbothered by the Cyberse lock enforced by "[[Wizard @Ignister]]". "[[Cyberse Wicckid]]" can search "[[Backup @Ignister]]" to initiate combos, and "[[Allied Code Talker @Ignister]]" offers a powerful [[endboard]] piece to the Deck. 
+
+  === Recommended cards ===
+  {{Decklist|Recommended cards
+  <!--This is not an exact Decklist. Please do not add multiples or staples.-->
+  |effect monsters =
+  * [[Maliss P Chessy Cat|Maliss <nowiki><P></nowiki> Chessy Cat]]
+  * [[Maliss P Dormouse|Maliss <nowiki><P></nowiki> Dormouse]]
+  * [[Maliss P March Hare|Maliss <nowiki><P></nowiki> March Hare]]
+  * [[Maliss P White Rabbit|Maliss <nowiki><P></nowiki> White Rabbit]]
+  * [[Aloof Lupine]]
+  * [[Dimension Shifter]]
+  * [[Dotscaper]]
+  * [[Dual Assembwurm]]
+  * [[EM:P Meowmine]]
+  * [[Fiend Reflection of the Millennium]]
+  * [[Formud Skipper]]
+  * [[Full Active Duplex]]
+  * [[Genro Ryu-Ge Hakva]]
+  * [[Gold Pride - Nytro Head]]
+  * [[Grid Sweeper]]
+  * "[[Labrynth]]" monsters
+  ** [[Arias the Labrynth Butler]]
+  ** [[Lady Labrynth of the Silver Castle]]
+  * [[Lady Debug]]
+  * [[Lord of the Heavenly Prison]]
+  * [[Luna the Dark Spirit]]
+  * [[Minimalian]]
+  * [[Necroface]]
+  * [[Parallel eXceed]]
+  * [[Planet Pathfinder]]
+  * [[Scrypton]]
+  * [[Template Skipper]]
+  * [[Wizard @Ignister]]
+
+  |tuner monsters =
+  * [[Backup @Ignister]]
+
+  |pendulum monsters =
+  * [[Antihuman Intelligence ME-PSY-YA]]
+
+  |ritual monsters =
+  * [[Cyberse Code Magician]]
+
+  |fusion monsters =
+  * [[Cyberse Desavewurm]] (with "Neo Tempest Terahertz")
+
+  |synchro monsters =
+  * [[Firewall Saber Dragon]]
+  * [[Enigmaster Packbit]] (with "Neo Tempest Terahertz")
+
+  |xyz monsters =
+  * [[Mereologic Aggregator]] (with "Neo Tempest Terahertz")
+  * [[Cyberse Reminder]]
+
+  |link monsters =
+  * [[Maliss Q Hearts Crypter|Maliss <nowiki><Q></nowiki> Hearts Crypter]]
+  * [[Maliss Q Red Ransom|Maliss <nowiki><Q></nowiki> Red Ransom]]
+  * [[Maliss Q White Binder|Maliss <nowiki><Q></nowiki> White Binder]]
+  * "[[Code Talker (archetype)|Code Talker]]" monsters
+  ** [[Accesscode Talker]]
+  ** [[Allied Code Talker @Ignister]]
+  ** [[Decode Talker Heatsoul]] (with "Recoded Alive")
+  ** [[Decode Talker Integration]]
+  ** [[Protectcode Talker]]
+  ** [[Transcode Talker]]
+  * [[Firewall Dragon]]
+  * [[Firewall Dragon Darkfluid - Neo Tempest Terahertz]]
+  * [[Haggard Lizardose]]
+  * [[I:P Masquerena]]
+  * [[Linguriboh]]
+  * [[Link Decoder]]
+  * [[S:P Little Knight]]
+  * [[Splash Mage]]
+  * [[Topologic Blaster Dragon]]
+  * [[Topologic Zeroboros]]
+  * [[W:P Fancy Ball]]
+
+  |normal spells =
+  * [[Allure of Darkness]]
+  * [[Cross Breed]]
+  * [[Cynet Mining]]
+  * [[Drastic Draw]]
+  * [[Gold Sarcophagus]]
+  * [[A.I. Connect]]
+
+  |field spells =
+  * [[Maliss in Underground]]
+
+  |continuous spells =
+  * [[Chaos Distill]]
+  * [[Dimensional Fissure]]
+  * [[Ryu-Ge Realm - Wyrm Winds]]
+  * [[Shadow Severing Strike]]
+  * [[Soul Absorption]]
+  * [[You and A.I.]]
+
+  |quick-play spells =
+  * [[Maliss in the Mirror]]
+  * [[Cynet Backdoor]]
+  * [[Cynet Rollback]]
+  * [[Forbidden Crown]] (with "Maliss <nowiki><Q></nowiki> Hearts Crypter")
+  * [[Galaxy Journey]]
+  * [[Grand Convergence]] (with "Chaos Distill")
+
+  |normal traps =
+  * [[Maliss C GWC-06|Maliss <nowiki><C></nowiki> GWC-06]]
+  * [[Maliss C MTP-07|Maliss <nowiki><C></nowiki> MTP-07]]
+  * [[Maliss C TB-11|Maliss <nowiki><C></nowiki> TB-11]]
+  * [[Dark Sacrifice]]
+  * [[Different Dimension Ground]]
+  * [[Hero's Rule 1: Five Freedoms]]
+  * [[Limit Code]] (with "Protectcode Talker")
+  * [[SA.I.dekick]]
+  * [[Recoded Alive]]
+  * [[Trap Trick]]
+
+  |counter traps =
+  * [[Draco-Utopian Aura]]
+
+  |continuous traps =
+  * [[D.D. Post]]
+  * [[Macro Cosmos]]
+  * [[Skull Lair]]
+  }}
+
+  === Weaknesses ===
+  * "Maliss" card effects rely heavily on [[banish]]ing cards (and becoming banished), therefore anti-banish [[floodgate]]s such as "[[Artifact Lancea]]", "[[Imperial Iron Wall]]" and "[[Chaos Hunter]]" are very effective against them.
+  ** "[[Soul Drain]]" will prevent "Maliss" monsters from activating their effects when banished.
+  * Cards that prevent Special Summoning, such as "[[Fossil Dyna Pachycephalo]]", "[[Vanity's Fiend]]", and "[[Vanity's Ruler]]", will also shut down "Maliss" Decks.
+  ** Even though "Maliss" do not typically use Xyz Monsters, their Main Deck monsters are all Level 3, which allows "[[And the Band Played On]]" to suppress them.
+  * As "Maliss" Decks heavily rely on [[Cyberse]]-Type monsters, "[[There Can Be Only One]]" will restrict most of their plays.
+  * All "Maliss" monsters are [[DARK]]-Attribute, rendering them vulnerable to anti-DARK floodgates such as "[[Consecrated Light]]", "[[Koa'ki Meiru Drago]]", "[[Koa'ki Meiru Doom]]", and "[[Shadow-Imprisoning Mirror]]".
+  * With the exception of "[[Maliss P Chessy Cat|Maliss <nowiki><P></nowiki> Chessy Cat]]", all their Main Deck monsters have 1200 or less ATK, rendering them vulnerable to the effect of "[[King Tiger Wanghu]]".
+
+  == Trivia ==
+  * The original reveal of the theme was published at 5:00 PM JST, which may be a reference to the time displayed by the White Rabbit's pocket watch in [[wikipedia:Alice in Wonderland (1951 film)|Disney's ''Alice in Wonderland'' movie adaptation]].
+
+  {{Archseries navbox}}
+  [[Category:TCG and OCG archetypes]]

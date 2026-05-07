@@ -1,0 +1,41 @@
+title: Cosmostar the Black Hole Polairy
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = {{Ruby|黒|こっ}}{{Ruby|極|きょく}}{{Ruby|精|せい}}のコスモスター
+  | romaji_name     = Kokkyokusei no Kosumosutā
+  | translated_name = Cosmostar the Black Polairy
+  | ko_name         = 흑극정의 코스모스터
+  | image           = CosmostartheBlackHolePolairy-RDORP3-JP-SR.png
+  | attribute       = DARK
+  | types           = Galaxy / Fusion / Effect
+  | level           = 10
+  | atk             = 2000
+  | def             = 1900
+  | effect_types    = Continuous
+  | materials       = 2 [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s with 900 [[ATK]]
+  | requirement     = None
+  | text            = This card [[Damage|inflict]]s [[piercing]] [[battle damage]]. During your [[turn]], [[face-up]] monsters on your opponent's [[field]] lose 1000 ATK/[[DEF]].
+  | ja_materials    = モンスター（ギャラクシー族／攻撃力９００）×２
+  | ja_requirement  = なし
+  | ja_text         = このカードの攻撃は貫通する。自分ターンの間、相手フィールドの表側表示モンスターの攻撃力・守備力は１０００ダウンする。
+  | ko_condition    = 몬스터(갤럭시족 / 공격력 900) × 2
+  | ko_requirement  = 없음
+  | ko_text         = 이 카드의 공격은 관통한다. 자신 턴 동안, 상대 필드의 앞면 표시 몬스터의 공격력 / 수비력은 1000 내린다.
+  | jp_sets         = 
+  RD/ORP3-JP044; Over Rush Pack 3; Super Rare, Secret Rare
+  | kr_sets         = 
+  RD/ORP3-KR044; Over Rush Pack 3; Super Rare, Secret Rare
+  | supports        = Galaxy (Type)
+  | archseries      = Princess Cosmos
+  | stat_change     = 
+  * Your opponent's monsters lose ATK
+  * Your opponent's monsters lose DEF
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires ATK specific Fusion Materials
+  | attack          = Piercing
+  | database_id     = 22245
+  }}

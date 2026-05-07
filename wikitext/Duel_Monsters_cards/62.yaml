@@ -1,0 +1,84 @@
+title: Pumpking the King of Ghosts
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Roi des Fantômes
+  | de_name               = Pumpking, Geisterkönig
+  | it_name               = Re dei Fantasmi
+  | ko_name               = 고스트 왕 펌프킹
+  | pt_name               = Pumpking, o Rei dos Fantasmas
+  | es_name               = Pumpking el Rey de los Fantasmas
+  | ja_name               = ゴースト{{Ruby|王|おう}}－パンプキング－
+  | romaji_name           = Gōsuto Ō - Panpukingu -
+  | translated_name       = Ghost King - Pumpking -
+  | image                 = 
+  1; PumpkingtheKingofGhosts-MRD-EN-C-UE-25thAnniversaryEdition.png; PumpkingtheKingofGhosts-MADU-EN-VG-artwork.png
+  2; PumpkingtheKingofGhosts-MZMU-EN-ScR-1E.png; 
+  | current_image         = 2
+  | attribute             = DARK
+  | types                 = Zombie / Effect
+  | level                 = 6
+  | atk                   = 1800
+  | def                   = 2000
+  | password              = 29155212
+  | effect_types          = Continuous, Trigger
+  | text                  = Gains 100 [[ATK]]/[[DEF]] while "[[Castle of Dark Illusions]]" is on the [[field]]. Also, during your [[Standby Phase]], if "Castle of Dark Illusions" is on the field: This card gains 100 ATK/DEF. This [[effect]] [[activate]]s [[once per turn]], for four of your Standby Phases (counting this as the first). "Castle of Dark Illusions" must be on the field to activate and to [[resolve]] this effect. If "Castle of Dark Illusions" is not on the field, this ATK/DEF gain disappears and this effect resets.
+  | fr_text               = Gagne 100 ATK/DEF tant que "Château des Illusions" est sur le Terrain. Aussi, durant votre Standby Phase, si "Château des Illusions" est sur le Terrain : cette carte gagne 100 ATK/DEF. Cet effet s'active une fois par tour, pour quatre de vos Standby Phases (comptant celle-ci comme la première). "Château des Illusions" doit être sur le Terrain pour activer et résoudre cet effet. Si "Château des Illusions" n'est pas sur le Terrain, ce gain d'ATK/DEF disparaît et cet effet est réinitialisé.
+  | de_text               = Erhält 100 ATK/DEF, solange „Schloss d. dunklen Illusionen“ auf dem Spielfeld liegt. Zusätzlich, während deiner Standby Phase, falls „Schloss d. dunklen Illusionen“ auf dem Spielfeld liegt: Diese Karte erhält 100 ATK/DEF. Dieser Effekt wird einmal pro Spielzug aktiviert, für vier deiner Standby Phasen (dieses zählt als die erste). „Schloss d. dunklen Illusionen“ muss auf dem Spielfeld liegen, um diesen Effekt zu aktivieren und aufzulösen. Falls „Schloss d. dunklen Illusionen“ nicht auf dem Spielfeld liegt, verschwindet diese ATK/DEF-Steigerung und dieser Effekt wird zurückgesetzt.
+  | it_text               = Guadagna 100 ATK/DEF mentre "Castello delle Illusioni Oscure" è sul Terreno. Inoltre, durante la tua Standby Phase, se "Castello delle Illusioni Oscure" è sul Terreno: questa carta guadagna 100 ATK/DEF. Questo effetto si attiva una volta per turno, per quattro delle tue Standby Phase (contando questa come la prima). "Castello delle Illusioni Oscure" deve essere sul Terreno per attivare e risolvere questo effetto. Se "Castello delle Illusioni Oscure" non è sul Terreno, questo guadagno di ATK/DEF scompare e questo effetto si resetta.
+  | pt_text               = Ganha 100 de ATK/DEF enquanto "Castelo das Ilusões Sombrias" estiver no campo. Além disso, durante sua Fase de Apoio, se "Castelo das Ilusões Sombrias" estiver no campo: este card ganha 100 de ATK/DEF. Este efeito é ativado uma vez por turno, por quatro das suas Fases de Apoio (contando esta como a primeira). "Castelo das Ilusões Sombrias" deve estar no campo para ativar e resolver este efeito. Se "Castelo das Ilusões Sombrias" não estiver no campo, este ganho de ATK/DEF desaparece e este efeito reinicia.
+  | es_text               = Gana 100 ATK/DEF mientras "Castillo de las Ilusiones Oscuras" esté en el Campo. Además, durante tu Standby Phase, si "Castillo de las Ilusiones Oscuras" está en el Campo: esta carta gana 100 ATK/DEF. Este efecto se activa una vez por turno, durante cuatro de tus Standby Phases (contando ésta como la primera). "Castillo de las Ilusiones Oscuras" debe estar en el Campo para activar y resolver este efecto. Si "Castillo de las Ilusiones Oscuras" no está en el Campo, esta ganancia de ATK/DEF desaparece y este efecto se reinicia.
+  | ja_text               = 「闇晦ましの城」がフィールド上に表側表示で存在する限り、このカードの攻撃力と守備力は１００ポイントアップする。また、自分のスタンバイフェイズ毎にさらに１００ポイントずつアップする。この効果は自分の４回目のスタンバイフェイズまで続く。
+  | ko_text               = "암흑의 성" 이 필드 위에 앞면 표시로 존재하는 한, 이 카드의 공격력과 수비력은 100 포인트 올린다. 또한, 자신의 스텐바이 페이즈마다 다시 100 포인트씩 올린다. 이 효과는 자신의 4번째 스텐바이 페이즈까지 계속된다.
+  | en_sets               = 
+  MRD-EN079; Metal Raiders; Common
+  MRD-EN079; Metal Raiders (25th Anniversary Edition); Common
+  MZMU-EN061; Maze of Muertos; Secret Rare
+  | na_sets               = 
+  MRD-079; Metal Raiders; Common
+  | eu_sets               = 
+  MRD-E079; Metal Raiders; Common
+  | fr_sets               = 
+  MRD-F079; Metal Raiders; Common
+  MRD-FR079; Metal Raiders (25th Anniversary Edition); Common
+  MZMU-FR061; Maze of Muertos; Secret Rare
+  | de_sets               = 
+  MRD-G079; Metal Raiders; Common
+  MRD-DE079; Metal Raiders (25th Anniversary Edition); Common
+  MZMU-DE061; Maze of Muertos; Secret Rare
+  | it_sets               = 
+  PMT-I079; Metal Raiders; Common
+  MRD-IT079; Metal Raiders (25th Anniversary Edition); Common
+  MZMU-IT061; Maze of Muertos; Secret Rare
+  | pt_sets               = 
+  PMT-P079; Metal Raiders; Common
+  MRD-PT079; Metal Raiders (25th Anniversary Edition); Common
+  MZMU-PT061; Maze of Muertos; Secret Rare
+  | sp_sets               = 
+  PMT-S079; Metal Raiders; Common
+  MRD-SP079; Metal Raiders (25th Anniversary Edition); Common
+  MZMU-SP061; Maze of Muertos; Secret Rare
+  | jp_sets               = 
+  ; Booster 7; Common
+  ME-19; Metal Raiders (Japanese); Common
+  DL4-020; Duelist Legacy Volume.4; Common
+  | ae_sets               = 
+  MRD-079; Metal Raiders; Common
+  26AT-AE100; Tournament Pack 2026 Vol.1 (Asian-English); Secret Rare (Special Blue Version)
+  | kr_sets               = 
+  MRD-K079; Metal Raiders; Common
+  | ntr_sets              = 
+  '''[[Shadows in the Labyrinth (NTR-BP)|Shadows in the Labyrinth]]''' ([[Common]])
+  | ygo_sets              = 
+  '''[[Pack 11 (YGOO-BP)|Pack 11]]'''
+  | mentions              = Castle of Dark Illusions
+  | related_to_archseries = 
+  * Call of the Haunted (series)
+  * PaniK's monsters
+  | stat_change           = 
+  * This card gains ATK
+  * This card gains DEF
+  | misc                  = 
+  * Turn limited effects
+  * During the Standby Phase
+  | database_id           = 4105
+  }}

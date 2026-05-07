@@ -1,0 +1,74 @@
+title: Mitsurugi Magatama
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Magatama Mitsurugi
+  | de_name             = Mitsurugi Magatama
+  | it_name             = Magatama Mitsurugi
+  | pt_name             = Magatama de Mitsurugi
+  | es_name             = Magatama Mitsurugi
+  | ja_name             = {{Ruby|巳剣之勾玉|ミツルギノマガタマ}}
+  | romaji_name         = Mitsurugi no Magatama
+  | translated_name     = Serpent Sword Magatama
+  | ko_name             = 미츠루기의 곡옥
+  | ko_rr_name          = 
+  | sc_name             = 巳剑之勾玉
+  | image               = MitsurugiMagatama-L26D-EN-C-1E.png
+  | card_type           = Spell
+  | property            = Quick-Play
+  | password            = 76725398
+  | effect_types        = Effect, Condition
+  | text                = During the [[Main Phase]]: [[Activate]] 1 of these [[effects]];<br />● [[Tribute]] 1 [[Reptile]] [[monster]], then [[target]] 1 [[face-up]] card your opponent controls; [[destroy]] it.<br />● [[Ritual Summon]] 1 "[[Mitsurugi]]" [[Ritual Monster]] from your [[hand]], by Tributing monsters you [[control]] whose total [[Level]]s equal or exceed its Level.<br />You can only [[activate]] 1 "Mitsurugi Magatama" [[once per turn|per turn]].
+  | fr_text             = Durant la Main Phase : activez 1 de ces effets ;<br />● Sacrifiez 1 monstre Reptile, puis ciblez 1 carte face recto contrôlée par votre adversaire ; détruisez-la.<br />● Invoquez Rituellement 1 Monstre Rituel "Mitsurugi" depuis votre main, en Sacrifiant des monstres que vous contrôlez dont la somme des Niveaux est supérieure ou égale à son Niveau.<br />Vous ne pouvez activer qu'1 "Magatama Mitsurugi" par tour.
+  | de_text             = Während der Main Phase: Aktiviere 1 dieser Effekte;<br />● Biete 1 Reptil-Monster als Tribut an und wähle dann 1 offene Karte, die dein Gegner kontrolliert; zerstöre sie.<br />● Beschwöre 1 „Mitsurugi“-Ritualmonster als Ritualbeschwörung von deiner Hand, indem du Monster, die du kontrollierst und deren gemeinsame Stufe größer oder gleich seiner Stufe ist, als Tribut anbietest.<br />Du kannst nur 1 „Mitsurugi Magatama“ pro Spielzug aktivieren.
+  | it_text             = Durante la Main Phase: attiva 1 di questi effetti;<br />● Offri come Tributo 1 mostro Rettile, poi scegli come bersaglio 1 carta scoperta controllata dal tuo avversario; distruggila.<br />● Evoca tramite Rituale 1 Mostro Rituale "Mitsurugi" dalla tua mano, offrendo come Tributo mostri che controlli con Livello totale pari o superiore al suo Livello.<br />Puoi attivare solo 1 "Magatama Mitsurugi" per turno.
+  | pt_text             = Durante a Fase Principal: ative 1 desses efeitos;<br />● Ofereça como Tributo 1 monstro Réptil e, depois, escolha 1 card com a face para cima que seu oponente controla; destrua-o.<br />● Invoque por Invocação-Ritual 1 Monstro de Ritual "Mitsurugi" da sua mão, ao oferecer como Tributo monstros que você controla cuja soma dos Níveis seja igual ou exceda seu Nível.<br />Você só pode ativar 1 "Magatama de Mitsurugi" por turno.
+  | es_text             = Durante la Main Phase: activa 1 de estos efectos;<br />● Sacrifica 1 monstruo Reptil, y después selecciona 1 carta boca arriba que controle tu adversario; destrúyela.<br />● Invoca por Ritual 1 Monstruo de Ritual "Mitsurugi" desde tu mano, Sacrificando monstruos que controles cuyos Niveles totales sean iguales o superen su Nivel.<br />Sólo puedes activar 1 "Magatama Mitsurugi" por turno.
+  | ja_text             = このカード名のカードは１ターンに１枚しか発動できない。①：自分・相手のメインフェイズに、以下の効果から１つを選択して発動できる。<br />●自分フィールドの爬虫類族モンスター１体をリリースし、相手フィールドの表側表示カード１枚を対象として発動できる。そのカードを破壊する。<br />●レベルの合計が儀式召喚するモンスターのレベル以上になるように、自分フィールドのモンスターをリリースし、手札から「巳剣」儀式モンスター１体を儀式召喚する。
+  | ko_text             = 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신 / 상대의 메인 페이즈에, 이하의 효과에서 1개를 선택하고 발동할 수 있다.<br />●자신 필드의 파충류족 몬스터 1장을 릴리스하고, 상대 필드의 앞면 표시 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다.<br />●레벨의 합계가 의식 소환할 몬스터의 레벨 이상이 되도록, 자신 필드의 몬스터를 릴리스하고, 패에서 "미츠루기" 의식 몬스터 1장을 의식 소환한다.
+  | sc_text             = 此卡名的卡1回合仅可发动1张。①：在自己・对手的主要阶段，可从以下效果中选择1个发动。<br />●解放自己场上的1只爬虫类族怪兽，以对手场上的1张表侧表示卡为对象可以发动。将该卡破坏。<br />●为使合计等级达到仪式召唤的怪兽的等级以上，解放自己场上的怪兽，从手牌将1只“巳剑”仪式怪兽仪式召唤。
+  | en_sets             = 
+  ALIN-EN094; Alliance Insight; Super Rare
+  L26D-ENM17; Legendary Modern Decks 2026; Common
+  | fr_sets             = 
+  ALIN-FR094; Alliance Insight; Super Rare
+  L26D-FRM17; Legendary Modern Decks 2026; Common
+  | de_sets             = 
+  ALIN-DE094; Alliance Insight; Super Rare
+  L26D-DEM17; Legendary Modern Decks 2026; Common
+  | it_sets             = 
+  ALIN-IT094; Alliance Insight; Super Rare
+  L26D-ITM17; Legendary Modern Decks 2026; Common
+  | pt_sets             = 
+  ALIN-PT094; Alliance Insight; Super Rare
+  L26D-PTM17; Legendary Modern Decks 2026; Common
+  | sp_sets             = 
+  ALIN-SP094; Alliance Insight; Super Rare
+  L26D-SPM17; Legendary Modern Decks 2026; Common
+  | jp_sets             = 
+  WPP6-JP039; World Premiere Pack 2025; Common
+  | ae_sets             = 
+  CR09-AE086; Creation Pack 09; Common
+  | kr_sets             = 
+  WPP6-KR039; World Premiere Pack 2025; Common
+  | sc_sets             = 
+  WPS2-SC025; World Premiere Pack 2025; Common
+  | supports            = 
+  * Reptile
+  * Ritual Monster
+  | archseries          = Mitsurugi
+  | supports_archetypes = Mitsurugi
+  | action              = 
+  * Tributes for cost
+  | m/s/t               = 
+  * Destroys your opponent's face-up Monster Cards
+  * Destroys your opponent's face-up Spell Cards
+  * Destroys your opponent's face-up Trap Cards
+  | summoning           = 
+  * Performs a Ritual Summon
+  * Special Summons from your hand
+  | misc                = 
+  * Variable effects
+  * Requires control of specific Type
+  * Only once per turn
+  | database_id         = 21351
+  }}

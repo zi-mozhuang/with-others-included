@@ -1,0 +1,25 @@
+title: Monumenthes Records
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = {{Ruby|冥|めい}}{{Ruby|跡|せき}}の{{Ruby|記|き}}{{Ruby|録|ろく}}
+  | romaji_name    = Meiseki no Kiroku
+  | image          = MonumenthesRecords-RDKP24-JP-C.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] while you have an [[EARTH]] [[Attribute]] [[Beast-Warrior]] [[Type]] monster in your [[Graveyard]].
+  | text           = [[Negate]] the attack. Then, you can [[Special Summon]] 1 EARTH Attribute Beast-Warrior Type monster from your Graveyard to your [[field]] in [[face-up]] [[Defense Position]].
+  | ja_requirement = 自分の墓地にモンスター（地属性／獣戦士族）がいる場合、相手モンスターの攻撃宣言時に発動できる。
+  | ja_text        = その攻撃を無効にする。その後、自分の墓地のモンスター（地属性／獣戦士族）１体を選んで自分フィールドに表側守備表示で特殊召喚できる。
+  | jp_sets        = 
+  RD/KP24-JP062; Overforce of the Abyss; Common
+  | supports       = 
+  * EARTH
+  * Beast-Warrior
+  | archseries     = Monumenthes
+  | action         = Activates upon attack declaration
+  | summoning      = Special Summons from your Graveyard
+  | attack         = Negates attacks
+  | database_id    = 22892
+  }}

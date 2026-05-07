@@ -1,0 +1,26 @@
+title: Spirit of Isyria
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = イシリアの{{Ruby|霊|れい}}{{Ruby|魂|こん}}
+  | romaji_name    = Ishiria no Reikon
+  | image          = SpiritofIsyria-RDKP24-JP-R.png
+  | card_type      = Trap
+  | property       = Normal
+  | requirement    = When your opponent [[Normal Summon|Normal]] or [[Special Summon]]s a [[Monster Card|monster]] during their [[turn]].
+  | text           = Choose 1 [[face-up]] [[Level]] 8 or lower [[Effect Monster]] on your opponent's [[field]]. This turn, your opponent cannot [[activate]] that monster's [[effect]]s. Then, you can [[Draw a card|draw]] 1 card.
+  | ja_requirement = 相手ターンに相手がモンスターを召喚・特殊召喚した時に発動できる。
+  | ja_text        = 相手フィールドの表側表示の効果モンスター（レベル８以下）１体を選ぶ。このターン、相手は選んだモンスターの効果を発動できない。さらに、自分は１枚ドローできる。
+  | jp_sets        = 
+  RD/KP24-JP061; Overforce of the Abyss; Rare
+  RD/B261-JP006; Battle Bonus Pack 2026 Vol.1; Super Parallel Rare
+  | anti-supports  = Effect Monster
+  | archseries     = Monumenthes
+  | action         = 
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * You draw cards
+  | m/s/t          = Prevents activation of your opponent's Effect Monsters
+  | database_id    = 22891
+  }}

@@ -1,0 +1,22 @@
+title: Tail Swipe (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Battement de Queue
+  | de_name      = Schwanzhieb
+  | it_name      = Spazzata di Coda
+  | ko_name      = 테일 스윙
+  | es_name      = Barrido de Cola
+  | image        = TailSwipe-DULI-EN-VG.png
+  | ja_image     = TailSwipe-DULI-JP-VG.png
+  | card_type    = Spell
+  | property     = Normal
+  | rarity       = N
+  | effect_types = Effect
+  | text         = [[Target]] 1 [[Level]] 5 or higher [[Dinosaur]]-[[Type]] [[Monster Card|monster]] you [[control]]; if that Dinosaur-Type monster is still [[face-up]] on the [[field]], choose up to 2 monsters your opponent controls that have a lower Level than it, or are [[face-down]], and [[return]] them to the [[hand]].
+  | fr_text      = Ciblez 1 monstre de Type Dinosaure de min. Niveau 5 que vous contrôlez ; si le monstre de Type Dinosaure est toujours face recto sur le Terrain, choisissez max. 2 monstres contrôlés par votre adversaire qui ont un Niveau inférieur, ou qui sont face verso, et renvoyez-les à la main.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Raiders Requiem}}
+  {{Duel Links release table/footer}}
+  }}

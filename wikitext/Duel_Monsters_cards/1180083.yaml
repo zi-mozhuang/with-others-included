@@ -1,0 +1,64 @@
+title: Revolution Cyber Dragon
+wikitext: |-
+  {{For|the set with a similar name|''Cyber Dragon Revolution Structure Deck''}}
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|機|き}}{{Ruby|光|こう}}{{Ruby|竜|りゅう}}－サイバー・ドラゴン
+  | romaji_name           = Kikōryū - Saibā Doragon
+  | translated_name       = Mechlight Dragon - Cyber Dragon
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 机光龙－电子龙
+  | image                 = 
+  1; RevolutionCyberDragon-LOCR-JP-UR.png
+  2; RevolutionCyberDragon-LOCR-JP-UR-EA.png
+  | current_image         = 1
+  | attribute             = LIGHT
+  | types                 = Machine / Effect
+  | level                 = 5
+  | atk                   = 2100
+  | def                   = 1600
+  | password              = 66664203
+  | effect_types          = Unclassified, Condition, Trigger, Ignition
+  | text                  = If you [[control]] no [[monsters]], you can [[Special Summon]] this card (from your [[hand]]). You can only use each of the following [[effect]]s of "Revolution Cyber Dragon" [[once per turn]]. If this card is Special Summoned: You can [[target]] 1 [[face-up]] monster your opponent [[control]]s; [[negate]] its [[effect]]s until the end of this [[turn]]. During your [[Main Phase]]: You can [[Fusion Summon]] 1 [[Machine]] [[Fusion Monster]] from your [[Extra Deck]], using this card you control and monsters from your hand or [[field]].
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドにモンスターが存在しない場合、このカードは手札から特殊召喚できる。②：このカードが特殊召喚した場合、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。③：自分メインフェイズに発動できる。フィールドのこのカードを含む自分の手札・フィールドのモンスターを融合素材とし、機械族の融合モンスター１体を融合召喚する。
+  | ko_text               = 
+  | sc_text               = 此卡名的②③效果1回合仅可各使用1次。①：自己场上不存在怪兽的情况下，此卡可从手牌特殊召唤。②：此卡特殊召唤的情况下，以对手场上的1只表侧表示怪兽为对象可以发动。将该怪兽的效果直至回合结束时为止无效。③：在自己的主要阶段可以发动。将包含场上的此卡在内的、自己手牌・场上的怪兽作为融合素材，将1只机械族的融合怪兽融合召唤。
+  | jp_sets               = 
+  LOCR-JP005; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | sc_sets               = 
+  LOCR-SC005; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | supports              = 
+  * Machine
+  * Fusion Monster
+  | archseries            = 
+  * Cyber
+  * Cyber Dragon (archetype)
+  | action                = 
+  * Activates upon Special Summon
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Uses itself as a Fusion Material
+  | m/s/t                 = Negates the effects of your opponent's Effect Monsters
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc                  = 
+  * Requires control of no monsters
+  * Only once per turn
+  | database_id           = 22720
+  }}

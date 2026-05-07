@@ -1,0 +1,45 @@
+title: Botonaginata the Music Princess
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = {{Ruby|揮|き}}{{Ruby|楽|がっ}}{{Ruby|姫|き}}ナギナタクト
+  | romaji_name     = Kigakki Naginatakuto
+  | translated_name = Batonaginata the Conducting Music Princess
+  | ko_name         = 휘악희 나기나택트
+  | image           = BotonaginatatheMusicPrincess-RDKP22-JP-R.png
+  | attribute       = WIND
+  | types           = Warrior / Effect
+  | level           = 1
+  | atk             = 0
+  | def             = 500
+  | condition       = This card's name becomes "[[Boton the Music Princess]]" while in the [[hand]] or [[Graveyard]].
+  | requirement     = [[Send]] 1 card from your hand to the Graveyard.
+  | text            = This [[turn]], this card's name becomes "Boton the Music Princess". Then, you can [[Add a card|add]] 1 "[[Fusion (Rush Duel)|Fusion]]" from your Graveyard to your hand. This turn, you can only [[attack]] with [[WIND]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]]s.
+  | ja_condition    = 手札または墓地にいるこのカードのカード名は「揮楽姫コンタクト」になる。
+  | ja_requirement  = 手札１枚を墓地へ送って発動できる。
+  | ja_text         = このカードのカード名はこのターン、「揮楽姫コンタクト」になる。その後、自分の墓地の「フュージョン」１枚を選んで手札に加える事ができる。このターン、自分はモンスター（風属性／戦士族）でしか攻撃できない。
+  | ko_condition    = 패 또는 묘지에 있는 이 카드의 카드명은 "휘악희 콘택트"가 된다.
+  | ko_requirement  = 패 1장을 묘지로 보내고 발동할 수 있다.
+  | ko_text         = 이 카드의 카드명은 이 턴에, "휘악희 콘택트"가 된다. 그 후, 자신 묘지의 "퓨전" 1장을 고르고 패에 넣을 수 있다. 이 턴에, 자신은 몬스터(바람 속성 / 전사족)로밖에 공격할 수 없다.
+  | jp_sets         = 
+  RD/KP22-JP009; OuTerverSe of Terror; Rare, Secret Rare
+  | kr_sets         = 
+  RD/KP22-KR009; OuTerverSe of Terror; Rare, Secret Rare
+  | mentions        = 
+  * Boton the Music Princess
+  * Fusion (Rush Duel)
+  | supports        = 
+  * WIND
+  * Warrior
+  | archseries      = Music Princess
+  | action          = 
+  * Sends from hand to Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change     = 
+  * Changes own name while in the hand
+  * Changes own name while in the GY
+  * Changes own name while on the field
+  | attack          = Prevents your monsters from attacking
+  | database_id     = 21985
+  }}

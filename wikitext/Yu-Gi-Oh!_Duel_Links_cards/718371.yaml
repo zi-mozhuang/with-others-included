@@ -1,0 +1,26 @@
+title: Galaxy-Eyes Photon Dragon (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Dragon Photon aux Yeux Galactiques
+  | de_name      = Galaxieaugen-Photonendrache
+  | it_name      = Drago Fotonico Occhi Galattici
+  | es_name      = Dragón Fotónico de Ojos Galácticos
+  | ko_name      = 갤럭시아이즈 포톤 드래곤
+  | image        = GalaxyEyesPhotonDragon-DULI-EN-VG.png
+  | attribute    = LIGHT
+  | types        = Dragon / Effect
+  | atk          = 3000
+  | def          = 2500
+  | level        = 8
+  | rarity       = UR
+  | effect_types = Unclassified, Quick
+  | text         = You can [[Special Summon]] this card (from your [[hand]]) by [[Tributing]] 2 [[Monster Card|monsters]] with 2000 or more [[ATK]]. During either player's [[Battle Step]], when this card [[battle]]s an opponent's monster: You can [[target]] the monster this card is battling; [[banish]] both the opponent's monster and this card. At the end of the [[Battle Phase]], return any monsters banished by this effect to the [[field]], and if the other monster was an [[Xyz Monster]], this card gains 500 ATK for each Xyz Material it had when it was banished.
+  | fr_text      = Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Sacrifiant 2 monstres avec min. 2000 ATK. Durant la Battle Step de chaque joueur, lorsque cette carte combat un monstre de votre adversaire : vous pouvez cibler le monstre combattant cette carte ; bannissez le monstre de votre adversaire ainsi que cette carte. À la fin de la Battle Phase, renvoyez tous les monstres bannis par cet effet sur le Terrain, et si l'autre monstre était un Monstre Xyz, cette carte gagne 500 ATK pour chaque Matériel qu'il avait lorsqu'il a été banni.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Photon of Galaxy}}
+  {{Duel Links release table|type=box|Selection BOX Mini Vol.04}}
+  {{Duel Links release table|type=box|Pick Up Box: Photon Universe}}
+  {{Duel Links release table/footer}}
+  }}

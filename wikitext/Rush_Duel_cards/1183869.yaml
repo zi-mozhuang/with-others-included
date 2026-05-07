@@ -1,0 +1,34 @@
+title: Freshberry Collaboration
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name               = ベリーフレッシュ・コラボレーション
+  | romaji_name           = Berīfuresshu Koraborēshon
+  | translated_name       = Berryfresh Collaboration
+  | image                 = FreshberryCollaboration-RDORP4-JP-SR.png
+  | attribute             = WATER
+  | types                 = Aqua / Effect
+  | level                 = 5
+  | atk                   = 100
+  | def                   = 500
+  | requirement           = During the [[turn]] you [[Normal Summon]]ed this card, [[send]] 1 other card from your [[hand]] or [[field]] to the [[Graveyard]].
+  | text                  = [[Battle position change|Change]] 1 [[Attack Position]] [[Monster Card|monster]] on your field to [[face-up]] [[Defense Position]]. Then, if you sent a [[WATER]] [[Attribute]] [[Aqua]] [[Type]] monster to the Graveyard to meet the [[Activation condition|requirement]], you can [[destroy]] 1 face-up [[Level]] 10 or lower non-[[Maximum Monster]] on your opponent's field. This turn, you can only [[attack]] with Aqua Type monsters.
+  | ja_requirement        = このカードを召喚したターンに、このカード以外の自分の手札・フィールドのカード１枚を墓地へ送って発動できる。
+  | ja_text               = 自分フィールドの攻撃表示モンスター１体を選んで表側守備表示にする。この効果の条件でモンスター（水属性／水族）を墓地へ送った場合、さらにマキシマムモンスター以外の相手フィールドの表側表示モンスター（レベル１０以下）１体を選んで破壊できる。このターン、自分はモンスター（水族以外）で攻撃できない。
+  | jp_sets               = 
+  RD/ORP4-JP071; Over Rush Pack 4; Super Rare, Secret Rare
+  | supports              = 
+  * WATER
+  * Aqua
+  | archseries            = Freshberry
+  | related_to_archseries = Bubble Era
+  | action                = 
+  * Activates during the turn in which it was Normal Summoned
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Changes battle positions
+  | m/s/t                 = Destroys your opponent's face-up Monster Cards
+  | attack                = Prevents your monsters from attacking
+  | database_id           = 23093
+  }}

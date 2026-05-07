@@ -1,0 +1,63 @@
+title: Cyber End Dragon the Decisive Strike Dragon
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|終|しゅう}}{{Ruby|撃|げき}}{{Ruby|竜|りゅう}}－サイバー・エンド・ドラゴン
+  | romaji_name           = Shūgekiryū - Saibā Endo Doragon
+  | translated_name       = Final Strike Dragon - Cyber End Dragon
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 终击龙－电子终极龙
+  | image                 = 
+  1; CyberEndDragontheDecisiveStrikeDragon-LOCR-JP-UR.png
+  2; CyberEndDragontheDecisiveStrikeDragon-LOCR-JP-UR-EA.png
+  | current_image         = 1
+  | attribute             = LIGHT
+  | types                 = Machine / Fusion / Effect
+  | level                 = 10
+  | atk                   = 4000
+  | def                   = 2800
+  | password              = 30275298
+  | materials             = 3 Machine-Type monsters with 2100 or more ATK
+  | effect_types          = Summoning condition, Trigger, Condition, Continuous, Continuous
+  | text                  = 3 [[Machine]] [[monster]]s with 2100 or more [[ATK]]<br />Must be [[Fusion Summon]]ed. If this card is Fusion Summoned using only [[LIGHT]] monsters: You can [[pay]] 4000 [[LP]]; [[add]] 1 "[[Limiter Removal]]" from your [[Deck]] to your [[hand]]. You can only use this [[effect]] of "Cyber End Dragon the Decisive Strike Dragon" [[once per turn]]. If this card [[attack]]s a [[Defense Position]] monster, inflict [[piercing]] [[battle damage]] to your opponent. This card whose current ATK is higher than its [[original ATK]] can make up to 3 attacks during each [[Battle Phase]].
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = 攻撃力２１００以上の機械族モンスター×３<br />このカードは融合召喚でしか特殊召喚できない。このカード名の①の効果は１ターンに１度しか使用できない。①：光属性モンスターのみを素材としてこのカードが融合召喚した場合、４０００ＬＰを払って発動できる。デッキから「リミッター解除」１枚を手札に加える。②：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。③：元々の攻撃力より高い攻撃力を持つこのカードは１度のバトルフェイズ中に３回攻撃できる。
+  | ko_text               = 
+  | sc_text               = 攻击力2100以上的机械族怪兽×3<br />此卡仅可以融合召唤方式特殊召唤。此卡名的①效果1回合仅可使用1次。①：仅以光属性怪兽作为素材的此卡融合召唤的情况下，支付4000LP可以发动。从牌组将1张“限制解除”加入手牌。②：此卡攻击守备表示怪兽的情况下，依攻击力超出该怪兽守备力的数值来给予对手战斗伤害。③：攻击力高于原本攻击力的此卡在1次战斗阶段中可攻击3次。
+  | jp_sets               = 
+  LOCR-JP004; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | sc_sets               = 
+  LOCR-SC004; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | mentions              = Limiter Removal
+  | supports              =
+  * Machine
+  * LIGHT
+  | archseries            = Cyber
+  | related_to_archseries = Cyber Dragon (archetype)
+  | action                = 
+  * Activates upon Fusion Summon
+  * Applies effects if Special Summoned using specific Fusion Material
+  * Adds from Deck to hand
+  | summoning             = 
+  * 3 Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires ATK specific Fusion Materials
+  * Nomi
+  | attack                = 
+  * Piercing
+  * Multiple attacker
+  | life_points           = Pays Life Points for cost
+  | misc                  = Only once per turn
+  | database_id           = 22719
+  }}

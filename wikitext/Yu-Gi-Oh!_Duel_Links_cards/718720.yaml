@@ -1,0 +1,23 @@
+title: Jurrac Impact (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Impact Préhistorique
+  | de_name      = Jurassier-Einschlag
+  | it_name      = Impatto Jurrac
+  | es_name      = Impacto Jurrac
+  | ko_name      = 쥬락 임팩트
+  | image        = JurracImpact-DULI-EN-VG.png
+  | ja_image     = JurracImpact-DULI-JP-VG.png
+  | card_type    = Trap
+  | property     = Normal
+  | rarity       = N
+  | status       = Limited 1
+  | effect_types = Activation requirement, Effect
+  | text         = If you [[control]] a [[Dinosaur]]-[[Type]] [[Monster Card|monster]] with 2500 or more [[ATK]]: [[Destroy]] all cards on the [[field]].
+  | fr_text      = Si vous contrôlez un monstre de Type Dinosaure avec min. 2500 ATK : détruisez toutes les cartes sur le Terrain.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Scarred Resonance}}
+  {{Duel Links release table/footer}}
+  }}

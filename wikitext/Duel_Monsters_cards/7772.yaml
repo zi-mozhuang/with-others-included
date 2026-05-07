@@ -1,0 +1,20 @@
+title: Zarigun
+wikitext: |-
+  {{CardTable2
+  | ja_name         = ザリガン
+  | romaji_name     = Zarigan
+  | translated_name = Crayfigun
+  | image           = Zarigun-B02-JP-C.jpg
+  | attribute       = WATER
+  | types           = Aqua / Normal
+  | atk             = 600
+  | def             = 700
+  | level           = 2
+  | text            = ''A lethal crawfish with extremely dangerous claws.''
+  | ja_text         = ザリガニが進化したモンスター。大きなハサミで相手の首を狙う。
+  | translated_text = ''A monster that evolved from a crayfish. It aims at its opponent's neck with its large pincers.''
+  | password        = 10598400
+  | jp_sets         = 
+  ; Booster 2; Common
+  | database_id     = 4458
+  }}

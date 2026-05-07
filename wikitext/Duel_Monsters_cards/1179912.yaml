@@ -1,0 +1,55 @@
+title: Funny Dark Rabbit
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name             = 
+  | de_name             = 
+  | it_name             = 
+  | pt_name             = 
+  | es_name             = 
+  | ja_name             = ファニー・ダーク・ラビット
+  | romaji_name         = Fanī Dāku Rabitto
+  | ko_name             = 
+  | ko_rr_name          = 
+  | sc_name             = 滑稽暗黑兔
+  | image               = FunnyDarkRabbit-RV01-JP-OP.png
+  | attribute           = DARK
+  | types               = Beast / Effect
+  | level               = 4
+  | atk                 = 1100
+  | def                 = 1500
+  | password            = 
+  | effect_types        = Unclassified, Continuous, Ignition
+  | text                = After this card is [[Normal Summon|Normal]] or [[Special Summon]]ed, you can Normal Summon 1 [[monster]] that mentions "[[Toon World]]" during your [[Main Phase]] this [[turn]], in addition to your Normal Summon/[[Set]] (you can only gain this [[effect]] [[once per turn]]). This card is treated as a [[Toon monster]] while "Toon World" is on the [[field]]. [[Once per turn]]: You can [[Add a card|add]] to your [[hand]] or place [[face-up]] on your field, 1 "[[Toon]]" [[Field Spell Card|Field]] or [[Continuous Spell]] from your [[Main Deck|Deck]].
+  | fr_text             = 
+  | de_text             = 
+  | it_text             = 
+  | pt_text             = 
+  | es_text             = 
+  | ja_text             = 
+  | ko_text             = 
+  | sc_text             = {{Icon|official proxy transcript}}<br />①：此卡召唤・特殊召唤时适用。此回合，自己在通常召唤之外，可在自己的主要阶段追加1次召唤1只记载有“卡通世界”卡名的怪兽。②：只要场上存在“卡通世界”，此卡就视为卡通怪兽。③：1回合1次，在自己的主要阶段可以发动。从牌组挑选1张“卡通”场地・永续魔法卡，加入手牌或以表侧表示放在自己场上。
+  | jp_sets             = 
+  RV01-JP001; Revolution Booster: Toon / Witchcrafter / Unchained; Ultra Rare
+  | sc_sets             = 
+  RV01-SC001; Revolution Booster: Toon / Witchcrafter / Unchained; 
+  | mentions            = Toon World
+  | supports            = 
+  * Continuous Spell Card
+  * Field Spell Card
+  * Toon monster
+  | supports_archetypes = Toon
+  | action              = 
+  * Adds from Deck to hand
+  * Places cards from Deck in Spell & Trap Zone
+  * Places cards from your Deck in your Field Zone
+  | stat_change         = Grants abilities to monsters
+  | summoning           = Allows multiple Normal Summons
+  | misc                = 
+  * Mentions
+  * Gain this effect once per turn
+  * Requires control of specific card
+  * Limited activations
+  | database_id         = 
+  }}

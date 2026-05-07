@@ -1,0 +1,18 @@
+title: 'Paradox Tactics: Climax'
+wikitext: |-
+  {{Unofficial lore|English}}
+  {{Duel Links Skill
+  | ja_name      = 
+  | text         = Start the [[Duel]] with "[[Labyrinth Wall (Duel Links)|Labyrinth Wall]]" on your [[field]].
+  | ja_text      = 
+  | used_by_npcs = 
+  {{Duel Links Skill event table|Paradox Brothers (Duel Links)|Duelist Chronicles: Set Sail for the Kingdom|version=2}}
+  {{Duel Links Skill event table|Paradox Brothers (Duel Links)|Duelist Chronicles: Set Sail for the Kingdom}}
+  {{Duel Links Skill event table|Paradox Brothers (Duel Links)|Paradox Brothers: Guardians of the Gate|version=2}}
+  {{Duel Links Skill event table|Paradox Brothers (Duel Links)|Paradox Brothers: Guardians of the Gate}}
+  | supports     = Labyrinth Wall (Duel Links)
+  | related_to_archseries = Labyrinth Wall (archetype)
+  | action       = 
+  * Activates at the beginning of the Duel
+  * Plays cards from outside of your Deck
+  }}

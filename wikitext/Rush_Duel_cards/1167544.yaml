@@ -1,0 +1,33 @@
+title: Worm Void Hole
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name               = ワーム・ヴォイド・ホール
+  | romaji_name           = Wāmu Voido Hōru
+  | image                 = WormVoidHole-RDKP24-JP-C.png
+  | card_type             = Spell
+  | property              = Normal
+  | requirement           = None
+  | text                  = [[Fusion Summon]] a [[Level]] 9 or lower [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]] that mentions "[[Voidvelg Requiem]]" or "[[Contact Dark Matter Voyager]]" as [[material]] by [[send]]ing monsters from your [[hand]] and/or [[field]] to the [[Graveyard]] as material.
+  | ja_requirement        = なし
+  | ja_text               = 自分の手札・フィールドのモンスターを素材として墓地へ送り、「ヴォイドヴェルグ・レクイエム」または「Ｃ・ダークマター・ヴォイジャー」のカード名が素材として記されたモンスター（レベル９以下／ギャラクシー族）をフュージョン召喚する。
+  | jp_sets               = 
+  RD/KP24-JP043; Overforce of the Abyss; Common
+  | mentions              = 
+  * Voidvelg Requiem
+  * Contact Dark Matter Voyager
+  | supports              = Galaxy (Type)
+  | related_to_archseries = 
+  * Dark Matter (series)
+  * Voidvelg
+  | action                = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  | summoning             = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | database_id           = 22873
+  }}

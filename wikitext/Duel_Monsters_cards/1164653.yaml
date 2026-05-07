@@ -1,0 +1,68 @@
+title: Neo Galaxy-Eyes Photon Dragon - Photon Howling
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|超銀河眼の光子龍|ネオ・ギャラクシーアイズ・フォトン・ドラゴン}}－フォトン・ハウリング
+  | romaji_name           = Neo Gyarakushīaizu Foton Doragon - Foton Hauringu
+  | translated_name       = 
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 超银河眼光子龙－光子咆哮
+  | image                 = 
+  1; NeoGalaxyEyesPhotonDragonPhotonHowling-LOCR-JP-UR.png
+  2; NeoGalaxyEyesPhotonDragonPhotonHowling-LOCR-JP-UR-EA.png
+  | current_image         = 1
+  | attribute             = LIGHT
+  | types                 = Dragon / Xyz / Effect
+  | rank                  = 8
+  | atk                   = 4500
+  | def                   = 3000
+  | password              = 28331069
+  | materials             = 3 Level 8 monsters
+  | effect_types          = Summoning condition, Trigger, Quick
+  | text                  = 3 [[Level]] 8 [[monster]]s<br />[[Once per turn]], you can also [[Xyz Summon]] "Neo Galaxy-Eyes Photon Dragon - Photon Howling" by using 1 [[Rank]] 8 [[Xyz Monster]] you [[control]] ([[transfer]] its [[Xyz Material|materials]]). If this card is Xyz Summoned: You can take 1 "[[Photon]]" monster from your [[Deck]], and either [[Special Summon]] it in [[Defense Position]] or [[attach]] it to this card as material. ([[Quick Effect]]): You can [[detach]] 3 materials from this card; [[Tribute]] 1 other Xyz Monster, and if you do, [[negate]] the [[effect]]s of all other [[face-up]] cards currently on the [[field]] until the end of this [[turn]].
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = レベル８モンスター×３<br />「超銀河眼の光子龍－フォトン・ハウリング」は１ターンに１度、自分フィールドのランク８のＸモンスターの上に重ねてＸ召喚する事もできる。①：このカードがＸ召喚した場合に発動できる。デッキから「フォトン」モンスター１体を選び、守備表示で特殊召喚するか、このカードのＸ素材にする。②：自分・相手ターンに、このカードのＸ素材を３つ取り除いて発動できる。自分フィールドの他のＸモンスター１体をリリースし、このカード以外のフィールドの全ての表側表示カードの効果はターン終了時まで無効化される。
+  | ko_text               = 
+  | sc_text               = 等级8怪兽×3<br />“超银河眼光子龙－光子咆哮”1回合1次，也可重叠在自己场上的阶级8的超量怪兽上面来超量召唤。①：此卡超量召唤的情况下可以发动。从牌组挑选1只“光子”怪兽，以守备表示特殊召唤，或作为此卡的超量素材。②：在自己・对手回合中，去除此卡的3个超量素材可以发动。解放自己场上1只其他的超量怪兽，此卡以外的、场上所有表侧表示的卡的效果直至回合结束时为止无效化。
+  | jp_sets               = 
+  LOCR-JP010; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | sc_sets               = 
+  LOCR-SC010; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | mentions              = Neo Galaxy-Eyes Photon Dragon - Photon Howling
+  | supports              = Xyz Monster
+  | archseries            = 
+  * Galaxy
+  * Galaxy-Eyes
+  * Photon
+  * Signature move
+  | supports_archetypes   = Photon
+  | action                = 
+  * Transfers
+  * Activates upon Xyz Summon
+  * Attaches from your Deck as Xyz Material
+  * Detaches multiple Xyz Materials as cost
+  * Tributes as an effect
+  | m/s/t                 =
+  * Negates the effects of Effect Monsters
+  * Negates the effects of Spell Cards
+  * Negates the effects of Trap Cards
+  | summoning             =
+  * 3 Xyz Materials
+  * Special Summons itself from your Extra Deck
+  * Special Summon by its own condition once per turn
+  * Xyz Evolution
+  * Special Summons from your Deck
+  | misc                  = Requires control of specific Monster card type
+  | database_id           = 22725
+  }}

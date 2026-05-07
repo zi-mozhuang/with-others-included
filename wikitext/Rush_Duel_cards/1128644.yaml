@@ -1,0 +1,24 @@
+title: Zera the Mant (Rush Duel)
+wikitext: |-
+  {{CardTable2
+  | ko_name               = 제라
+  | image                 = ZeratheMant-RDAP01-JP-UR.png
+  | attribute             = DARK
+  | types                 = Fiend / Ritual
+  | level                 = 8
+  | atk                   = 2800
+  | def                   = 2300
+  | ritualcard            = 
+  * Zera Advent
+  * Zera Ritual (Rush Duel)
+  | jp_sets               = 
+  RD/AP01-JP001; Advance Pack: Devil's Ceremony; Ultra Rare, Over Rush Rare
+  | kr_sets               = 
+  RD/AP01-KR001; Advance Pack: Devil's Ceremony; Ultra Rare, Over Rush Rare
+  | archseries            = Zera (Rush Duel)
+  | related_to_archseries = Signature move
+  | misc                  = 
+  * Non-Effect Monster
+  * Cover card
+  | database_id           = 21848
+  }}

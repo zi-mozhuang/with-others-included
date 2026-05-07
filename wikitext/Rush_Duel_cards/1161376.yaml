@@ -1,0 +1,59 @@
+title: Pupating Larvae Moth
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = {{Ruby|蛹|よう}}{{Ruby|化|か}}するラーバモス
+  | romaji_name     = Yōkasuru Rāba Mosu
+  | ko_name         = 용화하는 라바모스
+  | image           = PupatingLarvaeMoth-RDAP02-JP-SR.png
+  | attribute       = EARTH
+  | types           = Insect / Fusion / Effect
+  | level           = 6
+  | atk             = 500
+  | def             = 2000
+  | fusion_material = Petit Moth (Rush Duel)
+  | materials       = "[[Petit Moth (Rush Duel)|Petit Moth]]" + 1 [[Level]] 5 or lower [[Insect]] [[Type]] [[Monster Card|monster]]
+  | condition       = This card can be [[Contact Fusion]]ed.
+  | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text            = This [[turn]], this card's name becomes "[[Cocoon of Evolution (Rush Duel)|Cocoon of Evolution]]". Then, you can [[Fusion Summon]] an [[EARTH]] [[Attribute]] Insect Type monster by sending monsters from your [[hand]] and/or [[field]] to the Graveyard as [[material]], including this card.
+  | ja_materials    = 「プチモス」＋モンスター（レベル５以下／昆虫族）
+  | ja_condition    = このカードはコンタクトフュージョンできる。
+  | ja_requirement  = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_text         = このカードのカード名はこのターン、「進化の繭」になる。その後、このカードを含む自分の手札・フィールドのモンスターを素材として墓地へ送ってモンスター（地属性／昆虫族）をフュージョン召喚できる。
+  | ko_materials    = "꼬마 모스" ＋ 몬스터(레벨 5 이하 / 곤충족)
+  | ko_condition    = 이 카드는 콘택트 퓨전할 수 있다.
+  | ko_requirement  = 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
+  | ko_text         = 이 카드의 카드명은 이 턴에, "진화의 고치"가 된다. 그 후, 이 카드를 포함하는 자신의 패 / 필드의 몬스터를 소재로서 묘지로 보내고 몬스터(땅 속성 / 곤충족)를 퓨전 소환할 수 있다.
+  | jp_sets         = 
+  RD/AP02-JP033; Advance Pack: Revenge Hearts; Super Rare, Secret Rare
+  | kr_sets         = 
+  RD/AP02-KR033; Advance Pack: Revenge Hearts; Super Rare, Secret Rare
+  | mentions        = 
+  * Petit Moth (Rush Duel)
+  * Cocoon of Evolution (Rush Duel)
+  | supports        = 
+  * Insect
+  * EARTH
+  | archseries      = Moth (Rush Duel)
+  | action          = 
+  * Returns Fusion Materials for Contact Fusion to Deck
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Uses itself as a Fusion Material
+  * Must include particular Fusion Materials
+  | stat_change     = Changes own name while on the field
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | database_id     = 22649
+  }}

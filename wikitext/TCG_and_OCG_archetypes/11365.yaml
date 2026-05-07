@@ -1,0 +1,172 @@
+title: B.E.S.
+wikitext: |-
+  {{Infobox archseries
+  | cut_from_names = true
+  | image        = BossRush-MADU-EN-VG-artwork.png
+  | caption      = "[[B.E.S. Crystal Core|Crystal Core]]", "[[B.E.S. Big Core|Big Core]]" and "[[B.E.S. Tetran|Tetran]]" in the artwork of "[[Boss Rush]]"
+  | ja_name      = {{Ruby|巨|きょ}}{{Ruby|大|だい}}{{Ruby|戦|せん}}{{Ruby|艦|かん}}
+  | romaji       = Kyodai Senkan
+  | trans        = Giant Battleship
+  | sc_name      = 巨大战舰
+  | fr_name      = B.E.S.
+  | de_name      = B.E.S.
+  | it_name      = B.E.S.
+  | ko_name      = 거대전함
+  | ko_hanja     = 巨大戰艦
+  | ko_romanized = Geodaejeonham
+  | ko_trans     = Giant Battleship
+  | pt_name      = B.E.S.
+  | es_name      = B.E.S.
+  | sets         =
+  * [[Rise of Destiny]]
+  * [[Elemental Energy]]
+  * [[Cybernetic Revolution]]
+  * [[Shadow of Infinity]]
+  * [[Crimson Crisis]]
+  * [[Maximum Crisis]]
+  * [[Rising Rampage]]
+  | tcg          =
+  * [[Champion Pack: Game Three]]
+  * [[Dark Revelation Volume 3]]
+  * [[Dark Revelation Volume 4]]
+  * [[2020 Tin of Lost Memories]]
+  | ocg          =
+  * [[Expert Edition Volume 3]]
+  * [[Expert Edition Volume 4]]
+  * [[Advanced Tournament Pack 2017 Vol.1]]
+  | korea        = [[Advanced Event Pack 2017 Vol.1]]
+  | anime        = [[Yu-Gi-Oh! GX]]
+  }}
+  "'''B.E.S.'''", short for "'''{{wikia|gradius|Bacterian Empire}} Ship'''" and known as "'''Giant Battleship'''" ({{Ruby|巨|きょ}}{{Ruby|大|だい}}{{Ruby|戦|せん}}{{Ruby|艦|せん}} ''Kyodai Senkan'') in the ''[[OCG]]'', is an [[archetype]] of [[Machine]] [[Monster Card|monsters]] based on the bosses of the ''[[wikipedia:Gradius (series)|Gradius series]]''. They were used by [[Lorenzo]] in the ''[[Yu-Gi-Oh! GX]]'' anime, as well as by [[Nathan]] in the ''[[Yu-Gi-Oh! Tag Force]]'' games.
+
+  == Members ==
+  {| class="wikitable sortable"
+  ! B.E.S. !! Origin
+  |-
+  | [[B.E.S. Assault Core|Assault Core]] || {{wikia|gradius|Big Core}}
+  |-
+  | [[B.E.S. Blaster Cannon Core|Blaster Cannon Core]] || {{wikia|gradius|Blaster Cannon Core}}
+  |-
+  | [[B.E.S. Big Core|Big Core]] || {{wikia|gradius|Big Core MK I}}
+  |-
+  | [[B.E.S. Big Core MK-2|Big Core MK-2]] || {{wikia|gradius|Big Core MK II}}
+  |-
+  | [[B.E.S. Big Core MK-3|Big Core MK-3]] || {{wikia|gradius|Big Core MK III}}
+  |-
+  | [[B.E.S. Covered Core|Covered Core]] || {{wikia|gradius|Covered Core}}
+  |-
+  | [[B.E.S. Crystal Core|Crystal Core]] || {{wikia|gradius|Crystal Core}}
+  |-
+  | [[B.E.S. Derringer Core|Derringer Core]] || {{wikia|gradius|Dellinger Core}}
+  |-
+  | [[B.E.S. Metal Slave|Metal Slave]] || {{wikia|gradius|Metal Slave}}
+  |-
+  | [[B.E.S. Tetran|Tetran]] || {{wikia|gradius|Tetran}}
+  |}
+
+  == Support ==
+  {| class="wikitable sortable"
+  ! Card !! Origin
+  |-
+  | [[B.E.F. Zelos]] || {{wikia|gradius|Zelos Barrier}} / {{wikia|gradius|Zelos Force}}
+  |-
+  |  [[Boss Rush]] 
+  | rowspan=2 |
+  {{wikia|gradius|Boss Rush}}
+  |-
+  | [[Boss on Parade]]
+  |-
+  |}
+
+  == Playing style ==
+  The main strategy of any "B.E.S." Deck is using "[[Boss Rush]]", "[[B.E.F. Zelos]]", and other related cards in order to swarm the opponent with a destruction immune fleet of ships.
+
+  Every "B.E.S." monster uses counters and is Level 5 or higher, meaning they need to be [[Tribute Summon|Tribute]] or [[Special Summon]]ed. In addition, every monster prior to ''[[Burst Protocol]]'' shares the following effects:
+  * Cannot be destroyed by battle.
+  * If Summoned, gain counters. Many of the older monsters only gain counters on Normal Summon, making them vulnerable if Special'd, unless given a counter with "[[B.E.F. Zelos]]".
+  * At the end of the Damage Step, remove 1 counter, otherwise destroy this card.
+
+  The two newer monsters, "[[B.E.S. Derringer Core]]" and "[[B.E.S. Metal Slave]]", have none of those effects, but still gain counters by their Special Summon effects. "Derringer Core" can Special Summon itself by revealing another "B.E.S." monster, then either search "Boss Rush" or a Spell/Trap that mentions it, or revive an archetypal monster. "Metal Slave" can send archetypal monsters from Deck to GY to Summon itself, and has a once per Chain Quick Effect to destroy a "B.E.S." monster and 1 card on the field.
+
+  The aforementioned "[[Boss Rush]]" can Special Summon a "[[B.E.S]]" monster during the End Phase if one was destroyed that turn. Note that multiple copies can trigger this effect, even if only one "B.E.S" monster is destroyed. "[[B.E.F. Zelos]]" is critical as well, as it not only searches "[[Boss Rush]]", it provides targeting and opponent destruction protection, and Special Summons a "B.E.S" monster from hand. Since "Zelos" is a Field Spell, it can be searched by generic options like "[[Terraforming]]" and "[[Planet Pathfinder]]". "[[Boss on Parade]]" can search a "B.E.S" monster when activated, and has a GY effect to search "Boss Rush". It also supports the "[[Konami Arcade Games|Gradius]]" monsters, as it can Special Summon a LIGHT Machine with 1200 or less ATK and 1000 DEF, from Deck (to either field, soft once per turn).
+
+  "B.E.S." can be combined with a number of other archetypes, depending on what strategy the "B.E.S." player tries focus on. 
+  * Self destruction cards, such as "[[Interrupted Kaiju Slumber]]" + "[[Kaiju]]"s, "[[Dark Hole]]", and "[[Limiter Removal]]", can be taken advantage of as they can trigger "[[Boss Rush]]".
+  * "[[Cyber Dragon (archetype)|Cyber Dragon]]" is a potential candidate to join forces with, giving the deck access to another Special Summonable Level 5 monster in the eponymous "[[Cyber Dragon]]", as well as some tech choices in the Extra Deck like the "[[Cyber Dragon Nova]]" and "[[Cyber Dragon Infinity]]" combo, or a plethora of Fusion monsters like "[[Chimeratech Megafleet Dragon]]". 
+  * "[[Infinitrack]]" also poses to be a worthy ally: The Infinitrack monsters in the Main Deck clash with "Boss Rush" if Normal Summoned, but due to the high levels of the "B.E.S." line-up, they allow for a consistent Summon of any Rank between 7 and 12 with relative ease. Additionally, "[[Infinitrack River Stormer]]" is able to search for both "B.E.S. Covered Core" as well as "B.E.S. Blaster Cannon Core", helping the deck with potential consistency issues. An "Infinitrack" engine allows for a number of Extra Deck monsters as potential playmakers in "B.E.S.", from "Galaxy" Xyz monsters to cards like "[[Number 9: Dyson Sphere]]".
+
+  === Recommended cards ===
+  {{Decklist|Deck
+  <!-- This is not an exact Decklist. Do not add multiples or staples.-->
+  |effect monsters =
+  * [[B.E.S. Big Core]]
+  * [[B.E.S. Big Core MK-2]]
+  * [[B.E.S. Big Core MK-3]]
+  * [[B.E.S. Blaster Cannon Core]]
+  * [[B.E.S. Covered Core]]
+  * [[B.E.S. Crystal Core]]
+  * [[B.E.S. Derringer Core]]
+  * [[B.E.S. Tetran]]
+  * [[Super B.E.S. Metal Slave]]
+  * [[Convex Knight]]
+  * [[Gray Layer]]
+  * [[Machina Citadel]]
+  * [[Machina Ruinforce]]
+  * [[Planet Pathfinder]]
+  * [[Psychic Processor]]
+  * [[Therion "King" Regulus]]
+  * [[Vic Viper T301]]
+  * [[Vic Viper Type-L]]
+  |xyz monsters =
+  * [[Cyber Dragon Nova]]
+  ** [[Cyber Dragon Infinity]]
+  * [[Dingirsu, the Orcust of the Evening Star]]
+  * [[Divine Dragon Knight Felgrand]]
+  * [[Gaming Gamer GG]]
+  ** [[Superdreadnought Rail Cannon Gustav Max]]
+  *** [[Superdreadnought Rail Cannon Gustav Rocket]]
+  * [[Infinitrack Earth Slicer]]
+  * [[Infinitrack River Stormer]]
+  * [[Light Dragon @Ignister]]
+  |link monsters =
+  * [[Clockwork Knight]]
+  * [[Qliphort Genius]]
+  * [[World Gears of Theurlogical Demiurgy]]
+  |normal spells =
+  * [[Cyber Repair Plant]] ''(with [[Cyber Dragon Core]])''
+  * [[Spell Card "Soul Exchange"]]
+  * [[Terraforming]]
+  * [[Union Activation]] ''(with [[A-Assault Core]])''
+  |field spells =
+  * [[B.E.F. Zelos]]
+  |continuous spells =
+  * [[Boss on Parade]]
+  * [[Boss Rush]]
+  * [[Clockwork Night]]
+  |quick-play spells =
+  * [[Forbidden Crown]]
+  * [[Limiter Removal]]
+  * [[Pianissimo]]
+  * [[The Monarchs Stormforth]]
+  |normal traps =
+  * [[E.M.R.]]
+  * [[Magnet Force]]
+  * [[Metaverse]]
+  * [[Proof of Powerlessness]]
+  |continuous traps =
+  * [[Dimension Guardian]]
+  * [[Rivalry of Warlords]]
+  }}
+
+  === Weaknesses ===
+  * Anti-[[Special Summon]]ing cards, like "[[Fossil Dyna Pachycephalo]]", "[[Vanity's Emptiness]]" or "[[Vanity's Fiend]]" make it almost impossible to get monsters on board.
+  * Like most [[Machine]] themes, "[[System Down]]" and "[[Chimeratech Fortress Dragon]]" are extremely effective at breaking the board of this Deck; both bypass the protection of "B.E.F. Zelos".
+  * A pure build can struggle due to the lacking gameplan, for it has flaws both going first and second:
+  ** Going first: the archetype has few ways to interrupt the opponent's turn, with their only in-archetype disruption being "Metal Slave", and many members are unable to Special Summon themselves if the opponent controls no monsters.
+  ** Going second: the archetype finds it difficult to [[OTK]] on its own, typically requiring another engine or unsearchable cards like "[[Limiter Removal]]" to deal enough damage and/or get rid of whatever disruption the opponent may have.
+
+  {{Archseries navbox}}
+  {{Archseries navbox (anime)}}
+  {{Archseries navbox (Duel Links)}}
+
+  [[Category:TCG and OCG archetypes]]

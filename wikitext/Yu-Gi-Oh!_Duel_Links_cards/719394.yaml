@@ -1,0 +1,25 @@
+title: Raidraptor - Tribute Lanius (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Raidraptor - Sosie Pie-Grièche
+  | de_name      = Überfallraptor - Tributlanius
+  | it_name      = Raidraptor - Lanius Tributo
+  | es_name      = Asaltorrapaz - Lanius Tributo
+  | ko_name      = {{Ruby|RR|레이드 랩터즈|lang=ko}}－트리뷰트 레이니어스
+  | image        = RaidraptorTributeLanius-DULI-EN-VG.png
+  | ja_image     = RaidraptorTributeLanius-DULI-JP-VG.png
+  | attribute    = DARK
+  | types        = Winged Beast / Effect
+  | atk          = 1800
+  | def          = 400
+  | level        = 4
+  | rarity       = UR
+  | effect_types = Ignition, Trigger, Condition
+  | text         = During your [[Main Phase]], if this card was [[Normal Summon|Normal]] or [[Special Summon]]ed this [[turn]]: You can [[send]] 1 "[[Raidraptor]]" card from your [[Deck]] to the [[Graveyard]]. At the end of the [[Battle Phase]], if this card [[destroy]]ed an opponent's [[Monster Card|monster]] [[by battle]] this turn: You can [[Add a card|add]] 1 "[[Rank-Up-Magic]]" [[Quick-Play Spell Card]] from your Deck to your [[hand]], also you cannot Special Summon monsters for the rest of this turn, except "Raidraptor" monsters. You can only use each [[effect]] of "Raidraptor - Tribute Lanius" [[once per turn]].
+  | fr_text      = Durant votre Main Phase, si cette carte a été Invoquée Normalement ou Spécialement ce tour : vous pouvez envoyer 1 Carte "Raidraptor" depuis votre Deck au Cimetière. À la fin de votre Battle Phase, si cette carte a détruit un monstre de adverse au combat ce tour : vous pouvez ajouter 1 Carte Magie Jeu-Rapide "Magie-Rang-Plus" de votre Deck à votre main, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres "Raidraptor" exclus) pour le reste de ce tour. Vous ne pouvez utiliser chaque effet de "Raidraptor - Sosie Pie-Grièche" qu'une fois par tour.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Raiders Requiem}}
+  {{Duel Links release table/footer}}
+  }}

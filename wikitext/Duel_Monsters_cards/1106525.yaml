@@ -1,0 +1,64 @@
+title: Beast of Talwar - The Sword Summit
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Bête de Talwar - Le Sommet de l'Épée
+  | de_name             = Bestie von Talwar - Der Schwertgipfel
+  | it_name             = Bestia di Talwar - La Vetta della Spada
+  | pt_name             = Besta de Talwar - O Cume da Espada
+  | es_name             = Bestia de Talwar - La Cúspide de la Espada
+  | ja_name             = {{Ruby|魔剣達士|ソードサミット}}－タルワール・デーモン
+  | base_romaji_name    = Makentasshi - Taruwāru Dēmon
+  | base_translated_name= Magic Sword Master - Talwar Daemon
+  | romaji_name         = Sōdo Samitto - Taruwāru Dēmon
+  | translated_name     = Sword Summit - Talwar Daemon
+  | ko_name             = 스워드서밋－탈와르 데몬
+  | ko_rr_name          = 
+  | sc_name             = 魔剑达士－塔瓦弯刀恶魔
+  | image               = BeastofTalwarTheSwordSummit-SUDA-EN-C-1E.png
+  | attribute           = DARK
+  | types               = Fiend / Effect
+  | level               = 7
+  | atk                 = 2400
+  | def                 = 2150
+  | password            = 20011655
+  | effect_types        = Condition, Unclassified, Continuous, Continuous
+  | text                = (This card is always treated as an "[[Archfiend]]" card.)<br />If you [[control]] no [[monsters]], you can [[Special Summon]] this card (from your [[hand]]). The first time this card would be destroyed by an opponent's card [[effect]] each [[turn]], it is not destroyed. Neither player can [[target]] other monsters with [[Equip Spell Card]]s or effects.
+  | fr_text             = (Cette carte est toujours traitée comme carte "Archdémon".)<br />Si vous ne contrôlez aucun monstre, vous pouvez Invoquer Spécialement cette carte (depuis votre main). La première fois que cette carte va être détruite par un effet de carte de l'adversaire chaque tour, elle n'est pas détruite. Aucun joueur ne peut cibler d'autres monstres avec des Cartes Magie d'Équipement ou effets de Magie d'Équipement.
+  | de_text             = (Diese Karte wird immer als „Erzunterweltler“-Karte behandelt.)<br />Falls du keine Monster kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Das erste Mal in jedem Spielzug, dass diese Karte durch einen Karteneffekt eines Gegners zerstört würde, wird sie nicht zerstört. Kein Spieler kann andere Monster als Ziel für Ausrüstungszauberkarten oder -effekte wählen.
+  | it_text             = (Questa carta viene sempre considerata come una carta "Arcidemone".)<br />Se non controlli nessun mostro, puoi Evocare Specialmente questa carta (dalla tua mano). La prima volta che questa carta sta per essere distrutta dall'effetto di una carta dell'avversario ogni turno, non viene distrutta. Nessun giocatore può scegliere come bersaglio altri mostri con le Carte Magia Equipaggiamento o con i loro effetti.
+  | pt_text             = (Este card deve ser sempre considerado como um card "Arquidemônio".)<br />Se você não controlar nenhum monstro, você pode Invocar este card por Invocação-Especial (da sua mão). Na primeira vez que este card seria destruído por um efeito de card do oponente a cada turno, ele não é destruído. Nenhum duelista pode escolher outros monstros como alvo de Cards de Magia de Equipamento ou seus efeitos.
+  | es_text             = (Esta carta se trata siempre como una carta "Archidemonio").<br />Si no controlas monstruos, puedes Invocar esta carta de Modo Especial (desde tu mano). La primera vez que esta carta fuera a ser destruida por el efecto de una carta del adversario cada turno, no es destruida. Ningún jugador puede seleccionar otros monstruos con Cartas Mágicas de Equipo o sus efectos.
+  | ja_text             = ①：自分フィールドにモンスターが存在しない場合、このカードは手札から特殊召喚できる。②：フィールドのこのカードは１ターンに１度だけ相手の効果では破壊されない。③：このカードがモンスターゾーンに存在する限り、お互いは他のモンスターを装備魔法カードの効果の対象にできない。
+  | ko_text             = ①: 자신 필드에 몬스터가 존재하지 않을 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 필드의 이 카드는 1턴에 1번만 상대 효과로는 파괴되지 않는다. ③: 이 카드가 몬스터 존에 존재하는 한, 양쪽 플레이어는 다른 몬스터를 장착 마법 카드의 효과 대상으로 할 수 없다.
+  | sc_text             = ①：自己场上不存在怪兽的情况下，此卡可从手牌特殊召唤。②：场上的此卡1回合仅1次不会因对手的效果被破坏。③：只要此卡存在于怪兽区域，双方不可将其他的怪兽作为装备魔法卡的效果的对象。
+  | en_sets             = 
+  SUDA-EN087; Supreme Darkness; Common
+  | fr_sets             = 
+  SUDA-FR087; Supreme Darkness; Common
+  | de_sets             = 
+  SUDA-DE087; Supreme Darkness; Common
+  | it_sets             = 
+  SUDA-IT087; Supreme Darkness; Common
+  | pt_sets             = 
+  SUDA-PT087; Supreme Darkness; Common
+  | sp_sets             = 
+  SUDA-SP087; Supreme Darkness; Common
+  | jp_sets             = 
+  WPP6-JP046; World Premiere Pack 2025; Common
+  | ae_sets             = 
+  BPRO-AE086; Burst Protocol; Common
+  | kr_sets             = 
+  WPP6-KR046; World Premiere Pack 2025; Common
+  | sc_sets             = 
+  WPS2-SC090; World Premiere Pack 2025; Common
+  | anti-supports       = Equip Spell Card
+  | archseries          = Archfiend
+  | m/s/t               = 
+  * Cannot be destroyed by card effects
+  * Prevents other cards being targeted by card effects
+  | summoning           = Special Summons itself from your hand
+  | misc                = 
+  * Archetype condition
+  * Requires control of no monsters
+  | database_id         = 21051
+  }}

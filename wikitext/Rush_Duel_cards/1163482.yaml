@@ -1,0 +1,30 @@
+title: The Eternal Land -Spectrika-
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = {{Ruby|悠|ゆう}}{{Ruby|久|きゅう}}の{{Ruby|郷|さと}}－スペクトリカ－
+  | romaji_name    = Yūkyū no Sato -Supekutorika-
+  | image          = TheEternalLandSpectrika-RDKP24-JP-C.png
+  | card_type      = Spell
+  | property       = Field
+  | requirement    = [[Activate]] this card if you have 4 or less [[Monster Card|monster]]s in your [[Graveyard]].
+  | text           = While this card is [[face-up]] in the [[Field Zone]], if a [[Duelist|player]] [[Ritual Summon]]s by the [[effect]] of "[[Endless Partner]]", they can also use [[Galaxy (Type)|Galaxy]] [[Type]] monsters in their Graveyard as [[material]].
+  | ja_requirement = このカードは、自分の墓地のモンスターが４体以下の場合に発動できる。
+  | ja_text        = このカードがフィールドゾーンに表側表示である限り、お互いは「心の友だち」の効果でリチュアル召喚する場合、自身の墓地のモンスター（ギャラクシー族）を素材とする事もできる。
+  | jp_sets        = 
+  RD/KP24-JP052; Overforce of the Abyss; Common
+  RD/B261-JP005; Battle Bonus Pack 2026 Vol.1; Super Parallel Rare
+  | mentions       = Endless Partner
+  | supports       = Galaxy (Type)
+  | archseries     = Moonforce
+  | action         = 
+  * Modifies which cards can be used as Ritual Material
+  * Returns from your Graveyard to your Deck
+  * Returns from your opponent's Graveyard to your opponent's Deck
+  * Uses cards in the player's Graveyard as Ritual Materials
+  * Uses cards in the opponent's Graveyard as Ritual Materials
+  * Returns Ritual Materials used in a Ritual Summon to Deck
+  * Can only use certain monsters for Ritual Summon
+  | database_id    = 22882
+  }}

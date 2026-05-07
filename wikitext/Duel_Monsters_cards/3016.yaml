@@ -1,0 +1,21 @@
+title: Super War-Lion (Normal)
+wikitext: |-
+  {{CardTable2
+  | name        = Super War-Lion
+  | de_name     = Superkriegslöwe
+  | pt_name     = 
+  | ja_name     = スーパー・ウォー・ライオン
+  | romaji_name = Sūpā Wō Raion
+  | image       = SuperWarLion-T0-JP-UR.png
+  | attribute   = EARTH
+  | types       = Beast / Normal
+  | level       = 7
+  | atk         = 2300
+  | def         = 2100
+  | password    = none
+  | text        = ''A lion who transforms into a beast-man, tearing apart its opponent with its extended razor-sharp claws.'' 
+  | ja_text     = ライオンが{{ruby|獣人|じゅうじん }}と{{ruby|化|か}}し、{{ruby|鋭|するど}}く{{ruby|伸|の}}びたつめで{{ruby|相手|あいて}}を{{ruby|切|き}}り{{ruby|裂|さ}}く。
+  | jp_sets     = 
+  ; Yu-Gi-Oh! Duel Monsters National Tournament prize cards; Ultra Rare
+  | database_id = none
+  }}

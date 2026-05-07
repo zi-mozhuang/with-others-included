@@ -1,0 +1,25 @@
+title: Performage Hat Tricker (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Tour de Chapeau Mageartiste
+  | de_name      = Künstlerzauberer Hütchenspieler
+  | it_name      = Artistamagus Trucco del Cappello
+  | ko_name      = {{ruby|Em|엔터메이지|lang=ko}} 헤트트리커
+  | es_name      = Artilusionista Truco de Sombrero
+  | image        = PerformageHatTricker-DULI-EN-VG.png
+  | attribute    = EARTH
+  | types        = Spellcaster / Effect
+  | atk          = 1100
+  | def          = 1100
+  | level        = 4
+  | rarity       = UR
+  | effect_types = Unclassified, Quick, Continuous
+  | text         = If 2 or more [[Monster Card|monsters]] are on the [[field]], you can [[Special Summon]] this card (from your [[hand]]). During either player's turn, when a card or [[effect]] is [[activate]]d that would inflict [[Effect damage|damage]] to you: You can place 1 [[Performage Counter]] on this card (max. 3), then make that effect damage to you 0. When the 3rd Performage Counter is placed on this card, it's [[ATK]] and [[DEF]] become 3300.
+  | fr_text      = Si min. 2 monstres sont sur le Terrain, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Durant le tour de chaque joueur, lorsqu'une carte ou un effet qui va vous infliger des dommages est activé : vous pouvez placer 1 Compteur Mageartiste sur cette carte (max. 3), puis faites devenir ces dommages d'effet sur vous 0. Lorsque le 3e Compteur Mageartiste est placée sur cette carte, son ATK/DEF deviennent 3300.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=duel_reward|Dennis McField (Duel Links)}}
+  {{Duel Links release table|type=event|Dennis, The Splendid Entertainer!}}
+  {{Duel Links release table/footer}}
+  }}

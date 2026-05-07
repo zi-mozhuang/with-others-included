@@ -1,0 +1,42 @@
+title: Beginning Hiyashi the Sonic Noodle Ninja
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = {{Ruby|火|か}}{{Ruby|麺|めん}}{{Ruby|速|そく}}{{Ruby|忍|にん}}ビギニング・ヒヤシ
+  | romaji_name     = Kamen Sokunin Biginingu Hiyashi
+  | translated_name = Beginning Hiyashi the Masked Fiery Noodle Sonic Shinobi
+  | image           = BeginningHiyashitheSonicNoodleNinja-RDKP24-JP-C.png
+  | attribute       = FIRE
+  | types           = Pyro / Fusion / Effect
+  | level           = 9
+  | atk             = 2900
+  | def             = 0
+  | fusion_material = 
+  * Straigh the Noodle Ninja
+  * Flavor Inspector
+  | materials       = "[[Straigh the Noodle Ninja]]" + "[[Flavor Inspector]]"
+  | requirement     = [[Shuffle]] 3 [[Pyro]] [[Type]] [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text            = This [[turn]], this card can [[attack]] [[Direct attack|directly]]. Then, you can [[Battle position change|change]] 1 [[Attack Position]] monster on your opponent's [[field]] to [[face-down]] [[Defense Position]].
+  | ja_materials    = 「火麺忍者ストレー」＋「万能調味査察官」
+  | ja_requirement  = 自分の墓地のモンスター（炎族）３体をデッキに戻して発動できる。
+  | ja_text         = このターン、このカードは直接攻撃できる。さらに、相手フィールドの攻撃表示モンスター１体を選んで裏側守備表示にできる。
+  | jp_sets         = 
+  RD/KP24-JP035; Overforce of the Abyss; Common
+  | mentions        = 
+  * Straigh the Noodle Ninja
+  * Flavor Inspector
+  | supports        = Pyro
+  | archseries      = Noodle Ninja
+  | action          = 
+  * Returns from Graveyard to Deck for cost
+  * Changes battle positions
+  * Flips your opponent's monsters face-down
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  | attack          = Direct attacker
+  | database_id     = 22865
+  }}

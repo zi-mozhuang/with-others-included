@@ -1,0 +1,39 @@
+title: Heat Core the Mad Fiend of Despair
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = {{Ruby|絶|ぜつ}}{{Ruby|望|ぼう}}{{Ruby|狂|きょう}}{{Ruby|魔|ま}}ヒート・コア
+  | romaji_name     = Zetsubōkyōma Hīto Koa
+  | translated_name = Heat Core the Mad Demon of Despair
+  | image           = HeatCoretheMadFiendofDespair-RDORP4-JP-C.png
+  | attribute       = DARK
+  | types           = Fiend / Fusion / Effect
+  | level           = 8
+  | atk             = 2700
+  | def             = 2400
+  | fusion_material = 
+  * Dead Core the Mad Fiend of Despair
+  * Dead Heat the Mad Fiend of Despair
+  | materials       = "[[Dead Core the Mad Fiend of Despair]]" + "[[Dead Heat the Mad Fiend of Despair]]"
+  | requirement     = [[Shuffle]] 4 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text            = [[Special Summon]] 1 [[Level]] 9 or lower monster from your opponent's Graveyard [[face-up]] to your [[field]]. Then, you can Special Summon 1 [[Fiend]] [[Type]] monster from your Graveyard to your opponent's field in face-up [[Defense Position]].
+  | ja_materials    = 「絶望狂魔デッド・コア」＋「絶望狂魔デッド・ヒート」
+  | ja_requirement  = 自分の墓地のモンスター４体をデッキに戻して発動できる。
+  | ja_text         = 相手の墓地のモンスター（レベル９以下）１体を選び、自分フィールドに表側表示で特殊召喚する。その後、自分の墓地のモンスター（悪魔族）１体を選んで相手フィールドに表側守備表示で特殊召喚できる。
+  | jp_sets         = 
+  RD/ORP4-JP024; Over Rush Pack 4; Common
+  | mentions        = 
+  * Dead Core the Mad Fiend of Despair
+  * Dead Heat the Mad Fiend of Despair
+  | supports        = Fiend
+  | archseries      = Mad Fiend of Despair
+  | action          = Returns from Graveyard to Deck for cost
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  * Requires Ritual Monsters as Fusion Materials
+  * Special Summons from your opponent's Graveyard to your field
+  * Special Summons from your Graveyard to your opponent's field
+  | database_id     = 23057
+  }}

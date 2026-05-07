@@ -1,0 +1,27 @@
+title: Pair Cycroid (Rush Duel)
+wikitext: |-
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | image          = PairCycroid-RDSJMP-JP-OP.png
+  | attribute      = EARTH
+  | types          = Machine / Fusion / Effect
+  | level          = 5
+  | atk            = 1600
+  | def            = 1200
+  | effect_types   = Continuous
+  | materials      = 2 [[Machine]] [[Type]] [[Monster Card|monster]]s with the same name
+  | requirement    = None
+  | text           = This card can [[attack]] [[Direct attack|directly]].
+  | ja_materials   = 同名のモンスター（機械族）×２
+  | ja_requirement = なし
+  | ja_text        = このカードは直接攻撃できる。
+  | jp_sets        = 
+  RD/SJMP-JP063; Saikyō Jump June 2026 promotional card; Normal Parallel Rare
+  | supports       = Machine
+  | summoning      = 
+  * 2 Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires monsters with the same name as Fusion Materials
+  | attack         = Direct attacker
+  | database_id    = 23183
+  }}

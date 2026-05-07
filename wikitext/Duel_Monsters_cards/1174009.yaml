@@ -1,0 +1,66 @@
+title: Black Rose Dragon/Assault Mode
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = ブラック・ローズ・ドラゴン{{Ruby|／|スラッシュ}}バスター
+  | romaji_name           = Burakku Rōzu Doragon Surasshu Basutā
+  | translated_name       = Black Rose Dragon Slash Buster
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 
+  | sc_pinyin_name        = 
+  | image                 = BlackRoseDragonAssaultMode-VX06-JP-UR.png
+  | attribute             = FIRE
+  | types                 = Dragon / Effect
+  | level                 = 9
+  | atk                   = 2900
+  | def                   = 2300
+  | password              = 46985799
+  | effect_types          = Summoning condition, Summoning condition, Trigger, Condition, Ignition, Trigger
+  | text                  = Cannot be [[Normal Summon]]ed/[[Set]]. Must be [[Special Summon]]ed with "[[Assault Mode Activate]]". If this card is [[destroy]]ed: You can Special Summon 1 "[[Black Rose Dragon]]" from your [[GY]]. You can only use each of the following [[effect]]s of "Black Rose Dragon/Assault Mode" [[once per turn]]. You can [[reveal]] this card in your [[hand]]; [[shuffle]] it into the [[Main Deck|Deck]], and if you do, change the [[ATK]] of 1 [[face-up]] [[monster]] on the [[field]] to 0. If this card is Special Summoned, or a monster(s) is Special Summoned to your opponent's field: You can destroy all cards on the field.
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = このカードは通常召喚できず、「バスター・モード」の効果でのみ特殊召喚できる。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札のこのカードを相手に見せて発動できる。このカードをデッキに戻し、フィールドのモンスター１体の攻撃力を０にする。②：このカードが特殊召喚した場合、または相手フィールドにモンスターが特殊召喚された場合に発動できる。フィールドのカードを全て破壊する。③：このカードが破壊された場合に発動できる。自分の墓地から「ブラック・ローズ・ドラゴン」１体を特殊召喚する。
+  | ko_text               = 
+  | sc_text               = 
+  | jp_sets               = 
+  VX06-JP001; The Valuable Book EX 6 promotional cards; Ultra Rare
+  | mentions              = 
+  * Assault Mode Activate
+  * Black Rose Dragon
+  | archseries            = 
+  * /Assault Mode
+  * Rose
+  * Rose Dragon
+  | related_to_archseries = Signer Dragon
+  | action                = 
+  * Activates if destroyed
+  * Activates from your hand
+  * Reveals itself in the hand for cost
+  * Returns itself from hand to Deck
+  * Activates upon Special Summon
+  | stat_change           = Reduces ATK to 0
+  | m/s/t                 = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning             = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Nomi
+  * Must be Special Summoned by a specific card effect
+  * Special Summons from your Graveyard
+  | misc                  = 
+  * Only once per turn
+  * Special Summon Monster
+  | database_id           = 22921
+  }}

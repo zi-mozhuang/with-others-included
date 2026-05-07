@@ -1,0 +1,191 @@
+title: Elfnote
+wikitext: |-
+  {{stub}}
+  {{Infobox archseries
+  | cut_from_names = true
+  | image          = ElfnotesAristeiaofTrust-OW.png
+  | caption        = "[[Elfnote Tinia|Tinia]]", "[[Elfnote Lucina|Lucina]]", and "[[Elfnote Fortuna|Fortuna]]" in the artwork of "[[Elfnotes: Aristeia of Trust]]"
+  | ja_name        = エルフェンノーツ
+  | romaji         = Erufennōtsu
+  | trans          = Elfennotes
+  | fr_name        = Notes Elfiques
+  | de_name        = Elfnote
+  | it_name        = Elfnote
+  | ko_name        = 엘펜노츠
+  | ko_romanized   = 
+  | pt_name        = Elfnota
+  | es_name        = Elfnota
+  | sc_name        = 耀圣
+  | sc_trans       = Shining Saint
+  | sets           = 
+  * ''[[Burst Protocol]]''
+  * ''[[Blazing Dominion]]''
+  * ''[[Chaos Origins]]''
+  }}
+
+  "'''Elfnote'''", known as "'''Elfennotes'''" (エルフェンノーツ ''Erufennōtsu'') in Japan, is an archetype of Level 6 [[Spellcaster]] [[Effect Monster]]s of varying [[Attribute]]s and [[Synchro Monster]]s introduced in ''[[Burst Protocol]]''. It revolves around "[[Medius the Pure]]", [[Synchro Summon]]ing, and moving monsters in and out of the center Main [[Monster Zone]]. It is connected to the "[[Power Patron]]", "[[Artmage]]", "[[DoomZ]]", and "[[Theorealize (archetype)|Theorealize]]" archetypes through the lore surrounding "Medius the Pure".
+
+  == Lore ==
+  {{Main|The Valuable Book EX 6 card storylines#No. 1: The Proxy War of the Gods}}
+
+  == Design ==
+  Most "Elfnote" monsters are female elves with fairy and flower motifs. "Strelitzia" is described as their Great [[wikipedia:Erlking|Erlking]], corrupted by "[[Junora the Power Patron of Tuning]]".
+
+  Except for "[[Elfnote Power Patron]]", members of the archetype derived their names from flowers, with the elves' names also resembling those of Roman goddesses. They are also associated with different colors.
+
+  {| class="wikitable"
+  ! colspan=2 | Monster
+  ! Color
+  ! Flower
+  ! Goddess
+  |-
+  | colspan=2 | [[Elfnote Power Patron|Power Patron]]
+  | Rainbow
+  | –
+  | –
+  |-
+  |-
+  | colspan=2 | [[Elfnote Seraphim Strelitzia|Seraphim Strelitzia]]
+  | Rainbow
+  | [[wikipedia:Strelitzia|Strelitzia]]
+  | –
+  |-
+  | [[Elfnote Tinia|Tinia]]
+  | rowspan=3 | [[June Pride - Elfnotes|June Pride]]
+  | style="background-color:#88F" | Blue
+  | ''[[wikipedia:Downingia yina|Downingia yina]]''
+  | [[wikipedia:Diana (mythology)|Diana]]
+  |-
+  | [[Elfnote Fortuna|Fortuna]]
+  | style="background-color:#FF8" | Yellow
+  | [[wikipedia:Peony|Luna Fortuna]]
+  | [[wikipedia:Fortuna|Fortuna]]
+  |-
+  | [[Elfnote Lucina|Lucina]]
+  | style="background-color:#F88" | Red
+  | [[wikipedia:Azalea|Lucina Azalea]]
+  | [[wikipedia:Lucina (mythology)|Lucina]]
+  |-
+  | colspan=2 | [[Elfnote Regina|Regina]]
+  | style="background-color:#8F8" | Green
+  | –
+  | –
+  |}
+
+  == Playstyle ==
+
+  === Recommended cards ===
+  {{Decklist|Recommended cards
+  <!--This is not an exact Decklist. Please do not add multiples or staples.-->
+  |effect monsters =
+  * [[Elfnote Fortuna]]
+  * [[Elfnote Lucina]]
+  * [[Elfnote Regina]]
+  * [[Elfnote Tinia]]
+  * [[Medius the Pure]]
+  * [[Dark Magician, the Pharaoh's Servant]]
+  * [[Diabrocken the Ominous Specter]]
+  * [[Earthbound Prisoner Stone Sweeper]]
+  * [[Frost Tiger]]
+  * [[Goldilocks the Battle Landscaper]]
+  * [[Magician's Souls]]
+  * [[Performapal Sky Magician]]
+  * [[Performapal Sky Magician Girl]]
+  * [[Trancefamiliar]]
+  * [[Toy Tank]]
+
+  |tuner monsters =
+  * [[Elfnote Power Patron]]
+  * [[Destrudo the Lost Dragon's Frisson]]
+  * [[Diviner of the Herald]]
+  * [[Hop Ear Squadron]]
+
+  |pendulum monsters =
+  * [[Junoldo the Shadespirit Power Patron]]
+  * [[Vidolium the Unstable Power Patron of Unity]]
+
+  |fusion monsters =
+  * [[Dark Magician of Destruction]] (with "Dark Magician, the Pharaoh's Servant" or "Sanwitch")
+  ** [[Red-Eyes Dark Dragoon]]
+  * [[Sanwitch]] (with "Ready Fusion")
+
+  |synchro monsters =
+  * [[Elfnote Seraphim Strelitzia]]
+  * [[June Pride - Elfnotes]]
+  * [[Junora the Power Patron of Tuning]]
+  * [[Accel Synchro Stardust Dragon]]
+  * [[Black Rose Moonlight Dragon]]
+  * [[Centur-Ion Auxila]]
+  * [[Chaos Angel]]
+  * [[Draco Berserker of the Tenyi]]
+  * [[F.A. Dawn Dragster]]
+  * [[Fabled Levilazebul]]
+  * [[Fortune Lady Every]]
+  * [[Snake-Eyes Vengeance Dragon]]
+  * [[Stardust Dragon - Victim Sanctuary]]
+  * [[Ultimaya Tzolkin]]
+  ** [[Crystal Wing Synchro Dragon]]
+  ** [[Zalen the Shackled Dragon]]
+
+  |xyz monsters =
+  * [[Evolzar Lars]]
+  * [[Norito the Moral Leader]]
+
+  |link monsters =
+  * [[Power Patron Envoy of Pure Prayers]]
+  ** [[S:P Little Knight]]
+  ** [[W:P Fancy Ball]]
+
+  |normal spells =
+  * [[Pasto-Ral Theorealize]]
+  * [[Theorealize]]
+  * [[Prohibited Power Patron Portal - Terminus]]
+  * [[Celestial Observatory]]
+  * [[One for One]]
+  * [[Pendulum Treasure]]
+  * [[Ready Fusion]]
+  * [[Synchro Rumble]]
+
+  |field spells =
+  * [[Plundered Power Patron Plane - Vidolia]]
+  * [[Secret Village of the Spellcasters]]
+
+  |continuous spells =
+  * [[Artmage Vandalism -Assault-]]
+  * [[Elfnotes: A Plea for Help]]
+  * [[Elfnotes: Welcome Home]]
+  * [[Magician's Left Hand]]
+  * [[Magician's Right Hand]]
+  * [[Senet Switch]]
+
+  |quick-play spells =
+  * [[Theorealize Liberation]]
+  * [[Theorealize Overdrive]]
+  * [[Emergency Teleport]] (with "Trancefamiliar")
+  * [[Eye of Illusion]]
+  * [[Fleeting Flower of the Magician]]
+  * [[Junk Signal]]
+  * [[Scourge of the White Forest]]
+  * [[Sinful Spoils of the White Forest]]
+  * [[Susurrus of the Sinful Spoils]]
+  * [[The Gaze of Timaeus]]
+
+  |normal traps =
+  * [[Power Patron Shadows of the End Times]]
+  * [[Back to the Front]]
+  * [[Destined Rivals]]
+
+  |counter traps =
+  * [[Mannadium Reframing]]
+  * [[Verdict of Anubis]]
+
+  |continuous traps =
+  * [[Elfnotes: Aristeia of Trust]]
+  * [[Elfnotes: Quatrain of Succession]]
+  * [[Elfnotes: Rhapsodia of Madness]]
+  * [[Lane Restriction]]
+  }}
+
+  {{Archseries navbox}}
+  {{Power Patron}}
+  [[Category:TCG and OCG archetypes]]

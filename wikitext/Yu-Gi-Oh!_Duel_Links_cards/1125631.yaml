@@ -1,0 +1,25 @@
+title: "Number 105: Battlin' Boxer Star Cestus (Duel Links)"
+wikitext: |-
+  {{Duel Links card
+  | fr_name   = Numéro 105 : Boxeur Indomptable Étoile Cestus
+  | de_name   = Nummer 105: Unermüdlicher Boxer Star Cestus
+  | it_name   = Numero 105: Pugile Indomito Star Cestus
+  | es_name   = Número 105: Boxeador Indómito Cestus Estelar
+  | ko_name   = No.105 {{Ruby|BK|버닝나쿠라|lang=ko}} 유성의 세스터스
+  | image     = 
+  | attribute = FIRE
+  | types     = Warrior / Xyz / Effect
+  | rank      = 4
+  | atk       = 2500
+  | def       = 1600
+  | rarity    = UR
+  | status    = 
+  | text      = 3 [[Level]] 4 [[Monster Card|monster]]s<br />During either player's [[Battle Step]], if a "[[Battlin' Boxer]]" monster you control [[battle]]s an opponent's monster: You can [[detach]] 1 [[Xyz Material]] from this card; [[negate]] the [[effect]]s of that opponent's monster until the end of this [[turn]], that monster you control cannot be [[Destroyed by battle|destroyed by that battle]], also your opponent takes any [[battle damage]] you would have taken from that battle.
+  | fr_text   = 3 monstres de Niveau 4<br />Durant la Battle Step de chaque joueur, si votre monstre "Boxeur Indomptable" que vous contrôlez combat un monstre de votre adversaire : vous pouvez détacher 1 Matériel Xyz de cette carte ; jusqu'à la fin de ce tour, annulez les effets du monstre de votre adversaire, le monstre que vous contrôlez ne peut pas être détruit par ce combat, et aussi, votre adversaire reçoit les dommages de combat que vous auriez dû recevoir de ce combat.
+  | ja_text   = 
+  | releases  = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=duel_reward|Alito (Duel Links)}}
+  {{Duel Links release table|type=event|Alito is Here!}}
+  {{Duel Links release table/footer}}
+  }}

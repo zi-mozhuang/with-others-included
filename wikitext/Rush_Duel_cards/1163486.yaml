@@ -1,0 +1,35 @@
+title: Lovely Rabbit
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = ラヴ・ラビット
+  | romaji_name     = Ravu Rabitto
+  | translated_name = Love Rabbit
+  | image           = LovelyRabbit-RDKP24-JP-C.png
+  | attribute       = LIGHT
+  | types           = Fairy / Effect
+  | level           = 2
+  | atk             = 0
+  | def             = 1400
+  | requirement     = If you have 10 or more cards in your [[Main Deck|Deck]], [[reveal]] 1 [[Fairy]] [[Type]] [[Monster Card|monster]] with 0 [[ATK]] in your [[hand]].
+  | text            = [[Draw a card|Draw]] 1 card. Then, [[send]] 1 card from your hand to the [[Graveyard]]. Then, if you have a [[face-up]] [[DARK]] [[Attribute]] Fairy Type monster with 0 [[Original ATK and DEF|original ATK]] on your [[field]], you can make 1 face-up monster on your opponent's field lose 1000 ATK until the end of this [[turn]].
+  | ja_requirement  = 自分のデッキのカードが１０枚以上の場合、手札のモンスター（天使族／攻撃力０）１体を相手に見せて発動できる。
+  | ja_text         = 自分は１枚ドローする。その後、自分の手札１枚を選んで墓地へ送る。自分フィールドに元々の攻撃力が０の表側表示モンスター（闇属性／天使族）がいる場合、さらに相手フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで１０００ダウンできる。
+  | jp_sets         = 
+  RD/KP24-JP018; Overforce of the Abyss; Common
+  | supports        = 
+  * Fairy
+  * DARK
+  | archseries      = Lovely
+  | action          = 
+  * Reveals your hand for cost
+  * You draw cards
+  * Sends from your hand to your Graveyard
+  | stat_change     = Your opponent's monsters lose ATK
+  | misc            = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific ATK
+  | database_id     = 22848
+  }}

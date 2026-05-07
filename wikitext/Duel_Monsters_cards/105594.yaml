@@ -1,0 +1,75 @@
+title: XX-Saber Fulhelmknight
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Chevalier à l'Épée Serpent, Sabre XX
+  | de_name             = XX-Säbel-Fulhelmritter
+  | it_name             = Fulhelmknight Sciabola-XX
+  | pt_name             = Sabre-XX Cavaleiro Fulelmo
+  | es_name             = Sable-XX Fulhelmknight
+  | ja_name             = {{Ruby|ＸＸ|ダブルエックス}}－セイバー フラムナイト
+  | romaji_name         = Daburuekkusu - Seibā Furamunaito
+  | ko_name             = {{Ruby|X|더블|lang=ko}}{{Ruby|X|엑스|lang=ko}}-세이버 풀헴나이트
+  | sc_name             = XX－军刀 佛兰姆骑士
+  | image               = XXSaberFulhelmknight-L26D-EN-C-1E.png
+  | attribute           = EARTH
+  | types               = Warrior / Tuner / Effect
+  | level               = 3
+  | atk                 = 1300
+  | def                 = 1000
+  | password            = 78422252
+  | effect_types        = Trigger, Trigger
+  | text                = Once while [[face-up]] on the [[field]], when an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]]: You can [[target]] the attacking monster; [[negate]] that attack. If this card [[destroy]]s an opponent's [[Defense Position]] monster [[Destroyed by battle|by battle]]: You can target 1 [[Level]] 4 or lower "[[X-Saber]]" monster in your [[GY]]; [[Special Summon]] it.
+  | fr_text             = Une fois, tant que cette carte est face recto sur le Terrain, lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez cibler le monstre attaquant ; annulez l'attaque. Si cette carte détruit un monstre en Position de Défense de l'adversaire au combat : vous pouvez cibler 1 monstre "Sabre X" de max. Niveau 4 dans votre Cimetière ; Invoquez-le Spécialement.
+  | de_text             = Einmal, solange diese Karte offen auf dem Spielfeld liegt, wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst das angreifende Monster wählen; annulliere jenen Angriff. Falls diese Karte ein Monster eines Gegners in Verteidigungsposition durch Kampf zerstört: Du kannst 1 „X-Säbel“-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung.
+  | it_text             = Una volta mentre è scoperto sul Terreno, quando un mostro dell'avversario dichiara un attacco: puoi scegliere come bersaglio il mostro attaccante; annulla quell'attacco. Se questa carta distrugge in battaglia un mostro in Posizione di Difesa dell'avversario: puoi scegliere come bersaglio 1 mostro "Sciabola-X" di Livello 4 o inferiore nel tuo Cimitero; Evocalo Specialmente.
+  | pt_text             = Uma vez enquanto estiver com a face para cima no campo, quando um monstro do oponente declarar um ataque: você pode escolher o monstro atacante; negue o ataque. Se este card destruir em batalha um monstro do oponente em Posição de Defesa: você pode escolher 1 monstro "Sabre-X" de Nível 4 ou menos no seu Cemitério; Invoque-o por Invocação-Especial.
+  | es_text             = Una vez mientras esté boca arriba en el Campo, cuando un monstruo del adversario declara un ataque: puedes seleccionar el monstruo atacante; niega ese ataque. Si esta carta destruye un monstruo en Posición de Defensa del adversario en batalla: puedes seleccionar 1 monstruo "Sable-X" de Nivel 4 o menor en tu Cementerio; Invócalo de Modo Especial.
+  | ja_text             = ①：このカードがフィールドに表側表示で存在する限り１度だけ、相手モンスターの攻撃宣言時にそのモンスター１体を対象として発動できる。その攻撃を無効にする。②：このカードが戦闘で相手の守備表示モンスターを破壊した場合、自分の墓地のレベル４以下の「Ｘ－セイバー」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
+  | ko_text             = 이 카드가 필드 위에 앞면 표시로 존재하는 한, 1번만 상대 몬스터 1장의 공격을 무효로 할 수 있다. 이 카드가 전투에 의해서 상대 필드 위에 수비 표시로 존재하는 몬스터를 파괴했을 경우, 자신의 묘지에 존재하는 레벨 4 이하의 "X－세이버" 라는 이름이 붙은 몬스터 1장을 특수 소환할 수 있다.
+  | sc_text             = ①：只要此卡以表侧表示存在，仅限1次，对手怪兽攻击宣言时，以该1只怪兽为对象可以发动。将该攻击无效。②：此卡战斗破坏对手的守备表示怪兽时，以自己墓地的1只等级4以下的“X－军刀”怪兽为对象可以发动。将该怪兽特殊召唤。
+  | en_sets             = 
+  ANPR-EN081; Ancient Prophecy; Rare
+  SP15-EN005; Star Pack ARC-V; Common, Shatterfoil Rare
+  L26D-ENX06; Legendary Modern Decks 2026; Common
+  | na_sets             = 
+  XSPU-EN001; X-Saber Power-Up; Super Rare
+  | fr_sets             = 
+  ANPR-FR081; Ancient Prophecy; Rare
+  SP15-FR005; Star Pack ARC-V; Common, Shatterfoil Rare
+  L26D-FRX06; Legendary Modern Decks 2026; Common
+  | de_sets             = 
+  ANPR-DE081; Ancient Prophecy; Rare
+  SP15-DE005; Star Pack ARC-V; Common, Shatterfoil Rare
+  L26D-DEX06; Legendary Modern Decks 2026; Common
+  | it_sets             = 
+  ANPR-IT081; Ancient Prophecy; Rare
+  SP15-IT005; Star Pack ARC-V; Common, Shatterfoil Rare
+  L26D-ITX06; Legendary Modern Decks 2026; Common
+  | pt_sets             = 
+  SP15-PT005; Star Pack ARC-V; Common, Shatterfoil Rare
+  L26D-PTX06; Legendary Modern Decks 2026; Common
+  | sp_sets             = 
+  ANPR-SP081; Ancient Prophecy; Rare
+  SP15-SP005; Star Pack ARC-V; Common, Shatterfoil Rare
+  L26D-SPX06; Legendary Modern Decks 2026; Common
+  | jp_sets             = 
+  EXP3-JP012; Extra Pack Volume 3; Common
+  SPRG-JP018; Booster SP: Raging Masters; Common, Normal Parallel Rare
+  | kr_sets             = 
+  EXP3-KR012; Extra Pack Volume 3; Common
+  SPRG-KR018; Booster SP: Raging Masters; Common, Normal Parallel Rare
+  | sc_sets             = 
+  TW03-SC012; Terminal World 3; Normal Parallel Rare
+  | archseries          = 
+  * Saber
+  * X-Saber
+  * XX-Saber
+  | supports_archetypes = X-Saber
+  | action              = 
+  * Activates upon attack declaration
+  * Activates if it destroys a monster by battle
+  | summoning           = Special Summons from your Graveyard
+  | attack              = Negates attacks
+  | misc                = Once while face-up on the field
+  | database_id         = 8522
+  }}

@@ -1,0 +1,48 @@
+title: OuTerverSe Endless Doom Oblivion
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name               = {{Ruby|ＯＴＳ|アウターバース}}エンドレス・ドゥーム・オブリビオン
+  | romaji_name           = Autābāsu Endoresu Dūmu Oburibion
+  | ko_name               = OTS 엔드리스 둠 오블리비언
+  | image                 = OuTerverSeEndlessDoomOblivion-RDKP22-JP-UR.png
+  | attribute             = FIRE
+  | types                 = Pyro / Fusion / Effect
+  | level                 = 9
+  | atk                   = 3500
+  | def                   = 2500
+  | fusion_material       = OuTerverSe Burst Oblivion
+  | materials             = "[[OuTerverSe Burst Oblivion]]" + 2 non-[[LIGHT]] [[Attribute]] [[Monster Card|monster]]s
+  | condition             = This card's name becomes "[[OuTerverSe]]" while in the [[Graveyard]].
+  | requirement           = [[Shuffle]] 5 "OuTerverSe" from your Graveyard into the [[Main Deck|Deck]].
+  | text                  = This card becomes [[Galaxy (Type)|Galaxy]] [[Type]] until the end of this [[turn]]. Then, this card can [[attack]] all opponent's monsters once each this turn.
+  | ja_materials          = 「ＯＴＳバースト・オブリビオン」＋モンスター（光属性以外）×２
+  | ja_condition          = 墓地にいるこのカードのカード名は「ＯＴＳ」になる。
+  | ja_requirement        = 自分の墓地の「ＯＴＳ」５体をデッキに戻して発動できる。
+  | ja_text               = このカードの種族をターン終了時までギャラクシー族にする。さらにこのターン、このカードは相手モンスター全てに１回ずつ攻撃できる。
+  | ko_materials          = "OTS(아우터버스) 버스트 오블리비언" ＋ 몬스터(빛 속성 이외) × 2
+  | ko_condition          = 묘지에 있는 이 카드의 카드명은 "OTS(아우터버스)"가 된다.
+  | ko_requirement        = 자신 묘지의 "OTS(아우터버스)" 5장을 덱으로 되돌리고 발동할 수 있다.
+  | ko_text               = 이 카드의 종족을 턴 종료시까지 갤럭시족으로 한다. 추가로 이 턴에, 이 카드는 상대 몬스터 전부에 1회씩 공격할 수 있다.
+  | jp_sets               = 
+  RD/KP22-JP029; OuTerverSe of Terror; Ultra Rare, Secret Rare, Over Rush Rare
+  | kr_sets               = 
+  RD/KP22-KR029; OuTerverSe of Terror; Ultra Rare, Secret Rare, Over Rush Rare
+  | mentions              = 
+  * OuTerverSe Burst Oblivion
+  * OuTerverSe
+  | archseries            = OuTerverSe (series)
+  | related_to_archseries = Galactica
+  | action                = Returns from Graveyard to Deck for cost
+  | stat_change           = 
+  * Changes own name while in the GY
+  * Changes Type
+  | summoning             = 
+  * 3 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  | attack                = Can make multiple attacks on monsters
+  | misc                  = Cover card
+  | database_id           = 22005
+  }}

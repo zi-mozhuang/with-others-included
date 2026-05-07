@@ -1,0 +1,60 @@
+title: Galaxy-Eyes Antimatter Dragon
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name             = 
+  | de_name             = 
+  | it_name             = 
+  | pt_name             = 
+  | es_name             = 
+  | ja_name             = ギャラクシーアイズ・アンチマター・ドラゴン
+  | romaji_name         = Gyarakushīaizu Anchimatā Doragon
+  | translated_name     = 
+  | ko_name             = 
+  | ko_rr_name          = 
+  | sc_name             = 银河眼反物质龙
+  | image               = GalaxyEyesAntimatterDragon-25DB-JP-SR.png
+  | attribute           = LIGHT
+  | types               = Dragon / Xyz / Effect
+  | rank                = 9
+  | atk                 = 4000
+  | def                 = 0
+  | password            = 92517928
+  | materials           = 2 Level 9 monsters
+  | effect_types        = Summoning condition, Continuous, Ignition
+  | text                = 2 [[Level]] 9 [[monsters]]<br />[[Once per turn]], you can also [[Xyz Summon]] "Galaxy-Eyes Antimatter Dragon" by using an [[Xyz Monster]] you [[control]] with 3 or more [[material]]s ([[transfer]] its materials). Any [[battle damage]] this card with material inflicts to your opponent is halved. You can [[detach]] 1 material from this card; this card gains the ability this turn to make up to 2 attacks on monsters during each [[Battle Phase]], then if the detached material was a monster, you can send 1 monster with its same Type from your [[Main Deck|Deck]] to the [[GY]].
+  | fr_text             = 
+  | de_text             = 
+  | it_text             = 
+  | pt_text             = 
+  | es_text             = 
+  | ja_text             = レベル９モンスター×２<br />「ギャラクシーアイズ・アンチマター・ドラゴン」は１ターンに１度、Ｘ素材を３つ以上持っている自分のＸモンスターの上に重ねてＸ召喚する事もできる。①：Ｘ素材を持っているこのカードが相手に与える戦闘ダメージは半分になる。②：このカードのＸ素材を１つ取り除いて発動できる。このターン、このカードは１度のバトルフェイズ中に２回までモンスターに攻撃できる。取り除いたＸ素材がモンスターだった場合、さらにそのモンスターと同じ種族のモンスター１体をデッキから墓地へ送る事ができる。
+  | ko_text             = 
+  | sc_text             = 等级9怪兽×2<br />“银河眼反物质龙”1回合1次，也可重叠在持有3个以上超量素材的、自己的超量怪兽上面来超量召唤。①：持有超量素材的此卡给予对手的战斗伤害变为一半。②：去除此卡的1个超量素材可以发动。此回合，此卡在1次战斗阶段中最多可攻击怪兽2次。去除的超量素材为怪兽的情况下，进而可从牌组将1只与该怪兽种族相同的怪兽送至墓地。
+  | jp_sets             = 
+  25DB-JP004; Duelist Box: Prismatic Summon; Super Rare, Secret Rare, Prismatic Secret Rare
+  | sc_sets             = 
+  NE03-SC004; Nature Pack: Righteous Warriors; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | mentions            = Galaxy-Eyes Antimatter Dragon
+  | supports            = Xyz Monster
+  | archseries          = 
+  * Galaxy
+  * Galaxy-Eyes
+  | related_to_archseries = 
+  * Number
+  * Number (Spell/Trap archetype)
+  | action              = 
+  * Transfers
+  * Applies effects if Xyz Material is attached
+  * Sends from your Deck to your Graveyard
+  | summoning           = 
+  * 2 Xyz Materials
+  * Does not require specific Xyz Materials
+  * Special Summon by its own condition once per turn
+  * Special Summons itself from your Extra Deck
+  * Xyz Evolution
+  | attack              = Can make multiple attacks on monsters
+  | life_points         = Reduces battle damage
+  | database_id         = 22214
+  }}

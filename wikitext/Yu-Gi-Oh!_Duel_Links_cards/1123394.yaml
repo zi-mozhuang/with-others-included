@@ -1,0 +1,32 @@
+title: Clear Wing Synchro Dragon (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name       = Dragon Synchro de l'Aile Claire
+  | de_name       = Glasflügel-Synchrodrache
+  | it_name       = Drago Synchro Ala Chiara
+  | es_name       = Dragón Sincro Ala Transparente
+  | ko_name       = 클리어윙 싱크로 드래곤
+  | image         = 
+  | attribute     = WIND
+  | types         = Dragon / Synchro / Effect
+  | level         = 7
+  | atk           = 2500
+  | def           = 2000
+  | rarity        = UR
+  | status        = 
+  | text          = 1 [[Tuner monster|Tuner]] + 1+ non-Tuner [[monster]]s<br />[[Once per turn]], during either player's turn, when another [[Level]] 5 or higher monster [[activate]]s its [[effect]] on the [[field]]: You can [[negate]] the activation, and if you do, [[destroy]] it. Once per turn, during either player's turn, when a monster effect is activated that [[target]]s 1 Level 5 or higher monster on the field (and no other cards): You can negate the activation, and if you do, destroy it. If this card's effect destroys a monster, this card gains [[ATK]] equal to the destroyed monster's [[original ATK]] until the end of this turn.
+  | fr_text       = 1 Syntoniseur + 1+ monstre non-Syntoniseur<br />Une fois par tour, durant le tour de chaque joueur, lorsqu'un autre monstre de min. Niveau 5 active son effet sur le Terrain : vous pouvez annuler l'activation, et si vous le faites, détruisez-le. Une fois par tour, durant le tour de chaque joueur, lorsqu'un effet de monstre qui cible 1 monstre de min. Niveau 5 sur le Terrain (et aucune autre carte) est activé : vous pouvez annuler l'activation, et si vous le faites, détruisez-le. Si l'effet de cette carte détruit un monstre, jusqu'à la fin de ce tour, cette carte gagne une ATK égale à l'ATK d'origine du monstre détruit.
+  | ja_text       = 
+  | releases      = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Wings of Clearness}}
+  {{Duel Links release table|type=box|Pick Up Box: Ancient Records}}
+  {{Duel Links release table|type=box|Anniversary BOX WCS2025}}
+  {{Duel Links release table/footer}}
+  | artwork2_name = Alternative artwork
+  | releases2     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Anniversary BOX Vol.01}}
+  {{Duel Links release table|type=box|Anniversary BOX Vol.02}}
+  {{Duel Links release table/footer}}
+  }}

@@ -1,0 +1,52 @@
+title: Early Palm Gets the Win
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name             = 
+  | de_name             = 
+  | it_name             = 
+  | pt_name             = 
+  | es_name             = 
+  | ja_name             = {{Ruby|先|せん}}{{Ruby|手|て}}{{Ruby|必|ひっ}}{{Ruby|掌|しょう}}
+  | romaji_name         = Sentehisshō
+  | translated_name     = 
+  | ko_name             = 
+  | ko_rr_name          = 
+  | sc_name             = 
+  | image               = EarlyPalmGetstheWin-26PR-JP-NPR.png
+  | card_type           = Spell
+  | property            = Continuous
+  | password            = 58995660
+  | effect_types        = Trigger-like
+  | text                = [[Once per turn]], when an [[attack]] is [[declare]]d involving your [[monster]]: You can roll a six-sided die and apply this [[effect]] to that monster you [[control]] based on the result until the end of this [[turn]]. If you activated this effect when an attack was declared involving 2 monsters in the same [[column]], you choose the effect instead.<br />● 1 or 4: The first time it would be [[destroyed by battle]] or card effect, it is not destroyed.<br />● 2 or 5: It loses 500 [[ATK]], also it is [[unaffected]] by activated Spell/Trap effects, except "Early Palm Gets the Win".<br />● 3 or 6: It gains 1000 ATK, also it can make up to 2 attacks on monsters during each Battle Phase.
+  | fr_text             = 
+  | de_text             = 
+  | it_text             = 
+  | pt_text             = 
+  | es_text             = 
+  | ja_text             = ①：１ターンに１度、自分のモンスターが戦闘を行う攻撃宣言時に発動できる。サイコロを１回振り、出た目によって以下の効果をその自分のモンスターにターン終了時まで適用する。同じ縦列のモンスター同士が戦闘を行う攻撃宣言時に発動した場合、サイコロを振らず以下の効果から１つを選ぶ。<br />●１・４：１度だけ戦闘・効果では破壊されない。●２・５：攻撃力が５００ダウンし、「先手必掌」以外の魔法・罠カードが発動した効果を受けない。●３・６：攻撃力が１０００アップし、１度のバトルフェイズ中に２回までモンスターに攻撃できる。
+  | ko_text             = 
+  | sc_text             = 
+  | jp_sets             = 
+  26PR-JP004; Promotion Pack 2026; Normal Parallel Rare
+  | mentions            = Early Palm Gets the Win
+  | action              = Activates upon attack declaration
+  | stat_change         = 
+  * Your monsters lose ATK
+  * Your monsters gain ATK
+  | m/s/t               = 
+  * Prevents other cards being destroyed by card effects
+  * Unaffected by activated card effects
+  * Unaffected by Spell Cards
+  * Unaffected by Trap Cards
+  | attack              = 
+  * Prevents other cards being destroyed by battle
+  * Allows multiple attacks on monsters
+  | misc                = 
+  * Limited activations
+  * Die roll
+  * Column
+  * Variable effects
+  | database_id         = 22503
+  }}

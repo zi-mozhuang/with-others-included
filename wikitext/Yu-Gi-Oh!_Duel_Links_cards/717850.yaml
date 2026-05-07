@@ -1,0 +1,24 @@
+title: D/D Necro Slime (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = D/D Nécro Slime
+  | de_name      = D/D-Nekroschleim
+  | it_name      = D/D Melma Necro
+  | es_name      = D/D Limo Necro
+  | ko_name      = {{Ruby|D|디|lang=ko}}{{Ruby|D|디|lang=ko}} 네크로 슬라임
+  | image        = DDNecroSlime-DULI-EN-VG.png
+  | attribute    = DARK
+  | types        = Fiend / Effect
+  | atk          = 300
+  | def          = 300
+  | level        = 1
+  | rarity       = SR
+  | effect_types = Ignition, Condition
+  | text         = If this card is in your [[Graveyard]]: You can [[Fusion Summon]] 1 "[[D/D/D]]" [[Fusion Monster]] from your [[Extra Deck]], by [[banish]]ing [[Fusion Material]]s listed on it from your Graveyard, including this card. You can only use this [[effect]] of "D/D Necro Slime" [[once per turn]].
+  | fr_text      = Si cette carte est dans votre Cimetière : vous pouvez Invoquer par Fusion 1 Monstre de Fusion "D/D/D" depuis votre Extra Deck, en bannissant les Matériels de Fusion (cette carte incluse) mentionnés sur celui-ci depuis votre Cimetière. Vous ne pouvez utiliser cet effet de "D/D Nécro Slime" qu'une fois par tour.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Scarred Resonance}}
+  {{Duel Links release table/footer}}
+  }}

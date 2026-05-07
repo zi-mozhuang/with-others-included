@@ -1,0 +1,19 @@
+title: Dragon Bird
+wikitext: |-
+  {{CardTable2
+  | rush_duel   = true
+  | ja_name     = ドラゴン・バード
+  | romaji_name = Doragon Bādo
+  | image       = DragonBird-RDB231-JP-C.png
+  | attribute   = WIND
+  | types       = Dragon / Normal
+  | level       = 3
+  | atk         = 800
+  | def         = 1000
+  | text        = ''Though often considered a relative of birds, this mysterious creature is something else entirely. Its strength resembles that of a dragon more than a bird, so it is possible that's what it is.''
+  | ja_text     = 鳥の仲間と思われがちだが、実は違う謎の生物。鳥にしては強そうなので、もしかしたらドラゴンかもしれない。
+  | ko_text     = 
+  | jp_sets     = 
+  RD/B231-JP009; Battle Pack 2023 Vol.1; Common
+  | database_id = 18895
+  }}

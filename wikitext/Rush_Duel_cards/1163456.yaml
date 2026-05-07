@@ -1,0 +1,28 @@
+title: Moonforce Ziggy
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = ムーンフォース・ズィジー
+  | romaji_name    = Mūnfōsu Zijī
+  | image          = MoonforceZiggy-RDKP24-JP-C.png
+  | attribute      = EARTH
+  | types          = Galaxy / Effect
+  | level          = 3
+  | atk            = 0
+  | def            = 1400
+  | requirement    = [[Battle position change|Change]] the [[battle position]] of 1 [[face-up]] [[Monster Card|monster]] on your [[field]].
+  | text           = Choose 1 face-up [[Level]] 8 or lower monster on your opponent's field. During your opponent's next [[turn]], your opponent cannot [[attack]] with that monster. Then, you can place 1 monster from your [[Graveyard]] on the bottom of the [[Main Deck|Deck]]. If you do, this card gains 500 [[DEF]] until the end of your opponent's next turn.
+  | ja_requirement = 自分フィールドの表側表示モンスター１体の表示形式を変更して発動できる。
+  | ja_text        = 相手フィールドの表側表示モンスター（レベル８以下）１体を選ぶ。次の相手ターン、相手はそのモンスターで攻撃できない。さらに、自分の墓地のモンスター１体を選んでデッキの下に戻す事ができる。戻した場合、このカードの守備力は次の相手ターン終了時まで５００アップする。
+  | jp_sets        = 
+  RD/KP24-JP014; Overforce of the Abyss; Common
+  | archseries     = Moonforce
+  | action         = 
+  * Changes battle positions for cost
+  * Places cards from the player's Graveyard on the bottom of the Deck
+  | stat_change    = This card gains DEF
+  | attack         = Prevents your opponent's monsters from attacking
+  | misc           = Turn limited effects
+  | database_id    = 22844
+  }}

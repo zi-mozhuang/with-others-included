@@ -1,0 +1,71 @@
+title: One-Way Synchro
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Sens Unique Synchro
+  | de_name               = Einbahn-Synchro
+  | it_name               = Synchro a Senso Unico
+  | pt_name               = Sincro Unidirecional
+  | es_name               = Unidireccional Sincro
+  | ja_name               = シンクロ・ワンウェイ
+  | romaji_name           = Shinkuro Wanwei
+  | translated_name       = Synchro One-Way
+  | ko_name               = 싱크로 원웨이
+  | ko_rr_name            = 
+  | sc_name               = 同步独径
+  | image                 = OneWaySynchro-L5DD-EN-C-1E.png
+  | card_type             = Trap
+  | property              = Normal
+  | password              = 89932017
+  | effect_types          = Effect, Quick-like, Condition
+  | text                  = Take 1 [[Level]] 1 [[Tuner]] from your [[Main Deck|Deck]] or [[GY]], and either [[Add a card|add]] it to your [[hand]] or [[Special Summon]] it. If you control "[[Junk Warrior]]" or a monster that mentions it, and this card is in your [[GY]]: You can [[Set]] this card, but [[banish]] it when it [[leaves the field]]. You can only use 1 "One-Way Synchro" [[effect]] per turn, and only once that turn.
+  | fr_text               = Prenez 1 Syntoniseur de Niveau 1 depuis votre Deck ou Cimetière, et soit ajoutez-le à votre main soit Invoquez-le Spécialement. Si vous contrôlez "Robot Guerrier" ou un monstre qui le mentionne, et que cette carte est dans votre Cimetière : vous pouvez Poser cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser qu'1 effet de "Sens Unique Synchro" par tour, et uniquement une fois le tour.
+  | de_text               = Nimm 1 Empfänger der Stufe 1 von deinem Deck oder Friedhof und füge ihn entweder deiner Hand hinzu oder beschwöre ihn als Spezialbeschwörung. Falls du „Gerümpelkrieger“ oder ein Monster, das ihn erwähnt, kontrollierst, und sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte setzen, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst nur 1 Effekt von „Einbahn-Synchro“ pro Spielzug verwenden und in jenem Spielzug nur einmal.
+  | it_text               = Prendi 1 Tuner di Livello 1 dal tuo Deck o Cimitero e aggiungilo alla tua mano oppure Evocalo Specialmente. Se controlli "Guerriero Rottame" o un mostro che lo menziona, e questa carta è nel tuo Cimitero: puoi Posizionare questa carta, ma bandiscila quando lascia il Terreno. Puoi utilizzare solo 1 effetto di "Synchro a Senso Unico" per turno, e solo una volta in quel turno.
+  | pt_text               = Pegue 1 Regulador de Nível 1 do seu Deck ou Cemitério e adicione-o à sua mão ou Invoque-o por Invocação-Especial. Se você controlar "Guerreiro Sucata" ou um monstro que o mencione, e este card estiver no seu Cemitério: você pode Baixar este card, mas bana-o quando ele deixar o campo. Você só pode usar 1 efeito de "Sincro Unidirecional" por turno e apenas uma vez por turno.
+  | es_text               = Toma 1 Cantante de Nivel 1 en tu Deck o Cementerio, y ya sea añádelo a tu mano o Invócalo de Modo Especial. Si controlas "Guerrero de Basura" o un monstruo que lo mencione, y esta carta está en tu Cementerio: puedes Colocar esta carta, pero destiérrala cuando deje el Campo. Sólo puedes usar 1 efecto de "Unidireccional Sincro" por turno, y sólo una vez ese turno.
+  | ja_text               = このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分のデッキ・墓地からレベル１チューナー１体を選び、手札に加えるか特殊召喚する。②：このカードが墓地に存在し、「ジャンク・ウォリアー」またはそのカード名が記されたモンスターが自分フィールドに存在する場合に発動できる。このカードを自分フィールドにセットする。この効果でセットしたこのカードはフィールドから離れた場合に除外される。
+  | ko_text               = 이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 자신의 덱 / 묘지에서 레벨 1 튜너 1장을 고르고, 패에 넣거나 특수 소환한다. ②: 이 카드가 묘지에 존재하고, "정크 워리어" 또는 그 카드명이 쓰여진 몬스터가 자신 필드에 존재할 경우에 발동할 수 있다. 이 카드를 자신 필드에 세트한다. 이 효과로 세트한 이 카드는 필드에서 벗어났을 경우에 제외된다.
+  | sc_text               = 此卡名的①②效果1回合1次，仅可使用其中1个。①：从自己牌组・墓地挑选1只等级1协调，加入手牌或特殊召唤。②：此卡存在于墓地，且自己场上存在“废品战士”或记载有该卡名的怪兽的情况下可以发动。将此卡放置在自己场上。以此效果放置的此卡从场上离开的情况下，将其除外。
+  | en_sets               = 
+  L5DD-ENY06; Legendary 5D's Decks; Common
+  | fr_sets               = 
+  L5DD-FRY06; Legendary 5D's Decks; Common
+  | de_sets               = 
+  L5DD-DEY06; Legendary 5D's Decks; Common
+  | it_sets               = 
+  L5DD-ITY06; Legendary 5D's Decks; Common
+  | pt_sets               = 
+  L5DD-PTY06; Legendary 5D's Decks; Common
+  | sp_sets               = 
+  L5DD-SPY06; Legendary 5D's Decks; Common
+  | jp_sets               = 
+  SD48-JP006; Structure Deck: Power of Fellows; Normal Parallel Rare
+  SD48-JPP06; Structure Deck: Power of Fellows Light of Gathering Stars Pack; Super Rare, Secret Rare
+  | ae_sets               = 
+  BPRO-AE120; Burst Protocol; Common
+  | kr_sets               = 
+  SD48-KR006; Structure Deck: Power of Fellows Special Set; Normal Parallel Rare
+  SD48-KRP06; Structure Deck: Power of Fellows Light of Gathering Stars Pack; Super Rare, Secret Rare
+  | sc_sets               = 
+  SD48-SC006; Structure Deck: Power of Fellows; Normal Parallel Rare
+  SD48-SCP06; Structure Deck: Power of Fellows Light of Gathering Stars Pack; Super Rare, Secret Rare
+  | mentions              = Junk Warrior
+  | supports              = Tuner monster
+  | archseries            = Synchro (archetype)
+  | related_to_archseries = 
+  * Junk
+  * Warrior (archetype)
+  | action                = 
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  * Sets itself from your Graveyard
+  | summoning             = 
+  * Special Summons from your Deck
+  * Special Summons from your Graveyard
+  | banished              = Banishes itself when it leaves the field
+  | misc                  = 
+  * Requires control of specific card
+  * Mentions
+  * Only 1 effect once per turn
+  | database_id           = 21906
+  }}

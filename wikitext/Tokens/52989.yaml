@@ -1,0 +1,26 @@
+title: Spider Token
+wikitext: |-
+  {{CardTable2
+  | fr_name     = Jeton Araignée
+  | de_name     = Spinne-Spielmarke
+  | it_name     = Segna-Ragno
+  | pt_name     = Ficha de Aranha
+  | es_name     = Ficha Araña
+  | ko_name     = 스파이더 토큰
+  | ja_name     = スパイダートークン
+  | romaji_name = Supaidā Tokun
+  | image       = Token-SOVR-EN-C-UE-Spider.jpg
+  | card_type   = Token
+  | attribute   = EARTH
+  | types       = Insect / Normal
+  | level       = 1
+  | atk         = 100
+  | def         = 100
+  | summoned_by = Spider Egg
+  | text        = This card can be used as any [[Monster Token|Token]].
+  | en_sets     = 
+  SOVR-ENTK2; Stardust Overdrive Plus; Common
+  | dar_text    = [[Special Summon]]ed with the [[effect]] of "[[Spider Egg]]".
+  | archseries  = Spider
+  | database_id = 3963
+  }}

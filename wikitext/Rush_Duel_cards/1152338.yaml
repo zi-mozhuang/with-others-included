@@ -1,0 +1,37 @@
+title: Legend Necromancer
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = レジェンド・ネクロマンサー
+  | romaji_name    = Rejendo Nekuromansā
+  | ko_name        = 레전드 네크로맨서
+  | image          = LegendNecromancer-RDORP3-JP-UR.png
+  | attribute      = LIGHT
+  | types          = Fiend / Effect
+  | level          = 4
+  | atk            = 1000
+  | def            = 300
+  | condition      = This card is treated as a [[Legend Card]] while in the [[hand]] or [[Graveyard]].
+  | requirement    = [[Send]] 1 [[LIGHT]] [[Attribute]] [[Monster Card|monster]] from your hand to the Graveyard.
+  | text           = [[Set]] 1 [[Ritual Spell Card]] from your Graveyard to your [[Spell & Trap Zone]].
+  | ja_condition   = 手札または墓地にいるこのカードはレジェンドカードになる。
+  | ja_requirement = 手札のモンスター（光属性）１体を墓地へ送って発動できる。
+  | ja_text        = 自分の墓地のリチュアル魔法カード１枚を選んで自分の魔法＆罠ゾーンにセットする。
+  | ko_condition   = 패 또는 묘지에 있는 이 카드는 레전드 카드가 된다.
+  | ko_requirement = 패의 몬스터(빛 속성) 1장을 묘지로 보내고 발동할 수 있다.
+  | ko_text        = 자신 묘지의 리추얼 마법 카드 1장을 고르고 자신의 마법 & 함정 존에 세트한다.
+  | jp_sets        = 
+  RD/ORP3-JP066; Over Rush Pack 3; Ultra Rare, Over Rush Rare
+  | kr_sets        = 
+  RD/ORP3-KR066; Over Rush Pack 3; Ultra Rare, Over Rush Rare
+  | supports       = 
+  * LIGHT
+  * Ritual Spell Card
+  | archseries     = Legend (series)
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * Sets from your Graveyard
+  | stat_change    = Treated as a Legend Card
+  | database_id    = 22266
+  }}

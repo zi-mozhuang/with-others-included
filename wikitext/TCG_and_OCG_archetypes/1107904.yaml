@@ -1,0 +1,104 @@
+title: Dominus
+wikitext: |-
+  {{stub}}
+  {{Infobox archseries
+  | image          = DominusPurge-MADU-EN-VG-artwork.png
+  | caption        = "[[Dominus Purge]]"
+  | ja_name        = ドミナス
+  | romaji         = Dominasu
+  | fr_name        = Dominus
+  | de_name        = Dominus
+  | it_name        = Dominus
+  | ko_name        = 도미나스
+  | ko_romanized   = 
+  | pt_name        = Dominus
+  | es_name        = Dominus
+  | sc_name        = 主王
+  | sets           = 
+  * [[The Infinite Forbidden]]
+  * [[Rage of the Abyss]]
+  * [[Alliance Insight]]
+  * [[Doom of Dimensions]]
+  * [[Blazing Dominion]]
+  | ocg            = 
+  * [[Infinite Forbidden +1 Bonus Pack]]
+  * [[Rage of the Abyss +1 Bonus Pack]]
+  * [[Limit Over Special Pack Vol.1]]
+  * [[Limit Over Special Pack Vol.2]]
+  }}
+
+  "'''Dominus'''" (ドミナス ''Dominasu'') is an [[archetype]] of [[Normal Trap Card]]s that debutted in ''[[The Infinite Forbidden]]''.
+
+  ==Design==
+  "Dominus" cards depict large colorful creatures accompanied by young girls with the same color scheme. In Japanese, the archetype's name is a reading for some form of "X King", implying the large creatures are rulers of certain elements, while the concept art of "[[Dominus Impulse]]" labelling to its girl as "Spirit Princess" seems to indicate they serve them.
+
+  Effect-wise, the cards all follow a very specific format: they can be [[activate]]d from the [[hand]] under a certain condition, but doing so prevents the player from activating the [[Monster effect|effects of monsters]] with certain [[Attribute]]s for the rest of the Duel. Their effects also have either a bonus if the player has a Trap in their [[Graveyard]] or a downside if they do not.
+
+  {| class="wikitable" style="text-align:center"
+  ! rowspan=2 | Card
+  ! rowspan=2 | Title
+  ! rowspan=2 | Main color
+  ! rowspan=2 | Hand activation requirement
+  ! rowspan=2 | Effect
+  ! colspan=6 | Attributes usable after hand activation
+  |-
+  ! [[LIGHT]]
+  ! [[DARK]]
+  ! [[EARTH]]
+  ! [[WATER]]
+  ! [[FIRE]]
+  ! [[WIND]]
+  |-
+  | [[Dominus Purge|Purge]]
+  | Holy King
+  | Red
+  | Opponent [[control]]s a card
+  | [[Negate]]s a card or [[card effect|effect]] that [[add a card|adds]] from [[Main Deck|Deck]] to [[hand]]. If a Trap is in GY, the card is also destroyed
+  | {{yes}}
+  | {{no}}
+  | {{yes}}
+  | {{no}}
+  | {{no}}
+  | {{yes}}
+  |-
+  | [[Dominus Impulse|Impulse]]
+  | Spirit King
+  | Blue
+  | Opponent controls a card
+  | Negates a card or effect that [[Special Summon]]s. If a Trap is in GY, the card is also destroyed
+  | {{no}}
+  | {{yes}}
+  | {{no}}
+  | {{yes}}
+  | {{yes}}
+  | {{no}}
+  |-
+  | [[Dominus Spiral|Spiral]]
+  | Life King
+  | Green
+  | Opponent activated a monster effect in hand or GY that turn
+  | [[Return]]s an opponent's monster to hand/[[Extra Deck]]. If no Trap is in GY, they can Summon one from GY
+  | {{no}}
+  | {{no}}
+  | {{yes}}
+  | {{yes}}
+  | {{yes}}
+  | {{yes}}
+  |-
+  | [[Dominus Spark|Spark]]
+  | Thunder King
+  | Black
+  | Opponent activated a monster effect in hand or GY that turn
+  | [[Banish]]es an opponent's monster. If no Trap is in GY, they can Summon one from hand
+  | {{yes}}
+  | {{yes}}
+  | {{no}}
+  | {{no}}
+  | {{no}}
+  | {{no}}
+  |}
+
+  The effect of (currently) the only support card of the archetype, "[[Songs of the Dominators]]", is also constructed in a very similar way, with the difference that it prevents the player from using monster effects in the hand, Graveyard, or [[banish]]ment for 2 turns.
+
+  {{Archseries navbox}}
+  [[Category:TCG and OCG archetypes]]

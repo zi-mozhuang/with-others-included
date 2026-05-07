@@ -1,0 +1,31 @@
+title: Rite of Despair
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = {{Ruby|絶|ぜつ}}{{Ruby|望|ぼう}}の{{Ruby|儀|ぎ}}
+  | romaji_name    = Zetsubō no Gi
+  | image          = RiteofDespair-RDORP4-JP-SR.png
+  | card_type      = Spell
+  | property       = Ritual
+  | ritualmonster  = Dead Core the Mad Fiend of Despair
+  | requirement    = None
+  | text           = [[Ritual Summon]] "[[Dead Core the Mad Fiend of Despair]]" by [[send]]ing [[face-up]] [[Fiend]] [[Type]] [[Monster Card|monster]]s from your [[field]] to the [[Graveyard]] whose total [[Level]]s equal 3 or more as [[material]] (you cannot use more monsters than necessary as material).
+  | ja_requirement = なし
+  | ja_text        = レベルの合計が３以上になるように、自分フィールドの表側表示モンスター（悪魔族）を素材として墓地へ送り、「絶望狂魔デッド・コア」をリチュアル召喚する（余分にモンスターを素材にできない）。
+  | jp_sets        = 
+  RD/ORP4-JP032; Over Rush Pack 4; Super Rare, Secret Rare
+  | mentions       = Dead Core the Mad Fiend of Despair
+  | supports       = Fiend
+  | archseries     = Mad Fiend of Despair
+  | action         = 
+  * Sends from your field to your Graveyard
+  * Uses cards on the player's field as Ritual Materials
+  * Can only use certain monsters for Ritual Summon
+  | summoning      = Special Summons from your Extra Deck
+  | misc           = 
+  * Specific Ritual Spell Card
+  * Requires control of specific Type
+  * Requires control of specific Level
+  | database_id    = 23063
+  }}

@@ -1,0 +1,44 @@
+title: Rainbow Bridge Bifrost
+wikitext: |-
+  {{About|the card originally featured in ''Yu-Gi-Oh! 5D's''|the card featured in the original ''Yu-Gi-Oh!'' anime|""Rainbow Bridge Bifrost"" (''DM'')}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|虹|にじ}}の{{Ruby|橋|はし}} ビフレスト
+  | romaji_name           = Niji no Hashi Bifuresuto
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 虹之桥
+  | sc_translated_name    = Rainbow Bridge
+  | image                 = RainbowBridgeBifrost-LOCH-JP-UR.png
+  | card_type             = Spell
+  | property              = Normal
+  | password              = 32236916
+  | effect_types          = Condition, Effect, Condition
+  | text                  = (This card is not treated as a "[[Rainbow Bridge (archetype)|Rainbow Bridge]]" card.)<br />[[Banish]] 3 [[Level]] 10 or higher [[monsters]] from your [[Extra Deck]], including a [[LIGHT]] [[Synchro Monster]]; [[Add a card|add]] 1 [[Field Spell]] from your [[Main Deck|Deck]] to your [[hand]]. You can only [[activate]] 1 "Rainbow Bridge Bifrost" per turn.
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = このカード名のカードは１ターンに１枚しか発動できない。①：光属性Ｓモンスターを含むレベル１０以上のモンスター３体をＥＸデッキから除外して発動できる。デッキからフィールド魔法カード１枚を手札に加える。
+  | ko_text               = 
+  | sc_text               = 此卡名的卡1回合仅可发动1张。①：从额外牌组将包含光属性同步怪兽在内的、3只等级10以上的怪兽除外可以发动。从牌组将1张场地魔法卡加入手牌。
+  | jp_sets               = 
+  LOCH-JP021; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | sc_sets               = 
+  LOCH-SC021; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | supports              = 
+  * LIGHT
+  * Synchro Monster
+  * Field Spell Card
+  | related_to_archseries = Aesir
+  | action                = Adds from Deck to hand
+  | banished              = Banishes from Extra Deck for cost
+  | misc                  = Only once per turn
+  | database_id           = 22710
+  }}

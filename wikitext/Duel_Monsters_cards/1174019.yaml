@@ -1,0 +1,60 @@
+title: Predaplant Dheadevil
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|捕食植物|プレデター・プランツ}}デェアデビル
+  | romaji_name           = Puredetā Purantsu Dyeadebiru
+  | translated_name       = Predator Plants Dheadevil
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 
+  | image                 = PredaplantDheadevil-VX06-JP-UR.png
+  | attribute             = DARK
+  | types                 = Plant / Fusion / Effect
+  | level                 = 6
+  | atk                   = 2200
+  | def                   = 1500
+  | password              = 82370493
+  | materials             = 1 "Predaplant" monster + 1 Level 1 monster
+  | effect_types          = Summoning condition, Quick, Condition
+  | text                  = 1 "[[Predaplant]]" [[monster]] + 1 [[Level]] 1 monster<br />Must first be either [[Fusion Summon]]ed, or [[Special Summon]]ed (from your [[Extra Deck]]) by Tributing 1 monster on either [[field]] with a [[Predator Counter]] and 1 "Predaplant" monster. During the [[Main Phase]], if this card was Special Summoned this [[turn]] ([[Quick Effect]]): You can [[target]] [[Spells]]/[[Traps]] on the field, up to the number of monsters with a Predator Counter; [[destroy]] them. You can only use this effect of "Predaplant Dheadevil" once per turn.
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = 「捕食植物」モンスター＋レベル１モンスター<br />このカードは融合召喚及び以下の方法でのみＥＸデッキから特殊召喚できる。●自分フィールドの「捕食植物」モンスター１体と自分か相手のフィールドの捕食カウンターが置かれているモンスター１体をリリースした場合に特殊召喚できる。このカード名の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚した自分・相手ターンのメインフェイズに、捕食カウンターが置かれているモンスターの数まで、フィールドの魔法・罠カードを対象として発動できる。そのカードを破壊する。
+  | ko_text               = 
+  | sc_text               = 
+  | jp_sets               = 
+  VX06-JP002; The Valuable Book EX 6 promotional cards; Ultra Rare
+  | archseries            = 
+  * Predap
+  * Predaplant
+  | supports_archetypes   = Predaplant
+  | counter               = Predator Counter
+  | action                = 
+  * Tributes for Special Summon
+  * Tributes Fusion Materials for Contact Fusion
+  * Tributes opponent's monsters
+  * Uses cards on the opponent's field for Contact Fusion
+  | m/s/t                 = 
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Special Summon-only monster
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Contact Fusion without listed Fusion Materials
+  * Special Summons itself from your Extra Deck
+  | misc                  = Only once per turn
+  | database_id           = 22922
+  }}

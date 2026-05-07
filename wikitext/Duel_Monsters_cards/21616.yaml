@@ -1,0 +1,20 @@
+title: Dice Armadillo
+wikitext: |-
+  {{CardTable2
+  | ja_name     = ダイス・アルマジロ
+  | romaji_name = Daisu Arumajiro
+  | image       = DiceArmadillo-V6-JP-C-Reprint.png
+  | attribute   = EARTH
+  | types       = Machine / Normal
+  | atk         = 1650
+  | def         = 1800
+  | level       = 5
+  | text        = ''An armadillo [[Monster Card|monster]] that rolls up to form a [[dice]]-like shape.''
+  | ja_text     = 体を丸めると、サイコロのような形になるアルマジロ。
+  | password    = 69893315
+  | jp_sets     = 
+  ; Vol.6; Common
+  | ygo_sets    = 
+  '''[[Pack 9 (YGOO-BP)|Pack 9]]'''
+  | database_id = 4429
+  }}

@@ -1,0 +1,150 @@
+title: Monster Token
+wikitext: |-
+  {{Redirect|Token|the card|Token (card)|the Tip Card|""Monster Tokens"" (Tip Card)}}
+  {{Show card image|Primal Being Token|The official card for the "[[Primal Being Token]]", a Token Special Summoned by "[[Nibiru, the Primal Being]]".|align=right}}
+  '''Tokens''' (トークン ''Tōkun''), also called '''Monster Tokens''' (モンスタートークン ''Monsutā Tōkun'') in ''[[OCG]]'' rulings and the ''[[TCG]]'' rulebook, are a type of [[Monster Card|monster]] that can only be created by card [[effect]]s, certain [[Summoning condition]]s, or [[Skill]]s.
+
+  In the ''[[Yu-Gi-Oh! Trading Card Game|TCG]]'' and ''[[Yu-Gi-Oh! Official Card Game|OCG]]'', Tokens are officially grey-colored cards, but they can be represented by any object that can unambiguously indicate its own battle position. These can include proxy cards, coins (in which case heads is treated as [[Attack Position]] and tails as [[Defense Position]]), or [[dice]].
+
+  == Mechanics ==
+  Monster Tokens are always [[Normal Monster]]s, and never have effects. Some Tokens have effects applied to them by the cards that Summon them, but these are not the effects of the Tokens themselves, so they cannot be negated by cards like "[[Skill Drain]]". Many video games include the restrictions from the effect or Skill that created it in the Token's [[card text]], but it is still not considered to be an effect of the Token itself, only a reminder text.
+
+  The [[owner]] of a Token is the player who [[Special Summon]]ed it. For example, "[[Owner's Seal]]" will change control of "[[Ojama Token]]s" Special Summoned by the effect of "[[Ojama Trio]]" to the player who activated "Ojama Trio".
+
+  === Summoning Tokens ===
+  Tokens can only be [[Special Summon]]ed from outside of the game. Tokens treated as Spell/Trap Cards (e.g. due to "[[Sinful Spoils of Subversion - Snake-Eye]]") cannot be Special Summoned from the [[Spell & Trap Zone]].
+
+  Since Tokens cannot be Normal Summoned or Set, they are considered [[Special Summon Monster]]s.
+
+  === Can only exist on the field ===
+  Tokens can only exist on the [[field]], and not anywhere else. 
+
+  If a Token [[leaves the field]] (i.e. it would be moved to the [[hand]], [[Main Deck]], or [[Graveyard]], or is [[banish]]ed), it ceases to exist and is removed from the game. They are not considered to have been moved to any other location. If a Token is banished by an effect that [[Banish#Temporarily banished|temporarily banish]]es cards, it will not return to the field later as it no longer exists.
+
+  Tokens cannot be [[Xyz Material]], because Xyz Materials [[attach]]ed to an [[Xyz Monster]] are not considered to be on the field. Consequently, they cannot be used as Xyz Material for an [[Xyz Summon]], nor attached to an Xyz Monster by a card effect (e.g. due to the effect of "[[Number 101: Silent Honor ARK]]").
+
+  Tokens can be used to pay [[cost]]s or fulfill Summoning procedures even if they cause them to leave the field, as long as the cost or procedure does not specify a destination outside the [[field]]. Tokens can be [[Tribute]]d or [[banish]]ed to pay costs or fulfill Summoning procedures (such as for the Summoning procedure of "[[Destiny HERO - Plasma]]" or "[[Unibird]]"), unless they would be required to be banished face-down (such as for the activation cost of "[[Hypernova Burst]]"). However, they cannot be sent to the Graveyard to pay costs or fulfill Summoning procedures (such as for the Summoning procedure of "[[Arcana Force EX - The Dark Ruler]]")
+
+  === Can only exist face-up ===
+  Tokens can only exist [[face-up]]. Thus, they cannot be [[flip]]ped [[face-down]], and cannot be targeted by effects that would attempt to do so. Even if an [[Attack Position]] Token would be affected by a card that would change it to face-down [[Defense Position]] (such as "[[Swords of Concealing Light]]"), it remains in Attack Position.
+
+  Tokens cannot be banished face-down. If an effect would attempt to banish Tokens face-down (e.g. "[[Evenly Matched]]"), the Tokens are not banished at all and remain on the field.
+
+  == Token card ==
+  Token cards are officially produced ''[[TCG]]''/''[[OCG]]'' collectible cards that can be used to represent Tokens. They usually feature the general [[card layout]] of ''TCG''/''OCG'' game cards, and are colored in gray. If using Token cards, they are not to be included in the [[Main Deck|Main]] or [[Extra Deck]], as stated by the [[limitation text]] written on them.
+
+  Token cards may or may not be printed with information (i.e. [[card name]], [[artwork]], [[card text]]) that corresponds to an actual Monster Token mentioned in a card effect; there are Monster Tokens that don't have corresponding cards, and there are also Token cards that do not have corresponding Monster Tokens.
+
+  Most ''OCG'' cards from 2013 onwards that correspond to specific Monster Tokens have that Token's name and stats printed as their own name and stats (see [[Card layout#Series 8 layout|Card layout §&nbsp;Series 8 layout]]); the ''[[Yu-Gi-Oh! Trading Card Game|TCG]]'' started following this trend later in 2016.
+
+  The first Token card that did not correspond to a specific Monster Token was the [[Yu-Gi-Oh! 5D's National Championship 2009 promotional cards|''National Championship 2009'' Token]], which was given out to participants of United States and Canada's National Championships and participants of the European and South American Continental Championships of that year. Since then, the vast majority of generic Token cards released have been of anime characters together with their [[signature card|signature monsters]], with one of that character's quotes on the bottom of the text box (usually the monster's [[Summon chant]]).
+
+  === Card text ===
+  Prior to 2013 in the ''OCG'' and 2016 in the ''TCG'', all Token cards shared the same [[card text]] and name ([[Token (card)|Token]]). From those years onwards in the respective formats, some Token cards have custom names and/or card texts.
+
+  {| class="wikitable"
+  |-
+  ! scope="col" | Language
+  ! scope="col" | Card text
+  ! scope="col" | Translation
+  |-
+  | English
+  | colspan=2 | This card can be used as any Token.
+  |-
+  | French
+  | Cette carte peut être utilisée comme un Jeton.
+  | This card can be used as a Token.
+  |-
+  | German
+  | Diese Karte kann als eine beliebige Spielmarke verwendet werden.
+  | This card can be used as any Token.
+  |-
+  | Italian
+  | Questa carta può essere usata come Segna-Mostro generico.
+  | This card can be used as a generic Monster Token.
+  |-
+  | Portuguese
+  | Este card pode ser usado como uma Ficha.
+  | This card can be used as a Token.
+  |-
+  | Spanish
+  | Esta carta puede ser utilizada como cualquier Ficha. (''previous'')<br />Esta carta puede ser usada como cualquier clase de Ficha. (''current'')
+  | This card can be used as any Token.<br />This can can be used as any kind of Token.
+  |-
+  | Japanese
+  | このカードはトークンとして{{ruby|使|し}}{{ruby|用|よう}}する{{ruby|事|こと}}ができる。<br />Kono kādo wa Tōkun toshite shiyō suru koto ga dekiru.
+  | rowspan=2 | This card can be used as a Token.
+  |-
+  | Korean
+  | 이 카드는 토큰으로 사용할 수 있다.<br />I kadeuneun Tokeun-euro sayonghal su itda.
+  |-
+  | Simplified Chinese
+  | 这张卡可作为衍生物使用。
+  |-
+  |}
+
+  === Example ===
+  {{Show card image gallery
+  | Token (card)             | Generic [[Token (card)|Token]]
+  | Synthetic Seraphim Token | "[[Synthetic Seraphim Token]]"
+  | Emperor's Key (card)     | Token/Counter Card
+  }}
+
+  == Appearances ==
+  === Anime ===
+  Before ''[[Yu-Gi-Oh! ZEXAL]]'', Monster Tokens do not appear as cards on the Duelists' Duel Disks, but rather the Summoning card stands for them. In ''[[Yu-Gi-Oh! VRAINS]]'', Token cards again disappear from Duel Disks, but they are still rendered on field overviews.
+
+  === Video games ===
+  In ''[[Yu-Gi-Oh! Power of Chaos: Joey the Passion]]'' and ''[[Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge]]'', Token cards are yellow like [[Normal Monster]]s, while their artwork is a golden-recolored international artwork of "[[Spellbinding Circle]]", making them distinguishable only by their names and stats. In other video games, Tokens are gray and mostly use the same artwork as the card that Summons them, with exceptions including nearly all of those that have been printed with stats in the ''TCG''/''OCG'' (e.g. "[[Emissary of Darkness Token]]"), though many that are not are given unique artworks too (e.g. "[[Vague Shadow Token]]").
+
+  == Trivia ==
+  * There are currently no [[Psychic]] or [[Sea Serpent]] Tokens.
+
+  == In other languages ==
+  {{In other languages
+  | ja_name   = モンスタートークン
+  | ja_romaji = Monsutā Tōkun
+  | fr_name   = Jeton Monstre
+  | de_name   = Monsterspielmarke
+  | it_name   = Segna-Mostro
+  | ko_name   = 몬스터 토큰
+  | ko_rr     = Monseuteo Tokeun
+  | es_name   = Ficha de Monstruo
+  | tc_name   = 衍生怪獸<ref>{{citeweb|url=http://www.yugioh-card.com/hk/howto/beginner.php?lang=cn-t|title=Traditional Chinese translation of ''Master Rule 2 version 1.0''|publisher=[[Konami]]}}</ref>{{Dead link}}
+  | tc_pinyin = Yǎnshēng Guàishòu
+  | tc_trans  = Derived Monster
+  | sc_name   = 怪兽衍生物<ref>{{citeweb|url=https://source.windoent.com/yugioh/rulebook_2020_SC_ver7.pdf|title=Simplified Chinese translation of ''Master Rule (June 1st, 2020 revision) version 1.0''|publisher=[[Konami]]}}</ref>
+  | sc_pinyin = Guàishòu Yǎnshēngwù
+  | sc_trans  = Monster Derivative
+  | pt_name   = Ficha de Monstro
+  }}
+  {{In other languages|Token
+  | ja_name   = トークン
+  | ja_romaji = Tōkun
+  | fr_name   = Jeton
+  | de_name   = Spielmarke
+  | it_name   = Segna-Mostro
+  | it_trans  = Monster Token
+  | ko_name   = 토큰
+  | ko_rr     = Tokeun
+  | es_name   = Ficha
+  | zh_name   = 衍生物
+  | zh_pinyin = Yǎnshēngwù
+  | zh_trans  = Derivative
+  | pt_name   = Ficha
+  }}
+
+  == See also ==
+  * [[Card Rulings:Monster Token]]
+  * [[List of Monster Tokens]]
+  * [[List of Monster Token support cards]]
+  * [[List of Monster Token anti-support cards]]
+
+  == References ==
+  <references />
+
+  {{Tokens}}
+  {{Card types}}
+
+  [[Category:Tokens| ]]
+  [[Category:Types of Monster Cards]]

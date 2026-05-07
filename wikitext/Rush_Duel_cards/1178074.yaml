@@ -1,0 +1,30 @@
+title: Handbook to the Spiritual Arts
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = {{Ruby|霊|れい}}{{Ruby|術|じゅつ}}の{{Ruby|指|し}}{{Ruby|南|なん}}{{Ruby|書|しょ}}
+  | romaji_name    = Reijutsu no Shinansho
+  | image          = HandbooktotheSpiritualArts-RDORP4-JP-SR.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = During a [[turn]] you have not [[activate]]d "Handbook to the Spiritual Arts".
+  | text           = [[Excavate]] the top 5 cards of your [[Main Deck|Deck]]. You can [[destroy]] up to 1 card on your opponent's [[field]] for every 2 excavated [[Spellcaster]] [[Type]] [[Monster Card|monster]]s with 500 or 1900 [[ATK]]/1500 [[DEF]]. Place the excavated cards on the bottom of your Deck in any order. If you destroyed 2 cards, you can only [[attack]] [[Direct attack|directly]] with 1 monster this turn.
+  | ja_requirement = 自分が「霊術の指南書」を発動していないターンに発動できる。
+  | ja_text        = 自分のデッキの上からカードを５枚めくり、お互いに確認する。自分はその中のモンスター（魔法使い族／攻撃力５００・１９００／守備力１５００）２体につき１枚まで相手フィールドのカードを選んで破壊できる。めくったカードを好きな順番でデッキの下に戻す。カード２枚を破壊した場合、このターン、自分はモンスター１体でしか直接攻撃できない。
+  | jp_sets        = 
+  RD/ORP4-JP019; Over Rush Pack 4; Super Rare, Secret Rare
+  | mentions       = Handbook to the Spiritual Arts
+  | supports       = Spellcaster
+  | archseries     = Charmer (Rush Duel)
+  | action         = 
+  * Excavates from the player's Deck
+  * Places excavated cards on the bottom of the Deck
+  | m/s/t          = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | attack         = Prevents direct attacks
+  | misc           = Only once per turn
+  | database_id    = 23052
+  }}

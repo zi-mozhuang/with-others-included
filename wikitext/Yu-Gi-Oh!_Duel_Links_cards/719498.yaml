@@ -1,0 +1,22 @@
+title: Sacred Sword of Seven Stars (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Épée Sacrée des Sept Étoiles
+  | de_name      = Gesegnetes Schwert der Sieben Sterne
+  | it_name      = Spada Sacra delle Sette Stelle
+  | ko_name      = 칠성의 보도
+  | es_name      = Espada Sagrada de las Siete Estrellas
+  | image        = SacredSwordofSevenStars-DULI-EN-VG.png
+  | card_type    = Spell
+  | property     = Normal
+  | rarity       = SR
+  | status       = Limited 3
+  | effect_types = Effect, Condition
+  | text         = [[Banish]] 1 [[Level]] 7 [[Monster Card|monster]] from your [[hand]] or [[face-up]] from your side of the [[field]]; [[Draw a card|draw]] 2 cards. You can only [[activate]] 1 "Sacred Sword of Seven Stars" per [[turn]].
+  | fr_text      = Bannissez 1 monstre de Niveau 7 depuis votre main ou face recto sur votre Terrain ; piochez 2 cartes. Vous ne pouvez activer qu'1 "Épée Sacrée des Sept Étoiles" par tour.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Destroyer of the Phantasm}}
+  {{Duel Links release table/footer}}
+  }}

@@ -1,0 +1,61 @@
+title: Chaos End Ruler - Ruler of the Beginning and the End
+wikitext: |-
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = カオスエンド・ルーラー－{{Ruby|開|かい}}{{Ruby|闢|びゃく}}と{{Ruby|終|しゅう}}{{Ruby|焉|えん}}の{{Ruby|支|し}}{{Ruby|配|はい}}{{Ruby|者|しゃ}}－
+  | romaji_name           = Kaosu Endo Rūrā -Kaibyaku to Shūen no Shihaisha-
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 混沌终末统御者 －开辟与终焉的支配者－
+  | image                 = ChaosEndRulerRuleroftheBeginningandtheEnd-LOCR-JP-UR.png
+  | attribute             = LIGHT
+  | types                 = Warrior / Effect
+  | level                 = 10
+  | atk                   = 3500
+  | def                   = 2000
+  | password              = 41424250
+  | effect_types          = Summoning condition, Summoning condition, Unclassified, Continuous, Ignition, Condition
+  | text                  = Cannot be [[Normal Summon]]ed/[[Set]]. Must be [[Special Summon]]ed (from your [[hand]]) by [[banish]]ing 1 [[LIGHT]] [[Warrior]] and 1 [[DARK]] [[Fiend]] [[monster]] from your [[GY]]. This card's Special Summon cannot be [[negate]]d. Neither player can [[activate]] cards or [[effect]]s when this card is Special Summoned. If you [[control]] this card that was Summoned its own way: You can pay 1000 [[LP]]; banish as many cards from your opponent's [[field]] and GY as possible, then inflict 500 [[Effect damage|damage]] to your opponent for each card banished by this effect. You can only use this effect of "Chaos End Ruler - Ruler of the Beginning and the End" [[once per turn]].
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = このカードは通常召喚できない。自分の墓地から戦士族・光属性と悪魔族・闇属性のモンスターを１体ずつ除外した場合のみ特殊召喚できる。このカード名の③の効果は１ターンに１度しか使用できない。①：このカードの特殊召喚は無効化されない。②：このカードの特殊召喚成功時にお互いはカードの効果を発動できない。③：このカードが上記の方法で特殊召喚されている場合、１０００ＬＰを払って発動できる。相手のフィールド・墓地のカードを全て除外する。その後、この効果で除外した数×５００ダメージを相手に与える。
+  | ko_text               = 
+  | sc_text               = 此卡不可通常召唤。仅可在从自己墓地将战士族・光属性和恶魔族・暗属性的怪兽各1只除外的情况下特殊召唤。此卡名的③效果1回合仅可使用1次。①：此卡的特殊召唤不会被无效化。②：此卡特殊召唤成功时双方不可发动卡的效果。③：此卡是以上述方法被特殊召唤的情况下，支付1000LP可以发动。将对手场上・墓地的卡全部除外。然后，给予对手以此效果除外的数量×500的伤害。
+  | jp_sets               = 
+  LOCR-JP026; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | sc_sets               = 
+  LOCR-SC026; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | supports              = 
+  * LIGHT
+  * Warrior
+  * DARK
+  * Fiend
+  | archseries            = Chaos
+  | related_to_archseries = Black Luster Soldier (archetype)
+  | summoning             = 
+  * Cannot be Normal Summoned
+  * Cannot be Normal Set
+  * Nomi
+  * Special Summons itself from your hand
+  * Summon cannot be negated
+  * Prevents activations upon Summon
+  | banished              = 
+  * Banishes from Graveyard for Summon
+  * Banishes from your opponent's field
+  * Banishes from your opponent's Graveyard
+  | life_points           = 
+  * Pays Life Points for cost
+  * Damages your opponent
+  | misc                  = 
+  * Special Summon Monster
+  * Only once per turn
+  | database_id           = 22741
+  }}

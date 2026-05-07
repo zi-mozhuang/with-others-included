@@ -1,0 +1,56 @@
+title: Einroid
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Einroid
+  | de_name             = Einroid
+  | it_name             = Einroid
+  | pt_name             = Einroide
+  | es_name             = Einroid
+  | ja_name             = アイン・ロイド
+  | romaji_name         = Ain Roido
+  | ko_name             = 아인 로이드
+  | ko_rr_name          = 
+  | sc_name             = 
+  | sc_pinyin_name      = 
+  | image               = Einroid-MZMU-EN-R-1E.png
+  | attribute           = EARTH
+  | types               = Machine / Effect
+  | level               = 1
+  | atk                 = 200
+  | def                 = 1800
+  | password            = 88039509
+  | effect_types        = Trigger, Condition
+  | text                = If this card is [[destroyed by battle]] or card [[effect]]: You can [[send]] 2 [[Level]] 4 or lower [[Machine]] [[monsters]] from your [[Main Deck|Deck]] to the [[GY]]. You can only use this effect of "Einroid" [[once per turn]].
+  | fr_text             = Si cette carte est détruite au combat ou par un effet de carte : vous pouvez envoyer 2 monstres Machine de max. Niveau 4 depuis votre Deck au Cimetière. Vous ne pouvez utiliser cet effet de "Einroid" qu'une fois par tour.
+  | de_text             = Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 2 Maschine-Monster der Stufe 4 oder niedriger von deinem Deck auf den Friedhof legen. Du kannst diesen Effekt von „Einroid“ nur einmal pro Spielzug verwenden.
+  | it_text             = Se questa carta viene distrutta in battaglia o dall'effetto di una carta: puoi mandare 2 mostri Macchina di Livello 4 o inferiore dal tuo Deck al Cimitero. Puoi utilizzare questo effetto di "Einroid" una sola volta per turno.
+  | pt_text             = Se este card for destruído em batalha ou por um efeito de card: você pode enviar 2 monstros Máquina de Nível 4 ou menos do seu Deck para o Cemitério. Você só pode usar este efeito de "Einroide" uma vez por turno.
+  | es_text             = Si esta carta es destruida en batalla o por el efecto de una carta: puedes mandar al Cementerio 2 monstruos Máquina de Nivel 4 o menor en tu Deck. Sólo puedes usar este efecto de "Einroid" una vez por turno.
+  | ja_text             = このカード名の効果は１ターンに１度しか使用できない。①：このカードが戦闘・効果で破壊された場合に発動できる。デッキからレベル４以下の機械族モンスター２体を墓地へ送る。
+  | ko_text             = 이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 덱에서 레벨 4 이하의 기계족 몬스터 2장을 묘지로 보낸다.
+  | sc_text             = 
+  | en_sets             = 
+  MZMU-EN046; Maze of Muertos; Rare
+  | fr_sets             = 
+  MZMU-FR046; Maze of Muertos; Rare
+  | de_sets             = 
+  MZMU-DE046; Maze of Muertos; Rare
+  | it_sets             = 
+  MZMU-IT046; Maze of Muertos; Rare
+  | pt_sets             = 
+  MZMU-PT046; Maze of Muertos; Rare
+  | sp_sets             = 
+  MZMU-SP046; Maze of Muertos; Rare
+  | jp_sets             = 
+  VJMP-JP276; V Jump Fall 2025 subscription bonus; Ultra Rare
+  | kr_sets             = 
+  26PP-KR037; Premium Pack 2026; Secret Rare
+  | supports            = Machine
+  | archseries          = roid
+  | action              = 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  * Sends from your Deck to your Graveyard
+  | misc                = Only once per turn
+  | database_id         = 9412
+  }}

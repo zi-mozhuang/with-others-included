@@ -1,0 +1,35 @@
+title: Eria the Water Spiritualist
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = {{Ruby|水|すい}}{{Ruby|霊|れい}}{{Ruby|術|じゅつ}}{{Ruby|師|し}}エリア
+  | romaji_name    = Suireijutsushi Eria
+  | image          = EriatheWaterSpiritualist-RDORP4-JP-UR.png
+  | attribute      = WATER
+  | types          = Spellcaster / Effect
+  | level          = 5
+  | atk            = 1900
+  | def            = 1500
+  | requirement    = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[send]] 1 [[Monster Card|monster]] from your [[hand]] or [[field]] to the [[Graveyard]].
+  | text           = Place 1 monster from your opponent's Graveyard on the top of the [[Main Deck|Deck]]. Then, your opponent cannot Normal or Special Summon monsters with the same original name as that monster [[face-up]] until the end of your opponent's next [[turn]]. This turn, you cannot [[activate]] the [[effect]] of "Eria the Water Spiritualist".
+  | ja_requirement = このカードを召喚・特殊召喚した自分メインフェイズに、自分の手札・フィールドのモンスター１体を墓地へ送って発動できる。
+  | ja_text        = 相手の墓地のモンスター１体を選んでデッキの上に戻す。さらに次の相手ターン終了時まで、相手は選んだモンスターと元々のカード名が同じモンスターを表側表示で召喚・特殊召喚できない。このターン、自分は「水霊術師エリア」の効果を発動できない。
+  | jp_sets        = 
+  RD/ORP4-JP010; Over Rush Pack 4; Ultra Rare, Over Rush Rare
+  | mentions       = Eria the Water Spiritualist
+  | archseries     = Charmer (Rush Duel)
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Places cards from the opponent's Graveyard on the top of the Deck
+  | summoning      = 
+  * Prevents your opponent's Normal Summons
+  * Prevents your opponent's Special Summons
+  | misc           = 
+  * Turn limited effects
+  * Only once per turn
+  | database_id    = 23043
+  }}

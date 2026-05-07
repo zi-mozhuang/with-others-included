@@ -1,0 +1,90 @@
+title: Book of Taiyou
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Le Livre de Taiyou
+  | de_name               = Buch von Taiyou
+  | it_name               = Libro di Taiyou
+  | pt_name               = Livro do Taiyou
+  | es_name               = Libro de Taiyou
+  | ja_name               = {{Ruby|太|たい}}{{Ruby|陽|よう}}の{{Ruby|書|しょ}}
+  | romaji_name           = Taiyō no Sho
+  | translated_name       = Book of Sun
+  | ko_name               = 태양의 서
+  | sc_name               = 太阳之书
+  | image                 = 
+  1;   BookofTaiyou-CP02-EN-C-UE.jpg;   BookofTaiyou-MADU-JP-VG-artwork.png
+  1.1; BookofTaiyou-PHRE-EN-R-1E.png;   BookofTaiyou-MADU-EN-VG-artwork.png
+  | current_image         = 1.1
+  | card_type             = Spell
+  | property              = Normal
+  | password              = 38699854
+  | effect_types          = Effect
+  | text                  = [[Target]] 1 [[face-down]] [[monster]] on the [[field]]; change that target to [[face-up]] [[Attack Position]].
+  | fr_text               = Ciblez 1 monstre face verso sur le Terrain ; changez la cible en Position d'Attaque face recto.
+  | de_text               = Wähle 1 verdecktes Monster auf dem Spielfeld; ändere jenes gewählte Ziel in die offene Angriffsposition.
+  | it_text               = Scegli come bersaglio 1 mostro coperto sul Terreno; metti quel bersaglio scoperto in Posizione di Attacco.
+  | pt_text               = Escolha 1 monstro com a face para baixo no campo; coloque o alvo com a face para cima em Posição de Ataque.
+  | es_text               = Selecciona 1 monstruo boca abajo en el Campo; cambia ese objetivo a Posición de Ataque boca arriba.
+  | ja_text               = ①：フィールドの裏側表示モンスター１体を対象として発動できる。その裏側表示モンスターを表側攻撃表示にする。
+  | ko_text               = 뒷면 표시로 필드 위에 존재하는 몬스터 1장을 앞면 공격 표시로 한다.
+  | sc_text               = ①：以场上的1只里侧表示怪兽为对象可以发动。将该里侧表示怪兽改成表侧攻击表示。
+  | en_sets               = 
+  DB2-EN231; Dark Beginning 2; Common
+  CP02-EN017; Champion Pack: Game Two; Common
+  RP02-EN069; Retro Pack 2; Common
+  SBC1-ENI15; Speed Duel: Streets of Battle City; Common
+  PHRE-EN052; Phantom Revenge; Rare, Super Rare
+  | na_sets               = 
+  PGD-034; Pharaonic Guardian; Short Print
+  | fr_sets               = 
+  DB2-FR231; Dark Beginning 2; Common
+  CP02-FR017; Champion Pack: Game Two; Common
+  RP02-FR069; Retro Pack 2; Common
+  SBC1-FRI15; Speed Duel: Streets of Battle City; Common
+  PHRE-FR052; Phantom Revenge; Rare, Super Rare
+  | de_sets               = 
+  DB2-DE231; Dark Beginning 2; Common
+  CP02-DE017; Champion Pack: Game Two; Common
+  RP02-DE069; Retro Pack 2; Common
+  SBC1-DEI15; Speed Duel: Streets of Battle City; Common
+  PHRE-DE052; Phantom Revenge; Rare, Super Rare
+  | it_sets               = 
+  DB2-IT231; Dark Beginning 2; Common
+  CP02-IT017; Champion Pack: Game Two; Common
+  RP02-IT069; Retro Pack 2; Common
+  SBC1-ITI15; Speed Duel: Streets of Battle City; Common
+  PHRE-IT052; Phantom Revenge; Rare, Super Rare
+  | pt_sets               = 
+  SBC1-PTI15; Speed Duel: Streets of Battle City; Common
+  PHRE-PT052; Phantom Revenge; Rare, Super Rare
+  | sp_sets               = 
+  DB2-SP231; Dark Beginning 2; Common
+  RP02-SP069; Retro Pack 2; Common
+  SBC1-SPI15; Speed Duel: Streets of Battle City; Common
+  PHRE-SP052; Phantom Revenge; Rare, Super Rare
+  | jp_sets               = 
+  PH-33; Pharaonic Guardian (Japanese); Common
+  DL5-118; Duelist Legacy Volume.5; Common
+  BE2-JP231; Beginner's Edition 2; Common
+  BE02-JP189; Beginner's Edition 2 (2011); Common
+  25TP-JP209; Tournament Pack 2025 Vol.2; Normal Parallel Rare
+  | ae_sets               = 
+  PGD-034; Pharaonic Guardian; Common
+  DBPR-AE057; Deck-Build Pack: Phantom Revengers; Common, Normal Parallel Rare
+  | kr_sets               = 
+  PGD-KR034; Pharaonic Guardian; Common
+  BP2-KR231; Beginner's Edition 2; Common
+  | sc_sets      = 
+  25SP-SC217; Entry Pack 2025 Vol.2; Common
+  | ntr_sets              = 
+  '''[[Yu-Gi-Oh! Nightmare Troubadour: Royal Relics|Royal Relics]]''' ([[Common]])
+  | ygo_sets              = 
+  '''[[Pack 23 (YGOO-BP)|Pack 23]]'''
+  | archseries            = Book of
+  | related_to_archseries = sphinx
+  | action                = 
+  * Flips monsters face-up
+  * Changes battle positions
+  | database_id           = 5431
+  | tcg_speed_duel_status = Unlimited
+  }}

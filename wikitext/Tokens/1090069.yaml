@@ -1,0 +1,24 @@
+title: Delta Token
+wikitext: |-
+  {{CardTable2
+  | fr_name         = Jeton Delta
+  | de_name         = Delta-Spielmarke
+  | it_name         = Segna-Delta
+  | pt_name         = Ficha de Delta
+  | es_name         = Ficha Delta
+  | ja_name         = {{Ruby|Δ|デルタ}}トークン
+  | romaji_name     = Deruta Tōkun
+  | ko_name         = {{Ruby|Δ|델타|lang=ko}} 토큰
+  | ko_rr_name      = 
+  | sc_name         = 三角洲衍生物
+  | sc_pinyin_name  = 
+  | image           = DeltaToken-MADU-EN-VG-artwork.png
+  | card_type       = Token
+  | attribute       = DARK
+  | types           = Zombie / Normal
+  | level           = 5
+  | atk             = 0
+  | def             = 0
+  | summoned_by     = Delta of Invitation
+  | database_id     = 20819
+  }}

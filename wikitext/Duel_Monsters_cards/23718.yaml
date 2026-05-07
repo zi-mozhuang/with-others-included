@@ -1,0 +1,73 @@
+title: X-Saber Pashuul
+wikitext: |-
+  {{CardTable2
+  | de_name      = X-Säbel-Pashuul
+  | fr_name      = Pashuul, Sabre X
+  | pt_name      = Sabre-X Pashuul
+  | es_name      = Sable-X Pashuul
+  | it_name      = Pashuul Sciabola-X
+  | ja_name      = {{Ruby|Ｘ|エックス}}－セイバー パシウル
+  | romaji_name  = Ekkusu-Seibā Pashiuru
+  | ko_name      = X-세이버 파시울
+  | sc_name      = X－军刀 帕修尔
+  | image        = XSaberPashuul-L26D-EN-C-1E.png
+  | attribute    = EARTH
+  | types        = Warrior / Tuner / Effect
+  | level        = 2
+  | atk          = 100
+  | def          = 0
+  | password     = 23093604
+  | effect_types = Continuous, Trigger, Condition
+  | text         = Cannot be [[destroyed by battle]]. [[Once per turn]], during your opponent's [[Standby Phase]]: You take 1000 [[Effect damage|damage]]. This card must be in [[face-up]] [[Defense Position]] to [[activate]] and to [[resolve]] this [[effect]].
+  | fr_text      = Non destructible au combat. Une fois par tour, durant la Standby Phase de votre adversaire : vous recevez 1000 points de dommages. Cette carte doit être en Position de Défense face recto pour activer et résoudre cet effet.
+  | de_text      = Kann nicht durch Kampf zerstört werden. Einmal pro Spielzug, während der Standby Phase deines Gegners: Du erhältst 1000 Schaden. Diese Karte muss in offener Verteidigungsposition liegen, um diesen Effekt zu aktivieren und aufzulösen.
+  | it_text      = Non può essere distrutto in battaglia. Una volta per turno, durante la Standby Phase del tuo avversario: tu subisci 1000 danni. Questa carta deve essere scoperta in Posizione di Difesa per attivare e risolvere questo effetto.
+  | pt_text      = Não pode ser destruído em batalha. Uma vez por turno, durante a Fase de Apoio do seu oponente: você sofre 1000 de dano. Este card deve estar com a face para cima em Posição de Defesa para ativar e resolver este efeito.
+  | es_text      = No puede ser destruido en batalla. Una vez por turno, durante la Standby Phase de tu adversario: tú recibes 1000 puntos de daño. Esta carta debe estar en Posición de Defensa boca arriba para activar y resolver este efecto.
+  | ja_text      = ①：このカードは戦闘では破壊されない。②：相手スタンバイフェイズに発動する。自分は１０００ダメージを受ける。この効果はこのカードがモンスターゾーンに表側守備表示で存在する場合に発動と処理を行う。
+  | ko_text      = 이 카드는 전투로는 파괴되지 않는다. 이 카드가 필드 위에 앞면 수비 표시로 존재할 경우, 상대의 스텐바이 페이즈마다 자신은 1000 포인트 데미지를 받는다.
+  | sc_text      = ①：此卡不会因战斗被破坏。②：在对手的准备阶段发动（此效果在此卡以表侧守备表示存在于怪兽区域的情况下才能发动和处理）。自己受到1000伤害。
+  | en_sets      = 
+  TSHD-EN094; The Shining Darkness; Common
+  TU07-EN004; Turbo Pack: Booster Seven; Super Rare
+  L26D-ENX03; Legendary Modern Decks 2026; Common
+  | na_sets      = 
+  DT01-EN076; Duel Terminal 1; Duel Terminal Normal Parallel Rare
+  | fr_sets      = 
+  TSHD-FR094; The Shining Darkness; Common
+  TU07-FR004; Turbo Pack: Booster Seven; Super Rare
+  L26D-FRX03; Legendary Modern Decks 2026; Common
+  | de_sets      = 
+  TSHD-DE094; The Shining Darkness; Common
+  TU07-DE004; Turbo Pack: Booster Seven; Super Rare
+  L26D-DEX03; Legendary Modern Decks 2026; Common
+  | it_sets      = 
+  TSHD-IT094; The Shining Darkness; Common
+  TU07-IT004; Turbo Pack: Booster Seven; Super Rare
+  L26D-ITX03; Legendary Modern Decks 2026; Common
+  | pt_sets      = 
+  L26D-PTX03; Legendary Modern Decks 2026; Common
+  | sp_sets      = 
+  TSHD-SP094; The Shining Darkness; Common
+  TU07-SP004; Turbo Pack: Booster Seven; Super Rare
+  L26D-SPX03; Legendary Modern Decks 2026; Common
+  | jp_sets      = 
+  DT02-JP026; Duel Terminal - Invasion of Worms!!; Duel Terminal Normal Parallel Rare
+  TP15-JP002; Tournament Pack 2010 Vol.3; Normal Parallel Rare
+  DTC1-JP044; Duel Terminal Chronicle 1 - Chapter of Awakening; Duel Terminal Normal Parallel Rare
+  SPRG-JP015; Booster SP: Raging Masters; Common, Normal Parallel Rare
+  | kr_sets      = 
+  XS12-KR007; X-Saber: Special Edition; Common
+  SPRG-KR015; Booster SP: Raging Masters; Common, Normal Parallel Rare
+  | sc_sets      = 
+  TW03-SC008; Terminal World 3; Normal Parallel Rare
+  | ygo_sets     = 
+  '''[[Duel Terminal 2 (YGOO-DT)|Duel Terminal - Invasion of Worms!!]]'''
+  | archseries   = 
+  * Saber
+  * X-Saber
+  | attack       = Cannot be destroyed by battle
+  | life_points  = Damages you
+  | misc         = During the Standby Phase
+  | database_id  = 7824
+  }}

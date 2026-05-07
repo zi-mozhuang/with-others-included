@@ -1,0 +1,74 @@
+title: Defense of the Temple
+wikitext: |-
+  {{CardTable2
+  | fr_name              = Défense du Temple
+  | de_name              = Verteidigung des Tempels
+  | it_name              = Difesa del Tempio
+  | pt_name              = Defesa do Templo
+  | es_name              = Defensa del Templo
+  | ja_name              = {{Ruby|神|しん}}{{Ruby|殿|でん}}の{{Ruby|守|しゅ}}{{Ruby|護|ご}}{{Ruby|神|しん}}
+  | romaji_name          = Shinden no Shugoshin
+  | translated_name      = Guardian God of the Temple
+  | ko_name              = 신전의 수호신
+  | ko_rr_name           = 
+  | sc_name              = 神殿的守护神
+  | image                = DefenseoftheTemple-MZTM-EN-R-1E.png
+  | card_type            = Spell
+  | property             = Normal
+  | password             = 96687733
+  | effect_types         = Effect, Ignition-like, Condition
+  | text                 = [[Fusion Summon]] 1 [[EARTH]] [[Fusion Monster]] from your [[Extra Deck]], using [[monsters]] from your [[hand]] or [[field]]. If you use a monster you [[control]] that mentions "[[Temple of the Kings]]", you can also use [[face-up]] monsters your opponent controls as [[material]]. If you control "Temple of the Kings": You can [[banish]] this card from your [[GY]]; [[Add a card|add]] 1 "[[Dangers of the Divine]]" from your [[Main Deck|Deck]] to your hand. You can only use this effect of "Defense of the Temple" once per turn.
+  | fr_text              = Invoquez par Fusion 1 Monstre Fusion TERRE depuis votre Extra Deck, en utilisant des monstres depuis votre main ou Terrain. Si vous utilisez un monstre que vous contrôlez qui mentionne "Le Temple des Rois", vous pouvez aussi utiliser des monstres face recto contrôlés par votre adversaire comme Matériel. Si vous contrôlez "Le Temple des Rois" : vous pouvez bannir cette carte depuis votre Cimetière ; ajoutez 1 "Dangers du Divin" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de "Défense du Temple" qu'une fois par tour.
+  | de_text              = Beschwöre 1 ERDE Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck und verwende dafür Monster von deiner Hand oder Spielfeldseite. Falls du ein Monster verwendest, das du kontrollierst und das „Tempel der Könige“ erwähnt, kannst du auch offene Monster, die dein Gegner kontrolliert, als Material verwenden. Falls du „Tempel der Könige“ kontrollierst: Du kannst diese Karte von deinem Friedhof verbannen; füge deiner Hand 1 „Gefahren des Himmlischen“ von deinem Deck hinzu. Du kannst diesen Effekt von „Verteidigung des Tempels“ nur einmal pro Spielzug verwenden.
+  | it_text              = Evoca tramite Fusione 1 Mostro Fusione TERRA dal tuo Extra Deck, utilizzando mostri dalla tua mano o Terreno. Se usi un mostro che controlli che menziona "Tempio dei Re", puoi anche utilizzare mostri scoperti controllati dal tuo avversario come materiale. Se controlli "Tempio dei Re": puoi bandire questa carta dal tuo Cimitero; aggiungi 1 "Pericoli del Divino" dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di "Difesa del Tempio" una sola volta per turno.
+  | pt_text              = Invoque por Invocação-Fusão 1 Monstro de Fusão de TERRA do seu Deck Adicional, usando monstros da sua mão ou do campo. Se você usar um monstro que você controla que mencione "Templo dos Reis", você também pode usar monstros com a face para cima que seu oponente controla como matéria. Se você controlar "Templo dos Reis": você pode banir este card do seu Cemitério; adicione 1 "Perigos do Divino" do seu Deck à sua mão. Você só pode usar este efeito de "Defesa do Templo" uma vez por turno.
+  | es_text              = Invoca por Fusión, desde tu Deck Extra, 1 Monstruo de Fusión de TIERRA, usando monstruos en tu mano o Campo. Si usas un monstruo que controlas que menciona "Templo de los Reyes", también puedes usar monstruos boca arriba que controle tu adversario como material. Si controlas "Templo de los Reyes": puedes desterrar esta carta en tu Cementerio; añade a tu mano 1 "Peligros de lo Divino" en tu Deck. Sólo puedes usar este efecto de "Defensa del Templo" una vez por turno.
+  | ja_text              = このカード名の②の効果は１ターンに１度しか使用できない。①：自分の手札・フィールドのモンスターを融合素材とし、地属性の融合モンスター１体を融合召喚する。「王家の神殿」のカード名が記された自分フィールドのモンスターを融合素材とする場合、相手フィールドの表側表示モンスターも融合素材とする事ができる。②：自分フィールドに「王家の神殿」が存在する場合、墓地のこのカードを除外して発動できる。デッキから「神の怒り」１枚を手札に加える。
+  | ko_text              = 이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신의 패 / 필드의 몬스터를 융합 소재로 하고, 땅 속성의 융합 몬스터 1장을 융합 소환한다. "왕가의 신전"의 카드명이 쓰여진 자신 필드의 몬스터를 융합 소재로 할 경우, 상대 필드의 앞면 표시 몬스터도 융합 소재로 할 수 있다. ②: 자신 필드에 "왕가의 신전"이 존재할 경우, 묘지의 이 카드를 제외하고 발동할 수 있다. 덱에서 "신의 분노" 1장을 패에 넣는다.
+  | sc_text              = 此卡名的②效果1回合仅可使用1次。①：将自己手牌・场上的怪兽作为融合素材，将1只地属性融合怪兽融合召唤。要将记载有“王家的神殿”卡名的自己场上的怪兽作为融合素材的情况下，可将对手场上的表侧表示怪兽也作为融合素材。②：自己场上存在“王家的神殿”的情况下，将墓地的此卡除外可以发动。从牌组将1张“神之怒”加入手牌。
+  | en_sets              = 
+  MZTM-EN007; Maze of the Master; Rare
+  | fr_sets             = 
+  MZTM-FR007; Maze of the Master; Rare
+  | de_sets             = 
+  MZTM-DE007; Maze of the Master; Rare
+  | it_sets             = 
+  MZTM-IT007; Maze of the Master; Rare
+  | pt_sets             = 
+  MZTM-PT007; Maze of the Master; Rare
+  | sp_sets             = 
+  MZTM-SP007; Maze of the Master; Rare
+  | jp_sets             = 
+  WPP6-JP007; World Premiere Pack 2025; Common
+  | ae_sets               = 
+  CR10-AE066; Creation Pack 10; Common
+  | kr_sets             = 
+  WPP6-KR007; World Premiere Pack 2025; Common
+  | sc_sets             = 
+  WPS2-SC036; World Premiere Pack 2025; Common
+  | mentions             = 
+  * Dangers of the Divine
+  * Temple of the Kings
+  | supports             = 
+  * EARTH
+  * Fusion Monster
+  | archseries           = Temple of the Kings (series)
+  | action               = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Sends from your opponent's field to your opponent's Graveyard
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the opponent's field as Fusion Materials
+  * Activates from your Graveyard
+  * Adds from Deck to hand
+  | summoning            = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | banished             = Banishes itself from Graveyard for cost
+  | misc                 = 
+  * Mentions
+  * Requires control of specific card
+  * Only once per turn
+  | database_id          = 21041
+  }}

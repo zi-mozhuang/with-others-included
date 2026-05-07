@@ -1,0 +1,77 @@
+title: XX-Saber Hyunlei
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Hyunlei, Sabre XX
+  | de_name             = XX-Säbel-Hyunlei
+  | it_name             = Hyunlei Sciabola-XX
+  | pt_name             = Sabre-XX Hyunlei
+  | es_name             = Sable-XX Hyunlei
+  | ja_name             = {{Ruby|ＸＸ|ダブルエックス}}－セイバー ヒュンレイ
+  | romaji_name         = Daburu Ekkusu-Seibā Hyunrei
+  | ko_name             = XX－세이버 휸레이
+  | sc_name             = XX－军刀 迅雷
+  | image               = XXSaberHyunlei-L26D-EN-C-1E.png
+  | attribute           = EARTH
+  | types               = Warrior / Synchro / Effect
+  | level               = 6
+  | atk                 = 2300
+  | def                 = 1300
+  | password            = 02203790
+  | materials           = 1 Tuner + 1 or more non-Tuner "X-Saber" monsters
+  | effect_types        = Trigger
+  | text                = 1 [[Tuner monster|Tuner]] + 1+ non-Tuner "[[X-Saber]]" [[Monster Card|monsters]]<br />When this card is [[Synchro Summon]]ed: You can [[target]] up to 3 [[Spells]]/[[Traps]] on the [[field]]; [[destroy]] them.
+  | fr_text             = 1 Syntoniseur + 1+ monstre non-Syntoniseur "Sabre X"<br />Lorsque cette carte est Invoquée par Synchronisation : vous pouvez cibler max. 3 Magies/Pièges sur le Terrain ; détruisez-les.
+  | de_text             = 1 Empfänger + 1+ „X-Säbel“-Nicht-Empfänger-Monster<br />Wenn diese Karte als Synchrobeschwörung beschworen wird: Du kannst bis zu 3 Zauber/Fallen auf dem Spielfeld wählen; zerstöre sie.
+  | it_text             = 1 Tuner + 1+ mostri "Sciabola-X" non-Tuner<br />Quando questa carta viene Synchro Evocata: puoi scegliere come bersaglio fino a 3 Magie/Trappole sul Terreno; distruggile.
+  | pt_text             = 1 Regulador + 1+ monstros "Sabre-X" não-Reguladores<br />Quando este card for Invocado por Invocação-Sincro: você pode escolher até 3 Magias/Armadilhas no campo; destrua-as.
+  | es_text             = 1 Cantante + 1+ monstruos "Sable-X" que no sean Cantantes<br />Cuando esta carta es Invocada por Sincronía: puedes seleccionar hasta 3 Mágicas/Trampas en el Campo; destrúyelas.
+  | ja_text             = チューナー＋チューナー以外の「Ｘ－セイバー」モンスター１体以上<br />①：このカードがＳ召喚した時、フィールドの魔法・罠カードを３枚まで対象として発動できる。そのカードを破壊する。
+  | ko_text             = 튜너 ＋ 튜너 이외의 "X－세이버" 몬스터 1장 이상<br />①: 이 카드를 싱크로 소환했을 때, 필드의 마법 / 함정 카드를 3장까지 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다.
+  | sc_text             = 协调＋协调以外的“X－军刀”怪兽1只以上<br />①：此卡同步召唤时，以场上最多3张魔法・陷阱卡为对象可以发动。将该卡破坏。
+  | en_sets             = 
+  ABPF-EN044; Absolute Powerforce; Ultra Rare, Ultimate Rare
+  RA04-EN140; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  L26D-ENX35; Legendary Modern Decks 2026; Common, Secret Rare, Starlight Rare
+  | fr_sets             = 
+  ABPF-FR044; Absolute Powerforce; Ultra Rare, Ultimate Rare
+  RA04-FR140; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  L26D-FRX35; Legendary Modern Decks 2026; Common, Secret Rare, Starlight Rare
+  | de_sets             = 
+  ABPF-DE044; Absolute Powerforce; Ultra Rare, Ultimate Rare
+  RA04-DE140; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  L26D-DEX35; Legendary Modern Decks 2026; Common, Secret Rare, Starlight Rare
+  | it_sets             = 
+  ABPF-IT044; Absolute Powerforce; Ultra Rare, Ultimate Rare
+  RA04-IT140; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  L26D-ITX35; Legendary Modern Decks 2026; Common, Secret Rare, Starlight Rare
+  | pt_sets             = 
+  RA04-PT140; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  L26D-PTX35; Legendary Modern Decks 2026; Common, Secret Rare, Starlight Rare
+  | sp_sets             = 
+  ABPF-SP044; Absolute Powerforce; Ultra Rare, Ultimate Rare
+  RA04-SP140; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  L26D-SPX35; Legendary Modern Decks 2026; Common, Secret Rare, Starlight Rare
+  | jp_sets             = 
+  ABPF-JP044; Absolute Powerforce; Ultra Rare, Ultimate Rare
+  DE04-JP112; Duelist Edition Volume 4; Common
+  TW03-JP012; Terminal World 3; Normal Parallel Rare
+  | kr_sets             = 
+  ABPF-KR044; Absolute Powerforce; Ultra Rare, Ultimate Rare
+  TW03-KR012; Terminal World 3; Normal Parallel Rare
+  | sc_sets             = 
+  TW03-SC020; Terminal World 3; Normal Parallel Rare
+  | archseries          = 
+  * Saber
+  * X-Saber
+  * XX-Saber
+  | supports_archetypes = X-Saber
+  | summoning           = 
+  * 1 or more non-Tuner Synchro Materials
+  * Does not require specific Tuner Synchro Materials
+  * Requires archetype specific non-Tuner Synchro Materials
+  | action              = Activates upon Synchro Summon
+  | m/s/t               = 
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | database_id         = 8655
+  }}

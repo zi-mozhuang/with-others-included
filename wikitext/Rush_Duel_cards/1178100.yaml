@@ -1,0 +1,20 @@
+title: Painful Choice (Rush Duel)
+wikitext: |-
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | image          = PainfulChoice-RDSJMP-JP-NPR.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = None
+  | text           = [[Excavate]] the top 5 cards of your [[Main Deck|Deck]]. Your opponent chooses 1 excavated card, and you [[Add a card|add]] it to your [[hand]]. [[Send]] the other cards to the [[Graveyard]].
+  | ja_requirement = なし
+  | ja_text        = 自分のデッキの上からカードを５枚めくり、お互いに確認する。相手はその中から１枚を選び、自分はそのカードを手札に加える。残りのカードを墓地へ送る。
+  | jp_sets        = 
+  RD/SJMP-JP062; Saikyō Jump May 2026 promotional card; Normal Parallel Rare
+  | action         = 
+  * Excavates from the player's Deck
+  * Adds excavated cards to the hand
+  * Sends excavated cards to the Graveyard
+  | misc           = Legend Card
+  | database_id    = 23037
+  }}

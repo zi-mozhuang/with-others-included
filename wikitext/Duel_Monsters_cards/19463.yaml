@@ -1,0 +1,20 @@
+title: Bio Plant
+wikitext: |-
+  {{CardTable2
+  | ja_name     = {{Ruby|Ｂ|バイオ}}・プラント
+  | romaji_name = Baio Puranto
+  | image       = BioPlant-V5-JP-C.png
+  | attribute   = DARK
+  | types       = Fiend / Normal
+  | atk         = 600
+  | def         = 1300
+  | level       = 3
+  | text        = ''A monster created from a major accident in an underground lab.''
+  | ja_text     = 地下研究所での実験で大失敗して生まれたばけもの。
+  | password    = 07670542
+  | jp_sets     = 
+  ; Vol.5; Common
+  | ygo_sets    = 
+  '''[[Pack 9 (YGOO-BP)|Pack 9]]'''
+  | database_id = 4301
+  }}

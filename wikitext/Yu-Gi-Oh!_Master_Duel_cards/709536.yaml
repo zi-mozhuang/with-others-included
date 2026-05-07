@@ -1,0 +1,29 @@
+title: Zap Mustung (Master Duel)
+wikitext: |-
+  {{Master Duel card
+  | rarity    = R
+  | attribute = LIGHT
+  | types     = Thunder / Effect
+  | level     = 4
+  | atk       = 1600
+  | def       = 1500
+  | text      = Cannot be Normal Summoned/Set. Must be Special Summoned by card effect during your Main Phase 1, and cannot be Special Summoned if you have Special Summoned this turn. The first two times this card would be destroyed by battle each turn, it is not destroyed. Each turn, the turn player can only Special Summon a number of times up to their number of attacks conducted (and reached the Damage Step) this turn.
+  | releases  = Master Pack
+  | fr_name   = Zap Mustung
+  | fr_text   = Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement par un effet de carte durant votre Main Phase 1, et non Invocable Spécialement si vous avez Invoqué Spécialement ce tour. Les deux premières fois que cette carte va être détruite au combat chaque tour, elle n'est pas détruite. Chaque tour, le joueur du tour peut uniquement Invoquer Spécialement un nombre de fois inférieur ou égal au nombre de ses attaques conduites (et qui ont atteint la Damage Step) ce tour.
+  | de_name   = Blitz-Mustung
+  | de_text   = Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss während deiner Main Phase 1 durch einen Karteneffekt als Spezialbeschwörung beschworen werden und kann nicht als Spezialbeschwörung beschworen werden, falls du in diesem Spielzug eine Spezialbeschwörung durchgeführt hast. Die ersten zwei Male, wenn diese Karte in jedem Spielzug durch Kampf zerstört würde, wird sie nicht zerstört. In jedem Spielzug kann der Zugspieler nur so viele Spezialbeschwörungen durchführen wie die Anzahl der Angriffe, die er in diesem Spielzug durchgeführt (und für die er den Damage Step erreicht) hat.
+  | it_name   = Zap Mustung
+  | it_text   = Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente dall'effetto di una carta durante la tua Main Phase 1, e non può essere Evocato Specialmente se hai Evocato Specialmente in questo turno. Le prime due volte in cui questa carta sta per essere distrutta in battaglia ogni turno, non viene distrutta. Ogni turno, il giocatore di turno può Evocare Specialmente solamente un numero di volte fino al numero di attacchi effettuati (e che hanno raggiunto il Damage Step) in questo turno.
+  | pt_name   = Zap Mustangue
+  | pt_text   = Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial por um efeito de card durante sua Fase Principal 1, e não pode ser Invocado por Invocação-Especial se você Invocou por Invocação-Especial neste turno. Nas primeiras duas vezes que este card seria destruído em batalha a cada turno, ele não é destruído. A cada turno, o duelista do turno só pode Invocar por Invocação-Especial um número de vezes até o número de ataques conduzidos por ele (e que chegaram à Etapa de Dano) neste turno.
+  | es_name   = Zap Mustung
+  | es_text   = No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por efecto de una carta durante tu Main Phase 1, y no puede ser Invocado de Modo Especial si has Invocado de Modo Especial este turno. Las primeras dos veces que esta carta fuera a ser destruida en batalla cada turno, no es destruida. Cada turno, el jugador en turno sólo puede Invocar de Modo Especial hasta tantas veces como el número de ataques que haya hecho (y que llegaran al Damage Step) este turno.
+  | ja_text   = このカードは通常召喚できず、自分が特殊召喚を行っていない自分メインフェイズ１に、カードの効果でのみ特殊召喚できる。<br />①：このカードは１ターンに２度まで戦闘では破壊されない。<br />②：このカードがモンスターゾーンに存在する限り、ターンプレイヤーはそのターン攻撃した回数と同じ回数までしかモンスターを特殊召喚できない。
+  | ko_name   = 방전 무스탕건
+  | ko_text   = 이 카드는 통상 소환할 수 없으며, 자신이 특수 소환을 실행하지 않은 자신 메인 페이즈 1 에, 카드의 효과로만 특수 소환할 수 있다.<br />①: 이 카드는 1턴에 2번까지 전투로는 파괴되지 않는다.<br />②: 이 카드가 몬스터 존에 존재하는 한, 턴 플레이어는 그 턴에 공격한 횟수와 같은 횟수까지밖에 몬스터를 특수 소환할 수 없다.
+  | tc_name   = 放電電擊槍野馬
+  | tc_text   = 此卡無法通常召喚，僅限在我方未進行特殊召喚的我方主要階段１，透過卡的效果特殊召喚。<br />①：此卡１回合最多２次不會因戰鬥被破壞。<br />②：只要此卡存在於怪獸區，回合玩家可特殊召喚怪獸的次數就僅限該回合攻擊的次數。
+  | sc_name   = 放电电击枪野马
+  | sc_text   = 此卡不可通常召唤，仅可在自己未进行特殊召唤的自己的主要阶段１，以卡的效果特殊召唤。<br />①：此卡１回合最多２次，不会因战斗被破坏。<br />②：只要此卡存在于怪兽区域，回合玩家可特殊召唤怪兽的次数最多为该回合攻击的次数。
+  }}

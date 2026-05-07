@@ -1,0 +1,38 @@
+title: Red-Eyes Darkness Metal Dragon (Rush Duel)
+wikitext: |-
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ko_name        = 붉은 눈의 암흑 메탈 드래곤
+  | image          = RedEyesDarknessMetalDragon-RDKP23-JP-SR.png
+  | attribute      = DARK
+  | types          = Dragon / Effect
+  | level          = 10
+  | atk            = 2800
+  | def            = 2400
+  | condition      = You can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]] by placing 1 face-up [[Dragon]] [[Type]] [[Monster Card|monster]] from your field on the bottom of the [[Main Deck|Deck]].
+  | requirement    = None
+  | text           = Special Summon 1 Dragon Type monster from your hand or [[Graveyard]] face-up to your field. This [[turn]], you cannot [[activate]] the [[effect]] of "Red-Eyes Darkness Metal Dragon".
+  | ja_condition   = 自分フィールドの表側表示モンスター（ドラゴン族）１体をデッキの下に戻し、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
+  | ja_requirement = なし
+  | ja_text        = 自分の手札・墓地のモンスター（ドラゴン族）１体を選び、自分フィールドに表側表示で特殊召喚する。このターン、自分は「レッドアイズ・ダークネスメタルドラゴン」の効果を発動できない。
+  | ko_condition   = 자신 필드의 앞면 표시 몬스터(드래곤족) 1장을 덱 아래로 되돌리고, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
+  | ko_requirement = 없음
+  | ko_text        = 자신의 패 / 묘지의 몬스터(드래곤족) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 이 턴에, 자신은 "붉은 눈의 암흑 메탈 드래곤"의 효과를 발동할 수 없다.
+  | jp_sets        = 
+  RD/KP23-JP000; Gias Charge of the Nova; Super Rare, Over Rush Rare
+  | kr_sets        = 
+  RD/KP23-KR000; Gias Charge of the Nova; Super Rare, Over Rush Rare
+  | mentions       = Red-Eyes Darkness Metal Dragon (Rush Duel)
+  | supports       = Dragon
+  | archseries     = Red-Eyes (Rush Duel)
+  | action         = Returns from field to Deck for Summon
+  | summoning      = 
+  * Special Summons itself from your hand
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | misc           = 
+  * Requires control of specific Type
+  * Only once per turn
+  * Legend Card
+  | database_id    = 22405
+  }}

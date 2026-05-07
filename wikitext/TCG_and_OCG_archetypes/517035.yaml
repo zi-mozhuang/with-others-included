@@ -1,0 +1,226 @@
+title: Melodious
+wikitext: |-
+  {{Infobox archseries
+  | image          = MelodiousConcerto-MADU-EN-VG-artwork.png
+  | caption        = "[[Elegy the Melodious Diva]]" and "[[Aria the Melodious Diva]]" in the artwork of "[[Melodious Concerto]]".
+  | ja_name        = {{Ruby|幻|げん}}{{Ruby|奏|そう}}
+  | romaji         = Gensō
+  | sc_name        = 幻奏
+  | fr_name        = Musique
+  | fr_trans       = Music
+  | de_trans       = Musical
+  | de_name        = Musikalisch
+  | it_name        = Melodiosa
+  | ko_name        = 환주
+  | ko_hanja       = 幻奏
+  | ko_romanized   = Hwanju
+  | pt_name        = Melodiosa(o)
+  | es_name        = Melodiosa
+  | sets           = 
+  * [[Duelist Alliance]]
+  * [[The New Challengers]]
+  * [[Crossed Souls]]
+  * [[Clash of Rebellions]]
+  * [[Breakers of Shadow]]
+  * [[Shining Victories]]
+  * [[Power of the Elements]]
+  * [[Legacy of Destruction]]
+  | tcg            = 
+  * [[The New Challengers: Super Edition]]
+  * [[Star Pack ARC-V]]
+  * [[2015 Mega-Tin Mega Pack]]
+  * [[2016 Mega-Tin Mega Pack]]
+  * [[Star Pack Battle Royal]]
+  * [[OTS Tournament Pack 26]]
+  | ocg            = 
+  * [[Dimension Box Limited Edition]]
+  * [[LINK VRAINS Pack 3]]
+  * [[Tournament Pack 2024 Vol.1]]
+  * [[Legacy of Destruction +1 Bonus Pack]]
+  | anime          = [[Yu-Gi-Oh! ARC-V]]
+  }}
+
+  "'''Melodious'''" ({{Ruby|幻|げん}}{{Ruby|奏|そう}} ''Gensō'') is an [[archetype]] of [[LIGHT]] [[Fairy]] [[Monster card|monsters]] used by [[Zuzu Boyle]] in the ''[[Yu-Gi-Oh! ARC-V]]'' anime. The archetype has a sub-archetype, "[[Melodious Maestra]]".
+
+  == Design ==
+  === Appearance ===
+  [[File:Melodious.png|thumb|left|200px|"Aria" and "[[Sonata the Melodious Diva]]" in the anime.]]
+  "Melodious" monsters are colorful feminine creatures wearing flowing, regal clothing that makes heavy use of decorative musical notes and music sheet-like stripes. Similar to "[[Lunalight]]" and "[[Lyrilusc]]", the low-level "Divas" and "Songstresses" appear as young girls while the higher-level "Maestras" take the form of older women, although the "Choirs" that serve as bosses of theme instead look child-like, perhaps in reference to angels being sometimes potrayed with the appearance of babies in classical art.
+
+  The "Melodious Choir" monsters also incorporate floral motifs, reflecting how [[Zuzu Boyle]]'s bracelet represents the flowers of the "four beauties of nature" concept of Japanese tradition (flowers, birds, wind, and the Moon).
+
+  === Etymology ===
+  The archetype's Japanese name, "Gensō" ({{Ruby|幻|げん}}{{Ruby|奏|そう}}), is a word play; it is "illusion" ({{Ruby|幻|げん}}{{Ruby|想|そう}}) written with the Kanji of "playing music" ({{Ruby|奏|そう}}). It is also a pun on the Japanese word "''ensō''" ({{Ruby|演|えん}}{{Ruby|奏|そう}}), which means "musical performance". The monsters' descriptions also have similar word plays; the "oto" ({{Ruby|乙|おと}}) from "Otome" ({{Ruby|乙|おと}}{{Ruby|女|め}}, lit. "Maiden") and "Otohime" ({{Ruby|乙|おと}}{{Ruby|姫|ひめ}}, lit. "Young Princess") are written with the Kanji of "sound" ({{Ruby|音|おと}}).
+
+  The "Melodious Diva" monsters are named after famous styles and themes of music, "Melodious Maestra" monsters are named after composers of classical music, and "Melodious Songstress" monsters are named after vocal ranges and featuries of songs.
+
+  {| class="wikitable sortable" style="text-align: center"
+  ! Title
+  ! Melodious
+  ! Name origin
+  |-
+  | rowspan=2 | Choir || [[Bloom Diva the Melodious Choir|Bloom Diva]] || [[wikipedia:Diva|Diva]]
+  |-
+  | [[Bloom Prima the Melodious Choir|Bloom Prima]] || ''[[wikipedia:Ballet dancer#Historical rank names, women|Prima ballerina]]''/''[[wikipedia:Prima donna|prima donna]]''
+  |-
+  | Composer || [[Bloom Harmonist the Melodious Composer|Bloom Harmonist]] || [[wikipedia:Harmony|Harmony]]
+  |-
+  | rowspan=8 | Diva || [[Aria the Melodious Diva|Aria]] || [[wikipedia:Aria|Aria]]
+  |-
+  | [[Canon the Melodious Diva|Canon]] || [[wikipedia:Canon (music)|Canon]]
+  |-
+  | [[Elegy the Melodious Diva|Elegy]] || [[wikipedia:Elegy|Elegy]]
+  |-
+  | [[Opera the Melodious Diva|Opera]] || [[wikipedia:Opera|Opera]]
+  |-
+  | [[Score the Melodious Diva|Score]] || [[wikipedia:Sheet music|Score]]
+  |-
+  | [[Serenade the Melodious Diva|Serenade]] (''OCG'': Serena) || [[wikipedia:Serenade|Serenade]]
+  |-
+  | [[Sonata the Melodious Diva|Sonata]] || [[wikipedia:Sonata|Sonata]]
+  |-
+  | [[Tamtam the Melodious Diva|Tamtam]] || [[wikipedia:Gong#Chau gong (Tam-tam)|Tam-tam]]
+  |-
+  | Magnificat || [[Flowering Etoile the Melodious Magnificat|Flowering Etoile]] || ''[[wikipedia:Danseur étoile|Danseuse étoile]]''
+  |-
+  | rowspan=4 | [[Melodious Maestra|Maestra]] || [[Bacha the Melodious Maestra|Bacha]] (''OCG:'' Spectacular Bach) || [[wikipedia:Spectacle|Spectacle]] + [[wikipedia:Johann Sebastian Bach|J.S. Bach]]
+  |-
+  | [[Mozarta the Melodious Maestra|Mozarta]] (''OCG'': Prodigy Mozart) || [[wikipedia:Child prodigy|Prodigy]] + [[wikipedia:Wolfgang Amadeus Mozart|Mozart]]
+  |-
+  | [[Schuberta the Melodious Maestra|Schuberta]] (''OCG'': Meisterin Schubert) || ''[[wiktionary:Meisterin|Meisterin]]'' + [[wikipedia:Franz Schubert|Schubert]]
+  |-
+  | [[Shopina the Melodious Maestra|Shopina]] (''OCG'': Laureate François) || [[wikipedia:Laureate|Laureate]] + [[wikipedia:Frédéric Chopin|Frédéric François Chopin]]
+  |-
+  | rowspan=4 | [[Melodious Songstress|Songstress]] || [[Couplet the Melodious Songstress|Couplet]] || [[wikipedia:Couplet|Couplet]]
+  |-
+  | [[Refrain the Melodious Songstress|Refrain]] || [[wikipedia:Refrain|Refrain]]
+  |-
+  | [[Solo the Melodious Songstress|Solo]] || [[wikipedia:Solo (music)|Solo]]
+  |-
+  | [[Soprano the Melodious Songstress|Soprano]] || [[wikipedia:Soprano|Soprano]]
+  |}
+
+  == Playing style ==
+  "Melodious" is a theme focused on [[Special Summon]]ing monsters to the field to gain various benefits and achieve wins through their [[Fusion Monster]] boss monsters. Several monsters in the theme have effects that allow them to Special Summon themselves or other monsters in the theme, such as "[[Sonata the Melodious Diva]]" and "[[Mozarta the Melodious Maestra]]", while other monsters give benefits to Special Summoned Melodious monsters such as "[[Aria the Melodious Diva]]" and "[[Elegy the Melodious Diva]]".
+
+  The latter duo, notably, form a strong lockdown strategy that gives all "Melodious" monsters you control immunity from battle, effect destruction, and being targeted by card effects when both have been Special Summoned; however the targeting protection includes being targeted by your own card effects so be aware of this. The theme carries with it many different ways to Special Summon both Aria and Elegy to the field; from the [[Spell Card]]s "[[1st Movement Solo]]" and "[[Ostinato]]" to the theme's [[Link Monster]] "[[Bloom Harmonist the Melodious Composer]]" and its effect to Special Summon 2 "Melodious monsters" with different [[Level]]s from the Deck. Through this "Aria"-"Elegy" lock, players can stall out opponents and amass their resources for a more explosive play once all the pieces have been gathered or further disrupt the opponent with cards such as "[[Archlord Kristya]]", the only notable outs to the strategy being non-targeting, non-destruction removal options or [[Piercing|piercing battle damage]]. However, the main way the deck can achieve wins is through the explosive power of their various Fusion Monsters.
+
+  "Melodious" Fusion Monsters come in two main varieties; the first being members of the "[[Melodious Maestra]]" sub-archetype that require any 2 "Melodious" monsters to [[Fusion Summon]] and able able to grant the deck stronger monsters as well as good disruption effects, such as the effect of "[[Schuberta the Melodious Maestra]]" to banish 3 cards from either player's [[Graveyard|Graveyard]]. The second set of "Melodious" Fusion Monsters are the "Melodious Choir" monsters, Fusions that take at least 1 "Melodious Maestra" monster as well as 1 or more other "Melodious" monsters to make and are typically the backbone of the theme's damage output, able to summon monsters such as "[[Bloom Diva the Melodious Choir]]" which takes no battle damage from the opponent's monsters and is able to inflict damage to the opponent equal to the difference of its ATK to the monster it battles.
+
+  With their wave of support from ''[[Legacy of Destruction]]'', "Melodious" gained access to a set of [[Pendulum Monster]]s that provides the theme with further consistency as well as new Fusion Monsters "[[Bacha the Melodious Maestra]]" and "[[Flowering Etoile the Melodious Magnificat]]" that provide extension and more powerful disruption effects and help to secure games quicker.
+
+  === Sample combos ===
+  Post-''Legacy of Destruction'', some "Melodious" cards can be used as a splashable engine using "[[Ostinato]]" as a strong starter (owing to its effect of using Fusion Materials from the Deck) and has the upsides of not applying any restrictions, does not use a [[Normal Summon]], and Summons a useful disruption.
+
+  {{Combo steps
+  | width   = 800px
+  | opening = "[[Ostinato]]" + no monsters on your field
+  | end     = 2 "[[Refrain the Melodious Songstress]]" and "[[Flowering Etoile the Melodious Magnificat]]" in the [[Monster Zone]]s + "[[Couplet the Melodious Songstress]]" and "Refrain the Melodious Songstress" in the [[Pendulum Zone]]s
+  | steps   = 
+  # Activate "[[Ostinato]]" to [[Fusion Summon]] "[[Bacha the Melodious Maestra]]" by sending 2 copies of "[[Refrain the Melodious Songstress]]" from hand or Deck to the Graveyard.
+  # Upon "Bacha's" Fusion Summon, activate its effect to Special Summon the third copy of "Refrain" from Deck.
+  # Upon "Refrain's" Special Summon, activate its effect to add "[[Couplet the Melodious Songstress]]" from Deck tohand.
+  # Upon adding "Couplet" to the hand, activate its effect to Special Summon 1 copy of "Refrain" from [[Graveyard|Graveyard]]".
+  # Activate "Couplet" from hand into a [[Pendulum Zone]].
+  # Activate the Pendulum Effect of "Couplet" to add 1 "[[Melodious Concerto]]" from Deck to hand.
+  # Activate "Concerto" to Fusion Summon "[[Flowering Etoile the Melodious Magnificat]]" by using "Couplet", "Bacha" and 1 of the 2 copies of "Refrain" as Fusion Materials.
+  # Upon "Flowering Etoile's" Fusion Summon, activate the Trigger Effects of "Bacha" (in the Graveyard, targetting the remaining copy of "Refrain" in your Graveyard), "Couplet" and "Refrain" (from the face-up [[Extra Deck]]) in the same Chain. The effect of "Bacha" resolves by Special Summoning "Refrain" from your Graveyard while the effects of "Refrain" and "Couplet" from the Extra Deck resolve by placing them in the Pendulum Zones.
+  # At this point, the player can use the two copies of "Refrain" in the [[Monster Zone]]s as [[Link Material]] to Link Summon any [[Link-2]] [[Link Monster]]. Then the two copies of "Refrain" in the Extra Deck (depending on the Link-2 Link Monster's [[Link Arrow]]s) can be [[Pendulum Summon]]ed along with other elligible [[LIGHT]] monsters, then the player can continue making other combos.
+  }}
+
+  === Recommended cards ===
+  {{Decklist|Recommended cards
+  <!--This is not an exact Decklist. Please do not add multiples or staples.-->
+  |effect monsters =
+  * [[Aria the Melodious Diva]]
+  * [[Canon the Melodious Diva]]
+  * [[Elegy the Melodious Diva]]
+  * [[Opera the Melodious Diva]]
+  * [[Score the Melodious Diva]]
+  * [[Serenade the Melodious Diva]]
+  * [[Sonata the Melodious Diva]]
+  * [[Tamtam the Melodious Diva]]
+  * [[Solo the Melodious Songstress]]
+  * [[Soprano the Melodious Songstress]]
+  * [[Mozarta the Melodious Maestra]]
+  * [[Shopina the Melodious Maestra]]
+  * [[Brilliant Rose]]
+  * [[Crystal Rose]]
+  * [[Archlord Kristya]]
+  * [[Athena]]
+  * [[Hecatrice]]
+  * [[Honest]]
+  * [[Splendid Venus]]
+  * [[Tethys, Goddess of Light]]
+  * [[Protecting Spirit Loagaeth]]
+  * [[Victorica, Angel of Bravery]]
+  |tuner monsters =
+  * [[Herald of Orange Light]]
+  * [[Ukanomitsune-no-Tamayura]]
+  |pendulum monsters =
+  * [[Couplet the Melodious Songstress]]
+  * [[Refrain the Melodious Songstress]]
+  |fusion monsters =
+  * [[Bacha the Melodious Maestra]]
+  * [[Bloom Diva the Melodious Choir]]
+  * [[Bloom Prima the Melodious Choir]]
+  * [[Schuberta the Melodious Maestra]]
+  * [[Flowering Etoile the Melodious Magnificat]]
+  * [[Luce the Dusk's Dark]]
+  * [[Odd-Eyes Vortex Dragon]] (with "Odd-Eyes Absolute Dragon")
+  |synchro monsters =
+  * [[F.A. Dawn Dragster]]
+  |xyz monsters =
+  * [[Fairy Cheer Girl]]
+  * [[Starliege Paladynamo]]
+  * [[Starring Knight]]
+  * [[Odd-Eyes Absolute Dragon]]
+  |link monsters =
+  * [[Bloom Harmonist the Melodious Composer]]
+  * [[Celestial Knightlord Parshath]]
+  * [[Hip Hoshiningen]]
+  * [[Lyna the Light Charmer, Lustrous]]
+  * [[Herald of Mirage Lights]]
+  |normal spells =
+  * [[1st Movement Solo]]
+  * [[Melodious Concerto]]
+  * [[Ostinato]]
+  * [[Mutiny in the Sky]]
+  * [[Photon Sanctuary]]
+  * [[Polymerization]]/[[Fusion Substitute]]
+  * [[Ties of the Brethren]]
+  * [[Transmodify]]
+  * [[Trade-In]]
+  |equip spells =
+  * [[Kahyoreigetsu]]
+  * [[Re-Fusion]]
+  |continuous spells =
+  * [[Fortissimo]]
+  * [[Valhalla, Hall of the Fallen]]
+  |quick-play spells =
+  * [[Pianissimo]]
+  * [[Celestial Transformation]]
+  * [[Photon Lead]]
+  |normal traps =
+  * [[Melodious Illusion]]
+  * [[Chain Material]] ''(use with "Elegy's" effect to keep your Fusion Monster from being destroyed)''
+  * [[Back to the Front]]
+  |continuous traps =
+  * [[Call of the Haunted]]
+  * [[Miraculous Descent]]
+  }}
+
+  === Weaknesses ===
+  * The "Melodious" monsters share the notion of Special Summoning as their pre-eminent means of strategy, which thus makes them the perfect target for anti-Special Summoning support like "[[Archlord Kristya]]", "[[Aurora Paragon]]", "[[Special Hurricane]]", "[[Fossil Dyna Pachycephalo]]" and "[[Jowgen the Spiritualist]]", of which the latter three can also destroy such Summoned monsters without the protection of "Elegy"'s effect (though "Elegy" can protect itself from indiscriminate [[Nuke]]rs like "[[Raigeki Bottle]]", "[[Black Rose Dragon]]" and "[[World of Prophecy]]").  More generally, "[[Reptilianne Servant]]", "[[Narrow Pass]]", "[[Summon Limit]]" and "[[Summon Breaker]]" can also hog their influence on the field.
+  * "Melodious" monsters are also LIGHT Fairies, hence giving cards like "[[Yami]]", "[[Penumbral Soldier Lady]]" (who can defeat every monster in the archetype unpowered with her effect alone) and the "[[Ally of Justice]]" and "[[Koa'ki Meiru]]" archetypes a chance to predate against "Melodious" monsters, though cards like "[[Light-Imprisoning Mirror]]" will not affect the majority of the "Melodious" monsters, due to their non-activated effects being Continuous. Finally, their heavy dependence on their effects also make them vulnerable to effect negations, make possible through cards such as [[Dark Ruler No More]]", "[[Forbidden Droplet]]", "[[Number C107: Neo Galaxy-Eyes Tachyon Dragon]]", "[[Tyrant's Tirade]]", "[[Skill Drain]]", "[[Angel 07]]".
+  * Various cards with removal effects that do not target nor destroy can deal with the "Aria"-"Elegy" lock and "[[Bloom Diva the Melodious Choir]]", such as: 
+  **"[[Stellarknight Triverr]]"'s effect returns all cards back to the hand 
+  **"[[Super Polymerization]]" can fuse away at least two "Melodious" monsters for commonly used Fusion Monsters such as "[[Garura, Wings of Resonant Life]]", or even another appropriate "Melodious" Fusion Monster in a mirror match. The same can also be said with the effect of "[[Fallen of Albaz]]" for "[[Branded]]-[[Despia]]", which can fuse with one of their Fusion Monsters for "[[Mirrorjade the Iceblade Dragon]]", then can remove another monster from the field with a non-targetting banish.
+  **"[[Madolche Queen Tiaramisu]]" and "[[Rainbow Neos]]" can shuffle the monsters into the deck. 
+  **"[[Trishula, Dragon of the Ice Barrier]]" and "[[Nekroz of Trishula]]" can banish without targetting. 
+  **"[[Book of Eclipse]]" flips all of the "Melodious" monsters face down, thus stopping the effects of "Aria" and "Elegy" from applying, while leaving them vulnerable to removal by any means. 
+  **Cards that Tribute such as "[[The Monarchs Stormforth]]" , "[[Lava Golem]]" or "[[The Winged Dragon of Ra - Sphere Mode]]".
+
+  {{Melodious}}
+
+  [[Category:TCG and OCG archetypes]]

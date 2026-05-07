@@ -1,0 +1,169 @@
+title: Mitsurugi
+wikitext: |-
+  {{Infobox archseries
+  | image          = MitsurugiRitual-MADU-EN-VG-artwork.png
+  | caption        = A drawing of "[[Ame no Murakumo no Mitsurugi]]" in the artwork of "[[Mitsurugi Ritual]]".
+  | ja_name        = {{Ruby|巳剣|ミツルギ}}
+  | romaji         = Mitsurugi
+  | trans          = Serpent Sword
+  | fr_name        = Mitsurugi
+  | de_name        = Mitsurugi
+  | it_name        = Mitsurugi
+  | ko_name        = 
+  | ko_romanized   = 
+  | pt_name        = Mitsurugi
+  | es_name        = Mitsurugi
+  | sc_name        = 巳剑
+  | sets           = 
+  | ocg            = 
+  * [[World Premiere Pack 2025]]
+  | tcg            = 
+  * [[Supreme Darkness]]
+  * [[Alliance Insight]]
+  * [[OTS Tournament Pack 29]]
+  * [[Legendary Modern Decks 2026]]
+  }}
+
+  "'''Mitsurugi'''" ({{Ruby|巳剣|ミツルギ}} ''Mitsurugi'', lit. "'''Serpent Sword'''") is a [[TCG-only|World Premiere]] [[archetype]] of [[DARK]] [[Reptile]] monsters introduced in ''[[Supreme Darkness]]''.
+
+  ==Lore==
+  {{Main|The Valuable Book EX 6 card storylines#Mitsurugi}}
+
+  ==Design==
+  ===Etymology===
+  "Mitsurugi" comes from a pun between 御剣 (''mitsurugi''), meaning "treasured/revered sword", and 巳 (''mi''), meaning "Serpent (in the Chinese zodiac)". Each member is named after a legendary Japanese sword, specifically the swords used by [[Wikipedia:Susanoo-no-Mikoto|Susano-o]] and [[Wikipedia:Takemikazuchi|Takemikazuchi]]. The [[Level 4]] [[Effect Monster]]s are appended with the phrase "no Mikoto" after the archetype name, an honorific commonly used to refer to gods.
+
+  ===Members===
+  The "Mitsurugi" monsters are generally split into two groups: The "Mitsurugi no Mikoto" Level 4 Effect Monsters, and the "no Mitsurugi" [[Level 8]] [[Ritual Monster]]s. A Level 4 Effect Monster and the corresponding Level 8 Ritual Monster form a pair, with the Ritual Monster having one of the names of its respective sword and its Effect Monster counterpart having its alternate name.
+
+  The theme's association with [[Reptile]]s appears to be referencing Susano-o's best known feat of slaying the eight-headed serpent [[wikipedia:Yamata no Orochi|Yamata no Orochi]], with "Ame no Murakumo" being directly based on Orochi while "Mitsurugi no Mikoto, Kusanagi" is based on the sword found in Orochi's tail by Susanoo after slaying the monster.
+
+  {| class="wikitable" style="text-align: center"
+  !Sword
+  !Effect Monster
+  !Ritual Monster
+  |-
+  |''[[wikipedia:Kusanagi no Tsurugi|Kusanagi-no-Tsurugi]]''
+  |"[[Mitsurugi no Mikoto, Kusanagi]]"
+  |"[[Ame no Murakumo no Mitsurugi]]"
+  |-
+  |''[[wikipedia:Totsuka-no-Tsurugi|Futsu-no-Mitama-no-Tsurugi]]''
+  |"[[Mitsurugi no Mikoto, Saji]]"
+  |"[[Futsu no Mitama no Mitsurugi]]"
+  |-
+  |''[[wikipedia:Totsuka-no-Tsurugi|Ama-no-Habakiri]]''
+  |"[[Mitsurugi no Mikoto, Aramasa]]"
+  |"[[Ame no Habakiri no Mitsurugi]]"
+  |}
+
+  ==Playing style==
+
+  The "Mitsurugi" archetype is a Ritual archetype that revolves around its main Level 8 Ritual Monsters. Each monster in the archetype has an effect that activates in the Graveyard when they are Tributed, recovering card advantage and board presence when they are used as material for Ritual Summons or when they are Tributed by their own effects. The goal of the archetype is to end on "[[Ame no Murakumo no Mitsurugi]]" and "[[Futsu no Mitama no Mitsurugi]]", who together make the archetype difficult to break through due to their search and recursion on Tribute as well as their disruptive effects on the field; "Ame no Murakumo" can destroy all monsters the opponent controls when Special Summoned and can either negate an opponent's card or force them to discard, while "Futsu" can swarm the board with Reptiles as the opponent Special Summons their monsters, recurring "Kusanagi" and "Saji" to protect the field. To enable easier Ritual Summoning, their Ritual Spell Card, "[[Mitsurugi Ritual]]", can both Ritual Summon from the Deck by using materials in the hand/field and Ritual Summon from the hand by using materials in the Deck, both each once per turn, increasing the consistency with which the archetype is capable of accessing its Ritual Monsters.
+
+  The theme has great synergy with "[[Ogdoadic]]", whose main mechanic consists on Tributing monsters from the field to Special Summon "Ogdoadic" monsters from the Graveyard, which triggers the effects of the Tributed "Mitsurugi" monsters in the process, providing card advantage and field presence. The status of multiple "Ogdoadic" as Level 8 monsters also allows them to be used alongside the "Mitsurugi" Ritual monsters for Rank 8 plays. "Mitsurugi" can branch into "Ogdoadic" to an extent by using "[[Divine Golden Shadow Dragon Dragluxion]]" to search for "[[Seventh Tachyon]]", which in turn can search for certain "Ogdoadic" monsters.
+
+  Outside of Reptile monsters, "Mitsurugi" historically paired well with archetypes capable of quickly Summoning Rank 4 Xyz Monsters, as the ability to Xyz Summon "King of the Feral Imps" provided easy access to "Ame no Habakiri no Mitsurugi". Following the ban of "King of the Feral Imps", players found that Synchro strategies that could Summon "Herald of the Arc Light" could be combined with "Mitsurugi" by searching "Habakiri" with the GY effect of "Herald". "Mitsurugi" also uniquely benefits from the integration of "[[Nibiru, the Primal Being]]"; since its board wipe effect Tributes face-up monsters, the Tributed "Mitsurugi" monsters can activate their effects and, in the case of the Ritual monsters, Special Summon themselves back to the field.
+
+  ===Recommended cards===
+  {{Decklist|Recommended cards
+  <!--This is not an exact Decklist. Please do not add multiples or staples.-->
+  |effect monsters =
+  * [[Mitsurugi no Mikoto, Kusanagi]]
+  * [[Mitsurugi no Mikoto, Aramasa]]
+  * [[Mitsurugi no Mikoto, Saji]]
+  * [[Mitsurugi no Miko, Wousu]]
+  * [[Kagetokage]]
+  * [[Lamia]]
+  * [[Liberator Eto]]
+  * [[Manju of the Ten Thousand Hands]]
+  * [[Night Sword Serpent]]
+  * "[[Ogdoadic]]" monsters
+  * [[Ragnaraika Armored Lizard]]
+  * [[Ritual Raven]]
+  * [[Skull Archfiend of Chaos]]
+  * [[Wicked Serpent Night Dragon]]
+  * [[Therion "Empress" Alasia]]
+  * [[Urubonus, the Avatar of Malice]]
+  * [[Vanguard of the Underground Emperor]]
+  * [[Nibiru, the Primal Being]]
+  |tuner monsters =
+  * [[Reptilianne Coatl]]
+  |ritual monsters =
+  * [[Ame no Habakiri no Mitsurugi]]
+  * [[Ame no Murakumo no Mitsurugi]]
+  * [[Futsu no Mitama no Mitsurugi]]
+  * [[End of the World Ruler]]
+  * [[Miracle Raven]]
+  |fusion monsters =
+  * [[Level 8 Monster Cards|Level 8]] [[Fusion Monster]]s (with "Metamorphosis")
+  |synchro monsters =
+  * [[Reptilianne Melusine]]
+  |xyz monsters =
+  * [[Code Igniter]]
+  * [[Dark Rebellion Xyz Dragon of the Four Heavenly Dragons]]
+  ** [[Evilswarm Ophion]]
+  ** [[Exosister Karmael]]
+  * [[Dingirsu, the Orcust of the Evening Star]]
+  * [[Divine Golden Shadow Dragon Dragluxion]]
+  * [[Hieratic Sun Dragon Overlord of Heliopolis]]
+  * [[King of the Feral Imps]] (''[[OCG]] and [[Traditional Format]]'')
+  * [[Number 38: Hope Harbinger Dragon Titanic Galaxy]]
+  * [[Number 90: Galaxy-Eyes Photon Lord]]
+  * [[Raider's Knight]]
+  ** [[Arc Rebellion Xyz Dragon]]
+  * [[Teardrop the Rikka Queen]]
+  |link monsters =
+  * [[Alien Shocktrooper M-Frame]]
+  * [[ASHLAN U1000]]
+  * [[Cosmic Slicer Zer'oll]]
+  * [[Cyberse Contract Witch]]
+  * [[Dyna Mondo]]
+  * [[Gorgon of Zilofthonia]]
+  * [[Haggard Lizardose]]
+  * [[Ragnaraika Chain Coils]]
+  * [[Ragnaraika Selene Snapper]]
+  * [[Rasterliger]]
+  * [[Reptilianne Echidna]]
+  |normal spells =
+  * [[Advance Draw]]
+  * [[Allure of Darkness]]
+  * [[Corrupted Ritual Records]]
+  * [[Creeping Darkness]]
+  * [[Foolish Burial]] ''(with "Skull Archfiend of Chaos")''
+  * [[Pre-Preparation of Rites]]
+  * [[Readying of Rites]]
+  * [[Snake Rain]]
+  * [[Trade-In]]
+  * [[Metamorphosis]] (OCG/Traditional Format)
+  |ritual spells =
+  * [[Mitsurugi Ritual]]
+  * [[Mitsurugi Mirror]]
+  |continuous spells =
+  * [[Mitsurugi Sacred Boundary]]
+  * [[Ragnaraika Bloom]]
+  |quick-play spells =
+  * [[Mitsurugi Prayers]]
+  * [[Mitsurugi Magatama]]
+  * [[Ogdoadic Daybreak]]
+  * [[Release Brainwashing]]
+  * [[Mystik Wok]]
+  |normal traps =
+  * [[Mitsurugi Tempest]]
+  * [[Mitsurugi Great Purification]]
+  * [[Forbidden Ritual Art]]
+  * [[Offering to the Snake Deity]]
+  * [[Transaction Rollback]] ''(with "Mitsurugi Tempest")''
+  |counter traps =
+  * [[Drytron Meteor Shower]]
+  |continuous traps =
+  }}
+
+  ===Weaknesses===
+  * As "Mitsurugi" Deck is reliant on making several searches in a single turn, "[[Droll & Lock Bird]]" can significantly slow down the gameplan.
+  * Various anti-special summon and anti-GY floodgates such as "[[Inspector Boarder]]" and "[[Dimension Shifter]]" can prevent a "Mitsurugi" player from playing or recurring their resources.
+  * The conditional negation effect of "Murakumo" can backfire if the opponent is playing a Deck that utilizes [[discard]]ing cards as a part of its strategy, such as "[[Dark World]]" or "[[Mermail]]/[[Atlantean]]".
+  * "[[Nibiru, the Primal Being]]" poses a great threat against a pure "Mitsurugi" endboard if the self-revival effects of "Habakiri" and "Murakumo" were activated beforehand, as the conditional effect of "Murakumo" can be bypassed by discarding "Nibiru" itself. In doing so, the entire board will be Tributed when the effect resolves, and the player will not receive a "[[Primal Being Token]]" in return, as "Nibiru" is unable to summon itself after it was discarded.
+  * "[[Ash Blossom & Joyous Spring]]" can thwart the first search effect of "Habakiri"; due to this effect being only usable once per Duel, the player will not get another chance to activate it on subsequent turns even if it gets negated.
+  {{Archseries navbox}}
+  [[Category:World Premiere debuted archetypes]]
+  [[Category:TCG and OCG archetypes]]

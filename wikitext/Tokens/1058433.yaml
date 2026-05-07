@@ -1,0 +1,23 @@
+title: Doppelganger Token
+wikitext: |-
+  {{CardTable2
+  | fr_name         = Jeton Sosie
+  | de_name         = Doppelgänger-Spielmarke
+  | it_name         = Segna-Sdoppiatore
+  | pt_name         = Ficha de Sócia
+  | es_name         = Ficha El Doble
+  | ko_name         = 도프러 토큰
+  | sc_name         = 多普勒衍生物
+  | ja_name         = ドップラートークン
+  | romaji_name     = Doppurā Tōkun
+  | translated_name = Doppler Token
+  | image           = DoppelgangerToken-MADU-EN-VG-artwork.png
+  | card_type       = Token
+  | attribute       = ?
+  | types           = ?
+  | level           = 5
+  | atk             = ?
+  | def             = 0
+  | summoned_by     = Spirit Illusion
+  | database_id     = 20417
+  }}

@@ -1,0 +1,38 @@
+title: Mecha Tamabot
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = メカタマボット
+  | romaji_name    = Mekatamabotto
+  | ko_name        = 메카타마봇
+  | image          = MechaTamabot-RDKP21-JP-C.png
+  | attribute      = EARTH
+  | types          = Machine / Effect
+  | level          = 1
+  | atk            = 200
+  | def            = 0
+  | effect_types   = Continuous
+  | condition      = This card's name becomes "[[Tamabot]]" while in the [[Graveyard]].
+  | requirement    = None
+  | text           = This card's name becomes "Tamabot". If you [[Fusion Summon]] "[[Tamabot King Golem]]", this card can be treated as 2 [[material]]s.
+  | ja_condition   = 墓地にいるこのカードのカード名は「タマボット」になる。
+  | ja_requirement = なし
+  | ja_text        = このカードのカード名は「タマボット」になる。自分が「Ｔ・Ｋ・Ｇ」をフュージョン召喚する場合、このカードは２体分の素材にできる。
+  | ko_condition   = 묘지에 있는 이 카드의 카드명은 "타마봇"이 된다.
+  | ko_requirement = 없음
+  | ko_text        = 이 카드의 카드명은 "타마봇"이 된다. 자신이 "T·K·G(타마봇 킹 골렘)"을 퓨전 소환할 경우, 이 카드는 2장만큼의 소재로 할 수 있다.
+  | jp_sets        = 
+  RD/KP21-JP007; Accel Road of the Attack; Common
+  | kr_sets        = 
+  RD/KP21-KR007; Accel Road of the Attack; Common
+  | mentions       = 
+  * Tamabot
+  * Tamabot King Golem
+  | archseries     = Tamabot (series)
+  | stat_change    = 
+  * Changes own name while in the GY
+  * Changes own name while on the field
+  | summoning      = Treated as multiple Fusion Materials
+  | database_id    = 21651
+  }}

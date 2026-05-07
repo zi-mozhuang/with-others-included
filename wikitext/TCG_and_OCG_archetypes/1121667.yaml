@@ -1,0 +1,190 @@
+title: Power Patron
+wikitext: |-
+  {{Infobox archseries
+  | image          = VidoliumtheUnstablePowerPatronofUnity-MADU-EN-VG-artwork.png
+  | caption        = "[[Vidolium the Unstable Power Patron of Unity]]", the merged form of "[[Medius the Pure]]" and the "Power Patrons" "[[Nerva the Power Patron of Creation|Nerva]]", "[[Jupiter the Power Patron of Destruction|Jupiter]]", and "[[Junora the Power Patron of Tuning|Junora]]".
+  | ja_name        = {{Ruby|獄|ごく}}{{Ruby|神|しん}}
+  | romaji         = Gokushin
+  | trans          = Imprisoned God
+  | fr_name        = Mécène du Pouvoir
+  | de_name        = Machtpatron
+  | it_name        = Patrono Potente
+  | ko_name        = 감옥신
+  | ko_romanized   = 
+  | pt_name        = Patrono(a) do Poder
+  | es_name        = Modelo de Poder
+  | sc_name        = 狱神
+  | sets           = 
+  * [[Duelist's Advance]]
+  * [[Doom of Dimensions]]
+  * [[Burst Protocol]]
+  * [[Blazing Dominion]]
+  * [[Chaos Origins]]
+  | ocg            = 
+  * [[Tournament Pack 2026 Vol.1]]
+  }}
+
+  "'''Power Patron'''", known as "'''Imprisoned God'''" ({{Ruby|獄|ごく}}{{Ruby|神|しん}} ''Gokushin'') in the ''OCG'', is an [[archetype]] introduced in ''[[Duelist's Advance]]''. It is connected to "[[Medius the Pure]]" and the "[[Artmage]]", "[[DoomZ]]", "[[Elfnote]]", and "[[Theorealize (archetype)|Theorealize]]" archetypes through the lore surrounding "Medius the Pure".
+
+  ==Lore==
+  {{Main|The Valuable Book EX 6 card storylines#No. 1: The Proxy War of the Gods}}
+
+  ==Etymology==
+  The [[Level]]/[[Rank]] 10 "Power Patrons" are named after the Roman [[wikipedia:Capitoline Triad|Capitoline Triad]]. The Level 1 members have the associated archetype in their names instead, and in the ''[[OCG]]'', they follow the naming scheme "Imprisoned God [descriptor]" ("[[Artmage Power Patron|Beast]]", "[[Power Patron DoomZ|Machine]]", and "[[Elfnote Power Patron|Spirit]]"). The [[Pendulum Monster]]s are named after stages of the [[wikipedia:Magnum opus (alchemy)|alchemical magnum opus]] combined with the Roman god's name (with the exception of "[[Jupredo the Shademachine Power Patron|Jupredo]]" in ''OCG'', which uses Jupiter's Greek name Zeus instead). "[[Vidolium the Unstable Power Patron of Unity|Vidolium]]" is named after ''vide'', the French word for "void", and the [[wikipedia:Capitolium|Capitolium]], a temple dedicated the Capitoline Triad.
+
+  ==Members==
+  Each "Power Patron" is linked to a different [[archetype]], [[Type]], and [[monster card type]]. Except for "[[Vidolium the Unstable Power Patron of Unity]]" and "[[Power Patron Envoy of Pure Prayers]]", they come in three trios: 
+  * a Level/Rank 10 Extra Deck monster that requires 3 materials and has an alternate Summoning procedure
+  * a Level 1 monster with 300 [[ATK]], 200 [[DEF]], and the same [[Attribute]] as the Extra Deck monster that locks its controller into the associated monster type, can Special Summon the Extra Deck member or a monster from the associated archetype, and when destroyed or sent to the [[Graveyard]] searches a card of the associated archetype
+  * a Level 10 DARK Pendulum Monster that is always treated as a member of the associated archetype and also has with 300 ATK, 200 DEF, and an effect that Special Summons the Extra Deck member (for the cost of banishing the top 3 cards of the controller's Deck face-down), plus searching for "Power Patrons" or the associated archetype when added to the Extra Deck face-up and a self-destruction effect while in the [[Pendulum Zone]]
+  In addition, some trios have a "Diactorus" monster belonging to the associated monster type and archetype, depicting "[[Medius the Pure]]" inheriting their power.
+
+  {| class="wikitable" style="text-align:center"
+  ! colspan=3 | Power Patrons
+  ! rowspan=2 | Attribute
+  ! rowspan=2 | Type
+  ! rowspan=2 | Monster type
+  ! rowspan=2 | God
+  ! rowspan=2 | Animal motif
+  ! rowspan=2 | Archetype
+  ! rowspan=2 | Diactorus
+  |-
+  ! Extra Deck
+  ! Level 1
+  ! DARK Pendulum
+  |-
+  | [[Nerva the Power Patron of Creation|Nerva of Creation]]
+  | [[Artmage Power Patron|Artmage [Beast]]]
+  | [[Nervedo the Shadebeast Power Patron|Nervedo the Shadebeast]]
+  | [[EARTH]]
+  | [[Illusion]]
+  | [[Fusion Monster|Fusion]]
+  | [[wikipedia:Minerva|Minerva]]
+  | Owl
+  | [[Artmage]]
+  | [[Artmage Diactorus]]
+  |-
+  | [[Jupiter the Power Patron of Destruction|Jupiter of Destruction]]
+  | [[Power Patron DoomZ|[Machine] DoomZ]]
+  | [[Jupredo the Shademachine Power Patron|Jupredo the Shademachine]]
+  | [[WIND]]
+  | [[Machine]]
+  | [[Xyz Monster|Xyz]]
+  | [[wikipedia:Jupiter (god)|Jupiter]]
+  | Dragon
+  | [[DoomZ]]
+  | [[DoomZ Break - Diactorus]]
+  |-
+  | [[Junora the Power Patron of Tuning|Junora of Tuning]]
+  | [[Elfnote Power Patron|Elfnote [Spirit]]]
+  | [[Junoldo the Shadespirit Power Patron|Junoldo the Shadespirit]]
+  | [[FIRE]]
+  | [[Fiend]]
+  | [[Synchro Monster|Synchro]]
+  | [[wikipedia:Juno (mythology)|Juno]]
+  | Peafowl
+  | [[Elfnote]]
+  | –
+  |-
+  | [[Power Patron Envoy of Pure Prayers|Envoy of Pure Prayers]]
+  | –
+  | [[Vidolium the Unstable Power Patron of Unity|Vidolium of Unity]]
+  | [[DARK]]
+  | [[Fairy]]
+  | [[Link Monster|Link]]
+  | –
+  | –
+  | –
+  |–
+  |}
+
+  ==Playing style==
+  ===Recommended cards===
+  {{Decklist|Recommended cards
+  <!--This is not an exact Decklist. Please do not add multiples or staples.-->
+  |effect monsters =
+  * [[Artmage Power Patron]]
+  * [[Medius the Pure]]
+  * [[Power Patron DoomZ]]
+  * [[Carnot the Eternal Machine]]
+  * [[Elfnote Lucina]]
+  * [[Finis Terrae, Tower of the Necroworld]]
+  * [[Multiplying Kuriboh!]]
+  * [[Nightmare Apprentice]]
+  |tuner monsters =
+  * [[Elfnote Power Patron]]
+  * [[Diviner of the Herald]]
+  |pendulum monsters =
+  * [[Nervedo the Shadebeast Power Patron]]
+  * [[Junoldo the Shadespirit Power Patron]]
+  * [[Jupredo the Shademachine Power Patron]]
+  * [[Vidolium the Unstable Power Patron of Unity]]
+  * [[Odd-Eyes Pendulum Dragon of the Four Heavenly Dragons]]
+  * [[Shade the Obscure]]
+  * [[Wind Unicorn Parallel, the Dracoslayer]]
+  |fusion monsters =
+  * [[Nerva the Power Patron of Creation]]
+  * [[Artmage Diactorus]]
+  * [[Artmage Non-Finito]]
+  * [[Master Spirit Tech Force - Pendulum Ruler]]
+  * [[Nightmare-Eyes Restrict]]
+  * [[Odd-Eyes Vortex Dragon]]
+  |synchro monsters =
+  * [[Junora the Power Patron of Tuning]]
+  * [[Juraishin, the Cursed Thunder God]]
+  * [[Psychic End Punisher]]
+  |xyz monsters =
+  * [[Jupiter the Power Patron of Destruction]]
+  * [[DoomZ Break - Diactorus]]
+  * [[Dark Ceruvim Irisfil]]
+  * [[Mercurium the Living Quicksilver]]
+  * [[Skypalace Gangaridai]]
+  * [[Superdreadnought Rail Cannon Gustav Max]]
+  ** [[Superdreadnought Rail Cannon Gustav Rocket]]
+  ** [[Superdreadnought Rail Cannon Juggernaut Liebe]]
+  * [[Varudras, the Final Bringer of the End Times]]
+  |link monsters =
+  * [[Power Patron Envoy of Pure Prayers]]
+  ** [[S:P Little Knight]]
+  ** [[W:P Fancy Ball]]
+  * [[Beyond the Pendulum]]
+  * [[Black Luster Soldier - Soldier of Chaos]]
+  * [[Dharc the Dark Charmer, Gloomy]]
+  * [[Exceed the Pendulum]]
+  * [[Silhouhatte Rabbit]]
+  |normal spells =
+  * [[Prohibited Power Patron Portal - Terminus]]
+  * [[Pasto-Ral Theorealize]]
+  * [[Theorealize]]
+  * [[Allure of Darkness]]
+  * [[Foolish Burial]]
+  * [[Foolish Burial Goods]]
+  * [[One for One]]
+  * [[Pendulum Fusion]]
+  * [[Pendulum Rising]]
+  * [[Pendulum Treasure]]
+  * [[Tokusano Shinkyojin]]
+  |field spells =
+  * [[Plundered Power Patron Plane - Vidolia]]
+  |continuous spells =
+  * [[Artmage Vandalism -Assault-]]
+  |quick-play spells =
+  * [[Dead-End Power Patron Realm - Viraia]]
+  * [[Theorealize Liberation]]
+  * [[Theorealize Overdrive]]
+  * [[Relinquished Fusion]] (with "Nightmare-Eyes Restrict")
+  * [[Wavering Eyes]]
+  |normal traps =
+  * [[Power Patron Shadows of the End Times]]
+  * [[Northern Crossfire]]
+  * [[Proof of Powerlessness]]
+  |counter traps =
+  * [[Mannadium Reframing]]
+  * [[Unbreakable Xyz Barrier]]
+  |continuous traps =
+  * [[Silhouhatte Trick]]
+  }}
+
+  {{Archseries navbox}}
+  {{Power Patron}}
+  [[Category:TCG and OCG archetypes]]

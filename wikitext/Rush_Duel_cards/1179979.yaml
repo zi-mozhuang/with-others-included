@@ -1,0 +1,41 @@
+title: Miraculous Swordsman - Buster Blader
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{rename|Buster Blader, the Miraculous Swordsman|reason=Consistency with [[Buster Blader, the Dragon Destroyer Swordsman]]}}
+  {{CardTable2
+  | ja_name         = {{Ruby|奇|き}}{{Ruby|跡|せき}}の{{Ruby|戦|せん}}{{Ruby|士|し}}－バスター・ブレイダー
+  | romaji_name     = Kiseki no Senshi - Basutā Bureidā
+  | image           = MiraculousSwordsmanBusterBlader-RDORP4-JP-UR.png
+  | attribute       = EARTH
+  | types           = Warrior / Fusion / Effect
+  | level           = 9
+  | atk             = 2600
+  | def             = 2300
+  | fusion_material = Buster Blader (Rush Duel)
+  | materials       = "[[Buster Blader (Rush Duel)|Buster Blader]]" + 1 [[Level]] 8 or lower [[Warrior]] [[Type]] [[Monster Card|monster]]
+  | requirement     = You have 10 or more cards in your [[Main Deck|Deck]] during your [[Main Phase]] that you [[Special Summon]]ed this card.
+  | text            = [[Draw a card|Draw]] 1 card. Then, you can make this card gain [[ATK]] equal to [the total number of [[Dragon]] and Warrior Type monsters in both [[Duelist|player]]s' [[Graveyard]]s] x 100 until the end of this [[turn]].
+  | ja_materials    = 「バスター・ブレイダー」＋モンスター（レベル８以下／戦士族）
+  | ja_requirement  = このカードを特殊召喚した自分メインフェイズに、自分のデッキのカードが１０枚以上の場合に発動できる。
+  | ja_text         = 自分は１枚ドローする。その後、このカードの攻撃力をターン終了時まで、［お互いの墓地のモンスター（ドラゴン族・戦士族）の数の合計］×１００アップできる。
+  | jp_sets         = 
+  RD/ORP4-JP065; Over Rush Pack 4; Ultra Rare, Over Rush Rare
+  | mentions        = Buster Blader (Rush Duel)
+  | supports        = 
+  * Warrior
+  * Dragon
+  | anti-supports   = 
+  * Dragon
+  * Warrior
+  | action          = 
+  * Activates during the turn in which it was Special Summoned
+  * You draw cards
+  | stat_change     = This card gains ATK
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  | database_id     = 23087
+  }}

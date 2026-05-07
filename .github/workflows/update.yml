@@ -1,0 +1,63 @@
+# SPDX-FileCopyrightText: © 2022–2024 Kevin Lu
+# SPDX-Licence-Identifier: LGPL-3.0-or-later
+name: Update wikitext from Yugipedia with recent changes
+
+on:
+  workflow_dispatch:
+    inputs:
+      since:
+        description: Mediawiki API timestamp for change log start time
+        required: false
+  # Note: cron schedule is highly unreliable
+  repository_dispatch:
+    types:
+      - update
+  schedule:
+    - cron: "0 2/4 * * *"
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r src/requirements.txt
+      # https://docs.github.com/en/rest/actions/workflow-runs#list-workflow-runs-for-a-repository
+      - name: Get the last time this workflow ran
+        id: last-run
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TIMESTAMP=$(gh api /repos/${{ github.repository }}/actions/runs | jq --raw-output '[.workflow_runs[] | select(.path == ".github/workflows/update.yml" and .conclusion == "success")][0].created_at')
+          echo "timestamp=$TIMESTAMP" >> $GITHUB_OUTPUT
+      - name: Download incremental changes since last time for targeted categories
+        run: <./src/categories.txt ./src/incremental.sh "${{ github.event.inputs.since || steps.last-run.outputs.timestamp }}"
+      - name: Query Semantic MediaWiki
+        working-directory: semantic-mediawiki
+        run: ../src/smw.sh
+      - id: commit
+        uses: DawnbrandBots/.github/actions/commit-push@main
+        if: always()
+        with:
+          message: "Yugipedia recent changes: ${{ github.run_number }} (${{ github.run_id }})"
+      - if: steps.commit.outputs.status > 0
+        name: Trigger yaml-yugi workflow
+        env:
+          GH_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
+        run: gh workflow run merge.yaml --repo DawnbrandBots/yaml-yugi
+    outputs:
+      status: ${{ steps.commit.outputs.status }}
+  validate:
+    needs: download
+    if: needs.download.outputs.status > 0 && !cancelled()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Duel Monsters cards do not contain Rush Duel cards (naïve check)
+        run: |
+          ! grep RD/ -R wikitext/Duel_Monsters_cards --include='*.yaml'

@@ -1,0 +1,59 @@
+title: Elemental HERO Burst Wingman
+wikitext: |-
+  {{CardTable2
+  | ja_name         = {{Ruby|Ｅ・ＨＥＲＯ|エレメンタルヒーロー}} バースト・ウィングマン
+  | romaji_name     = Erementaru Hīrō Bāsuto Winguman
+  | ko_name         = 엘리멘틀 히어로 버스트 윙맨
+  | es_name         = HÉROE Elemental del Estallido Wingman
+  | image           = ElementalHEROBurstWingman-RDAP01-JP-ScR.png
+  | attribute       = FIRE
+  | types           = Warrior / Fusion / Effect
+  | level           = 6
+  | atk             = 2100
+  | def             = 1200
+  | fusion_material = 
+  * Elemental HERO Avian (Rush Duel)
+  * Elemental HERO Burstinatrix (Rush Duel)
+  | materials       = "[[Elemental HERO Avian (Rush Duel)|Elemental HERO Avian]]" + "[[Elemental HERO Burstinatrix (Rush Duel)|Elemental HERO Burstinatrix]]"
+  | condition       = This card must be [[Fusion Summon]]ed.
+  | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text            = 1 [[face-up]] [[Warrior]] [[Type]] [[Monster Card|monster]] on your [[field]] gains 1000 [[ATK]] until the end of your opponent's next [[turn]]. Then, you can [[destroy]] 1 [[Spell Card|Spell]]/[[Trap Card]] on your opponent's field.
+  | ja_materials    = 「Ｅ・ＨＥＲＯ フェザーマン」＋「Ｅ・ＨＥＲＯ バーストレディ」
+  | ja_condition    = このカードはフュージョン召喚でしか特殊召喚できない。
+  | ja_requirement  = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_text         = 自分フィールドの表側表示モンスター（戦士族）１体を選び、その攻撃力を次の相手ターン終了時まで１０００アップする。その後、相手フィールドの魔法・罠カード１枚を選んで破壊できる。
+  | ko_materials    = "엘리멘틀 히어로 페더맨" ＋ "엘리멘틀 히어로 버스트 레이디"
+  | ko_condition    = 이 카드는 퓨전 소환으로밖에 특수 소환할 수 없다.
+  | ko_requirement  = 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
+  | ko_text         = 자신 필드의 앞면 표시 몬스터(전사족) 1장을 고르고, 그 공격력을 다음 상대 턴 종료시까지 1000 올린다. 그 후, 상대 필드의 마법 / 함정 카드 1장을 고르고 파괴할 수 있다.
+  | es_materials    = "HÉROE Elemental Avian" + "HÉROE Elemental Burstinatrix"
+  | es_condition    = Esta carta debe ser Invocada por Fusión.
+  | es_requirement  = Manda al Cementerio la carta de la parte superior de tu Deck.
+  | es_text         = 1 monstruo de Tipo Guerrero boca arriba en tu Campo gana 1000 ATK hasta el final del siguente turno de tu adversario. Después, puedes destruir 1 Carta Mágica/de Trampa en el Campo de tu adversario.
+  | jp_sets         = 
+  RD/SD0B-JP002; Structure Deck: Birth of Hero; Ultra Rare
+  RD/SD0B-JPS02; Structure Deck: Birth of Hero; Over Rush Rare
+  RD/AP01-JP083; Advance Pack: Devil's Ceremony; Secret Rare
+  | kr_sets         = 
+  RD/SD0B-KR002; Structure Deck: Birth of Hero; Ultra Rare
+  RD/SD0B-KRS02; Structure Deck: Birth of Hero; Over Rush Rare
+  RD/AP01-KR083; Advance Pack: Devil's Ceremony; Secret Rare
+  | mentions        = 
+  * Elemental HERO Avian (Rush Duel)
+  * Elemental HERO Burstinatrix (Rush Duel)
+  | supports        = Warrior
+  | archseries      = Elemental HERO (Rush Duel)
+  | action          = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change     = Your monsters gain ATK
+  | m/s/t           = 
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Normal Monsters as Fusion Materials
+  * Nomi
+  | misc            = 
+  * Requires control of specific Type
+  * Turn limited effects
+  | database_id     = 20454
+  }}

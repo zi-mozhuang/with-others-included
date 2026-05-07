@@ -1,0 +1,57 @@
+title: Ilios the Black Sun Dragon
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name             = 
+  | de_name             = 
+  | it_name             = 
+  | pt_name             = 
+  | es_name             = 
+  | ja_name             = {{Ruby|黒|こく}}{{Ruby|陽|よう}}{{Ruby|竜|りゅう}}イリオス
+  | romaji_name         = Kokuyōryū Iriosu
+  | ko_name             = 
+  | ko_rr_name          = 
+  | sc_name             = 
+  | image               = IliostheBlackSunDragon-VJMP-JP-UR.png
+  | attribute           = DARK
+  | types               = Dragon / Effect
+  | level               = 4
+  | atk                 = 1500
+  | def                 = 0
+  | password            = 19438484
+  | effect_types        = Ignition, Trigger, Condition, Condition
+  | text                = You can [[reveal]] 3 [[Dragon]] [[monster]]s in your [[Extra Deck]] with 3000 or more [[ATK]] and different names; [[Special Summon]] this card from your [[hand]]. If this card is [[send|sent]] to the [[GY]]: You can target 1 [[Dragon]] [[Fusion Monster|Fusion]], [[Synchro Monster|Synchro]], [[Xyz Monster|Xyz]], or [[Link Monster]] you [[control]]; your opponent cannot [[target]] it with [[card effect]]s this [[turn]]. Neither player can [[activate]] cards or effects in [[response]] to this effect's activation. You can only use each effect of "Ilios the Black Sun Dragon" [[once per turn]].
+  | fr_text             = 
+  | de_text             = 
+  | it_text             = 
+  | pt_text             = 
+  | es_text             = 
+  | ja_text             = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札に存在する場合、ＥＸデッキの攻撃力３０００以上のドラゴン族モンスター３体を相手に見せて発動できる（同名カードは１枚まで）。このカードを特殊召喚する。②：このカードが墓地へ送られた場合、自分フィールドのドラゴン族の融合・Ｓ・Ｘ・Ｌモンスター１体を対象として発動できる（この発動に対してお互いは効果を発動できない）。このターン、相手はそのモンスターを効果の対象にできない。
+  | ko_text             = 
+  | sc_text             = 
+  | jp_sets             = 
+  VJMP-JP289; V Jump June 2026 promotional card; Ultra Rare
+  | supports            = 
+  * Dragon
+  * Fusion Monster
+  * Synchro Monster
+  * Xyz Monster
+  * Link Monster
+  | action              = 
+  * Activates from your hand
+  * Reveals your Extra Deck for cost
+  * Activates if sent to the Graveyard
+  | m/s/t               = 
+  * Prevents other cards being targeted by card effects
+  * Prevents activation of Effect Monsters
+  * Prevents activation of Spell Cards
+  * Prevents activation of Trap Cards
+  * Prevents responding to its activation
+  | summoning           = Special Summons itself from your hand
+  | misc                = 
+  * Requires control of specific Type
+  * Requires control of specific Monster card type
+  * Only once per turn
+  | database_id         = 23141
+  }}
