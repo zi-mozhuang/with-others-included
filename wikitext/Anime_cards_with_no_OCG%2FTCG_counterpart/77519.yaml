@@ -1,0 +1,27 @@
+title: Volcanic Curse
+wikitext: |-
+  {{Anime card
+  | reconstructed_text = yes
+  | ja_image           = VolcanicCurse-JP-Anime-GX.png
+  | ja_name            = ヴォルカニック・カース
+  | romaji_name        = Vorukanikku Kāsu
+  | card_type          = Trap
+  | property           = Normal
+  | text               = [[Activate]] only when an opponent's [[Monster Card|monster]] [[declare]]s an [[attack]] [[target]]ing a monster you [[control]]. The [[attack target]] gains 500 [[ATK]] for each [[Pyro]]-[[Type]] monster in both players' [[Graveyard]]s, until the [[End Phase]].
+  | de_text            = Aktiviere diese Karte nur wenn ein Monster das du kontrollierst als Angriffsziel bestimmt wird. Erhöhe die ATK dieses Monsters um 500 Punkte für jedes Monster vom Typ Pyro im Friedhof beider Spieler bis zum Ende des Spielzugs.
+  | ja_text            = 相手モンスターの攻撃宣言時に、自分フィールド上の攻撃対象モンスター1本を対象に発動する事ができる。お互いの墓地に存在する炎族モンスター1本につき、対象[…]
+  | appears_in_gx      = 169
+  | decks              = Trueman
+  | supports           = Pyro
+  | anti-supports      = Pyro
+  | archseries         = Volcanic
+  | action             = Activates upon attack declaration
+  | stat_change        = Your monsters gain ATK
+  }}
+
+  {{Unofficial names
+  | de_name = Vulkanischer Fluch
+  | hr_name = Vulkanska Kletva
+  | el_name = Ηφαιστειώδης Κατάρα
+  | es_name = Maldición Volcánica
+  }}
