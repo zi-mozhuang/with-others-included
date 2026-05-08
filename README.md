@@ -1,21 +1,6 @@
 # YAML [Yugipedia](https://yugipedia.com)
 
-[![Update wikitext from Yugipedia with recent changes](https://github.com/DawnbrandBots/yaml-yugipedia/actions/workflows/update.yml/badge.svg)](https://github.com/DawnbrandBots/yaml-yugipedia/actions/workflows/update.yml)
-[![Lint](https://github.com/DawnbrandBots/yaml-yugipedia/actions/workflows/python.yml/badge.svg)](https://github.com/DawnbrandBots/yaml-yugipedia/actions/workflows/python.yml)
-
-An automatically-updated collection of wikitexts from Yugipedia of cards for intake and transformation into the
-[YAML Yugi](https://github.com/DawnbrandBots/yaml-yugi) database. Storing a cache here reduces load on the wiki while
-also serving as an external backup of current wiki text. The YAML Yugi project aims to create a comprehensive,
-machine-readable, human-editable database of _Yu-Gi-Oh! Trading Card Game_ (TCG), _Official Card Game_ (OCG),
-_Master Duel_ video game, _Rush Duel_, and _Speed Duel_.
-
-All files under [`/wikitext`](/wikitext) and [`/semantic-mediawiki`](/semantic-mediawiki) are downloaded using MediaWiki APIs and copyright belongs to their original
-holders. Any Yugipedia-original content is licensed under [CC BY-SA 4.0](https://yugipedia.com/wiki/Yugipedia:Licensing)
-but most card text is &copy; Studio Dice/SHUEISHA, TV TOKYO, KONAMI.
-
-The remaining files — the actual source code of this stage of the pipeline — are available under the
-GNU Lesser General Public License 3.0 or later. See [COPYING](./COPYING) and [COPYING.LESSER](./COPYING.LESSER)
-for more details.
+[master](https://github.com/DawnbrandBots/yaml-yugipedia)
 
 ## Categories being automatically downloaded
 - [Duel Monsters cards](https://yugipedia.com/wiki/Category:Duel_Monsters_cards)
@@ -33,18 +18,19 @@ for more details.
 - [Sayings](https://yugipedia.com/wiki/Category:Sayings)
 - [Yu-Gi-Oh! RUSH DUEL: Saikyo Battle Royale!! Let's Go! Go Rush!! card artworks](https://yugipedia.com/wiki/Category:Yu-Gi-Oh!_RUSH_DUEL:_Saikyo_Battle_Royale!!_Let's_Go!_Go_Rush!!_card_artworks)
 
-[OCG Forbidden & Limited Lists](https://yugipedia.com/wiki/Category:OCG_Forbidden_%26_Limited_Lists) was previously
-downloaded into [`/wikitext/limit-regulation-ocg`](/wikitext/limit-regulation-ocg) but is no longer automatically
-updating as it is not needed downstream. This could change as needed in the future.
+## Additional downloads
+Anime_cards_with_no_OCG%2FTCG_counterpart
+Bandai_cards_with_no_OCG%2FTCG_counterpart
+Manga_cards_with_no_OCG%2FTCG_counterpart
+Miscellaneous_cards_with_no_OCG%2FTCG_counterpart
+Novel_cards_with_no_OCG%2FTCG_counterpart
+Toei_cards_with_no_OCG%2FTCG_counterpart
+Video_game_cards_with_no_OCG%2FTCG_counterpart
+Anime_Rush_Duel_cards_with_no_printed_Rush_Duel_counterpart
+Manga_Rush_Duel_cards_with_no_printed_Rush_Duel_counterpart
+Card_Trivia
 
-## Adding a new category
+## Modify name to be compatible with Windows
+Yu-Gi-Oh!_RUSH_DUEL:_Saikyo_Battle_Royale!!_Let's_Go!_Go_Rush!!_card_artworks→Yu-Gi-Oh!_RUSH_DUEL:_Saikyo_Battle_Royale!!_Let_s_Go!_Go_Rush!!_card_artworks
 
-1. Run the [download workflow](https://github.com/DawnbrandBots/yaml-yugipedia/actions/workflows/download.yml) with the URL-encoded title of the category page without the `Category:` as input, e.g. `Yu-Gi-Oh!_Master_Duel_Forbidden_%26_Limited_Lists`.
-1. Add this URL-encoded category title to the [update list](/src/categories.txt) for the saved wikitexts automatically receive new changes via the [update workflow](https://github.com/DawnbrandBots/yaml-yugipedia/blob/master/.github/workflows/update.yml).
-
-You can request to include a category by opening a pull request adding an entry to the [update list](/src/categories.txt).
-
-## Semantic MediaWiki queries
-
-- [Unreleased OCG, TCG, and Speed Duel cards](/semantic-mediawiki/unreleased.csv)
-- [Unreleased Rush Duel cards](/semantic-mediawiki/unreleased-rush.csv)
+## No other changes
