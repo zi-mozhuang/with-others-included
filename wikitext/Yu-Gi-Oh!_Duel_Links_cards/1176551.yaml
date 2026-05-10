@@ -1,0 +1,26 @@
+title: Ghost Mourner & Moonlit Chill (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Fantôme du Défunt et Fraîcheur Lunaire
+  | de_name      = Geistertrauernde und Mondeskälte
+  | it_name      = Fantasma in Lutto & Brivido Illuminato dalla Luna
+  | es_name      = Fantasma Plañidero & Frío de Luna
+  | ko_name      = 사요 시구레
+  | image        = 
+  | attribute    = WIND
+  | types        = Zombie / Tuner / Effect
+  | level        = 3
+  | atk          = 0
+  | def          = 1800
+  | rarity       = UR
+  | different_effect = true
+  | effect_types = Trigger, Condition
+  | text         = If your opponent [[Special Summon]]s a [[Monster Card|monster]](s) [[face-up]] (except during the [[Damage Step]]): You can [[discard]] this card, then [[target]] 1 of those face-up monsters; [[negate]] its [[effect]]s until the end of this [[turn]], also if that face-up monster [[leaves the field]] this turn, its [[control]]ler takes damage equal to half its [[original ATK]]. You can only use this effect of "Ghost Mourner & Moonlit Chill" [[once per turn]].
+  | fr_text      = Si votre adversaire Invoque Spécialement un ou plusieurs monstres face recto (sauf durant la Damage Step) : vous pouvez défausser cette carte, puis ciblez 1 de ces monstres face recto ; annulez ses effets jusqu'à la fin de ce tour, et aussi, si le monstre face recto quitte le Terrain ce tour, son contrôleur reçoit des dommages égaux à la moitié de son ATK d'origine. Vous ne pouvez utiliser cet effet de "Fantôme du Défunt et Fraîcheur Lunaire" qu'une fois par tour.
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Striker Expansion}}
+  {{Duel Links release table|type=box|Selection BOX Vol.08}}
+  {{Duel Links release table|type=box|Anniversary BOX Vol.03}}
+  {{Duel Links release table/footer}}
+  }}

@@ -1,0 +1,59 @@
+title: Gagaga Girl - Cell Phone Subtraction
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = ガガガガール－ゼロゼロコール
+  | romaji_name           = Gagaga Gāru - Zero Zero Kōru
+  | translated_name       = Gagaga Girl - Zero Zero Call
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 我我我女孩－零零拨号
+  | image                 = 
+  1; GagagaGirlCellPhoneSubtraction-LOCH-JP-UR.png
+  2; GagagaGirlCellPhoneSubtraction-LOCH-JP-UR-EA.png
+  | current_image         = 1
+  | attribute             = DARK
+  | types                 = Spellcaster / Effect
+  | level                 = 3
+  | atk                   = 1000
+  | def                   = 800
+  | password              = 48393693
+  | effect_types          = Trigger, Trigger, Condition
+  | text                  = If your opponent [[Special Summon]]s a [[monster]](s) from the [[Extra Deck]] (except during the [[Damage Step]]): You can [[target]] 1 [[face-up]] monster you [[control]]; [[Special Summon]] this card from your [[hand]], then immediately after this [[effect]] [[resolve]]s, [[Xyz Summon]] using only this card and the targeted monster. When you do, treat this card's [[Level]] as the same as the targeted monster's. If this card is [[detach]]ed from an [[Xyz Monster]] to [[activate]] that monster's effect: You can change the [[ATK]] of 1 face-up monster your opponent controls to 0. You can only use each effect of "Gagaga Girl - Cell Phone Subtraction" [[once per turn]].
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手がＥＸデッキからモンスターを特殊召喚した場合、自分フィールドの表側表示モンスター１体を対象として発動できる。このカードを手札から特殊召喚する。その後、このカードと対象のモンスターのみを素材としてＸ召喚を行う。その際、このカードのレベルは、対象のモンスターと同じレベルとして扱う。②：Ｘ素材のこのカードがＸモンスターの効果を発動するために取り除かれた場合に発動できる。相手フィールドの表側表示モンスター１体の攻撃力を０にする。
+  | ko_text               = 
+  | sc_text               = 此卡名的①②效果1回合仅可各使用1次。①：对手从额外牌组将怪兽特殊召唤的情况下，以自己场上的1只表侧表示怪兽为对象可以发动。从手牌将此卡特殊召唤。然后，仅以此卡和对象怪兽作为素材进行超量召唤。在此之际，此卡的等级视为与对象怪兽的等级相同。②：作为超量素材的此卡为发动超量怪兽的效果被去除的情况下可以发动。将对手场上的1只表侧表示怪兽的攻击力改成0。
+  | jp_sets               = 
+  LOCH-JP012; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | sc_sets               = 
+  LOCH-SC012; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | archseries            = 
+  * Gagaga
+  * Signature move
+  | action                = 
+  * Activates upon Special Summon
+  * Activates from your hand
+  * Uses itself as an Xyz Material
+  * Activates if detached from Xyz Monster to activate its effect
+  | stat_change           = 
+  * Treated as alternate Level
+  * Your opponent's monsters lose ATK
+  * Reduces ATK to 0
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Performs an Xyz Summon
+  * Special Summons from your Extra Deck
+  | misc                  = Only once per turn
+  | database_id           = 22701
+  }}

@@ -1,0 +1,75 @@
+title: Trap Dustshoot
+wikitext: |-
+  {{CardTable2
+  | de_name         = Bodenklappenfalle
+  | it_name         = Trappola Botola
+  | fr_name         = Chausse-Trape
+  | es_name         = Trampa de Tobogán
+  | ko_name         = 더스트 슛
+  | ja_name         = ダスト・シュート
+  | romaji_name     = Dasuto Shūto
+  | translated_name = Dust Chute
+  | image           = TrapDustshoot-RA05-EN-SR-1E.png
+  | card_type       = Trap
+  | property        = Normal
+  | password        = 64697231
+  | effect_types    = Effect
+  | text            = If your opponent has 4 or more cards in their [[hand]]: Look at your opponent's hand and choose 1 [[monster]] from it to [[shuffle]] into the [[Main Deck|Deck]].
+  | fr_text         = Si votre adversaire a min. 4 cartes dans sa main : regardez la main de votre adversaire et choisissez-en 1 monstre à mélanger dans le Deck.
+  | de_text         = Falls dein Gegner 4 oder mehr Karten in seiner Hand hat: Sieh dir die Hand deines Gegners an und bestimme 1 Monster davon, das ins Deck gemischt wird.
+  | it_text         = Se il tuo avversario ha 4 o più carte nella sua mano: guarda la mano del tuo avversario e seleziona 1 mostro da essa da mischiare nel Deck.
+  | es_text         = Si tu adversario tiene 4 o más cartas en su mano: mira la mano de tu adversario y elige 1 monstruo de ella para que lo baraje al Deck.
+  | pt_text         = Se seu oponente tiver 4 ou mais cards na mão dele: olhe a mão do seu oponente e selecione 1 monstro dela para embaralhar no Deck.
+  | ja_text         = 相手の手札が４枚以上の場合に発動する事ができる。相手の手札を確認してモンスターカード１枚を選択し、そのカードを持ち主のデッキに戻す。
+  | ko_text         = 상대의 패가 4장 이상 있을 때, 발동할 수 있다. 상대의 패를 확인하고 몬스터 카드 1장을 선택하여, 그 카드의 주인의 덱으로 되돌리고 셔플한다.
+  | en_sets         = 
+  DB2-EN246; Dark Beginning 2; Common
+  CP05-EN005; Champion Pack: Game Five; Super Rare
+  RA04-EN121; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  RA05-EN077; Rarity Collection 5; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Starlight Rare, Ultimate Rare, Collector's Rare
+  | na_sets         = 
+  PGD-049; Pharaonic Guardian; Common
+  DT04-EN098; Duel Terminal 4; Duel Terminal Normal Parallel Rare
+  | fr_sets         = 
+  DB2-FR246; Dark Beginning 2; Common
+  CP05-FR005; Champion Pack: Game Five; Super Rare
+  RA04-FR121; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  RA05-FR077; Rarity Collection 5; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Starlight Rare, Ultimate Rare, Collector's Rare
+  | de_sets         = 
+  DB2-DE246; Dark Beginning 2; Common
+  CP05-DE005; Champion Pack: Game Five; Super Rare
+  RA04-DE121; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  RA05-DE077; Rarity Collection 5; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Starlight Rare, Ultimate Rare, Collector's Rare
+  | it_sets         = 
+  DB2-IT246; Dark Beginning 2; Common
+  CP05-IT005; Champion Pack: Game Five; Super Rare
+  RA04-IT121; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  RA05-IT077; Rarity Collection 5; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Starlight Rare, Ultimate Rare, Collector's Rare
+  | pt_sets         = 
+  RA04-PT121; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  RA05-PT077; Rarity Collection 5; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Starlight Rare, Ultimate Rare, Collector's Rare
+  | sp_sets         = 
+  DB2-SP246; Dark Beginning 2; Common
+  RA04-SP121; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  RA05-SP077; Rarity Collection 5; Super Rare, Ultra Rare, Secret Rare, Platinum Secret Rare, Starlight Rare, Ultimate Rare, Collector's Rare
+  | jp_sets         = 
+  PH-48; Pharaonic Guardian (Japanese); Common
+  DL5-133; Duelist Legacy Volume.5; Common
+  BE2-JP246; Beginner's Edition 2; Common
+  DT08-JP048; Duel Terminal - Pulse of the Trishula!!; Duel Terminal Normal Parallel Rare
+  BE02-JP201; Beginner's Edition 2 (2011); Rare
+  | ae_sets         = 
+  PGD-049; Pharaonic Guardian; Common
+  | kr_sets         = 
+  PGD-KR049; Pharaonic Guardian; Common
+  BP2-KR246; Beginner's Edition 2; Common
+  ESP2-KR051; Expansion Pack Vol.2; Rare
+  | ntr_sets        = 
+  '''[[Yu-Gi-Oh! Nightmare Troubadour: Royal Relics|Royal Relics]]''' ([[Common]])
+  | ygo_sets        = 
+  '''[[Pack 23 (YGOO-BP)|Pack 23]]'''
+  | action          = 
+  * Reveals your opponent's hand
+  * Returns from your opponent's hand to your opponent's Deck
+  | database_id     = 5446
+  }}

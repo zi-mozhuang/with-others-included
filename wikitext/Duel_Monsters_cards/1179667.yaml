@@ -1,0 +1,59 @@
+title: The Phantom Knights of Decayed Cloak
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|幻影騎士団|ファントム・ナイツ}}ディケイクローク
+  | romaji_name           = Fantomu Naitsu Dikei Kurōku
+  | translated_name       = Phantom Knights Decay Cloak
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 魅影骑士团衰朽斗篷
+  | image                 = ThePhantomKnightsofDecayedCloak-CORI-JP-R.png
+  | attribute             = DARK
+  | types                 = Warrior / Effect
+  | level                 = 3
+  | atk                   = 1000
+  | def                   = 300
+  | password              = 46072770
+  | effect_types          = Ignition, Trigger, Ignition, Condition
+  | text                  = You can [[reveal]] 1 other "[[The Phantom Knights]]" card in your [[hand]]; [[Special Summon]] this card from your hand. If this card is [[Normal Summon|Normal]] or Special Summoned: You can [[Add a card|add]] 1 "The Phantom Knights" monster from your [[Main Deck|Deck]] to your hand. You can [[banish]] this card from your [[GY]], then [[target]] 1 [[Xyz Monster]] you control; this [[turn]], you can use it as [[material]] for an [[Xyz Summon]] using its [[Rank]] as if it were a [[Level]]. You can only use each [[effect]] of "The Phantom Knights of Decayed Cloak" [[once per turn]].
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札に存在する場合、手札の他の「幻影騎士団」カード１枚を相手に見せて発動できる。このカードを特殊召喚する。②：このカードが召喚・特殊召喚した場合に発動できる。デッキから「幻影騎士団」モンスター１体を手札に加える。③：墓地のこのカードを除外し、自分フィールドのＸモンスター１体を対象として発動できる。そのＸモンスターはこのターン、自身のランクと同じ数値のレベルのモンスターとしてＸ召喚の素材にできる。
+  | ko_text               = 
+  | sc_text               = {{Icon|official proxy transcript}}<br />此卡名的①②③效果1回合仅可各使用1次。①：此卡存在于手牌的情况下，向对手出示手牌的1张其他“魅影骑士团”卡可以发动。将此卡特殊召唤。②：此卡召唤・特殊召唤的情况下可以发动。从牌组将1只“魅影骑士团”怪兽加入手牌。③：将墓地的此卡除外，以自己场上的1只超量怪兽为对象可以发动。该超量怪兽在此回合，可当成与自身阶级的数值相同等级的怪兽，来作为超量召唤的素材。
+  | jp_sets               = 
+  CORI-JP018; Chaos Origins; Rare, Secret Rare
+  | sc_sets               = 
+  CORI-SC018; Chaos Origins; 
+  | supports              = Xyz Monster
+  | archseries            = 
+  * Phantom Knights
+  * The Phantom Knights
+  | supports_archetypes   = The Phantom Knights
+  | action                = 
+  * Reveals your hand for cost
+  * Activates from your hand
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  * Adds from Deck to hand
+  * Activates from your Graveyard
+  | stat_change           = 
+  * Gives Xyz Monsters Levels
+  * Treated as alternate Level
+  | summoning             = Special Summons itself from your hand
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific Monster card type
+  * Only once per turn
+  | database_id           = 22967
+  }}

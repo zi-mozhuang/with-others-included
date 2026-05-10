@@ -1,0 +1,37 @@
+title: Brassdes of the Wicked Wheels
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = アクノリのブラスデス
+  | romaji_name     = Akunori no Burasudesu
+  | translated_name = Evil-Riding Brassdes
+  | image           = 
+  1; BrassdesoftheWickedWheels-RDKP25-JP-OP.png
+  2; BrassdesoftheWickedWheels-RDKP25-JP-OP-AA.png
+  | current_image   = 1
+  | attribute       = DARK
+  | types           = Fiend / Effect
+  | level           = 3
+  | atk             = 0
+  | def             = 0
+  | condition       = You can [[Special Summon]] this card from your [[hand]] [[face-up]] to your [[field]] by [[send]]ing 1 [[Monster Card|monster]] from your field to the [[Graveyard]].
+  | requirement     = During your [[Main Phase]] that you Special Summoned this card, send the top 3 cards of your [[Main Deck|Deck]] to the Graveyard.
+  | text            = This card gains 2000 [[ATK]] until the end of your opponent's next [[turn]]. Then, you can [[Add a card|add]] 1 "[[Brassdes Trap Hole]]" from your Graveyard to your hand.
+  | ja_condition    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
+  RD/KP25-JP033; Rising of the Aurora; Super Rare, Secret Rare
+  | mentions        = Brassdes Trap Hole
+  | archseries      = Brassdes
+  | action          = 
+  * Sends from field to Graveyard for Special Summon
+  * Activates during the turn in which it was Special Summoned
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change     = This card gains ATK
+  | summoning       = Special Summons itself from your hand
+  | misc            = Turn limited effects
+  | database_id     = 
+  }}

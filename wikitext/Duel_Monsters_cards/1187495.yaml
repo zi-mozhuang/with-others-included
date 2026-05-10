@@ -1,0 +1,59 @@
+title: Exciting Melffy Time
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = どきどきメルフィータイム
+  | romaji_name           = Dokidoki Merufī Taimu
+  | translated_name       = 
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 扑通通梅尔菲时间
+  | image                 = ExcitingMelffyTime-CORI-JP-C.png
+  | card_type             = Trap
+  | property              = Normal
+  | password              = 58036097
+  | effect_types          = Effect, Quick-like, Condition
+  | text                  = [[Target]] 1 "[[Melffy]]" [[monster]] in your [[field]] or [[GY]]; [[return]] it to the [[hand]], then you can [[Fusion Summon]] 1 [[Beast]] [[Fusion Monster]] from your [[Extra Deck]], using monsters from your hand or field. If you [[control]] a "Melffy" [[Xyz Monster]]: You can [[banish]] this card from your GY; "Melffy" monsters you control that were [[Special Summon]]ed from the [[Extra Deck]] are [[unaffected]] by your opponent's [[activate]]d [[effect]]s this [[turn]]. You can only use each effect of "Exciting Melffy Time" [[once per turn]].
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分のフィールド・墓地の「メルフィー」モンスター１体を対象として発動できる。そのモンスターを手札に戻す。その後、自分の手札・フィールドのモンスターを融合素材とし、獣族の融合モンスター１体を融合召喚できる。②：自分フィールドに「メルフィー」Ｘモンスターが存在する場合、墓地のこのカードを除外して発動できる。このターン中、ＥＸデッキから特殊召喚された自分フィールドの「メルフィー」モンスターは相手が発動した効果を受けない。
+  | ko_text               = 
+  | sc_text               = 此卡名的①②效果1回合仅可各使用1次。①：以自己场上・墓地的1只“梅尔菲”怪兽为对象可以发动。将该怪兽放回手牌。然后，可将自己手牌・场上的怪兽作为融合素材，将1只兽族融合怪兽融合召唤。②：自己场上存在“梅尔菲”超量怪兽的情况下，将墓地的此卡除外可以发动。在此回合中，被从额外牌组特殊召唤的、自己场上的“梅尔菲”怪兽不受对手发动的效果影响。
+  | jp_sets               = 
+  CORI-JP075; Chaos Origins; Common
+  | sc_sets               = 
+  CORI-SC075; Chaos Origins; 
+  | supports              = 
+  * Beast
+  * Fusion Monster
+  * Xyz Monster
+  | archseries            = Melffy
+  | supports_archetypes   = Melffy
+  | action                = 
+  * Returns from your field to your hand
+  * Returns from your Graveyard to your hand
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Activates from your Graveyard
+  | m/s/t                 = 
+  * Unaffected by the opponent's card effects
+  * Unaffected by activated card effects
+  | summoning             = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of specific archetype
+  * Requires control of specific Monster card type
+  * Only once per turn
+  | database_id           = 23024
+  }}

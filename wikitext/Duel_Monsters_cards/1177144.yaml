@@ -1,0 +1,66 @@
+title: Favorite HERO Flame Wingman
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|Ｆ・ＨＥＲＯ|フェイバリットヒーロー}} フレイム・ウィングマン
+  | romaji_name           = Feibaritto Hīrō Fureimu Winguman
+  | translated_name       = 
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 至爱－英雄 光焰翼人
+  | image                 = 
+  1; FavoriteHEROFlameWingman-LOCH-JP-UR.png
+  2; FavoriteHEROFlameWingman-LOCH-JP-UR-EA.png
+  | current_image         = 1
+  | attribute             = WIND
+  | types                 = Warrior / Fusion / Effect
+  | level                 = 6
+  | atk                   = 2100
+  | def                   = 1200
+  | password              = 13243124
+  | materials             = 2 monsters with the same Type but different Attributes
+  | effect_types          = Condition, Trigger, Quick, Condition
+  | text                  = 2 [[monsters]] with the same [[Type]] but different [[Attribute]]s<br />(This card is always treated as an "[[Elemental HERO]]" card.)<br />When an [[attack]] is [[declare]]d involving this card and a monster with 2200 or more [[ATK]]: You can make this card gain 1000 ATK, then you can [[Special Summon]] 1 [[Level]] 4 or lower monster from your [[hand]] in [[Defense Position]]. If a monster(s) was [[destroyed by battle]] this [[turn]] ([[Quick Effect]]): You can [[Fusion Summon]] 1 [[Fusion Monster]] from your [[Extra Deck]], using monsters from your hand or [[field]]. You can only use each [[effect]] of "Favorite HERO Flame Wingman" [[once per turn]].
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = 同じ種族で属性が異なるモンスター×２<br />このカード名はルール上「Ｅ・ＨＥＲＯ」カードとしても扱う。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが攻撃力２２００以上のモンスターと戦闘を行う攻撃宣言時に発動できる。このカードの攻撃力は１０００アップする。その後、手札からレベル４以下のモンスター１体を守備表示で特殊召喚できる。②：モンスターが戦闘で破壊された自分・相手ターンに発動できる。自分の手札・フィールドのモンスターを融合素材とし、融合モンスター１体を融合召喚する。
+  | ko_text               = 
+  | sc_text               = 种族相同而属性不同的怪兽×2<br />此卡名在规则上也视为“元素－英雄”卡。此卡名的①②效果1回合仅可各使用1次。①：此卡与攻击力2200以上的怪兽进行战斗的攻击宣言时可以发动。此卡的攻击力上升1000。然后，可从手牌将1只等级4以下的怪兽以守备表示特殊召唤。②：有怪兽因战斗被破坏的自己・对手回合可以发动。将自己手牌・场上的怪兽作为融合素材，将1只融合怪兽融合召唤。
+  | jp_sets               = 
+  LOCH-JP005; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | sc_sets               = 
+  LOCH-SC005; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | supports              = Fusion Monster
+  | archseries            = 
+  * Elemental HERO
+  * Favorite
+  * HERO
+  * Wingman
+  | action                = 
+  * Activates upon attack declaration
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  | stat_change           = This card gains ATK
+  | summoning             = 
+  * 2 Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Special Summons from your hand
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc                  = 
+  * Archetype condition
+  * Only once per turn
+  | database_id           = 22694
+  }}

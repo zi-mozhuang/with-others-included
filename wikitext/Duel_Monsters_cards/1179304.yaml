@@ -1,0 +1,55 @@
+title: The Orchestrator of the Sacred Beasts
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|三|さん}}{{Ruby|幻|げん}}{{Ruby|魔|ま}}の{{Ruby|操|そう}}{{Ruby|世|せい}}{{Ruby|者|しゃ}}
+  | romaji_name           = Sangenma no Sōseisha
+  | translated_name       = The Orchestrator of the Three Phantasms
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 三幻魔操世者
+  | image                 = TheOrchestratoroftheSacredBeasts-CORI-JP-C.png
+  | attribute             = LIGHT
+  | types                 = Thunder / Effect
+  | level                 = 8
+  | atk                   = 2300
+  | def                   = 3000
+  | password              = 22734799
+  | effect_types          = Ignition, Ignition, Ignition, Condition
+  | text                  = You can [[reveal]] this card in your [[hand]]; [[discard]] 1 card, and if you do, [[Special Summon]] 1 "[[Sacred Beast (archetype)|Sacred Beast]]" [[monster]] from your [[hand]] in [[Defense Position]], except a [[Level]] 8 monster. You can discard 1 card; Special Summon 1 "Sacred Beast" monster from your hand or [[GY]] in [[Defense Position]], except a Level 8 monster or the discarded card. You can [[banish]] this card from your GY; Special Summon 1 "Sacred Beast" monster from your GY in Defense Position, except a Level 8 monster. You can only use each [[effect]] of "The Orchestrator of the Sacred Beasts" [[once per turn]].
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：手札のこのカードを相手に見せて発動できる。自分の手札を１枚選んで捨て、手札からレベル８以外の「三幻魔」モンスター１体を守備表示で特殊召喚する。②：手札を１枚捨てて発動できる。捨てたカードを除く、レベル８以外の「三幻魔」モンスター１体を自分の手札・墓地から守備表示で特殊召喚する。③：墓地のこのカードを除外して発動できる。自分の墓地からレベル８以外の「三幻魔」モンスター１体を守備表示で特殊召喚する。
+  | ko_text               = 
+  | sc_text               = 此卡名的①②③效果1回合仅可各使用1次。①：向对手出示手牌的此卡可以发动。挑选自己的1张手牌舍弃，从手牌将1只等级8以外的“三幻魔”怪兽以守备表示特殊召唤。②：舍弃1张手牌可以发动。从自己手牌・墓地将除所舍弃的卡以外的、1只等级8以外的“三幻魔”怪兽以守备表示特殊召唤。③：将墓地的此卡除外可以发动。从自己墓地将1只等级8以外的“三幻魔”怪兽以守备表示特殊召唤。
+  | jp_sets               = 
+  CORI-JP008; Chaos Origins; Common
+  | sc_sets               = 
+  CORI-SC008; Chaos Origins; 
+  | archseries            = 
+  * Phantasm
+  * Sacred Beast (archetype)
+  * Creator
+  | supports_archetypes   = Sacred Beast (archetype)
+  | action                = 
+  * Activates from your hand
+  * Reveals itself in the hand for cost
+  * You discard as an effect
+  * You discard for cost
+  * Activates from your Graveyard
+  | summoning             = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = Only once per turn
+  | database_id           = 22957
+  }}

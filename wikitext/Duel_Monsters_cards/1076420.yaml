@@ -1,0 +1,72 @@
+title: Mimighoul Charm
+wikitext: |-
+  {{CardTable2
+  | fr_name                  = Charme Mimigoule
+  | de_name                  = Mimighul-Charme
+  | it_name                  = Mimighoul Malia
+  | pt_name                  = Encanto Mimicarniçal
+  | es_name                  = Encanto Mimighoul
+  | ja_name                  = ミミグル・チャーム
+  | romaji_name              = Mimiguru Chāmu
+  | translated_name          = Mimigul Charm
+  | ko_name                  = 미미구르 참
+  | ko_rr_name               = 
+  | sc_name                  = 迷拟宝箱鬼・魅惑
+  | sc_translated_name       = Minic Treasure Chest Ghoul Charm
+  | image                    = MimighoulCharm-MP25-EN-UR-1E.png
+  | card_type                = Spell
+  | property                 = Continuous
+  | password                 = 55733143
+  | effect_types             = Trigger-like, Condition
+  | text                     = Once per [[Chain]], during the [[Main Phase]], if a "[[Mimighoul]]" [[monster]] your opponent [[control]]s is flipped [[face-up]]: You can randomly choose 1 [[face-down]] card in your opponent's [[Extra Deck]], and if it is a monster that can be [[Special Summon]]ed, Special Summon it to your [[field]], but it cannot [[activate]] its [[effect]]s this [[turn]]. If it wasn't, or couldn't be Special Summoned, [[banish]] that card. You can only use this effect of "Mimighoul Charm" twice per turn.
+  | fr_text                  = Une fois par Chaîne, durant la Main Phase, si un monstre "Mimigoule" contrôlé par votre adversaire est retourné face recto : vous pouvez choisir au hasard 1 carte face verso dans l'Extra Deck de votre adversaire, et si c'est un monstre qui peut être Invoqué Spécialement, Invoquez-le Spécialement sur votre Terrain, mais il ne peut pas activer ses effets ce tour. Si ce n'était pas un monstre Invocable Spécialement, ou s'il ne pouvait pas être Invoqué Spécialement, bannissez la carte. Vous ne pouvez utiliser cet effet de "Charme Mimigoule" que deux fois par tour.
+  | de_text                  = Einmal pro Kette, während der Main Phase, falls ein „Mimighul“-Monster, das dein Gegner kontrolliert, aufgedeckt wird: Du kannst zufällig 1 verdeckte Karte im Extra Deck deines Gegners bestimmen und falls es ein Monster ist, das als Spezialbeschwörung beschworen werden kann, beschwöre es als Spezialbeschwörung auf deine Spielfeldseite, aber seine Effekte können in diesem Spielzug nicht aktiviert werden. Falls es keins ist oder nicht als Spezialbeschwörung beschworen werden konnte, verbanne jene Karte. Du kannst diesen Effekt von „Mimighul-Charme“ nur zweimal pro Spielzug verwenden.
+  | it_text                  = Una volta per Catena, durante la Main Phase, se un mostro "Mimighoul" controllato dal tuo avversario viene scoperto: puoi selezionare a caso 1 carta coperta nell'Extra Deck del tuo avversario e, se è un mostro che può essere Evocato Specialmente, Evocalo Specialmente sul tuo Terreno, ma esso non può attivare i suoi effetti in questo turno. Se non lo è, o non può essere Evocato Specialmente, bandisci quella carta. Puoi utilizzare questo effetto di "Mimighoul Malia" solo due volte per turno.
+  | pt_text                  = Uma vez por Corrente, durante a Fase Principal, se um monstro "Mimicarniçal" que seu oponente controla for virado com a face para cima: você pode selecionar aleatoriamente 1 card com a face para baixo no Deck Adicional do seu oponente e, se for um monstro que possa ser Invocado por Invocação-Especial, Invoque-o por Invocação-Especial no seu campo, mas ele não pode ativar seus efeitos neste turno. Se não era, ou se não podia ser Invocado por Invocação-Especial, bana esse card. Você só pode usar este efeito de "Encanto Mimicarniçal" duas vezes por turno.
+  | es_text                  = Una vez por Cadena, durante la Main Phase, si un monstruo "Mimighoul" que controla tu adversario es volteado boca arriba: puedes elegir al azar 1 carta boca abajo en el Deck Extra de tu adversario y, si es un monstruo que puede ser Invocado de Modo Especial, Invócalo de Modo Especial a tu Campo, pero no puede activar sus efectos este turno. Si no lo era, o no podía ser Invocado de Modo Especial, destierra esa carta. Sólo puedes usar este efecto de "Encanto Mimighoul" dos veces por turno.
+  | ja_text                  = このカード名の①の効果は１ターンに２度まで使用できる。①：相手フィールドの「ミミグル」モンスターがメインフェイズにリバースした場合に発動できる（同一チェーン上では１度まで）。相手のＥＸデッキの裏側のカードをランダムに１枚選ぶ。そのカードが特殊召喚可能なモンスターだった場合、そのモンスターを自分フィールドに特殊召喚する。違った場合、または特殊召喚できない場合、そのカードを除外する。この効果で特殊召喚したモンスターは、このターン効果を発動できない。
+  | ko_text                  = 이 카드명의 ①의 효과는 1턴에 2번까지 사용할 수 있다. ①: 상대 필드의 "미미구르" 몬스터가 메인 페이즈에 리버스했을 경우에 발동할 수 있다(동일한 체인 위에서는 1번까지). 상대의 엑스트라 덱 뒷면의 카드를 무작위로 1장 고른다. 그 카드가 특수 소환 가능한 몬스터였을 경우, 그 몬스터를 자신 필드에 특수 소환한다. 다를 경우, 또는 특수 소환할 수 없을 경우, 그 카드를 제외한다. 이 효과로 특수 소환한 몬스터는, 이 턴에 효과를 발동할 수 없다.
+  | sc_text                  = 此卡名的①效果1回合最多可使用2次。①：对手场上的“迷拟宝箱鬼”怪兽在主要阶段反转的情况下可以发动（同一连锁上最多1次）。随机挑选对手额外牌组的1张里侧卡。该卡是可特殊召唤的怪兽的情况下，将该怪兽特殊召唤至自己场上。不是的情况下，或不可特殊召唤的情况下，将该卡除外。以此效果特殊召唤的怪兽此回合不可发动效果。
+  | en_sets                  = 
+  ROTA-ENSP1; Rage of the Abyss Premiere! promotional card; Ultra Rare
+  ROTA-EN096; Rage of the Abyss; Secret Rare, Quarter Century Secret Rare
+  MP25-EN260; 2025 Mega-Pack Tin; Ultra Rare
+  | fr_sets                  = 
+  ROTA-FRSP1; Rage of the Abyss Premiere! promotional card; Ultra Rare
+  ROTA-FR096; Rage of the Abyss; Secret Rare, Quarter Century Secret Rare
+  MP25-FR260; 2025 Mega-Pack Tin; Ultra Rare
+  | de_sets                  = 
+  ROTA-DESP1; Rage of the Abyss Premiere! promotional card; Ultra Rare
+  ROTA-DE096; Rage of the Abyss; Secret Rare, Quarter Century Secret Rare
+  MP25-DE260; 2025 Mega-Pack Tin; Ultra Rare
+  | it_sets                  = 
+  ROTA-ITSP1; Rage of the Abyss Premiere! promotional card; Ultra Rare
+  ROTA-IT096; Rage of the Abyss; Secret Rare, Quarter Century Secret Rare
+  MP25-IT260; 2025 Mega-Pack Tin; Ultra Rare
+  | pt_sets                  = 
+  ROTA-PTSP1; Rage of the Abyss Premiere! promotional card; Ultra Rare
+  ROTA-PT096; Rage of the Abyss; Secret Rare, Quarter Century Secret Rare
+  MP25-PT260; 2025 Mega-Pack Tin; Ultra Rare
+  | sp_sets                  = 
+  ROTA-SPSP1; Rage of the Abyss Premiere! promotional card; Ultra Rare
+  ROTA-SP096; Rage of the Abyss; Secret Rare, Quarter Century Secret Rare
+  MP25-SP260; 2025 Mega-Pack Tin; Ultra Rare
+  | jp_sets                  = 
+  WPP6-JP025; World Premiere Pack 2025; Common
+  | ae_sets                  = 
+  CR11-AE065; Creation Pack 11; Common
+  | kr_sets                  = 
+  WPP6-KR025; World Premiere Pack 2025; Common
+  | sc_sets                  = 
+  WPS2-SC013; World Premiere Pack 2025; Common
+  | archseries               = Mimighoul
+  | anti-supports_archetypes = Mimighoul
+  | action                   = Activates upon being flipped face-up
+  | m/s/t                    = Prevents activation of your Effect Monsters
+  | summoning                = Special Summons from your opponent's Extra Deck to your field
+  | banished                 = Banishes from your opponent's Extra Deck
+  | misc                     = 
+  * Once per Chain
+  * Only twice per turn
+  | database_id              = 20720
+  }}

@@ -1,0 +1,51 @@
+title: Dark Tuner (archetype)
+wikitext: |-
+  {{Infobox archseries
+  | cut_from_names = true
+  | image          = DarkTunerCatastrogue-TF05-JP-VG-artwork.png
+  | caption        = "[[Dark Tuner Catastrogue]]"
+  | ja_name        = {{Ruby|ＤＴ|ダークチューナー}}
+  | romaji         = Dākuchūnā
+  | sc_name        = 黑暗协调
+  | sets           =
+  * [[Limit Over Collection: The Rivals]]
+  | anime          = [[Yu-Gi-Oh! 5D's]]
+  | vg             =
+  * [[Yu-Gi-Oh! 5D's Tag Force 4]]
+  * [[Yu-Gi-Oh! 5D's Tag Force 5]]
+  * [[Yu-Gi-Oh! 5D's Tag Force 6]]
+  * [[Yu-Gi-Oh! ARC-V Tag Force Special]]
+  }}
+
+  "'''Dark Tuner'''" ({{Ruby|ＤＴ|ダークチューナー}} ''Dākuchūnā'') is an [[archetype]] of [[DARK]] [[Monster Card|monsters]] used by the [[Dark Signer]]s in the ''[[Yu-Gi-Oh! 5D's]]'' anime and ''[[Yu-Gi-Oh! Tag Force]]'' video games. In the video games, "Dark Tuner" monsters cannot be used as a [[Synchro Material]], except for the [[Synchro Summon]] of a [[Dark Synchro Monster]].
+
+  == Members ==
+  {| class="wikitable"
+  ! Dark Tuner
+  ! [[Dark Synchro Monster]]
+  ! Owner
+  |-
+  | [[Dark Tuner Catastrogue (anime)|Catastrogue]] || [[Frozen Fitzgerald (anime)|Frozen Fitzgerald]] || [[Grady]]
+  |-
+  | [[Dark Tuner Chaos Rogue (anime)|Chaos Rogue]] || [[Dark Diviner (anime)|Dark Diviner]] || [[Tetsu Trudge]]
+  |-
+  | [[Dark Tuner Dark Ape (anime)|Dark Ape]] || [[Zeman the Ape King (anime)|Zeman the Ape King]] || [[Devack]]
+  |-
+  | [[Dark Tuner Dark Goddess Witaka (anime)|Dark Goddess Witaka]] || [[Moon Dragon Quilla (anime)|Moon Dragon Quilla]] || [[Rex Goodwin]]
+  |-
+  | [[Dark Tuner Doom Submarine (anime)|Doom Submarine]] || [[Dark Flattop (anime)|Dark Flattop]] || [[Greiger]]
+  |-
+  | [[Dark Tuner Nightmare Hand (anime)|Nightmare Hand]] || [[One Hundred-Eyed Dragon|One Hundred-Eyed Dragon]] || [[Kalin Kessler]]
+  |-
+  | [[Dark Tuner Spider Cocoon (anime)|Spider Cocoon]] || [[Underground Arachnid (anime)|Underground Arachnid]] || [[Roman Goodwin]]
+  |}
+
+  == Playing style ==
+  In the ''[[OCG]]''/''[[TCG]]'', the "Dark Tuner" archetype focuses on [[reveal]]ing themselves in the player's [[hand]], followed by immediately [[Normal Summon]]ing a "Dark Tuner" monster, and share the following effect:
+  {{Quote|''Once per turn, if you [[control]] this Normal Summoned/[[Set]] card: You can [[Tribute]] both this face-up card and 1 face-up non-Tuner with a lower [[Level]], and if you do, [[Special Summon]] 1 [[Synchro Monster]] from your [[Extra Deck]] with a [[Level]] equal to the difference in Levels of those monsters (this is treated as a [[Synchro Summon]])''}}
+
+  This allows them to bypass Synchro Material requirements for Synchro Monsters such as "[[Naturia Beast]]" and "[[Crystal Wing Synchro Dragon]]", making them accessible in strategies that otherwise would not be able to Summon them. While the lack of members and support makes it difficult to build a Deck focused on the "Dark Tuner" archetype, there are ways to use them in other strategies. Notably, "[[Rahamu, Envoy of the Sacred Tome]]" allows an additional Normal Summon of a [[DARK]] monster, and can do so without Tributes, making it one of the easiest methods to Summon "Dark Tuner" monsters. In addition, cards such as "[[Glitch Clutch Nullgainer]]", "[[Piri Reis Map]]" and "[[Nightmare Throne]]" can help search the current 2 "Dark Tuner" monsters that exist, increasing the odds of finding these cards without running multiples of them.
+
+  {{Archseries navbox}}
+  {{Archseries navbox (anime)}}
+  [[Category:TCG and OCG archetypes]]

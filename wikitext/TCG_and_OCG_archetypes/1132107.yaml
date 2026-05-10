@@ -1,0 +1,277 @@
+title: R.B.
+wikitext: |-
+  {{About|the World Premier archetype|the ''OCG''-only reprint set|Revival of Black Demons Dragon|the archetype commonly abbreviated as "RB"|Ritual Beast}}
+  {{Infobox archseries
+  | cut_from_names = true
+  | image          = RBStageLanding-MADU-EN-VG-artwork.png
+  | caption        = "[[R.B. The Brute Blues]]" equipped with "[[R.B. Ga10 Driller|Ga10 Driller]]" and "[[R.B. Ga10 Cutter|Ga10 Cutter]]" in the artwork of "[[R.B. Stage Landing]]".
+  | ja_name        = {{Ruby|Ｒ．Ｂ．|リボルボット}}
+  | romaji         = Riboru Botto
+  | trans          = Revol Bot
+  | fr_name        = R.B.
+  | de_name        = R.B.
+  | it_name        = R.B.
+  | ko_name        = 
+  | ko_romanized   = 
+  | pt_name        = R.B.
+  | es_name        = R.B.
+  | sc_name        = 
+  | sets           = 
+  | ocg            = 
+  | tcg            = 
+  * [[Duelist's Advance]]
+  * [[Doom of Dimensions]]
+  }}
+
+  "'''R.B.'''", short for "'''Revol Bot'''" ({{Ruby|Ｒ．Ｂ．|リボルボット}} ''Riboru Botto''), is a [[TCG-only|World Premiere]] [[archetype]] of [[Machine]] monsters with 1500 or less [[ATK]] introduced in ''[[Duelist's Advance]]''.
+
+  ==Members==
+  Each Main Deck "R.B." monster has a unique effect while linked to an "R.B." Link Monster, which is activated by destroying itself and paying an LP cost that increases with its original Level.
+
+  {| class="wikitable" style="text-align:center"
+  ! R.B.
+  ! Level
+  ! LP cost
+  ! Linked effect
+  |-
+  | [[R.B. Ga10 Driller|Ga10 Driller]]
+  | 3
+  | 500
+  | Destroys 1 opponent's monster during either player's Main Phase
+  |-
+  | [[R.B. Ga10 Cutter|Ga10 Cutter]]
+  | 4
+  | 700
+  | Negates and destroys a Spell/Trap Card or effect
+  |-
+  | [[R.B. VALCan Rocket|VALCan Rocket]]
+  | 5
+  | 1000
+  | Destroy 2 opponent's cards and inflicts them 500 damage for each
+  |-
+  | [[R.B. Lambda Cannon|Lambda Cannon]]
+  | 6
+  | 1200
+  | Looks at the opponent's hand and Special Summons 1 monster from it
+  |-
+  | [[R.B. Lambda Blade|Lambda Blade]]
+  | 7
+  | 1400
+  | Takes control of 1 opponent's monster during their Main Phase and destroys it during the End Phase
+  |-
+  | [[R.B. Ga10 Pile Bunker|Ga10 Pile Bunker]]
+  | 8
+  | 1500
+  | Destroys all opponent's cards if their monster attacks while "R.B. The Brute Blues" points to this card
+  |}
+
+  ==Playing style==
+  "R.B." focuses on Summoning the archetype's Link Monsters and having them point to other members of the archetype.
+
+  Every Main Deck monster has an effect which cost LP, can only be activated if the monster is [[linked]] to an "R.B." Link Monster, and destroys itself on resolution, but disrupts the opponent in some way. In addition, the non-"Lambda" monsters can Special Summon themselves if the player controls no face-up monsters other than "R.B." monsters (the "Lambda" monsters instead have effects when they're Summoned).
+
+  For the Link monsters:
+  * "[[R.B. VALCan Booster]]" can search an archetypal Spell, and Summon an "R.B." from hand or GY.
+  * "[[R.B. The Brute Blues]]" can search any archetypal card. It is also the archetype's main finisher, as it gains ATK, a second attack, and destruction protection if linked to an "R.B." monster.
+  * "[[R.B. Shepherd's Crook]]" can search an archetypal Trap by Setting it on field, and on the opponent's turn, revive an "R.B." Monster with a Level
+
+  Because the Links can use any Machine as material and due to R.B. having no Normal Summon, "R.B." can synergize well with many other Machine engines/archetypes, thanks to [[Card Tips:R.B. VALCan Booster|any two Machines]] being able to be used as the material to summon "[[R.B. VALCan Booster]]". The most notable non-archetypal Machines (and support) that act as one card combos but do not generate any additional advantage include: "[[Speedroid Terrortop]]", "[[Sky Striker Mecha - Hornet Drones]]", "[[Pillar of the Future - Cyanos]]", "[[Division]]", "[[Checkker]]", "[[Mecha Phantom Beast]] [[Mecha Phantom Beast Tetherwolf|Tetherwolf]]/[[Mecha Phantom Beast O-Lion|O-Lion]]", and "[[Scrap Recycler]]", while those that both act as one card combos and have additional benefits include:
+  * "[[Machina Gearframe]]", which sets up "[[Machina Citadel]]" in the GY, which is able to trigger itself off the EARTH Machine "R.B." monsters' effects.
+  * "[[Girsu, the Orcust Mekk-Knight]]", which either can allow for "Orcust" plays, or simply adds "[[World Legacy - "World Crown"]]" to the endboard.
+  * "[[Cyber Dragon Core]]", via searching "[[Cyberdark Realm]]", allowing the endboard to include "[[Heosvarog the Mechanical Dawn]]".
+  "[[Planet Pathfinder]]" can also be utilized as a one-card combo by searching "[[R.B. Funk Dock]]", or if the player already has access to "R.B." plays, instead searching "[[Therion Discolosseum]]" to get access to "[[Therion "King" Regulus]]".
+
+  The archetype can also be used to make a generic Rank 3-5 Xyz Monster without locks, due to the effects of "[[R.B. Funk Dock]]" and "[[Clockwork Knight]]". This can be used to search members of other archetypes, e.g., "[[Gear Gigant X]]" to search a Machine, or "[[K9-17 "Ripper"]]" to search a "[[K9]]" card.
+
+  === Sample combos ===
+  ;R.B. Stage Landing
+
+  {{Combo steps
+  | opening = "[[R.B. Stage Landing]]" or "[[R.B. Funk Dock]]".
+  | end     = "[[R.B. The Brute Blues]]" pointing to "[[R.B. Ga10 Driller]]" and "[[R.B. Shepherd's Crook]]", a set "[[R.B. Next Phase]]", and "[[R.B. Funk Dock]]". After using "Driller"'s effect, "Brute Blues" pointing to "[[R.B. Lambda Blade]]" and "[[R.B. Ga10 Cutter]]". 
+  | steps   = 
+  # Activate "[[R.B. Stage Landing]]," summoning "[[R.B. The Brute Blues]]" to the Extra Monster Zone
+  # Use the effect of "[[R.B. The Brute Blues]]," adding "[[R.B. Funk Dock]]" from deck to hand.
+  # Activate "Funk Dock", searching a second copy of "Stage Landing". 
+  # Activate "Stage Landing", Special Summon "[[R.B. Lambda Cannon]]" from your Deck to a zone "Brute Blues" points to. 
+  # Activate the effect of "Lambda Cannon", destroying itself to check the opponent's hand, and Special Summon a monster if appropriate. 
+  # Activate the second effect of "Funk Dock", Special Summon "[[R.B. Lambda Blade]]" from your Deck to a zone "Brute Blues" points to. 
+  # Activate the first effect of "Lambda Blade", send "[[R.B. Ga10 Driller]]" from your Deck to GY. 
+  # Link Summon "[[R.B. VALCan Booster]]" using "Blues" and "Blade" as material. 
+  # Activate the first effect of "VALCan Booster", searching the final copy of "Stage Landing". 
+  # Activate the second effect of "VALCan Booster", Special Summon "Lambda Cannon" from the GY. 
+  # Activate the first effect of "Lambda Cannon", add "Ga10 Driller" from GY to hand. 
+  # Link Summon a second copy of "Brute Blues", using "VALCan Booster" and "Lambda Cannon" as material.
+  # Activate "Stage Landing", Special Summon "[[R.B. Shepherd's Crook]]" to the rightmost zone under "Brute Blues". 
+  # Activate the first effect of "Shepherd Crook", set "[[R.B. Next Phase]]" from Deck to the S/T zone. 
+  # Special Summon "Ga10 Driller" to your field, so "Brute Blues" points to it.
+  # If appropriate, activate "Ga10 Driller"'s effect to destroy the monster summoned by "Lambda Cannon", using "Stage Landing"'s effect to prevent "Ga10 Driller" destruction.
+  # On the opponent's Main Phase;
+  # Activate "Ga10 Driller"'s effect, destroy one monster your opponent controls and "Ga10 Driller". 
+  # Activate "Funk Dock"'s effect, Special Summon "[[R.B. Ga10 Cutter]]" from your Deck to any zone under "Brute Blues". 
+  # Activate "Shepherd Crook"'s effect, Special Summon "Lambda Blade" from your GY to the remaining zone under "Brute Blues", returning "Lambda Cannon" and "Ga10 Driller" to the Deck. 
+  }}
+
+
+  While the archetype has an Extra Deck-affecting lock as a result of "Stage Landing" and "VALCan Booster", certain combos can play through the lock to achieve similar endboards, and grant the deck additional consistency. 
+
+  ;2 Monsters
+
+  {{Combo steps
+  | opening = 2 Effect Monsters
+  | end     = 2 Machine Monsters (see next combo)
+  | steps   = 
+  # Link Summon [[Sky Striker Ace - Camellia]] and use its effect to send [[Sky Striker Mecha - Hornet Drones]]
+  # Link Camellia into [[Sky Striker Ace - Kagari]] and use its effect to recycle the Hornet Drones
+  # Activate Hornet Drones to summon a [[Sky Striker Ace Token]]
+  # Link Kagari into any Link-1 Sky Striker with a downwards pointing arrow (Amatsu, Hayate, or Kaina)
+  # Link the token into another Link-1 Sky Striker
+  # Proceed from here with the "2 Machine Monsters" combo
+  }}
+
+  {{Combo steps
+  | opening = 2 Machine Monsters
+  | end     = "[[R.B. The Brute Blues]]" pointing to "[[R.B. Ga10 Driller]]" and "[[R.B. Shepherd's Crook]]", a set "[[R.B. Next Phase]]", and "[[R.B. Funk Dock]]". After using "Driller"'s effect, "Brute Blues" pointing to "[[R.B. Lambda Blade]]" and "[[R.B. Ga10 Cutter]]". 
+  | steps   = 
+  # Link Summon "[[R.B. VALCan Booster]]", use its effect to search "[[R.B. Funk Dock]]".
+  # Activate "Funk Dock", use its effect to search "[[R.B. Stage Landing]]".
+  # Activate "Stage Landing", Special Summon "[[R.B. Lambda Cannon]]" to the zone "VALCan Booster" is pointing at.
+  # Activate "Lambda Cannon", destroy "Lambda Cannon" and check the opponent's hand, Special Summon a monster if appropriate.
+  # Activate "Funk Dock"'s effect, Special Summon "[[R.B. Lambda Blade]]" from your Deck.
+  # Activate "Lambda Blade"'s effect, send "[[R.B. Ga10 Driller]]" from Deck to GY. 
+  # Activate "VALCan Booster"'s effect, target "Lambda Cannon" in GY, Special Summon it.
+  # Activate "Lambda Cannon"'s effect, target "Ga10 Driller" in GY, add it to hand. 
+  # Link Summon "[[R.B. The Brute Blues]]" using "VALCan Booster" and "Lambda Blade".
+  # Activate "Brute Blues"' effect to search a second copy of "Stage Landing".
+  # Activate "Stage Landing", Special Summon "[[R.B. Shepherd's Crook]]" to the rightmost zone under "Brute Blues".
+  # Activate "Brute Blues"' effect, Set "[[R.B. Next Phase]]" from your Deck to the S/T zone. 
+  # Special Summon "Ga10 Driller" to your field, so "Brute Blues" points to it.
+  # If appropriate, activate "Ga10 Driller"'s effect to destroy the monster summoned by "Lambda Cannon", using "Stage Landing"'s effect to prevent "Ga10 Driller" destruction.
+  # On the opponent's Main Phase;
+  # Activate "Ga10 Driller"'s effect, destroy one monster your opponent controls and "Ga10 Driller". 
+  # Activate "Funk Dock"'s effect, Special Summon "[[R.B. Ga10 Cutter]]" from your Deck to any zone under "Brute Blues". 
+  # Activate "Shepherd Crook"'s effect, Special Summon "Lambda Blade" from your GY to the remaining zone under "Brute Blues", returning "Lambda Cannon" and "Ga10 Driller" to the Deck. 
+
+  }}
+
+  ;Hybridized with other archetypes
+  {{Main|Machina#Sample combos|Orcust#Sample combos|Rescue-ACE#Sample combos}}
+
+  ===Recommended cards===
+  {{Decklist|Recommended cards
+  <!--This is not an exact Decklist. Please do not add multiples or staples.-->
+  |effect monsters =
+  * [[R.B. Ga10 Driller]]
+  * [[R.B. Ga10 Cutter]]
+  * [[R.B. Ga10 Pile Bunker]]
+  * [[R.B. Lambda Blade]]
+  * [[R.B. Lambda Cannon]]
+  * [[R.B. VALCan Rocket]]
+  * [[Ancient Gear Box]]
+  * [[Checkker]]
+  * [[Convex Knight]]
+  * [[Division]]
+  * [[Gearspring Spirit]]
+  * [[Girsu, the Orcust Mekk-Knight]]
+  ** [[World Legacy - "World Crown"]] (with "Galatea-I, the Orcust Automaton")
+  * [[Gizmek]] monsters
+  ** [[Gizmek Arakami, the Hailbringer Hog]]
+  ** [[Gizmek Inaba, the Hopping Hare of Hakuto]]
+  ** [[Gizmek Naganaki, the Sunrise Signaler]]
+  ** [[Gizmek Taniguku, the Immobile Intellect]]
+  * [[Gray Layer]]
+  * [[Jet Synchron]]
+  * "[[Machina]]" monsters
+  ** [[Machina Citadel]]
+  ** [[Machina Gearframe]]
+  ** [[Machina Unclaspare]]
+  * [[Mecha Phantom Beast Tetherwolf]]
+  * [[Planet Pathfinder]]
+  * [[Pillar of the Future - Cyanos]]
+  **  [[Sky Striker Ace - Roze]]
+  * [[Psychic Processor]]
+  * [[Rustin Mammoth]]
+  * [[Scrap Recycler]]
+  * [[Speedroid Terrortop]]
+  ** [[Speedroid Taketomborg]]
+  * [[Speedroid Ultra Hound]]
+  ** [[Speedroid Dupligate]]
+  * [[Super Express Bullet Train]]
+  * [[Therion "King" Regulus]]
+
+  |tuner monsters =
+  * [[Mecha Phantom Beast O-Lion]]
+  * [[Righty Driver]]
+  ** [[Lefty Driver]]
+
+  |fusion monsters =
+  * [[Panzer Dragon]] (with "Instant Fusion")
+
+  |synchro monsters =
+  * [[Accel Synchron]]
+  * [[F.A. Dawn Dragster]]
+  * [[Martial Metal Marcher]]
+
+  |xyz monsters =
+  * [[Gear Gigant X]]
+
+  |link monsters =
+  * [[R.B. Shepherd's Crook]]
+  * [[R.B. The Brute Blues]]
+  * [[R.B. VALCan Booster]]
+  * [[Ancient Gear Ballista]]
+  * [[Barricadeborg Blocker]]
+  * [[Clockwork Knight]]
+  * [[Galatea-I, the Orcust Automaton]] (with "Girsu, the Orcust Mekk-Knight")
+  * [[Sky Striker]] monsters
+  ** [[Sky Striker Ace - Camellia]] (with ”Sky Striker Mecha - Hornet Drones”)
+  ** [[Sky Striker Ace - Kagari]] (with ”Sky Striker Mecha - Hornet Drones”)
+  ** [[Prototype Sky Striker Ace - Amatsu]]
+  ** [[Sky Striker Ace - Shizuku]]
+  * [[Zenna-no-Tsuinagihime]]
+
+  |normal spells =
+  * [[R.B. Stage Landing]]
+  * [[Foolish Burial Goods]]
+  * [[Instant Fusion]]
+  * [[Iron Call]]
+  * [[Machine Duplication]]
+  * [[Machina Redeployment]]
+
+  |field spells =
+  * [[R.B. Funk Dock]]
+
+  |continuous spells =
+  * [[R.B. Operation Test]]
+  * [[Clockwork Night]]
+  * [[Machina Defense Perimeter]]
+  * [[Solidarity]]
+  * [[Supply Squad]]
+
+  |quick-play spells =
+  * [[Limiter Removal]]
+  * [[Sky Striker Mecha - Hornet Drones]]
+  * [[Urgent Schedule]]
+
+  |normal traps =
+  * [[R.B. Last Stand]]
+  * [[Magnet Force]]
+
+  |counter traps =
+  * [[R.B. Next Phase]]
+  * [[World Legacy's Sorrow]]
+
+  |continuous traps =
+  * [[Rivalry of Warlords]]
+  }}
+
+  === Weaknesses ===
+  * Due to the two "R.B. Lambda" Main Deck monsters being high Level and unable to Special Summon themselves, the Deck can have dead draws or bricked hands that hamper consistency.
+  * Non-destruction removal, such as "[[S:P Little Knight]]" and "[[Ultimate Slayer]]", can be effective when used on the archetype's Link monsters, as the Main Deck monsters cannot activate their effects without an "R.B." Link pointing to them. Note that the GY effect of "[[R.B. Last Stand]]" can protect from targeting, though.
+  ** Like all Machine archetypes, "[[Chimeratech Fortress Dragon]]" and "[[System Down]]" are especially effective at breaking their boards.
+  * Anti-search cards, like "[[Droll & Lock Bird]]", are effective due to the Field Spell and two of the Link Monsters having a search effect.
+  * The archetype has many board breaking effects, though most either target or destroy. Therefore, monsters that are immune to both, such as "[[Red-Eyes Dark Dragoon]]", can be hard to deal with.
+
+  {{Archseries navbox}}
+  [[Category:World Premiere debuted archetypes]]
+  [[Category:TCG and OCG archetypes]]

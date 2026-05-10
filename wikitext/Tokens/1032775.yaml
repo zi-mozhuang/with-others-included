@@ -1,0 +1,24 @@
+title: Machine Token
+wikitext: |-
+  {{CardTable2
+  | fr_name        = Jeton Machine
+  | de_name        = Operator-Spielmarke
+  | it_name        = Segna-Macchina
+  | pt_name        = Ficha de Máquina
+  | es_name        = Ficha Máquina
+  | ja_name        = {{Ruby|機|き}}{{Ruby|械|かい}}トークン
+  | romaji_name    = Kikai Tōkun
+  | ko_name        = 기계 토큰
+  | ko_rr_name     = 
+  | sc_name        = 
+  | sc_pinyin_name = 
+  | image          = MachineToken-MADU-EN-VG-artwork.png
+  | card_type      = Token
+  | attribute      = FIRE
+  | types          = Machine / Normal
+  | level          = 1
+  | atk            = 200
+  | def            = 200
+  | summoned_by    = Division
+  | database_id    = 19754
+  }}

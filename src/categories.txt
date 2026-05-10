@@ -1,0 +1,14 @@
+Duel_Monsters_cards
+Rush_Duel_cards
+Skill_Cards
+TCG_and_OCG_archetypes
+Yu-Gi-Oh!_Master_Duel_cards
+Yu-Gi-Oh!_Master_Duel_Forbidden_%26_Limited_Lists
+Tokens
+Cards_by_Konami_index_number
+Yu-Gi-Oh!_Duel_Links_cards
+Yu-Gi-Oh!_Duel_Links_Skills
+Yu-Gi-Oh!_Master_Duel_accessories
+TCG_Speed_Duel_Forbidden_%26_Limited_Lists
+Sayings
+Yu-Gi-Oh!_RUSH_DUEL:_Saikyo_Battle_Royale!!_Let's_Go!_Go_Rush!!_card_artworks

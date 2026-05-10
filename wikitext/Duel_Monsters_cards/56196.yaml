@@ -1,0 +1,75 @@
+title: Gottoms' Emergency Call
+wikitext: |-
+  {{CardTable2
+  | fr_name                  = Ordre de Ralliement de Gottoms
+  | de_name                  = Gottoms Notruf
+  | it_name                  = Richiamo di Emergenza di Gottoms
+  | pt_name                  = Chamada Emergencial de Gottoms
+  | es_name                  = La Llamada de Emergencia de Gottom
+  | ja_name                  = ガトムズの{{Ruby|緊|きん}}{{Ruby|急|きゅう}}{{Ruby|指|し}}{{Ruby|令|れい}}
+  | romaji_name              = Gatomuzu no Kinkyūshirei
+  | translated_name          = Gottoms' Emergency Order
+  | ko_name                  = 가톰즈의 긴급지령
+  | sc_name                  = 加特姆士的紧急指令
+  | image                    = GottomsEmergencyCall-L26D-EN-C-1E.png
+  | card_type                = Trap
+  | property                 = Normal
+  | password                 = 13504844
+  | effect_types             = Effect
+  | text                     = If an "[[X-Saber]]" [[monster]] is on the [[field]]: [[Target]] 2 "X-Saber" monsters in any [[GY]](s); [[Special Summon]] both to your field.
+  | fr_text                  = Si un monstre "Sabre X" est sur le Terrain : ciblez 2 monstres "Sabre X" dans les Cimetières ; Invoquez-les Spécialement tous les deux sur votre Terrain.
+  | de_text                  = Falls ein „X-Säbel“-Monster auf dem Spielfeld liegt: Wähle 2 „X-Säbel“-Monster in beliebigen Friedhöfen; beschwöre beide als Spezialbeschwörung auf deine Spielfeldseite.
+  | it_text                  = Se un mostro "Sciabola-X" è sul Terreno: scegli come bersaglio 2 mostri "Sciabola-X" in qualsiasi Cimitero; Evoca Specialmente entrambi sul tuo Terreno.
+  | pt_text                  = Se um monstro "Sabre-X" estiver no campo: escolha 2 monstros "Sabre-X" em quaisquer Cemitérios; Invoque os dois por Invocação-Especial no seu campo.
+  | es_text                  = Si un monstruo "Sable-X" está en el Campo: selecciona 2 monstruos "Sable-X" en cualquier Cementerio; Invoca ambos de Modo Especial a tu Campo.
+  | ja_text                  = ①：フィールドに「Ｘ－セイバー」モンスターが存在する場合、自分・相手の墓地の「Ｘ－セイバー」モンスターを合計２体対象として発動できる。そのモンスター２体を自分フィールドに特殊召喚する。
+  | ko_text                  = ①: 필드에 "X－세이버" 몬스터가 존재할 경우, 자신 / 상대 묘지의 "X－세이버" 몬스터를 합계 2장 대상으로 하고 발동할 수 있다. 그 몬스터 2장을 자신 필드에 특수 소환한다.
+  | sc_text                  = ①：场上存在“X－军刀”怪兽的情况下，以自己・对手墓地的合计2只“X－军刀”怪兽为对象可以发动。将该2只怪兽特殊召唤至自己场上。
+  | en_sets                  = 
+  5DS2-EN033; Starter Deck: Yu-Gi-Oh! 5D's 2009; Common
+  TU04-EN001; Turbo Pack: Booster Four; Ultra Rare
+  RA04-EN138; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  L26D-ENX26; Legendary Modern Decks 2026; Common, Secret Rare
+  | na_sets                  = 
+  DT07-EN047; Duel Terminal 7a; Duel Terminal Normal Parallel Rare
+  | fr_sets                  = 
+  5DS2-FR033; Starter Deck: Yu-Gi-Oh! 5D's 2009; Common
+  TU04-FR001; Turbo Pack: Booster Four; Ultra Rare
+  RA04-FR138; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  L26D-FRX26; Legendary Modern Decks 2026; Common, Secret Rare
+  | de_sets                  = 
+  5DS2-DE033; Starter Deck: Yu-Gi-Oh! 5D's 2009; Common
+  TU04-DE001; Turbo Pack: Booster Four; Ultra Rare
+  RA04-DE138; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  L26D-DEX26; Legendary Modern Decks 2026; Common, Secret Rare
+  | it_sets                  = 
+  5DS2-IT033; Starter Deck: Yu-Gi-Oh! 5D's 2009; Common
+  TU04-IT001; Turbo Pack: Booster Four; Ultra Rare
+  RA04-IT138; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  L26D-ITX26; Legendary Modern Decks 2026; Common, Secret Rare
+  | pt_sets                  = 
+  RA04-PT138; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  L26D-PTX26; Legendary Modern Decks 2026; Common, Secret Rare
+  | sp_sets                  = 
+  5DS2-SP033; Starter Deck: Yu-Gi-Oh! 5D's 2009; Common
+  TU04-SP001; Turbo Pack: Booster Four; Ultra Rare
+  RA04-SP138; Quarter Century Stampede; Platinum Secret Rare, Quarter Century Secret Rare
+  L26D-SPX26; Legendary Modern Decks 2026; Common, Secret Rare
+  | jp_sets                  = 
+  YSD4-JP033; Starter Deck 2009; Common
+  DT13-JP047; Duel Terminal - Sacred Star Knights!!; Duel Terminal Normal Parallel Rare
+  SPRG-JP026; Booster SP: Raging Masters; Common, Normal Parallel Rare
+  TW03-JP016; Terminal World 3; Normal Parallel Rare, Secret Parallel Rare
+  | kr_sets                  = 
+  YSD4-KR033; Starter Deck 2009; Common
+  PR01-KR016; Promotion Pack 2012 Vol.1; Common
+  SPRG-KR026; Booster SP: Raging Masters; Common, Normal Parallel Rare
+  TW03-KR016; Terminal World 3; Normal Parallel Rare, Secret Parallel Rare
+  | sc_sets                  = 
+  TW03-SC024; Terminal World 3; Normal Parallel Rare, Secret Parallel Rare
+  | archseries               = Gottoms
+  | supports_archetypes      = X-Saber
+  | anti-supports_archetypes = X-Saber
+  | summoning                = Special Summons from your Graveyard
+  | database_id              = 8282
+  }}

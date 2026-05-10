@@ -1,0 +1,44 @@
+title: Bomb Token
+wikitext: |-
+  {{CardTable2
+  | fr_name               = Jeton Bombe
+  | de_name               = Bombe-Spielmarke
+  | it_name               = Segna-Bomba
+  | pt_name               = Ficha de Bomba
+  | es_name               = Ficha Bomba
+  | ja_name               = ボムトークン
+  | romaji_name           = Bomu Tōkun
+  | ko_name               = 폭탄 토큰
+  | ko_rr_name            = 
+  | sc_name               = 
+  | image                 = BombToken-OP26-EN-SR-UE.png
+  | card_type             = Token
+  | attribute             = FIRE
+  | types                 = Pyro / Normal
+  | level                 = 1
+  | atk                   = 1000
+  | def                   = 1000
+  | summoned_by           = 
+  * Fire Ejection
+  * Volcanic Trooper
+  | text                  = This card can be used as a "Bomb Token".<br /><br /><br />*If used for another [[Monster Token|Token]], apply that Token's [[Type]]/[[Attribute]]/[[Level]]/[[ATK]]/[[DEF]].
+  | ja_text               = このカードは「ボムトークン」として使用する事ができる。<br /><br /><br />※「ボムトークン」以外のトークンとして使用する場合、そのトークンの種族・属性・レベル・攻撃力・守備力を適用する。
+  | en_sets               = 
+  OP26-EN030; OTS Tournament Pack 26; Super Rare
+  | fr_sets               = 
+  OP26-FR030; OTS Tournament Pack 26; Super Rare
+  | de_sets               = 
+  OP26-DE030; OTS Tournament Pack 26; Super Rare
+  | it_sets               = 
+  OP26-IT030; OTS Tournament Pack 26; Super Rare
+  | pt_sets               = 
+  OP26-PT030; OTS Tournament Pack 26; Super Rare
+  | sp_sets               = 
+  OP26-SP030; OTS Tournament Pack 26; Super Rare
+  | jp_sets               = 
+  23TP-JP316; Tournament Pack 2023 Vol.3; Common
+  | kr_sets               = 
+  AE19-KRS04; Advanced Event Pack 2023 Vol.2 Version 2; Secret Rare
+  | related_to_archseries = Volcanic
+  | database_id           = 18929
+  }}

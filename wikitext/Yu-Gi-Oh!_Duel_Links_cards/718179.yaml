@@ -1,0 +1,24 @@
+title: Evolzar Dolkka (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Évolzar Dolkka
+  | de_name      = Evolzar Dolkka
+  | it_name      = Evolzar Dolkka
+  | ko_name      = 에볼카이저 돌카
+  | es_name      = Dolkka Evolugarto
+  | image        = EvolzarDolkka-DULI-EN-VG.png
+  | attribute    = FIRE
+  | types        = Dragon / Xyz / Effect
+  | atk          = 2300
+  | def          = 1700
+  | rank         = 4
+  | rarity       = SR
+  | effect_types = Quick
+  | text         = 2 [[Level]] 4 [[Dinosaur]]-[[Type]] [[monster]]s<br />During either player's [[turn]], when a monster [[effect]] [[activate]]s: You can [[detach]] 1 [[Xyz Material]] from this card; [[negate]] the activation, and if you do, [[destroy]] that monster.
+  | fr_text      = 2 monstres Dinosaure de Niveau 4<br />Durant le tour de chaque joueur, lorsqu'un effet d'un autre monstre est activé : vous pouvez détacher 1 Matériel Xyz de cette carte ; annulez l'activation, et si vous le faites, détruisez le monstre.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Selection BOX Mini Vol.07}}
+  {{Duel Links release table/footer}}
+  }}

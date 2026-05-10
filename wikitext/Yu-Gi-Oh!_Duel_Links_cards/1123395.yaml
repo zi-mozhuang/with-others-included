@@ -1,0 +1,24 @@
+title: Starving Venom Fusion Dragon (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name   = Dragon Fusion Venin Affamé
+  | de_name   = Hungergift-Fusionsdrache
+  | it_name   = Drago Fusione Veleno Affamato
+  | es_name   = Dragón de Fusión Hambriento Venenoso
+  | ko_name   = 스타브 베놈 퓨전 드래곤
+  | image     = 
+  | attribute = DARK
+  | types     = Dragon / Fusion / Effect
+  | level     = 8
+  | atk       = 2800
+  | def       = 2000
+  | rarity    = UR
+  | status    = 
+  | text      = 2 [[DARK]] [[Monster Card|monsters]] on the [[field]], except [[Monster Token|Tokens]]<br />If this card is [[Fusion Summon]]ed: You can make this card gain [[ATK]] equal to 1 [[Special Summon]]ed monster your opponent controls, until the end of this [[turn]]. [[Once per turn]]: You can [[target]] 1 [[Level]] 5 or higher monster your opponent [[control]]s; until the [[End Phase|end of this turn]], this card's name becomes that monster's original name, and replace this [[effect]] with that monster's original effects. If this Fusion Summoned card is [[destroy]]ed: You can destroy all Special Summoned monsters your opponent controls.
+  | fr_text   = 2 monstres TÉNÈBRES sur le Terrain (Jetons exclus)<br />Si cette carte est Invoquée par Fusion : jusqu'à la fin de ce tour, vous pouvez faire gagner à cette carte une ATK égale à l'ATK d'1 monstre Invoqué Spécialement contrôlé par votre adversaire. Une fois par tour : vous pouvez cibler 1 monstre de min. Niveau 5 contrôlé par votre adversaire ; jusqu'à la fin de ce tour, le nom de cette carte devient le nom d'origine du monstre, et remplacez cet effet avec les effets d'origine du monstre. Si cette carte Invoquée par Fusion est détruite : vous pouvez détruire tous les monstres Invoqués Spécialement contrôlés par votre adversaire.
+  | ja_text   = 
+  | releases  = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Starving Venom (Duel Links set)|quantity=1}}
+  {{Duel Links release table/footer}}
+  }}

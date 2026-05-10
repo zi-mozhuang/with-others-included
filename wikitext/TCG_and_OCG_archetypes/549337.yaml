@@ -1,0 +1,268 @@
+title: Fur Hire
+wikitext: |-
+  <!--Note to editors: The Yugipedia Discord consensus (21-May-2018) is that this page will be written in the same style as the card texts. Specifically: All instances of ""Fur Hire" [noun]" are replaced with "[noun] Fur Hire""-->
+  {{Infobox archseries
+  | image        = MayhemFurHire-MADU-EN-VG-artwork.png
+  | caption      = "[[Rafale, Champion Fur Hire|Rafale]]", "[[Dyna, Hero Fur Hire|Dyna]]", "[[Sagitta, Maverick Fur Hire|Sagitta]]", and "[[Fandora, the Flying Furtress|Fandora]]" in the artwork of "[[Mayhem Fur Hire]]"
+  | ja_name      = {{Ruby|空|くう}}{{Ruby|牙|が}}{{Ruby|団|だん}}
+  | romaji       = Kūgadan
+  | trans        = Skyfang Brigade
+  | sc_name      = 空牙团
+  | fr_name      = Mercefourrure
+  | fr_trans     = Furcenary
+  | de_name      = Fellsöldner
+  | de_trans     = Fur Mercenary
+  | it_name      = Pelliccia Mercenaria
+  | it_trans     = Mercenary Fur
+  | ko_name      = 공아단
+  | ko_hanja     = 空牙團
+  | ko_romanized = Gong-adan
+  | pt_name      = de Peluguel
+  | pt_trans     = Fur Rent
+  | es_name      = Mascota a Sueldo
+  | es_trans     = Hired Pet
+  | sets         =
+  * [[Soul Fusion]]
+  * [[Dark Neostorm]]
+  * [[Phantom Rage]]
+  * [[Darkwing Blast]]
+  * [[Burst Protocol]]
+  | tcg          =
+  * [[Dark Saviors]]
+  * [[2019 Gold Sarcophagus Tin Mega Pack]]
+  * [[2021 Tin of Ancient Battles]]
+  | ocg          = [[Deck-Build Pack: Dark Saviors]]
+  }}
+  "'''Fur Hire'''", known as "'''Skyfang Brigade'''" ({{Ruby|空|くう}}{{Ruby|牙|が}}{{Ruby|団|だん}} ''Kūgadan'') in Japanese, is an [[archetype]] of monsters with different [[Type]]s, [[Attribute]]s and [[Level]]s that debuted in ''[[Dark Saviors]]''.
+  Unique to this archetype, the support cards use the text '[monster/card] "Fur Hire"' instead of the [[PSCT]] standard '"[archetype]" [monster/card]'. This was intentional by Konami to incorporate the pun from their ''[[TCG]]'' names into their card effects, evident by continuing this trend outside their debut set.
+
+  ==Lore==
+  {{Main|The Valuable Book EX 6 card storylines#Fur Hire Activity Record}}
+
+  == Design ==
+  === Appearance ===
+  The monsters "Fur Hire" are anthropomorphic animals wearing armor.
+
+  === Etymology ===
+  In the ''[[TCG]]'' the archetype's name is a pun on "for hire", reflecting the fact they are mercenaries "Fur Hire".
+
+  == Members ==
+  The monsters "Fur Hire" can be split into 3 categories: low-Level Main Deck (Level 1-4), high-Level Main Deck (Level 5-8), and [[Link Monster]]s.
+
+  === Low-Level ===
+  The low-[[Level]] monsters "Fur Hire", except "[[Rex, Freight Fur Hire]]", each have an [[Ignition Effect]] to [[Special Summon]]s a different monster "Fur Hire" from the hand, and a [[Trigger Effect]] that activates if a monster "Fur Hire" is Special Summoned while that monster is face-up on the field. Instead of following the convention of the other monsters "Fur Hire", "Rex" instead has an on-Summon search effect and a [[Quick Effect]] that banishes itself from the [[GY]] to add to the hand, or Special Summon, a "Fur Hire" from the GY.
+  {| class="wikitable" style="text-align:center"
+  ! Fur Hire
+  ! Creature
+  ! Occupation/Title
+  ! [[Trigger Effect]]
+  |-
+  | [[Filo, Messenger Fur Hire|Filo]]
+  | Duck
+  | Messenger
+  | [[Special Summon]] a monster "Fur Hire" from [[GY]].<ref name="Filo" group="lower-alpha"/>
+  |-
+  | [[Donpa, Marksman Fur Hire|Donpa]]
+  | Fox
+  | Marksman
+  | [[Destroy]] a [[face-up]] card.
+  |-
+  | [[Recon, Scout Fur Hire|Recon]]
+  | Fox
+  | Scout
+  | Destroy a [[Set]] card.
+  |-
+  | [[Beat, Bladesman Fur Hire|Beat]]
+  | Rabbit
+  | Bladesman
+  | [[Add a card|Add]] a monster "Fur Hire" from [[Deck]] to [[hand]], except "Beat".
+  |-
+  | [[Helmer, Helmsman Fur Hire|Helmer]]
+  | Salamander
+  | Helmsman
+  | [[Discard]] a card "Fur Hire", then [[draw a card]].
+  |-
+  | [[Bravo, Fighter Fur Hire|Bravo]]
+  | Lizard
+  | Fighter
+  | All monsters "Fur Hire" gain 500 [[ATK]]/[[DEF]] this turn.
+  |-
+  | [[Seal, Strategist Fur Hire|Seal]]
+  | Rat
+  | Strategist
+  | Add a monster "Fur Hire" from [[GY]] to hand.
+  |-
+  | [[Rex, Freight Fur Hire|Rex]]
+  | Dinosaur
+  | Freight
+  | n/a
+  |}
+  <references group="lower-alpha">
+  <ref name="Filo" group="lower-alpha">In [[Defense Position]], and place that monster on the bottom of the Deck when it [[leaves the field]].</ref>
+  </references>
+
+  === High-Level ===
+  The high-Level monsters "Fur Hire" each have a Trigger Effect that activates when they are Special Summoned, and a second protective effect that either works as a [[Continuous Effect]] or a [[Quick Effect]] [[Negate|negation]].
+  {| class="wikitable" style="text-align:center"
+  ! Fur Hire
+  ! Creature
+  ! Occupation/Title
+  ! [[Trigger Effect]]
+  ! Protective effect
+  |-
+  | [[Sagitta, Maverick Fur Hire|Sagitta]]
+  | Secretary bird
+  | Maverick
+  | Inflict 500 x [other "Fur Hire" count]<ref name="other Fur Hire count" group="lower-alpha"/> [[Effect damage|damage]].
+  | Opponent cannot [[target]] other monsters "Fur Hire" with [[card effect|effect]]s.
+  |-
+  | [[Dyna, Hero Fur Hire|Dyna]]
+  | Tiger
+  | Hero
+  | [[Banish]] cards from opposing [[GY]], up to ["Fur Hire" count].<ref name="Fur Hire count" group="lower-alpha"/>
+  | Opponent cannot [[attack]] other monsters "Fur Hire".
+  |-
+  | [[Wiz, Sage Fur Hire|Wiz]]
+  | Octopus
+  | Sage
+  | Gain 500 x [other "Fur Hire" count]<ref name="other Fur Hire count" group="lower-alpha"/> [[LP]].
+  | [[Discard]] a card "Fur Hire", [[negate]] the activation of a [[Spell]]/[[Trap]] or [[effect]].
+  |-
+  | [[Rafale, Champion Fur Hire|Rafale]]
+  | Dragon
+  | Champion
+  | [[Excavate]] from top of [[Deck]], up to [other "Fur Hire" count],<ref name="other Fur Hire count" group="lower-alpha"/> and [[Add a card|add]] 1 excavated card to [[hand]].
+  | Discard a card "Fur Hire", negate the activation of a [[monster effect]].
+  |-
+  | [[Rex, Ride Fur Hire|Rex]]
+  | Dinosaur
+  | Steed
+  | n/a
+  | n/a
+  |}
+  <references group="lower-alpha">
+  <ref name="other Fur Hire count" group="lower-alpha">The number of monsters "Fur Hire" you [[control]] with different names, except this monster.</ref>
+  <ref name="Fur Hire count" group="lower-alpha">The number of monsters "Fur Hire" you [[control]] with different names.</ref>
+  </references>
+
+  === Extra Deck ===
+  {| class="wikitable" style="text-align:center"
+  ! scope="col" | Fur Hire
+  ! scope="col" | Creature
+  ! scope="col" | Occupation/Title
+  ! scope="col" | Summoning Effect
+  ! scope="col" | Additional effect
+  |-
+  | [[Folgo, Justice Fur Hire|Folgo]]
+  | Wolf
+  | Justicer
+  | Upon [[Link Summon]]ing this card, [[Special Summon]] 1 monster "Fur Hire" in [[Defense Position]], with a different [[Type]] from the 3 monsters used for the [[Link Summon]], from the [[Deck]].
+  | [[Draw a card|Draw]] 1 card if an opposing card(s) is destroyed.<br/>Then, if the player controls 3+ different monsters "Fur Hire", draw 2 more cards.
+  |-
+  | [[Donner, Dagger Fur Hire|Donner]]
+  | Dog
+  | Assassin
+  | Tribute 1 monster, Special Summon 1 monster "Fur Hire" with a different original name from your hand or GY.<br/>Then, if you Tributed a Link Monster, you can Special Summon a second such monster.
+  | Target 1 monster "Fur Hire" you control and 1 monster your opponent controls, destroy them.
+  |-
+  | [[Keel, Shipwright Fur Hire|Keel]]
+  | Sea Serpent
+  | Shipwright
+  | If this card is [[Link Summon]]ed: You can [[Set]] 1 [[Spell]]/[[Trap]] "Fur Hire" or 1 "[[Fandora, the Flying Furtress]]" from your [[Main Deck|Deck]]
+  | ([[Quick Effect]]):[[Banish]] this card from the [[GY]] to Special Summon 1 monster "Fur Hire" from [[hand]], or two if your opponent controls a monster with the highest [[original ATK]].
+  |}
+
+  == Playing style ==
+  "Fur Hire" is primarily a [[Swarm]] Deck that aims to quickly fill the [[field]] with monsters from the [[hand]] by using the shared effects of the low-Level monsters "Fur Hire" to [[Special Summon]] more monsters "Fur Hire", who can keep the Summoning going. As they do this, the low-Level monsters "Fur Hire" also trigger their unique [[Trigger Effect]]s to maintain momentum. This will eventually lead to them summoning their higher-level and [[Link Monster]]s "Fur Hire" which can further increase advantage. Since the monsters can only activate their effects once per turn, per name, it is necessary to play a large number and variety of monsters "Fur Hire" especially with lower levels. 
+
+  To address consistency, the most important monsters "Fur Hire" are "[[Beat, Bladesman Fur Hire]]" and "[[Rex, Freight Fur Hire]]", whose Trigger Effects search monsters and Spells/Traps "Fur Hire" respectively to ensure the Summons can continue. Both monsters are searchable with the cards [[Reinforcement of the Army]] and [[Fossil Dig]] respectively, increasing consistency. They are followed by "[[Filo, Messenger Fur Hire]]" and "[[Seal, Strategist Fur Hire]]", whose Trigger Effects revives a monster "Fur Hire" from the [[Graveyard|GY]] or adds a monster "Fur Hire" from the GY to the [[Hand]], granting resource recovery as well as extension. Because there needs to be a monster "Fur Hire" on the field in order to start the Summons, the Deck can struggle if their first monster is removed from the field before it can activate its effect; but the in-archetype [[Rookie Fur Hire]] can help dodge these forms of interruption, and [[Spell Cards]] that Special Summon from Deck can alleviate the pressure on their [[Normal Summon]], like the in-archetype "[[Whirlwind Fur Hire]]", "[[One for One]]" (for "Filo") or "[[Reasoning]]". However, thanks to the effect of "[[Rex, Ride Fur Hire]]" it is possible to extend past these interruptions by getting multiple monsters "Fur Hire" on the field for Link plays, and can also trigger the effects of a low-level "Fur Hire' summoned by this effect as the summon is not simultaneous.
+
+  For both extension as well as consistency, a successful strategy "Fur Hire' should always take advantage of their [[Link Monster]]s. [[Keel, Shipwright Fur Hire]] and [[Donner, Dagger Fur Hire]] can use any 2 monsters with different Types as [[Link Material]] for their [[Link Summon]], and both offer valuable extension as well as setup. "Keel" offers the ability to set in-archetype spells like "[[Furtive Techniques Fur Hire, Fur All Your Ultimate Moves]]" or "[[Mayhem Fur Hire]]" as possible interruption on your opponent's turn, as well as the [[Field Spell Card]] for the deck in "[[Fandora, the Flying Fighting Furtress]] to search for a monster "Fur Hire" if necessary. "Donner" on the other hand can help swarm the field with monsters "Fur Hire" from Hand or GY, while also offering removal of your opponent's monsters to continue plays, but only one of these effects can be used each turn. It should be kept in mind that using the effect of "Keel" prevents you from Special Summoning except monsters "Fur Hire", so its use as a starter will likely limit the endboard to just "Fur Hire" monsters.
+
+  The Deck's [[Main Deck]] boss monsters are "[[Rafale, Champion Fur Hire]]" and "[[Wiz, Sage Fur Hire]]", who can negate monster effects and Spells/Traps respectively. Due to their higher [[Level]] they usually require the on-field effects of lower-level monsters "Fur Hire" to be summoned, but they can also be summoned by the effects of Link Monsters "Fur Hire" like "[[Keel, Shipwright Fur Hire]]" (from Hand), "[[Donner, Dagger Fur Hire]]" (from Hand or GY), or "[[Folgo, Justice Fur Hire]]" (from Deck). "Rafale" in particular is a very powerful boss monster as his effect to [[excavate]] cards in addition to negating monster effects makes him invaluable to the strategy "Fur Hire", as he can add any excavated card  which can be additional cards "Fur Hire", interruption, or out-of-archetype extension.
+
+  The Deck's [[Extra Deck]] boss monster is the Link-3 "[[Folgo, Justice Fur Hire]]", whose [[Link Material]] requirement of 3 monsters with different Types is relatively easy to meet within the archetype "Fur Hire" due to its diverse array of monster Types, or even outside the archetype as "Folgo" does not require monsters "Fur Hire" specifically. Upon its Summon, it Special Summons a monster "Fur Hire" from the Deck with a different Type from the Link Materials used, replenishing some of the advantage used to Summon it, and its other effect draws a card if an opponent's card is destroyed, or three cards if you control at least 3 monsters "Fur Hire" with different names (including itself). This works especially well with "[[Donpa, Marksman Fur Hire]]" or "[[Recon, Scout Fur Hire]]" on the field, since they can trigger in response to the [[Link Summon]] of "Folgo", or his effect to summon a monster "Fur Hire" from Deck.
+
+  The effects of all monsters "Fur Hire" can also be activated during the opponent's turn, making cards that can Special Summon monsters "Fur Hire" during the opponent's turn to trigger them very valuable. These can include "[[Mayhem Fur Hire]]", "[[Rookie Fur Hire]]", and the [[Graveyard]] effects of "[[Rex, Freight Fur Hire]]" and "[[Keel, Shipwright Fur Hire]]". This can also be done with out-of-archetype cards such as "[[Tri-Brigade Airborne Assault]]" or "[[Back to the Front]]". This is especially important with "Donpa" or "Recon" on the field, to interrupt the opponent's plays and draw more cards with "Folgo". Also, as the archetype's swarming capability naturally lends it to Link Summoning, the Deck works well with non-archetypal staples such as the "[[Knightmare]]" monsters, "[[I:P Masquerena]]" (who can summon "Folgo" and other Link monsters on the opponent's turn), "[[Borrel]]" monsters, "[[Accesscode Talker]]", and "[[Saryuja Skull Dread]]".
+
+  Because there are several [[Beast]], [[Beast-Warrior]] and [[Winged Beast]] monsters "Fur Hire", with "Donpa" and "Recon" in particular being Level 2 Beast monsters, the archetype works well with cards and themes that support those Types, such as "[[Tri-Brigade]]" and "[[Melffy]]". Also, a small [[Sacred Beast]] engine can [[Card Tips:Folgo, Justice Fur Hire|consistently Summon "Folgo"]] off a 1-card starter. With the high volume of level 2 and 5 monsters in the Deck, it is also possible to make a build centered around "[[Spright]]" or "[[K9]]" cards as well. 
+
+  Since "Folgo's" effect to draw cards can be activated even with effects that aren't "Fur Hire", the deck has a surprising amount of synergy with [[Runick]] cards. The [[Fusion Monsters]] summoned by the effects of "Runick" Spells are easily used as [[Link Material]] for "Folgo", "Donner", and "Keel", and the effects to destroy cards from [[Runick Flashing Fire]] and [[Runick Destruction]] will activate Folgo's effect to draw one or multiple cards on either player's turn. Combined with the effect of [[Runick Fountain]] the deck is capable of drawing nearly 6 cards each turn. 
+
+  Due to already running a large number number of monsters, and none of the Link monsters requiring specific Link Material, it is also possible to play a [[Monster Mash|pure monster]] variant Deck. This type of Deck "Fur Hire", can be supplemented with staple monsters such as "[[Dinowrestler Pankratops]]", hand traps like the [[Yo-kai Girl]]s, and [[Mulcharmy]] lineup. You can also play a package of [[Kashtira]] monsters like [[Kashtira Fenrir]] and [[Kashtira Unicorn]] with [[Kashtira Birth]], providing access to [[Psychic]] Link material and an increased ability to go second.
+
+  === Recommended cards ===
+  {{Decklist|Deck
+  <!--This is not an exact Decklist. Please do not add multiples or staples.-->
+  |effect monsters =
+  * [[Beat, Bladesman Fur Hire]]
+  * [[Bravo, Fighter Fur Hire]]
+  * [[Donpa, Marksman Fur Hire]]
+  * [[Dyna, Hero Fur Hire]]
+  * [[Helmer, Helmsman Fur Hire]]
+  * [[Filo, Messenger Fur Hire]]
+  * [[Rafale, Champion Fur Hire]]
+  * [[Recon, Scout Fur Hire]]
+  * [[Rex, Freight Fur Hire]]
+  * [[Rex, Ride Fur Hire]]
+  * [[Sagitta, Maverick Fur Hire]]
+  * [[Seal, Strategist Fur Hire]]
+  * [[Wiz, Sage Fur Hire]]
+  * [[Chaos Summoning Beast]]
+  * [[Dark Beckoning Beast]]
+  * [[Noble Knight's Shield-Bearer]]
+  * [[Magicians' Souls]] ''(with "Wiz, Sage Fur Hire")''
+
+  |fusion monsters =
+  * Any "[[Instant Fusion]] / [[Ready Fusion]]" target with a type not shared with any "Fur Hire"
+
+  |link monsters =
+  * [[Donner, Dagger Fur Hire]]
+  * [[Folgo, Justice Fur Hire]]
+  * [[Keel, Shipwright Fur Hire]]
+  * [[Linkuriboh]] / [[Relinquished Anima]]
+  * [[Salamangreat Almiraj]]
+  * [[I:P Masquerena]] 
+
+  |normal spells =
+  * [[Instant Fusion]] / [[Ready Fusion]]
+  * [[One for One]]
+  * [[Reasoning]]
+  * [[Reinforcement of the Army]]
+  * [[The Big Cattle Drive]]
+  * [[Fossil Dig]]
+
+  |field spells =
+  * [[Fandora, the Flying Fighting Furtress]]
+
+  |continuous spells = 
+  * [[Fire Formation - Tenki]]
+  * [[Opening of the Spirit Gates]] ''(with "[[Chaos Summoning Beast]]" and "[[Dark Beckoning Beast]]")''
+
+  |quick-play spells =
+  * [[Mayhem Fur Hire]]
+  * [[Rookie Fur Hire]]
+  * [[Whirlwind Fur Hire]]
+  * [[Tri-Brigade Airborne Assault]]
+
+  |normal traps =
+  * [[Furtive Techniques Fur Hire, Fur All Your Ultimate Moves]]
+  * [[Back to the Front]]
+
+  |continuous traps =
+  * [[Training Fur Hire, Fur All Your Training Needs]]
+  * [[Call of the Haunted]] / [[Oasis of Dragon Souls]]
+  }}
+
+  === Weaknesses ===
+  * The largest weakness Decks "Fur Hire" have is they are very reliant on performing numerous Summons in a turn. This can be interrupted in a few ways:
+  ** The archetype usually needs its Normal Summon to begin its chain of Special Summons, therefore any card that can negate Normal Summons will severely cripple the strategy "Fur Hire".
+  ** Aside from the Normal Summon typically used to play the first monster, all other Summons are Special Summons, making cards like "[[Fossil Dyna Pachycephalo]]", "[[Vanity's Emptiness]]" or "[[Vanity's Fiend]]" very effective.
+  ** The archetype also does not play well under the [[Mulcharmy]] handtraps, especially [[Mulcharmy Fuwalos]] and [[Mulcharmy Purulia]] as "Fur Hire" summons from Hand, Deck, and Extra Deck quite often to make normal plays
+  ** Cards like "[[Rivalry of Warlords]]", "[[Gozen Match]]" and "[[Unification]]" can prevent monsters "Fur Hire" from swarming the field, since they use all sorts of Attributes and Types.
+  ** Monsters "Fur Hire" also heavily depend on their monster effects to swarm the field, meaning cards like "[[Skill Drain]]" or "[[Effect Veiler]]" are very effective against the Deck. However the in-archetype [[Rookie Fur Hire]] can help with these cards
+  * All the Deck's removal options are targeting destruction effects (outside of the mediocre "[[Fandora, the Flying Furtress]]") making some modern boss monsters a challenge to get rid of, outside of Extra Deck options such as "[[Borreload Dragon]]", "[[Accesscode Talker]]", or using them as Link material for "[[Underworld Goddess of the Closed World]]"
+  {{Archseries navbox}}
+  {{Archseries navbox (Duel Links)}}
+
+  [[Category:TCG and OCG archetypes]]

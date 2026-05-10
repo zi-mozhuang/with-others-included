@@ -1,0 +1,41 @@
+title: Valstorm the Skullcrag King
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = {{Ruby|髑|どく}}{{Ruby|巌|がん}}{{Ruby|王|おう}}ヴァルストルム
+  | romaji_name    = Dokugan'ō Varusutorumu
+  | ko_name        = 촉암왕 바르스토름
+  | image          = ValstormtheSkullcragKing-RDAP02-JP-UR.png
+  | attribute      = WIND
+  | types          = Zombie / Fusion / Effect
+  | level          = 9
+  | atk            = 2500
+  | def            = 0
+  | effect_types   = Continuous
+  | materials      = 3 [[Level]] 8 or lower [[Zombie]] [[Type]] [[Monster Card|monster]]s
+  | requirement    = None
+  | text           = [[Spell Card|Spell]]/[[Trap Card]]s on your [[field]] cannot be [[destroy]]ed by your opponent's card [[effect]]s. During your opponent's [[turn]], this card and Spell/Trap Cards on your field cannot be [[return]]ed to the [[hand]], [[Main Deck|Deck]], or [[Extra Deck]] by card effects.
+  | ja_materials   = モンスター（レベル８以下／アンデット族）×３
+  | ja_requirement = なし
+  | ja_text        = 自分フィールドの魔法・罠カードは相手の効果では破壊されない。相手ターンの間、このカードと自分フィールドの魔法・罠カードは効果では手札・デッキ・ＥＸデッキに戻されない。
+  | ko_condition   = 몬스터(레벨 8 이하 / 언데드족) × 3
+  | ko_requirement = 없음
+  | ko_text        = 자신 필드의 마법 / 함정 카드는 상대의 효과로는 파괴되지 않는다. 상대 턴 동안, 이 카드와 자신 필드의 마법 / 함정 카드는 효과로는 패 / 덱 / 엑스트라 덱으로 되돌려지지 않는다.
+  | jp_sets        = 
+  RD/AP02-JP003; Advance Pack: Revenge Hearts; Ultra Rare, Secret Rare
+  | kr_sets        = 
+  RD/AP02-KR003; Advance Pack: Revenge Hearts; Ultra Rare, Secret Rare
+  | supports       = Zombie
+  | archseries     = Defiant Soul
+  | action         = 
+  * Prevents returning cards from field to hand
+  * Prevents returning cards from field to Deck
+  * Prevents returning cards from field to Extra Deck
+  | m/s/t          = Prevents other cards being destroyed by card effects
+  | summoning      = 
+  * 3 Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  | database_id    = 22623
+  }}

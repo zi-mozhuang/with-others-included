@@ -1,0 +1,40 @@
+title: Galactica Rising Oblivion
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = ギャラクティカ・ライジング・オブリビオン
+  | romaji_name     = Gyarakutika Raijingu Oburibion
+  | image           = GalacticaRisingOblivion-RDKP25-JP-OP.png
+  | attribute       = LIGHT
+  | types           = Galaxy / Fusion / Effect
+  | level           = 9
+  | atk             = 3200
+  | def             = 2500
+  | fusion_material = 
+  * Galactica Oblivion
+  * Vanishing Heliacal Riser
+  | materials       = "[[Galactica Oblivion]]" + "[[Vanishing Heliacal Riser]]"
+  | requirement     = During your [[Main Phase]] that you [[Fusion Summon]]ed this card.
+  | text            = [[Shuffle]] all cards on your opponent's [[field]] into the [[owner]]'s [[Main Deck|Deck]]. This [[turn]], you can only [[attack]] with this card.
+  | ja_materials    = 
+  | ja_requirement  = 
+  | ja_text         = 
+  | jp_sets         = 
+  RD/KP25-JP038; Rising of the Aurora; Super Rare
+  | mentions        = 
+  * Galactica Oblivion
+  * Vanishing Heliacal Riser
+  | archseries      = Galactica
+  | action          = 
+  * Activates during the turn in which it was Fusion Summoned
+  * Returns from your opponent's field to your opponent's Deck
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  | attack          = Prevents your monsters from attacking
+  | misc            = Cover card
+  | database_id     = 
+  }}

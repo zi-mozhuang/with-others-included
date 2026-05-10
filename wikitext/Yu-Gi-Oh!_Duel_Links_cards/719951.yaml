@@ -1,0 +1,24 @@
+title: Traptrix Nepenthes (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Traptrix Nepenthes
+  | de_name      = Fallenstellerin Nepenthes
+  | it_name      = Trappolatrice Nepenthes
+  | es_name      = Atrapadora Nepenthes
+  | ko_name      = 카즈라의 충혹마
+  | image        = TraptrixNepenthes-DULI-EN-VG.png
+  | attribute    = EARTH
+  | types        = Plant / Effect
+  | atk          = 800
+  | def          = 2000
+  | level        = 4
+  | rarity       = R
+  | effect_types = Continuous, Trigger, Condition
+  | text         = This card is [[unaffected]] by the [[effect]]s of "[[Hole (disambiguation)|Hole]]" [[Normal Trap Card]]s. If you [[activate]] a "Hole" Normal Trap Card (except during the [[Damage Step]]): You can [[Add a card|add]] to your [[hand]], or [[Special Summon]], 1 "[[Traptrix]]" [[Monster Card|monster]] from your [[Main Deck|Deck]], except "Traptrix Nepenthes". You can only use this effect of "Traptrix Nepenthes" [[once per turn]].
+  | fr_text      = Cette carte n'est pas affectée par les effets de Cartes Piège Normal "Trappe" ("Trou Blanc" inclus, "Chausse-Trappe" exclu). Si vous activez une Carte Piège Normal "Trappe" ("Trou Blanc" inclus, "Chausse-Trappe" exclu), sauf durant la Damage Step : vous pouvez ajouter à votre main ou Invoquer Spécialement 1 monstre "Traptrix" ("Traptrix Nepenthes" exclu) depuis votre Deck. Vous ne pouvez utiliser cet effet de "Traptrix Nepenthes" qu'une fois par tour.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Borrelsword Slash}}
+  {{Duel Links release table/footer}}
+  }}

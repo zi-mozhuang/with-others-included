@@ -1,0 +1,42 @@
+title: Pot of Sloth
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|怠|たい}}{{Ruby|慢|まん}}な{{Ruby|壺|つぼ}}
+  | romaji_name           = Taiman na Tsubo
+  | translated_name       = 
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 怠慢之壶
+  | image                 = PotofSloth-CORI-JP-UtR.png
+  | card_type             = Spell
+  | property              = Normal
+  | password              = 98476659
+  | effect_types          = Effect
+  | text                  = [[Draw a card|Draw]] cards equal to the number of cards your opponent [[control]]s, then if you drew 2 or more, place the same number -1 from your [[hand]] on the bottom of the [[Main Deck|Deck]] in any order. For the rest of this [[turn]] after this card [[resolve]]s, you cannot [[activate]] "Pot of Sloth".
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = ①：相手フィールドのカードの数だけ自分はドローする。２枚以上ドローした場合、さらにその数－１枚だけ、自分の手札を選んで好きな順番でデッキの下に戻す。このカードの発動後、ターン終了時まで自分は「怠慢な壺」を発動できない。
+  | ko_text               = 
+  | sc_text               = ①：自己依对手场上卡的数量抽牌。抽2张以上的情况下，进而依该数量-1，挑选自己手牌以喜欢的顺序放回牌组下面。此卡发动后，直至回合结束时为止自己不可发动“怠慢之壶”。
+  | jp_sets               = 
+  CORI-JP061; Chaos Origins; Ultimate Rare, Secret Rare, Prismatic Secret Rare
+  | sc_sets               = 
+  CORI-SC061; Chaos Origins; 
+  | mentions              = Pot of Procrastination
+  | archseries            = Greed (series)
+  | action                = 
+  * You draw cards
+  * Places cards from the player's hand on the bottom of the Deck
+  | m/s/t                 = Prevents activation of your Spell Cards
+  | database_id           = 23010
+  }}

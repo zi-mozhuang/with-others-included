@@ -1,0 +1,48 @@
+title: Meika Etraynze the Shadow Flower Fiery Flower Beauty
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = {{Ruby|花|か}}{{Ruby|牙|げ}}{{Ruby|華|か}}{{Ruby|艶|えん}}メイカ・エトランゼ
+  | romaji_name     = Kagekaen Meika Etoranze
+  | translated_name = Meika Etranzer the Shadow Flowerfang Fiery Flower Beauty
+  | ko_name         = 화아화염 메이카 에트랑제
+  | image           = 
+  1; MeikaEtraynzetheShadowFlowerFieryFlowerBeauty-RDKP21-JP-SR.png
+  2; MeikaEtraynzetheShadowFlowerFieryFlowerBeauty-RDKP21-JP-ScR-AA.png
+  | current_image   = 1
+  | attribute       = EARTH
+  | types           = Plant / Fusion / Effect
+  | level           = 8
+  | atk             = 2500
+  | def             = 2200
+  | effect_types    = Continuous
+  | fusion_material = 
+  * Etraynze the Shadow Flower Ninja
+  * Himawari the Shadow Flower Eraser
+  | materials       = "[[Etraynze the Shadow Flower Ninja]]" + "[[Himawari the Shadow Flower Eraser]]"
+  | requirement     = None
+  | text            = [[Face-up]] [[Monster Card|monster]]s on your [[field]] gain 500 [[ATK]], and cannot be [[destroy]]ed by your opponent's card [[effect]]s.
+  | ja_materials    = 「花牙クノイチ・エトランゼ」＋「花牙消のヒマワリ」
+  | ja_requirement  = なし
+  | ja_text         = 自分フィールドの表側表示モンスターの攻撃力は５００アップし、相手の効果では破壊されない。
+  | ko_materials    = "화아 쿠노이치 에트랑제" ＋ "화아소의 히마와리"
+  | ko_requirement  = 없음
+  | ko_text         = 자신 필드의 앞면 표시 몬스터의 공격력은 500 올리고, 상대의 효과로는 파괴되지 않는다.
+  | jp_sets         = 
+  RD/KP21-JP040; Accel Road of the Attack; Super Rare, Secret Rare
+  | kr_sets         = 
+  RD/KP21-KR040; Accel Road of the Attack; Super Rare, Secret Rare
+  | mentions        = 
+  * Etraynze the Shadow Flower Ninja
+  * Himawari the Shadow Flower Eraser
+  | archseries      = Shadow Flower
+  | stat_change     = Your monsters gain ATK
+  | m/s/t           = Cannot be destroyed by card effects
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  | database_id     = 21684
+  }}

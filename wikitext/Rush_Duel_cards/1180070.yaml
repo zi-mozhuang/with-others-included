@@ -1,0 +1,41 @@
+title: Lock Core the Mad Fiend of Despair
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = {{Ruby|絶|ぜつ}}{{Ruby|望|ぼう}}{{Ruby|狂|きょう}}{{Ruby|魔|ま}}ロック・コア
+  | romaji_name     = Zetsubōkyōma Rokku Koa
+  | translated_name = Lock Core the Mad Demon of Despair
+  | image           = LockCoretheMadFiendofDespair-RDORP4-JP-SR.png
+  | attribute       = DARK
+  | types           = Fiend / Fusion / Effect
+  | level           = 8
+  | atk             = 3000
+  | def             = 2400
+  | effect_types    = Continuous
+  | fusion_material = 
+  * Dead Core the Mad Fiend of Despair
+  * Dead Lock the Mad Fiend of Despair
+  | materials       = "[[Dead Core the Mad Fiend of Despair]]" + "[[Dead Lock the Mad Fiend of Despair]]"
+  | requirement     = None
+  | text            = This card cannot be [[destroy]]ed by card [[effect]]s. This card cannot be [[Tribute]]d for a [[Tribute Summon]]. [[Face-up]] non-[[Fiend]] [[Type]] [[Monster Card|monster]]s on your [[field]] lose 2000 [[ATK]].
+  | ja_materials    = 「絶望狂魔デッド・コア」＋「絶望狂魔デッド・ロック」
+  | ja_requirement  = なし
+  | ja_text         = このカードは効果では破壊されない。このカードはアドバンス召喚のためにはリリースできない。自分フィールドの表側表示モンスター（悪魔族以外）の攻撃力は２０００ダウンする。
+  | jp_sets         = 
+  RD/ORP4-JP023; Over Rush Pack 4; Super Rare, Secret Rare
+  | mentions        = 
+  * Dead Core the Mad Fiend of Despair
+  * Dead Lock the Mad Fiend of Despair
+  | supports        = Fiend
+  | archseries      = Mad Fiend of Despair
+  | stat_change     = Your monsters lose ATK
+  | m/s/t           = Cannot be destroyed by card effects
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  * Requires Ritual Monsters as Fusion Materials
+  * Cannot be Tributed for a Tribute Summon
+  | misc            = Requires control of specific Type
+  | database_id     = 23056
+  }}

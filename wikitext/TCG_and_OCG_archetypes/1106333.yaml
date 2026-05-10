@@ -1,0 +1,166 @@
+title: Regenesis
+wikitext: |-
+  {{About|the [[archetype]]|the card|""Regenesis"" (card)}}
+  {{Infobox archseries
+  | image          = RegenesisCycle-MADU-EN-VG-artwork.png
+  | caption        = "[[Regenesis Lord]]" in the artwork of "[[Regenesis Cycle]]".
+  | ja_name        = リジェネシス
+  | romaji         = Rijeneshisu
+  | fr_name        = Regenèse
+  | de_name        = Regenesis
+  | it_name        = Regenesis
+  | ko_name        = 리제네시스
+  | ko_romanized   = 
+  | pt_name        = Regênese
+  | es_name        = Regénesis
+  | sc_name        = 再世
+  | sets           = 
+  * [[Alliance Insight]]
+  * [[Duelist's Advance]]
+  * [[Doom of Dimensions]]
+  | tcg            = [[Alliance Insight Premiere! promotional card]]
+  | ocg            = 
+  }}
+
+  "'''Regenesis'''" (リジェネシス ''Rijeneshisu'') is an [[archetype]] of [[monster]]s with 2500 [[original ATK and DEF]] introduced in ''[[Alliance Insight]]''.
+
+  == Design ==
+  "Regenesis" monsters seems to be godlike incarnations of popular kinds of creatures and characters from the fantasy genre (warriors, dragons, etc.) in the same way as [[wikipedia:Avatara|avatars]], and there is also exactly one member for each existing [[Attribute]] (except for [[DIVINE]]). All of them having four arms is another element inspired by [[wikipedia:Hinduism|Hinduism]], specifically by the [[wikipedia:Hinduism|Chaturbhuja]], a concept in which such iconography is regarded to symbolise divinity and power.
+
+  On the other hand, each member is named after a book in the [[wikipedia:Torah|Torah]], which is the compilation of the first five books of the [[wikipedia:Hebrew Bible|Hebrew Bible]]. This mix between different religions might be itself a reference to [[wikipedia:Omnism|omnism]], which is the belief that God is actually the same entity in all religions, just interpreted in different ways.
+
+  Finally, for each pair of each [[Level]] (7, 8, and 10) there is a male member and female member, which might be a reference to [[wikipedia:Adam and Eve|Adam and Eve]], who were respectively the first man and woman, according to the creation myth of the [[wikipedia:Abrahamic religions|Abrahamic religions]].
+
+  The archetype's focus on [[2500 ATK Monster Cards|2500 ATK]]/[[2500 DEF Monster Cards|DEF]] monster is a reference to the fact that "Regenesis" was the last ''OCG''-original archetype released in [[Series 12]], marked the end of the 25th Anniversary of ''Yu-Gi-Oh!''.
+
+  {| class="wikitable sortable"
+  ! scope="col" | Regenesis
+  ! scope="col" | [[Attribute]]
+  ! scope="col" | [[Type]]
+  ! scope="col" | Origin
+  |-
+  | [[Regenesis Warrior|Warrior]] || [[FIRE]] [[File:FIRE.svg|24px]] || [[Warrior]] || [[wikipedia:Book of Genesis|Beresheet]]
+  |-
+  | [[Regenesis Sage|Sage]] || [[WATER]] [[File:WATER.svg|24px]] || [[Spellcaster]] || [[wikipedia:Book of Exodus|Shemot]]
+  |-
+  | [[Regenesis Dragon|Dragon]] || [[WIND]] [[File:WIND.svg|24px]] || [[Dragon]] || [[wikipedia:Book of Leviticus|Vayikra]]
+  |-
+  | [[Regenesis Archfiend|Archfiend]] || [[EARTH]] [[File:EARTH.svg|24px]] || [[Fiend]] || [[wikipedia:Book of Numbers|Bemidbar]]
+  |-
+  | [[Regenesis Lord|Lord]] || [[LIGHT]] [[File:LIGHT.svg|24px]] || [[Illusion]] || [[wikipedia:Book of Deuteronomy|Deuteronomion]]
+  |-
+  | [[Regenesis Overlord|Overlord]] || [[DARK]] [[File:DARK.svg|24px]] || [[Illusion]] || [[wikipedia:Book of Deuteronomy|Devarim]]
+  |}
+
+  == Playing style ==
+  === Recommended cards ===
+  {{Decklist|Regenesis
+  <!-- This is not an exact Decklist. Do not add multiples or staples.-->
+  |effect monsters =
+  * [[Regenesis Archfiend]]
+  * [[Regenesis Overlord]]
+  * [[Regenesis Dragon]]
+  * [[Regenesis Lord]]
+  * [[Regenesis Sage]]
+  * [[Regenesis Warrior]]
+  * [[Alpha, the Master of Beasts]]
+  * [[Ancient Gear Dragon]]
+  * [[Archnemeses Eschatos]]
+  * [[Archnemeses Protos]]
+  * [[B.E.S. Blaster Cannon Core]]
+  * "[[Bystial]]" monsters
+  * [[Carnot the Eternal Machine]]
+  * [[Chronicle Magician]]
+  * [[Diabellstar the Black Witch]]
+  * [[Diabellstar Vengeance]]
+  * [[Diabellze the Original Sinkeeper]]
+  * [[Diabellze the White Witch]]
+  * [[Dogmatika Fleurdelis, the Knighted]]
+  * [[Dogmatika Fleurdelis, the Thunderbolt]]
+  * [[Doomdog Octhros]]
+  * [[Frost Tiger]]
+  * [[Kashtira Unicorn]]
+  * [[Radian, the Multidimensional Kaiju]]
+  * [[Kumongous, the Sticky String Kaiju]]
+  * [[Meklord Emperor Wisel]]
+  * [[Nemeses Corridor]]
+  * [[Nemleria Dream Devourer - Reveil]]
+  * [[Replicard LAD]]
+  ** [[Formud Skipper]]
+  * [[Royal Archfiend]]
+  * [[Heart of Gaia]]
+  * [[The Iris Swordsoul]]
+  |tuner monsters =
+  * [[Blazing Cartesia, the Virtuous]]
+  * [[Effect Veiler]]
+  * [[Fydraulis Harmonia]]
+  * [[Incredible Ecclesia, the Virtuous]]
+  |fusion monsters =
+  * [[Granguignol the Dusk Dragon]]
+  * [[Nightmare-Eyes Restrict]]
+  * [[Thunder Dragon Colossus]]
+  * [[Ultimate Dragon of Pride and Soul]]
+  |synchro monsters =
+  * [[Despian Luluwalilith]]
+  |xyz monsters =
+  * [[Dingirsu, the Orcust of the Evening Star]]
+  * [[Divine Golden Shadow Dragon Dragluxion]]
+  * [[Mercurium the Living Quicksilver]]
+  * [[Number 1: Infection Buzzking]]
+  * [[Number 107: Galaxy-Eyes Tachyon Dragon]] (with "Seventh Tachyon")
+  * [[Number 11: Big Eye]]
+  * [[Number 15: Gimmick Puppet Giant Grinder]]
+  * [[Number 38: Hope Harbinger Dragon Titanic Galaxy]]
+  ** [[Number S38: Titanic Galaxy]]
+  * [[Number 90: Galaxy-Eyes Photon Lord]]
+  * [[Superdreadnought Rail Cannon Gustav Max]]
+  ** [[Superdreadnought Rail Cannon Gustav Rocket]]
+  ** [[Superdreadnought Rail Cannon Juggernaut Liebe]]
+  * [[The Undying Legion]]
+  * [[Varudras, the Final Bringer of the End Times]]
+  |link monsters =
+  * [[Black Luster Soldier - Soldier of Chaos]]
+  * [[Salamangreat Almiraj]] (with "Doomdog Octhros")
+  * [[World Gears of Theurlogical Demiurgy]]
+  |normal spells =
+  * [[Regenesis (card)|Regenesis]]
+  * [[Regenesis Cycle]]
+  * [[Dark Spirit's Mastery]]
+  * [[Dragon's Mirror]]
+  * [[Filia Diabell]]
+  * [[Foolish Burial]]
+  * [[Greater Polymerization]]
+  * [[Sacred Sword of Seven Stars]]
+  * [[Seventh Tachyon]]
+  * [[Spell Card "Soul Exchange"]]
+  * [[Trade-In]]
+  |field spells =
+  * [[Pressured Planet Wraitsoth]]
+  |continuous spells =
+  * [[Kashtira Birth]]
+  |quick-play spells =
+  * [[Regenesis Code]]
+  * [[Burial from a Different Dimension]]
+  * [[Nightmare Hands]]
+  * [[Relinquished Fusion]] (with "Nightmare-Eyes Restrict")
+  |normal traps =
+  * [[Regenesis Commands]]
+  * [[Dogmatika Punishment]] (with "Dogmatika Fleurdelis, the Thunderbolt")
+  * [[Proof of Powerlessness]]
+  * [[Quadogmatika Beast]] (with "Dogmatika Fleurdelis, the Thunderbolt")
+  * [[Infinite Impermanence]]
+  |counter traps =
+  * [[Dragon's Mind]]
+  * [[Tachyon Transmigration]] (with "Divine Golden Shadow Dragon Dragluxion")
+  |continuous traps =
+  * [[Regenesis Birth]]
+  * [[Floodgate]] cards
+  ** [[There Can Be Only One]]
+  }}
+
+  == Trivia ==
+  * This archetype's boss monsters, "Lord" and "Overlord", specifically being Level 10 might be a double reference: to the trend of making godlike [[Monster Card]]s Level 10 as the [[Egyptian God]]s, as well as to the number 10 symbolising perfection and completeness in [[wikipedia:Dante Alighieri|Dante Alighieri]]'s [[wikipedia:Divine Comedy|Divine Comedy]]. 
+
+  {{Archseries navbox}}
+
+  [[Category:TCG and OCG archetypes]]

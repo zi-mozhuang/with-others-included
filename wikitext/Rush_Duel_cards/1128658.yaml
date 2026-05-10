@@ -1,0 +1,33 @@
+title: Jagged Claw Attack
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = デビルズクロー
+  | romaji_name     = Debiruzu Kurō
+  | translated_name = Devil's Claw
+  | ko_name         = 데블즈클로
+  | image           = JaggedClawAttack-RDAP01-JP-SR.png
+  | card_type       = Spell
+  | property        = Normal
+  | requirement     = You have "[[Zera the Mant (Rush Duel)|Zera the Mant]]" [[face-up]] on your [[field]].
+  | text            = [[Destroy]] 1 card on your opponent's field.
+  | ja_requirement  = 自分フィールドに表側表示の「ゼラ」がいる場合に発動できる。
+  | ja_text         = 相手フィールドのカード１枚を選んで破壊する。
+  | ko_requirement  = 자신 필드에 앞면 표시인 "제라"가 있을 경우에 발동할 수 있다.
+  | ko_text         = 상대 필드의 카드 1장을 고르고 파괴한다.
+  | jp_sets         = 
+  RD/AP01-JP012; Advance Pack: Devil's Ceremony; Super Rare, Secret Rare
+  | kr_sets         = 
+  RD/AP01-KR012; Advance Pack: Devil's Ceremony; Super Rare, Secret Rare
+  | mentions        = Zera the Mant (Rush Duel)
+  | archseries      = 
+  * Signature move
+  * Zera (Rush Duel)
+  | m/s/t           = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | misc            = Requires control of specific card
+  | database_id     = 21859
+  }}

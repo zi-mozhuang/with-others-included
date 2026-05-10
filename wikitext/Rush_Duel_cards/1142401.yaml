@@ -1,0 +1,34 @@
+title: Wooly Wunderworld Pyro Wool
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | rush_duel       = true
+  | ja_name         = メェ～{{Ruby|界|かい}}パイロウール
+  | romaji_name     = Meēkai Pairoūru
+  | translated_name = Baahnderworld Pyro Wool
+  | ko_name         = 메에~계 파이로울
+  | image           = WoolyWunderworldPyroWool-RDORP3-JP-SR.png
+  | attribute       = DARK
+  | types           = Beast / Fusion
+  | level           = 7
+  | atk             = 3000
+  | def             = 1600
+  | fusion_material = Wooly Wonderland Pyro Wool
+  | materials       = "Wooly Wonderland Pyro Wool" + "Wooly Wonderland Pyro Wool"
+  | text            = "[[Wooly Wonderland Pyro Wool]]" + "Wooly Wonderland Pyro Wool"
+  | ja_text         = 「羊界パイロウール」＋「羊界パイロウール」
+  | ko_text         = "양계 파이로울" ＋ "양계 파이로울"
+  | jp_sets         = 
+  RD/ORP3-JP011; Over Rush Pack 3; Super Rare, Secret Rare
+  | kr_sets         = 
+  RD/ORP3-KR011; Over Rush Pack 3; Super Rare, Secret Rare
+  | mentions        = Wooly Wonderland Pyro Wool
+  | archseries      = Wooly Wonderland
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Normal Monsters as Fusion Materials
+  * Requires monsters with the same name as Fusion Materials
+  | misc            = Non-Effect Monster
+  | database_id     = 22223
+  }}

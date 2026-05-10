@@ -1,0 +1,23 @@
+title: Overpowering Eye (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Œil de la Domination
+  | de_name      = Übermächtiges Auge
+  | it_name      = Occhio Dominatore
+  | es_name      = Ojo Agobiante
+  | ko_name      = 위압하는 마안
+  | image        = OverpoweringEye-DULI-EN-VG.png
+  | ja_image     = OverpoweringEye-DULI-JP-VG.png
+  | card_type    = Spell
+  | property     = Normal
+  | rarity       = SR
+  | effect_types = Effect
+  | text         = [[Target]] 1 [[Zombie]]-Type [[Monster Card|monster]] you [[control]] with 2000 or less [[ATK]]; it can attack your opponent [[Direct attack|directly]] this [[turn]].
+  | fr_text      = Ciblez 1 monstre de Type Zombie que vous contrôlez avec max. 2000 ATK ; ce tour, il peut attaquer directement votre adversaire.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=duel_reward|Bakura (DSOD) (Duel Links)}}
+  {{Duel Links release table|type=event|The Shadow Memories: Bakura}}
+  {{Duel Links release table/footer}}
+  }}

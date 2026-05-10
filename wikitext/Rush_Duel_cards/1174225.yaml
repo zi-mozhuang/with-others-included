@@ -1,0 +1,33 @@
+title: Lovely Connect
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = ラヴ・コネクト
+  | romaji_name     = Ravu Konekuto
+  | translated_name = Love Connect
+  | image           = LovelyConnect-RDKP24-JP-R.png
+  | card_type       = Spell
+  | property        = Normal
+  | requirement     = None
+  | text            = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Add a card|add]] 1 [[DARK]] [[Attribute]] [[Fairy]] [[Type]] [[Monster Card|monster]] with 0 [[ATK]] from your Graveyard to your [[hand]]. Then, if you have a [[face-up]] [[LIGHT]] Attribute Fairy Type monster with 0 [[original ATK and DEF]] on your [[field]], you can place 1 [[face-down]] card from your opponent's field on the bottom of the [[owner]]'s Deck.
+  | ja_requirement  = なし
+  | ja_text         = 自分のデッキの上からカード２枚を墓地へ送る。その後、自分の墓地のモンスター（闇属性／天使族／攻撃力０）１体を選んで手札に加える事ができる。自分フィールドに元々の攻撃力・守備力が０の表側表示モンスター（光属性／天使族）がいる場合、さらに相手フィールドの裏側表示のカード１枚を選んで持ち主のデッキの下に戻す事ができる。
+  | jp_sets         = 
+  RD/KP24-JP054; Overforce of the Abyss; Rare, Secret Rare
+  | supports        = 
+  * DARK
+  * Fairy
+  * LIGHT
+  | archseries      = Lovely
+  | action          = 
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
+  * Places cards from the opponent's field on the bottom of the Deck
+  | misc            = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  * Requires control of specific ATK
+  * Requires control of specific DEF
+  | database_id     = 22884
+  }}

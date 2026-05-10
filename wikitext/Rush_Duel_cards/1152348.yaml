@@ -1,0 +1,42 @@
+title: Princess Cosmos Stirs
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = {{Ruby|掻|か}}き{{Ruby|混|ま}}ぜコスモス{{Ruby|姫|ひめ}}
+  | romaji_name    = Kakimaze Kosumosu-hime
+  | ko_name        = 휘젓는 코스모스 공주
+  | image          = PrincessCosmosStirs-RDORP3-JP-UR.png
+  | card_type      = Spell
+  | property       = Normal
+  | condition      = This card's name becomes "[[Princess Cosmos' Jest]]" while in the [[hand]].
+  | requirement    = If you have 5 or more [[Galaxy (Type)|Galaxy]] [[Type]] [[Monster Card|monster]]s in your [[Graveyard]], place 1 card from your hand on the bottom of the [[Main Deck|Deck]].
+  | text           = [[Fusion Summon]] a Galaxy Type monster with 1900 or 2600 [[DEF]] by [[Shuffle|shuffling]] up to 3 Galaxy Type monsters from your [[field]] and/or Graveyard into the [[owner]]'s Deck as [[material]].
+  | ja_condition   = 手札にあるこのカードのカード名は「コスモス姫のお戯れ」になる。
+  | ja_requirement = 自分の墓地にモンスター（ギャラクシー族）が５体以上いる場合、手札１枚をデッキの下に戻して発動できる。
+  | ja_text        = 自分のフィールド・墓地のモンスター（ギャラクシー族）を３体まで素材として持ち主のデッキに戻し、モンスター（ギャラクシー族／守備力１９００または２６００）をフュージョン召喚する。
+  | ko_condition   = 패에 있는 이 카드의 카드명은 "코스모스 공주의 장난"이 된다.
+  | ko_requirement = 자신 묘지에 몬스터(갤럭시족)가 5장 이상 있을 경우, 패 1장을 덱 아래로 되돌리고 발동할 수 있다.
+  | ko_text        = 자신의 필드 / 묘지의 몬스터(갤럭시족)를 3장까지 소재로서 주인의 덱으로 되돌리고, 몬스터(갤럭시족 / 수비력 1900 또는 2600)를 퓨전 소환한다.
+  | jp_sets        = 
+  RD/ORP3-JP054; Over Rush Pack 3; Ultra Rare, Over Rush Rare
+  | kr_sets        = 
+  RD/ORP3-KR054; Over Rush Pack 3; Ultra Rare, Over Rush Rare
+  | mentions       = Princess Cosmos' Jest
+  | supports       = Galaxy (Type)
+  | archseries     = Princess Cosmos
+  | action         = 
+  * Places cards from the player's hand on the bottom of the Deck for cost
+  * Returns from your field to your Deck
+  * Returns from your Graveyard to your Deck
+  * Uses cards on the player's field as Fusion Materials
+  * Uses cards in the player's Graveyard as Fusion Materials
+  * Returns Fusion Materials used in a Fusion Summon to Deck
+  * Can only use certain Fusion Materials
+  | stat_change    = Changes own name while in the hand
+  | summoning      = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | misc           = Requires control of specific Type
+  | database_id    = 22255
+  }}

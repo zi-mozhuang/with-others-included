@@ -1,0 +1,40 @@
+title: Limlith the Skysavior Princess
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = {{Ruby|蒼|そう}}{{Ruby|救|きゅう}}{{Ruby|王|おう}}{{Ruby|姫|き}} リムリス
+  | romaji_name    = Sōkyūōki Rimurisu
+  | image          = LimliththeSkysaviorPrincess-RDORP4-JP-UR.png
+  | attribute      = DARK
+  | types          = Fairy / Effect
+  | level          = 9
+  | atk            = 1800
+  | def            = 2300
+  | condition      = You can [[Tribute Summon]] this card in [[Attack Position]] by [[Tribute|Tributing]] 1 [[WATER]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]] or 1 [[Fairy]] Type monster.
+  | requirement    = During the [[turn]] you [[Normal Summon]]ed this card.
+  | text           = [[Add a card|Add]] up to 2 "[[Soleil the Skysavior Angel]]", "[[Lua the Skysavior Angel]]", and/or "[[Fusion (Rush Duel)|Fusion]]" from your [[Graveyard]] to your [[hand]]. Then, you can [[send]] 1 monster from your [[field]] to the Graveyard.
+  | ja_condition   = このカードはモンスター（水属性／戦士族）またはモンスター（天使族）１体をリリースして攻撃表示でアドバンス召喚できる。
+  | ja_requirement = このカードを召喚したターンに発動できる。
+  | ja_text        = 自分の墓地の「蒼救天使 ソレイル」「蒼救天使 ルーア」「フュージョン」を合計２枚まで選んで手札に加える。その後、自分フィールドのモンスター１体を選んで墓地へ送る事ができる。
+  | jp_sets        = 
+  RD/ORP4-JP045; Over Rush Pack 4; Ultra Rare, Over Rush Rare
+  | mentions       = 
+  * Soleil the Skysavior Angel
+  * Lua the Skysavior Angel
+  * Fusion (Rush Duel)
+  | supports       = 
+  * WATER
+  * Warrior
+  * Fairy
+  | archseries     = Skysavior
+  | action         = 
+  * Activates during the turn in which it was Normal Summoned
+  * Adds from Graveyard to hand
+  * Sends from your field to your Graveyard
+  | summoning      = Normal Summon with 1 Tribute
+  | misc           = 
+  * Requires control of specific Attribute
+  * Requires control of specific Type
+  | database_id    = 23071
+  }}

@@ -1,0 +1,65 @@
+title: R.B. Last Stand
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Baroud d'Honneur R.B.
+  | de_name             = Letztes R.B.-Gefecht
+  | it_name             = Ultima Resistenza R.B.
+  | pt_name             = Última Defesa R.B.
+  | es_name             = R.B. Última Resistencia
+  | ja_name             = {{Ruby|Ｒ．Ｂ．|リボルボット}}ラスト・スタンド
+  | romaji_name         = Riboru Botto Rasuto Sutando
+  | translated_name     = Revol Bot Last Stand
+  | ko_name             = 
+  | ko_rr_name          = 
+  | sc_name             = 
+  | sc_pinyin_name      = 
+  | image               = RBLastStand-DOOD-EN-C-1E.png
+  | card_type           = Trap
+  | property            = Normal
+  | password            = 43450363
+  | effect_types        = Effect, Lingering, Quick-like, Condition
+  | text                = [[Special Summon]] 1 "[[R.B.]]" [[monster]] from your [[Main Deck|Deck]], [[Extra Deck]], or [[GY]], with a different name than the cards you [[control]]. For the rest of this [[turn]] after this card [[resolve]]s, you cannot Special Summon from the Extra Deck, except [[Machine]] monsters with 1500 or less [[ATK]]. When your opponent [[activate]]s a card or [[effect]] that [[target]]s an "R.B." monster(s) you control: You can [[banish]] this card from your GY; [[negate]] that effect. You can only use 1 "R.B. Last Stand" effect per turn, and [[once per turn|only once that turn]].
+  | fr_text             = Invoquez Spécialement 1 monstre "R.B." depuis votre Deck, Extra Deck ou Cimetière, de nom différent des cartes que vous contrôlez. Le reste de ce tour après la résolution de cette carte, vous ne pouvez pas Invoquer Spécialement (monstres Machine avec max. 1500 ATK exclus) depuis l'Extra Deck. Lorsque votre adversaire active une carte ou un effet qui cible un ou plusieurs monstres "R.B." que vous contrôlez : vous pouvez bannir cette carte depuis votre Cimetière ; annulez l'effet. Vous ne pouvez utiliser qu'1 effet de "Baroud d'Honneur R.B." par tour, et uniquement une fois le tour.
+  | de_text             = Beschwöre 1 „R.B.“-Monster mit einem unterschiedlichen Namen als die Karten, die du kontrollierst, als Spezialbeschwörung von deinem Deck, Extra Deck oder Friedhof. Für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, kannst du keine Spezialbeschwörungen vom Extra Deck durchführen, außer von Maschine-Monstern mit 1500 oder weniger ATK. Wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der ein oder mehr „R.B.“-Monster, die du kontrollierst, als Ziel wählt: Du kannst diese Karte von deinem Friedhof verbannen; annulliere jenen Effekt. Du kannst nur 1 Effekt von „Letztes R.B.-Gefecht“ pro Spielzug verwenden und in jenem Spielzug nur einmal.
+  | it_text             = Evoca Specialmente dal tuo Deck, Extra Deck, o Cimitero 1 mostro "R.B." con un nome diverso dalle carte che controlli. Per il resto di questo turno dopo che questa carta si è risolta, non puoi Evocare Specialmente dall'Extra Deck, eccetto mostri Macchina con ATK 1500 o inferiore. Quando il tuo avversario attiva una carta o un effetto che sceglie come bersaglio uno o più mostri "R.B." che controlli: puoi bandire questa carta dal tuo Cimitero; annulla quell'effetto. Puoi utilizzare solo 1 effetto di "Ultima Resistenza R.B." per turno, e solo una volta in quel turno.
+  | pt_text             = Invoque por Invocação-Especial 1 monstro "R.B." do seu Deck, Deck Adicional ou Cemitério, com um nome diferente que o dos cards que você controla. Pelo resto deste turno depois que este card resolver, você não pode Invocar por Invocação-Especial do Deck Adicional, exceto monstros Máquina com 1500 ou menos de ATK. Quando seu oponente ativar um card ou efeito que escolha um ou mais monstros "R.B." que você controla: você pode banir este card do seu Cemitério; negue o efeito. Você só pode usar 1 efeito de "Última Defesa R.B." por turno e apenas uma vez por turno.
+  | es_text             = Invoca de Modo Especial 1 monstruo "R.B." desde tu Deck, Deck Extra o Cementerio, con un nombre diferente al de las cartas que controlas. Por el resto de este turno después de que esta carta se resuelva, no puedes Invocar de Modo Especial desde el Deck Extra, excepto monstruos Máquina con 1500 ATK o menos. Cuando tu adversario activa una carta o efecto que selecciona uno o más monstruos "R.B." que controlas: puedes desterrar esta carta en tu Cementerio; niega ese efecto. Sólo puedes usar 1 efecto de "R.B. Última Resistencia" por turno, y sólo una vez ese turno.
+  | ja_text             = 
+  | ko_text             = 
+  | sc_text             = 
+  | en_sets             = 
+  DOOD-EN095; Doom of Dimensions; Common
+  | fr_sets             = 
+  DOOD-FR095; Doom of Dimensions; Common
+  | de_sets             = 
+  DOOD-DE095; Doom of Dimensions; Common
+  | it_sets             = 
+  DOOD-IT095; Doom of Dimensions; Common
+  | pt_sets             = 
+  DOOD-PT095; Doom of Dimensions; Common
+  | sp_sets             = 
+  DOOD-SP095; Doom of Dimensions; Common
+  | ae_sets             = 
+  CR10-AE084; Creation Pack 10; Common
+  | supports            = Machine
+  | archseries          = R.B.
+  | supports_archetypes = R.B.
+  | action              = 
+  * Activates from your Graveyard
+  * Activates if targeted by card effect
+  | m/s/t               = 
+  * Negates the effects of your opponent's Effect Monsters
+  * Negates the effects of your opponent's Spell Cards
+  * Negates the effects of your opponent's Trap Cards
+  | summoning           = 
+  * Special Summons from your Deck
+  * Special Summons from your Extra Deck
+  * Special Summons from your Graveyard
+  * Restricts the player's Special Summons from the Extra Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  * Restricts the player's Special Summons to ATK specific monsters
+  | misc                = 
+  * Requires control of specific archetype
+  * Only 1 effect once per turn
+  | database_id         = 22077
+  }}

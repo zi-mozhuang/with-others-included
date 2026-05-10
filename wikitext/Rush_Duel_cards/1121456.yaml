@@ -1,0 +1,39 @@
+title: Wicked Dragon of Darkness
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = {{Ruby|暗|あん}}{{Ruby|黒|こく}}の{{Ruby|邪|じゃ}}{{Ruby|竜|りゅう}}
+  | romaji_name     = Ankoku no Jaryū
+  | translated_name = Dark Wicked Dragon
+  | ko_name         = 암흑의 사룡
+  | image           = 
+  1; WickedDragonofDarkness-RD5TH1-JP-UR.png
+  2; WickedDragonofDarkness-RDS261-JP-OP.png
+  | current_image   = 2
+  | attribute       = DARK
+  | types           = Dragon / Effect
+  | level           = 4
+  | atk             = 1100
+  | def             = 500
+  | requirement     = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card.
+  | text            = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the [[Graveyard]]. Then, you can [[Add a card|add]] 1 "[[Dragon Knight of Darkness]]" or 1 [[Level]] 9 [[Dragon]] [[Type]] [[Monster Card|monster]] with 2500 [[ATK]] from your Graveyard to your [[hand]].
+  | ja_requirement  = このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
+  | ja_text         = 自分のデッキの上からカード２枚を墓地へ送る。その後、自分の墓地の「暗黒の竜騎士」またはモンスター（レベル９／ドラゴン族／攻撃力２５００）１体を選んで手札に加える事ができる。
+  | ko_requirement  = 이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에 발동할 수 있다.
+  | ko_text         = 자신의 덱 위에서 카드 2장을 묘지로 보낸다. 그 후, 자신 묘지의 "암흑의 용기사" 또는 몬스터(레벨 9 / 드래곤족 / 공격력 2500) 1장을 고르고 패에 넣을 수 있다.
+  | jp_sets         = 
+  RD/5TH1-JP042; 5th Anniversary Pack; Ultra Rare
+  RD/S261-JP002; Special Victory Pack 2026 Vol.1; Ultra Parallel Rare
+  | kr_sets         = 
+  RD/5TH1-KR042; 5th Anniversary Pack; Ultra Rare
+  | mentions        = Dragon Knight of Darkness
+  | supports        = Dragon
+  | action          = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from the top of your Deck to your Graveyard
+  * Adds from Graveyard to hand
+  | fm_for          = Wicked Dragon Knight of Darkness
+  | database_id     = 21514
+  }}

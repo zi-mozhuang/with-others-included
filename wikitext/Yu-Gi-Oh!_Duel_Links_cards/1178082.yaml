@@ -1,0 +1,27 @@
+title: Lord of the Red (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Seigneur du Rouge
+  | de_name      = Herr des Rots
+  | it_name      = Signore del Rosso
+  | ko_name      = 로드 오브 더 레드
+  | es_name      = Señor del Carmesí
+  | attribute    = FIRE
+  | types        = Dragon / Ritual / Effect
+  | level        = 8
+  | atk          = 2400
+  | def          = 2100
+  | rarity       = UR
+  | effect_types = Summoning condition, Quick, Quick
+  | ritualcard   = Red-Eyes Transmigration (Duel Links)
+  | text         = You can [[Ritual Summon]] this card with "[[Red-Eyes Transmigration (Duel Links)|Red-Eyes Transmigration]]". [[Once per turn]], during either player's turn, when a card or [[effect]] is [[activate]]d, except "Lord of the Red": You can [[target]] 1 [[Monster Card|monster]] on the [[field]]; [[destroy]] it. Once per turn, during either player's turn, when a card or effect is activated, except "Lord of the Red": You can target 1 [[Spell Card|Spell]]/[[Trap Card|Trap]] on the field; destroy it.
+  | fr_text      = Vous pouvez Invoquer Rituellement cette carte avec "Transmigration des Yeux Rouges". Une fois par tour, durant le tour de chaque joueur, lorsqu'une carte ou un effet ("Seigneur du Rouge" exclu) est activé : vous pouvez cibler 1 monstre sur le Terrain ; détruisez-le. Une fois par tour,  durant le tour de chaque joueur, lorsqu'une carte ou un effet ("Seigneur du Rouge" exclu) est activé : vous pouvez cibler 1 Magie/Piège sur le Terrain ; détruisez-le.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Structure Deck EX: Red-Eyes Inferno}}
+  {{Duel Links release table/footer}}
+  | mentions     = 
+  * Red-Eyes Transmigration (Duel Links)
+  * Lord of the Red (Duel Links)
+  }}

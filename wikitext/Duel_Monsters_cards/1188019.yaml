@@ -1,0 +1,58 @@
+title: Archfiend's Origin
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name             = 
+  | de_name             = 
+  | it_name             = 
+  | pt_name             = 
+  | es_name             = 
+  | ja_name             = デーモンの{{Ruby|根|こん}}{{Ruby|源|げん}}
+  | romaji_name         = Dēmon no Kongen
+  | translated_name     = Daemon's Origin
+  | ko_name             = 
+  | ko_rr_name          = 
+  | sc_name             = 
+  | image               = ArchfiendsOrigin-VP26-JP-OP.png
+  | attribute           = DARK
+  | types               = Fiend / Effect
+  | level               = 7
+  | atk                 = 2500
+  | def                 = 1200
+  | password            = 
+  | effect_types        = Ignition, Trigger, Quick, Condition
+  | text                = If this card is in your [[hand]]: You can [[Tribute]] 1 other "[[Archfiend]]" monster from your hand or [[field]]; [[Special Summon]] this card. If this card is [[Normal Summon|Normal]] or Special Summoned: You can Special Summon 1 Level 6 [[Fiend]] monster with 2500 [[ATK]] from your hand, [[Main Deck|Deck]], or [[GY]]. When your opponent activates a [[monster effect]] and you [[control]] "[[Summoned Skull]]" ([[Quick Effect]]): You can [[negate]] the activation, and if you do, [[destroy]] that card. You can only use each effect of "Archfiend's Origin" once per turn.
+  | fr_text             = 
+  | de_text             = 
+  | it_text             = 
+  | pt_text             = 
+  | es_text             = 
+  | ja_text             = 
+  | ko_text             = 
+  | sc_text             = 
+  | jp_sets             = 
+  VP26-JP002; 30th Anniversary Demon's Pack; Ultra Rare
+  | mentions            = Summoned Skull
+  | supports            = Fiend
+  | archseries          = 
+  * Archfiend
+  * Skull Archfiend
+  | action              = 
+  * Activates from your hand
+  * Tributes for cost
+  * Activates upon Normal Summon
+  * Activates upon Special Summon
+  | m/s/t               = 
+  * Negates the activation of your opponent's Effect Monster's effect
+  * Destroys your opponent's Monster Cards
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  * Special Summons from your Graveyard
+  | misc                = 
+  * Requires control of specific card
+  * Only once per turn
+  | database_id         = 
+  }}

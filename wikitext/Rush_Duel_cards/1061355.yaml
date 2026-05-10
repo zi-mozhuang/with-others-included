@@ -1,0 +1,51 @@
+title: Enigmatic Princess of Eternal Heaven
+wikitext: |-
+  {{CardTable2
+  | ja_name         = {{Ruby|天|てん}}{{Ruby|堂|どう}}{{Ruby|始|し}}{{Ruby|終|じゅう}}の{{Ruby|面|めん}}{{Ruby|妖|よう}}{{Ruby|姫|き}}
+  | romaji_name     = Tendōshijū no Men'yōki
+  | translated_name = Enigmatic Beautiful Specter of Heaven's Eternity
+  | ko_name         = 천당시종의 면요희
+  | image           = 
+  1; EnigmaticPrincessofEternalHeaven-RDAP02-JP-C.png; EnigmaticPrincessofEternalHeaven-OW.png
+  2; EnigmaticPrincessofEternalHeaven-RDKP18-JP-ScR-AA.png
+  | current_image   = 1
+  | attribute       = LIGHT
+  | types           = Zombie / Fusion / Effect
+  | level           = 6
+  | atk             = 1700
+  | def             = 0
+  | effect_types    = Continuous
+  | fusion_material = 
+  * Specter of Heaven's Beginning
+  * Specter of Heaven's End
+  | materials       = "[[Specter of Heaven's Beginning]]" + "[[Specter of Heaven's End]]"
+  | condition       = This card can be [[Contact Fusion]]ed.
+  | requirement     = None
+  | text            = This card can [[attack]] [[Direct attack|directly]]. You [[Damage|take]] no [[battle damage]] from [[battle]]s involving this card.
+  | ja_materials    = 「天始の怪依」＋「天終の怪依」
+  | ja_condition    = このカードはコンタクトフュージョンできる。
+  | ja_requirement  = なし
+  | ja_text         = このカードは直接攻撃できる。このカードの戦闘で自分は戦闘ダメージを受けない。
+  | ko_materials    = "천시의 괴의" ＋ "천종의 괴의"
+  | ko_condition    = 이 카드는 콘택트 퓨전할 수 있다.
+  | ko_requirement  = 없음
+  | ko_text         = 이 카드는 직접 공격할 수 있다. 이 카드의 전투로 자신은 전투 데미지를 받지 않는다.
+  | jp_sets         = 
+  RD/KP18-JP049; Dark Matter of Phantoms; Super Rare, Secret Rare
+  RD/AP02-JP050; Advance Pack: Revenge Hearts; Common
+  | kr_sets         = 
+  RD/KP18-KR049; Dark Matter of Phantoms; Super Rare, Secret Rare
+  RD/AP02-KR050; Advance Pack: Revenge Hearts; Common
+  | mentions        = 
+  * Specter of Heaven's Beginning
+  * Specter of Heaven's End
+  | action          = Returns Fusion Materials for Contact Fusion to Deck
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
+  | attack          = Direct attacker
+  | life_points     = Prevents battle damage
+  | database_id     = 20659
+  }}

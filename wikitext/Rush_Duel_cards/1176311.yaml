@@ -1,0 +1,47 @@
+title: Digracheon the Skysavior Radiaknight
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = {{Ruby|蒼|そう}}{{Ruby|救|きゅう}}の{{Ruby|閃|せん}}{{Ruby|戟|げき}}{{Ruby|士|し}} ディグレイシオン
+  | romaji_name     = Sōkyū no Sengekishi Digureishion
+  | image           = DigracheontheSkysaviorRadiaknight-RDORP4-JP-UR.png
+  | attribute       = LIGHT
+  | types           = Celestial Warrior / Fusion / Effect
+  | level           = 10
+  | atk             = 3000
+  | def             = 2000
+  | effect_types    = Multi-Choice
+  | fusion_material = 
+  * Soleil the Skysavior Angel
+  * Soul of the Skysavior Angel
+  | materials       = 1 [[WATER]] [[Attribute]] [[Warrior]] [[Type]] [[Monster Card|monster]] + "[[Soleil the Skysavior Angel]]" + "[[Soul of the Skysavior Angel]]"
+  | requirement     = [[Send]] the top card of your [[Main Deck|Deck]] to the [[Graveyard]].
+  | text            = ●This [[turn]], this card can [[attack]] [[Direct attack|directly]]. ●This card gains 1500 [[ATK]]/[[DEF]] until the end of this turn. ●This turn, this card can attack twice.
+  | ja_materials    = モンスター（水属性／戦士族）＋「蒼救天使 ソレイル」＋「蒼救天使の魂」
+  | ja_requirement  = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_text         = ●このターン、このカードは直接攻撃できる。●このカードの攻撃力・守備力はターン終了時まで１５００アップする。●このターン、このカードは２回攻撃できる。
+  | jp_sets         = 
+  RD/ORP4-JP036; Over Rush Pack 4; Ultra Rare, Over Rush Rare
+  | mentions        = 
+  * Soleil the Skysavior Angel
+  * Soul of the Skysavior Angel
+  | supports        = 
+  * WATER
+  * Warrior
+  | archseries      = Skysavior
+  | action          = Sends from the top of your Deck to your Graveyard for cost
+  | stat_change     = 
+  * This card gains ATK
+  * This card gains DEF
+  | summoning       = 
+  * 3 Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  | attack          = 
+  * Direct attacker
+  * Multiple attacker
+  | misc            = Variable effects
+  | database_id     = 23067
+  }}

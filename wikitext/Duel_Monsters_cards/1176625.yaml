@@ -1,0 +1,47 @@
+title: Full Moon Mirror
+wikitext: |-
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name             = 
+  | de_name             = 
+  | it_name             = 
+  | pt_name             = 
+  | es_name             = 
+  | ja_name             = {{Ruby|月|がち}}{{Ruby|輪|りん}}{{Ruby|鏡|きょう}}
+  | romaji_name         = Gachirinkyō
+  | ko_name             = 
+  | ko_rr_name          = 
+  | sc_name             = 
+  | image               = FullMoonMirror-VJMP-JP-UR.png
+  | card_type           = Spell
+  | property            = Continuous
+  | password            = 44857722
+  | effect_types        = Continuous-like, Ignition-like, Condition
+  | text                = Each time a [[monster]](s) is [[destroyed by battle]] or [[effect]], place 1 [[Full Moon Counter]] on this card for each. You can remove Full Moon Counters from this card, then [[activate]] 1 of these effects;<br />● 1: [[Special Summon]] 1 [[Level]] 6 or lower monster ([[Fiend]] or [[Fairy]]) from your [[hand]] or [[GY]].<br />● 3: [[Add]] 1 Level 10 [[DARK]] monster from your [[Main Deck|Deck]] to your hand.<br />● 5: Special Summon 1 Level 10 monster from your hand or GY.<br />You can only use this effect of "Full Moon Mirror" [[once per turn]].
+  | fr_text             = 
+  | de_text             = 
+  | it_text             = 
+  | pt_text             = 
+  | es_text             = 
+  | ja_text             = このカード名の②の効果は１ターンに１度しか使用できない。①：モンスターが戦闘・効果で破壊される度に、１体につき１つこのカードに月輪カウンターを置く。②：このカードの月輪カウンターを以下の数だけ取り除き、その効果を発動できる。<br />●１つ：自分の手札・墓地からレベル６以下の悪魔族・天使族モンスター１体を特殊召喚する。<br />●３つ：デッキから闇属性・レベル１０モンスター１体を手札に加える。<br />●５つ：自分の手札・墓地からレベル１０モンスター１体を特殊召喚する。
+  | ko_text             = 
+  | sc_text             = 
+  | jp_sets             = 
+  VJMP-JP288; V Jump May 2026 promotional card; Ultra Rare
+  | supports            = 
+  * Fiend
+  * Fairy
+  * DARK
+  | counter             = 
+  * Full Moon Counter
+  * Places counters on itself
+  * Removes counters from itself for cost
+  | action              = Adds from Deck to hand
+  | summoning           = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | misc                = 
+  * Variable effects
+  * Only once per turn
+  | database_id         = 23036
+  }}

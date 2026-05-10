@@ -1,0 +1,60 @@
+title: Demiurge Ema
+wikitext: |-
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = デミウルゴス{{Ruby|ＥＭＡ|エマ}}
+  | romaji_name           = Demiurugosu Ema
+  | translated_name       = Demiurgos EMA
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 巨匠造物主 EMA
+  | image                 = DemiurgeEma-LOCR-JP-UR.png
+  | attribute             = LIGHT
+  | types                 = Fairy / Effect
+  | level                 = 8
+  | atk                   = 3300
+  | def                   = 2000
+  | password              = 26364381
+  | effect_types          = Ignition, Ignition, Condition
+  | text                  = You can [[send]] 4 monsters with 2400 or more [[ATK]] and 1000 [[DEF]] from your [[hand]], [[Main Deck|Deck]], and/or [[face-up]] [[field]] to the [[GY]]; [[Special Summon]] this card from your [[hand]]. You can [[target]] 1 [[Spell]]/[[Trap]] on each [[field]]; [[destroy]] them, then [[Special Summon]] 1 "[[Homunculus Token]]" ([[Fairy]]/[[LIGHT]]/[[Level]] 2/[[ATK]] 800/[[DEF]] 800) to both players' fields in [[Defense Position]], and if you do, this card gains 1600 [[ATK]]. You can only use each effect of "Demiurge Ema" [[once per turn]].
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の手札・デッキ・フィールド（表側表示）から攻撃力２４００以上で守備力１０００のモンスター４体を墓地へ送って発動できる。このカードを手札から特殊召喚する。②：自分及び相手フィールドの魔法・罠カードを１枚ずつ対象として発動できる。そのカードを破壊する。その後、お互いのフィールドに「ホムンクルストークン」（天使族・光・星２・攻／守８００）を１体ずつ守備表示で特殊召喚し、このカードの攻撃力は１６００アップする。
+  | ko_text               = 
+  | sc_text               = 此卡名的①②效果1回合仅可各使用1次。①：从自己手牌・牌组・场上（表侧表示）将4只攻击力2400以上且守备力1000的怪兽送至墓地可以发动。从手牌将此卡特殊召唤。②：以自己及对手场上的各1张魔法・陷阱卡为对象可以发动。将该卡破坏。然后，各将1只“人工生命体衍生物”（天使族・光・星2・攻/守800）以守备表示特殊召唤至双方场上，此卡的攻击力上升1600。
+  | jp_sets               = 
+  LOCR-JP019; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | sc_sets               = 
+  LOCR-SC019; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | mentions              = Homunculus Token
+  | archseries            = Fan-Made Cards
+  | related_to_archseries = Monarch
+  | action                = 
+  * Activates from your hand
+  * Sends from hand to Graveyard for cost
+  * Sends from Deck to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  | stat_change           = This card gains ATK
+  | m/s/t                 = 
+  * Destroys your Spell Cards
+  * Destroys your Trap Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning             = 
+  * Special Summons itself from your hand
+  * Special Summons Tokens
+  * Special Summons Tokens to your opponent's field
+  | misc                  = 
+  * Requires control of specific ATK
+  * Requires control of specific DEF
+  * Only once per turn
+  | database_id           = 22734
+  }}

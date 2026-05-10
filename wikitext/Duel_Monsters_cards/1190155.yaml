@@ -1,0 +1,59 @@
+title: Witchcrafter Pupils
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name             = 
+  | de_name             = 
+  | it_name             = 
+  | pt_name             = 
+  | es_name             = 
+  | ja_name             = ウィッチクラフト・ピューピルズ
+  | romaji_name         = Wicchikurafuto Pyūpiruzu
+  | translated_name     = Witchcraft Pupils
+  | ko_name             = 
+  | ko_rr_name          = 
+  | sc_name             = 魔女工艺・学徒组
+  | sc_translated_name  = Witchcraft Apprentice Group
+  | image               = WitchcrafterPupils-RV01-JP-OP.png
+  | attribute           = FIRE
+  | types               = Spellcaster / Fusion / Effect
+  | level               = 8
+  | atk                 = 1800
+  | def                 = 2100
+  | password            = 
+  | materials           = 1 "Witchcrafter" monster + 1 Spellcaster-Type monster
+  | effect_types        = Quick, Trigger, Condition
+  | text                = 1 "[[Witchcrafter]]" [[monster]] + 1 [[Spellcaster]] monster<br />During the [[Main Phase|Main]] or [[Battle Phase]] ([[Quick Effect]]): You can [[activate]] 1 of these [[effect]]s;<br />● [[Add a card|Add]] 1 "Witchcrafter" [[Spell]] from your [[Main Deck|Deck]] to your [[hand]].<br />● [[Reveal]] 1 "Witchcrafter" [[Normal Spell Card|Normal]] or [[Quick-Play Spell]] in your hand; apply that Spell's activation effect.<br />During your [[End Phase]]: You can [[return]] 1 of your banished "Witchcrafter" cards to the [[GY]]. You can only use each [[effect]] of "Witchcrafter Pupils" [[once per turn]].
+  | fr_text             = 
+  | de_text             = 
+  | it_text             = 
+  | pt_text             = 
+  | es_text             = 
+  | ja_text             = 
+  | ko_text             = 
+  | sc_text             = {{Icon|official proxy transcript}}<br />“魔女工艺”怪兽＋魔法师族怪兽<br />此卡名的①②效果1回合仅可各使用1次。①：在自己・对手的主要阶段及战斗阶段，可从以下效果中选择1个发动。●从牌组将1张“魔女工艺”魔法卡加入手牌。●向对手出示手牌的1张“魔女工艺”通常・速攻魔法卡可以发动。适用该魔法卡发动时的效果。②：在自己的结束阶段可以发动。将自己除外状态的1张“魔女工艺”卡放回墓地。
+  | jp_sets             = 
+  RV01-JP026; Revolution Booster: Toon / Witchcrafter / Unchained; 
+  | sc_sets             = 
+  RV01-SC026; Revolution Booster: Toon / Witchcrafter / Unchained; 
+  | supports            = 
+  * Spellcaster
+  * Normal Spell Card
+  * Quick-Play Spell Card
+  | archseries          = Witchcrafter
+  | supports_archetypes = Witchcrafter
+  | action              = 
+  * Adds from Deck to hand
+  * Reveals your hand for cost
+  * Resolves as another card's effect
+  * Returns the player's banished cards to the Graveyard
+  | summoning           = 
+  * 2 Fusion Materials
+  * Requires archetype specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  | misc                = 
+  * Variable effects
+  * Only once per turn
+  | database_id         = 
+  }}

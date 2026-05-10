@@ -1,0 +1,62 @@
+title: Magical Musket Mastermind Caspar
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name             = 
+  | de_name             = 
+  | it_name             = 
+  | pt_name             = 
+  | es_name             = 
+  | ja_name             = {{Ruby|魔|ま}}{{Ruby|弾|だん}}の{{Ruby|悪|あく}}{{Ruby|魔|ま}} カスパール
+  | romaji_name         = Madan no Akuma Kasupāru
+  | translated_name     = Magibullet Demon Caspar
+  | ko_name             = 마탄환의 악마 카스파르
+  | ko_rr_name          = 
+  | sc_name             = 魔弹邪魔 卡斯帕
+  | image               = MagicalMusketMastermindCaspar-YO11-JP-UR.png
+  | attribute           = LIGHT
+  | types               = Fiend / Link / Effect
+  | atk                 = 2000
+  | link_arrows         = Top-Center, Bottom-Center
+  | password            = 03287359
+  | materials           = 2 monsters, including a LIGHT Fiend monster
+  | effect_types        = Trigger, Condition, Continuous
+  | text                = 2 [[monster]]s, including a [[LIGHT]] [[Fiend]] monster<br />If this card is [[Link Summon]]ed: You can take 2 "[[Magical Musket]]" cards from your [[hand]] and/or [[Deck]], including a monster, [[Special Summon]] 1 of those monsters, and [[Set]] the other card to your opponent's [[field]]. You can only use this effect of "Magical Musket Mastermind Caspar" [[once per turn]]. During either player's [[turn]], you can activate "Magical Musket" [[Spell]]/[[Trap]] Cards from your hand.
+  | fr_text             = 
+  | de_text             = 
+  | it_text             = 
+  | pt_text             = 
+  | es_text             = 
+  | ja_text             = 悪魔族・光属性モンスターを含むモンスター２体<br />このカード名の①の効果は１ターンに１度しか使用できない。①：このカードがＬ召喚した場合に発動できる。手札・デッキからモンスターを含む「魔弾」カード２枚を選び、その内のモンスター１体を自分フィールドに特殊召喚し、もう１枚を相手フィールドにセットする。②：このカードがモンスターゾーンに存在する限り、自分・相手ターンに自分は「魔弾」魔法・罠カードを手札から発動できる。
+  | ko_text             = 악마족 / 빛 속성 몬스터를 포함하는 몬스터 2장<br />이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드를 링크 소환했을 경우에 발동할 수 있다. 패 / 덱에서 몬스터를 포함하는 "마탄환" 카드 2장을 골라, 그 중의 몬스터 1장을 자신 필드에 특수 소환하고, 나머지 1장을 상대 필드에 세트한다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신 / 상대 턴에 자신은 "마탄환" 마법 / 함정 카드를 패에서 발동할 수 있다.
+  | sc_text             = 包含恶魔族・光属性怪兽在内的怪兽2只<br />此卡名的①效果1回合仅可使用1次。①：此卡连接召唤的情况下可以发动。从手牌・牌组挑选包含怪兽在内的2张“魔弹”卡，将其中的1只怪兽特殊召唤至自己场上，另1张放置在对手场上。②：只要此卡存在于怪兽区域，自己可在自己・对手回合中从手牌发动“魔弹”魔法・陷阱卡。
+  | jp_sets             = 
+  YO11-JP001; Yu-Gi-Oh! OCG Structures Volume 11 promotional card; Ultra Rare
+  | kr_sets             = 
+  26PP-KR047; Premium Pack 2026; Secret Rare
+  | sc_sets             = 
+  NE03-SC063; Nature Pack: Righteous Warriors; Super Rare, Secret Rare, Secret Rare (Special Red Version)
+  | supports            = 
+  * LIGHT
+  * Fiend
+  | archseries          = Magical Musket
+  | supports_archetypes = Magical Musket
+  | action              = 
+  * Activates upon Link Summon
+  * Sets from your hand to your opponent's field
+  * Sets from your Deck to your opponent's field
+  | m/s/t               = 
+  * Allows activation of Spell Cards from the player's hand during the opponent's turn
+  * Allows activation of Trap Cards from your hand
+  | summoning           = 
+  * 2 Link Materials
+  * Requires Attribute specific Link Materials
+  * Requires Type specific Link Materials
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  * Special Summons from your Deck to your opponent's field
+  * Special Summons face-down
+  | misc                = Only once per turn
+  | database_id         = 22088
+  }}

@@ -1,0 +1,24 @@
+title: Xyz Remora (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Rémora Xyz
+  | de_name      = Xyz-Schiffshalter
+  | it_name      = Remora Xyz
+  | es_name      = Rémora Xyz
+  | ko_name      = 엑시즈 리모라
+  | image        = XyzRemora-DULI-EN-VG.png
+  | attribute    = WATER
+  | types        = Fish / Effect
+  | atk          = 800
+  | def          = 800
+  | level        = 4
+  | rarity       = SR
+  | effect_types = Unclassified, Trigger, Condition
+  | text         = You can [[Special Summon]] this card (from your [[hand]]) by [[detach]]ing 2 [[Xyz Material]]s from [[Monster Card|monster]](s) you [[control]]. When you do: You can [[target]] 2 [[Level]] 4 [[Fish]]-[[Type]] monsters in your [[Graveyard]]; Special Summon those targets in [[face-up]] [[Defense Position]]. Their [[effect]]s are [[negate]]d, they cannot [[attack]] or change their [[battle position]]s, and cannot be used as Xyz Material for an [[Xyz Summon]], except for the Xyz Summon of a [[WATER]] monster.
+  | fr_text      = Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en détachant 2 Matériels Xyz d'un ou plusieurs monstres que vous contrôlez. Lorsqu'elle est Invoquée de cette façon : vous pouvez cibler 2 monstres de Type Poisson de Niveau 4 dans votre Cimetière ; Invoquez Spécialement les cibles en Position de Défense face recto. Leurs effets sont annulés, et ils ne peuvent ni attaquer, ni changer leur position de combat, ni être utilisés comme Matériel Xyz pour une Invocation Xyz, sauf pour l'Invocation Xyz d'un monstre EAU.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Stage of Trickstar}}
+  {{Duel Links release table/footer}}
+  }}

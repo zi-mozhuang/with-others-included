@@ -1,0 +1,25 @@
+title: Ice Beast Zerofyne (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name         = Zérofyne, Bête des Glaces
+  | de_name         = Eisungeheuer Zerofyne
+  | it_name         = Bestia Ghiaccio Zerofyne
+  | ko_name         = 영조수 실피네
+  | es_name         = Bestia de Hielo Zerofyne
+  | attribute       = WATER
+  | types           = Winged Beast / Xyz / Effect
+  | rank            = 4
+  | atk             = 2000
+  | def             = 2200
+  | rarity          = UR
+  | status          = 
+  | text            = 2 [[Level]] 4 [[Winged Beast]]-[[Type]] [[monster]]s<br />[[Once per turn]]: You can [[detach]] 1 [[Xyz Material]] from this card; [[negate]] the [[effect]]s of as many [[face-up]] cards your opponent currently [[control]]s as possible, and if you do, this card gains 300 [[ATK]] for each face-up card currently on the [[field]], except this card. These changes last until your next Standby Phase.
+  | fr_text         = 2 monstres de Type Bête Ailée de Niveau 4<br />Une fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte ; annulez les effets de toutes les cartes face recto actuellement contrôlées par votre adversaire, et si vous le faites, cette carte gagne 300 ATK pour chaque carte face recto actuellement sur le Terrain (cette carte exclue, et ces effets sont appliqués jusqu'à votre prochaine Standby Phase).
+  | ja_text         = 
+  | releases        = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=level_up|Rio Kastle (Duel Links)|Level 10}}
+  {{Duel Links release table|type=level_up|Rio Kastle (Duel Links)|Level 18}}
+  {{Duel Links release table|type=level_up|Rio Kastle (Duel Links)|Level 38}}
+  {{Duel Links release table/footer}}
+  }}

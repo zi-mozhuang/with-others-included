@@ -1,0 +1,48 @@
+title: Vic Viper Full Custom
+wikitext: |-
+  {{CardTable2
+  | ja_name         = ビック・バイパー フルカスタム
+  | romaji_name     = Bikku Baipā Furu Kasutamu
+  | ko_name         = 빅 바이퍼 풀커스텀
+  | image           = VicViperFullCustom-RDKP23-JP-UR.png
+  | attribute       = LIGHT
+  | types           = Machine / Fusion / Effect
+  | level           = 4
+  | atk             = 3200
+  | def             = 800
+  | effect_types    = Continuous
+  | fusion_material = 
+  * Gradius (Rush Duel)
+  * Gradius' Option (Rush Duel)
+  | materials       = "[[Gradius (Rush Duel)|Gradius]]" + "[[Gradius' Option (Rush Duel)|Gradius' Option]]" + "Gradius' Option"
+  | condition       = This card can be [[Contact Fusion]]ed.
+  | requirement     = None
+  | text            = This card cannot be [[destroy]]ed by card [[effect]]s. This card [[Damage|inflict]]s [[piercing]] [[battle damage]].
+  | ja_materials    = 「超時空戦闘機ビック・バイパー」＋「オプション」＋「オプション」
+  | ja_condition    = このカードはコンタクトフュージョンできる。
+  | ja_requirement  = なし
+  | ja_text         = このカードは効果では破壊されない。このカードの攻撃は貫通する。
+  | ko_materials    = "초시공 전투기 빅 바이퍼" ＋ "옵션" ＋ "옵션"
+  | ko_condition    = 이 카드는 콘택트 퓨전할 수 있다.
+  | ko_requirement  = 없음
+  | ko_text         = 이 카드는 효과로는 파괴되지 않는다. 이 카드의 공격은 관통한다.
+  | jp_sets         = 
+  RD/KP23-JP042; Gias Charge of the Nova; Ultra Rare, Secret Rare, Over Rush Rare
+  | kr_sets         = 
+  RD/KP23-KR042; Gias Charge of the Nova; Ultra Rare, Secret Rare, Over Rush Rare
+  | mentions        = 
+  * Gradius (Rush Duel)
+  * Gradius' Option (Rush Duel)
+  | archseries      = Gradius (Rush Duel series)
+  | action          = Returns Fusion Materials for Contact Fusion to Deck
+  | m/s/t           = Cannot be destroyed by card effects
+  | summoning       = 
+  * 3 Fusion Materials
+  * Requires specific Normal Monsters as Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires monsters with the same name as Fusion Materials
+  * Can be Special Summoned either by Fusion Summon or Contact Fusion
+  * Special Summons itself from your Extra Deck
+  | attack          = Piercing
+  | database_id     = 22447
+  }}

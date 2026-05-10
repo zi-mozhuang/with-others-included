@@ -1,0 +1,34 @@
+title: Post-Stellar Shower Princess Cosmos
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = {{Ruby|宙|ゆ}}{{Ruby|上|あ}}がりコスモス{{Ruby|姫|ひめ}}
+  | romaji_name    = Yuagari Kosumosu-hime
+  | image          = 
+  1; PostStellarShowerPrincessCosmos-RDKP24-JP-UR.png; PostStellarShowerPrincessCosmos-OW.png
+  2; PostStellarShowerPrincessCosmos-RDKP24-JP-ORR-AA.png
+  | current_image  = 1
+  | card_type      = Spell
+  | property       = Normal
+  | condition      = This card's name becomes "[[Princess Cosmos' Jest]]" while in the [[Graveyard]].
+  | requirement    = During a [[turn]] you have not [[activate]]d "Post-Stellar Shower Princess Cosmos".
+  | text           = [[Send]] the top 2 cards of your [[Main Deck|Deck]] to the Graveyard. Then, you can [[Special Summon]] 1 [[Level]] 9 [[Galaxy (Type)|Galaxy]] [[Type]] non-[[Fusion Monster]] from your [[hand]] or Graveyard to your [[field]] in [[face-up]] [[Defense Position]].
+  | ja_condition   = 墓地にあるこのカードのカード名は「コスモス姫のお戯れ」になる。
+  | ja_requirement = 自分が「宙上がりコスモス姫」を発動していないターンに発動できる。
+  | ja_text        = 自分のデッキの上からカード２枚を墓地へ送る。その後、フュージョンモンスター以外の自分の手札・墓地のモンスター（レベル９／ギャラクシー族）１体を選んで自分フィールドに表側守備表示で特殊召喚できる。
+  | jp_sets        = 
+  RD/KP24-JP056; Overforce of the Abyss; Ultra Rare, Secret Rare, Over Rush Rare
+  | mentions       = 
+  * Princess Cosmos' Jest
+  * Post-Stellar Shower Princess Cosmos
+  | supports       = Galaxy (Type)
+  | archseries     = Princess Cosmos
+  | action         = Sends from the top of your Deck to your Graveyard
+  | stat_change    = Changes own name while in the GY
+  | summoning      = 
+  * Special Summons from your hand
+  * Special Summons from your Graveyard
+  | misc           = Only once per turn
+  | database_id    = 22886
+  }}

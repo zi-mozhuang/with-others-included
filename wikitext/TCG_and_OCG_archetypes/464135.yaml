@@ -1,0 +1,290 @@
+title: Invoked
+wikitext: |-
+  {{Infobox archseries
+  | cut_from_names = true
+  | image          = Invocation-MADU-EN-VG-artwork.png
+  | caption        = "[[Aleister the Invoker]]" summoning "[[Invoked Cocytus]]" in the artwork of "[[Invocation]]"
+  | ja_name        = {{Ruby|召|しょう}}{{Ruby|喚|かん}}{{Ruby|獣|じゅう}}
+  | romaji         = Shōkanjū
+  | trans          = Invoked Beast
+  | sc_name        = 召唤兽
+  | fr_name        = Invokhé
+  | de_name        = Beschworen
+  | it_name        = Invokato
+  | ko_name        = 소환수
+  | ko_romanized   = Sohwansu
+  | pt_name        = Invokado(a)
+  | es_name        = Invokado/a
+  | sets           =
+  * [[Eternity Code]]
+  * [[Chaos Origins]]
+  | tcg            =
+  * [[Fusion Enforcers]]
+  * [[OTS Tournament Pack 6]]
+  * [[Shadows in Valhalla]]
+  * [[Battles of Legend: Armageddon]]
+  * [[2021 Tin of Ancient Battles]]
+  * [[Burst Protocol]]
+  | ocg            =
+  * [[Booster SP: Fusion Enforcers]]
+  * [[LINK VRAINS Pack]]
+  * [[20th Secret Rare Challenge Pack]]
+  * [[Selection 5]]
+  * [[V Jump February 2025 promotional card]]
+  * [[Yu-Gi-Oh! OCG Stories Magistus Arc Volume 5 promotional card]]
+  }}
+  "'''Invoked'''", known as "'''Invoked Beast'''" ({{Ruby|召|しょう}}{{Ruby|喚|かん}}{{Ruby|獣|じゅう}} ''Shōkanjū'') in the [[OCG]], is an [[archetype]] of [[Fusion Monster]]s debuting in ''[[Booster SP: Fusion Enforcers]]''.
+
+  == Lore ==
+  {{Main|Master Guide 6 card storylines#The Threat of "La Maison" Opposing "Endymion"}}
+
+  == Design ==
+  Design-wise, the archetype consists of "Invoked" [[Fusion Monster]]s who are seemingly Summoned through [[Invocation|magic powers]] by [[Aleister the Invoker|sorcerers]].
+
+  Individually, each "Invoked" (aside from "Augoeides", "Elysium" and "Magistus Omega") represents a different [[Attribute]], with their [[Fusion Material]]s being "[[Aleister the Invoker]]" plus one monster of their specific Attribute, and are named after historical or mythological elements related to said Attribute. They also contain the staff of "Aleister" somewhere in their artworks, but much brighter than the original.
+  {| class="wikitable sortable" style="text-align: center"
+  |-
+  ! scope="col" | Invoked Support
+  ! scope="col" | Origin
+  |-
+  | [[Aleister the Invoker]]<br>[[Aleister the Invoker of Madness]]<br>[[Crowley, the Gifted Magistus]]<br>[[Aleister the Reminiscent]]
+  | [[wikipedia:Aleister Crowley|Aleister Crowley]]
+  |-
+  | [[Aiwass the Spirit of the Law]]<br>[[Spirit Sword Aiwass]]
+  | [[wikipedia:Aiwass|Aiwass]]
+  |-
+  | [[Virakam the Artificial Spirit]]
+  | Soror Virakam
+  |-
+  | [[Invocation]]
+  | [[wikipedia:Invocation|Invocation]]
+  |-
+  | [[Invocation "Sword"]]
+  | ''The Sword of Song''
+  |-
+  | [[Magical Meltdown]]
+  | [[wikipedia:Unicursal_hexagram#Thelema|Unicursal hexagram]]
+  |-
+  | [[Magical Name - "Rosa Mundi"]]
+  | ''Rosa Mundi''
+  |-
+  | [[Omega Summon]]
+  | ''[[wikipedia:The Beast (Revelation)|To Mega Therion]]''
+  |-
+  | [[The Book of the Law]]
+  | ''[[wikipedia:The Book of the Law|The Book of the Law]]''
+  |}
+  {| class="wikitable sortable" style="text-align: center"
+  |-
+  ! Level
+  ! Attribute
+  ! Invoked
+  ! Origin
+  ! Staff/sword location
+  |-
+  | 4
+  | [[DARK]]
+  | [[Invoked Caliga|Caliga]]
+  | [[wikipedia:Caligula|Caligula]]
+  | Back
+  |-
+  | 5
+  | [[WIND]]
+  | [[Invoked Raidjin|Raidjin]]
+  | [[wikipedia:Raijin|Raijin]]
+  | Right shoulder
+  |-
+  | 6
+  | [[WATER]]
+  | [[Invoked Cocytus|Cocytus]]
+  | [[wikipedia:Cocytus|Cocytus]]
+  | Chest
+  |-
+  | 6
+  | [[LIGHT]]
+  | [[Invoked Sorath|Sorath]]
+  | [[wikipedia:Therion (Thelema)#Numerology|Sorath]]
+  | Back
+  |-
+  | 7
+  | [[FIRE]]
+  | [[Invoked Purgatrio|Purgatrio]]
+  | [[wikipedia:Purgatory|Purgatory]]
+  | Head (short being), chest (skinny being), right shoulder (fat being)
+  |-
+  | 7
+  | [[FIRE]]
+  | [[Invoked Babalon|Babalon]]
+  | [[wikipedia:Babalon|Babalon]]
+  | Chest
+  |-
+  | 8
+  | [[EARTH]]
+  | [[Invoked Magellanica|Magellanica]]
+  | [[wikipedia:Terra Australis|Terra Australis]]
+  | Left arm
+  |-
+  | 8
+  | [[LIGHT]]
+  | [[Invoked Augoeides|Augoeides]]
+  | [[wikipedia:Augoeides|Augoeides]]
+  | Chest
+  |-
+  | 8
+  | [[DARK]]
+  | [[Invoked Magistus Omega|Magistus Omega]]
+  | [[wikipedia:Therion (Thelema)|Therion]]
+  | Chest
+  |-
+  | 9
+  | [[LIGHT]]
+  | [[Invoked Mechaba|Mechaba]]
+  | [[wikipedia:Merkabah mysticism|Merkabah]]
+  | Forehead of mount, chest in the alternate art
+  |-
+  | 9
+  | [[EARTH]]
+  | [[Invoked Okeanos|Okeanos]]
+  | [[wikipedia:Oceanus|Okeanos]]
+  | Forehead
+  |-
+  | 10
+  | All
+  | [[Invoked Elysium|Elysium]]
+  | [[wikipedia:Elysium|Elysium]]
+  | End of "tail"
+  |-
+  | 10
+  | [[DARK]]
+  | [[Invoked Transcendence Aeon|Transcendence Aeon]]
+  | [[wikipedia:Aeon (Thelema)|Aeon]]
+  | Right shoulder
+  |}
+
+  == Playing style ==
+  The archetype is centered around Summoning "Invoked" Fusion monsters each turn, with Decks often relying on the constant resource loop provided by "[[Aleister the Invoker]]" and "[[Invocation]]", which works as follows:
+
+  # "[[Aleister the Invoker]]", on Normal Summon or flipped face-up, searches "[[Invocation]]".
+  # "Invocation's" field effect performs a Fusion Summon by banishing "Aleister" + another monster from hand, your field, or either GY.
+  # "Invocation's" GY effect adds "Aleister" back to hand and shuffles itself to Deck, enabling the combo to be repeated each turn.
+
+  The Fusions all have generic materials. For each Attribute, there is an "Invoked" monster that requires "Aleister the Invoker" + any monster of that Attribute. The following two ("[[Invoked Augoeides|Augoeides]]" and "[[Invoked Magistus Omega|Magistus Omega]]") each require "Aleister the Invoker" + a non-specific [[Extra Deck]] monster as material, and are similarly easy to Summon. Meanwhile, "[[Invoked Elysium|Elysium]]" requires an "Invoked" monster and a monster Special Summoned from the Extra Deck. Their effects vary from disruption ("[[Invoked Mechaba]]" and "[[Invoked Raidjin]]") to floodgating ("[[Invoked Caliga]]").
+
+  Since "Invocation" can perform a Fusion Summon of an "Invoked" by banishing from your field or either GY, it is easy to get the correct Attributes needed for an "Invoked" Fusion - the opponent's monsters, [[hand trap]]s, or your [[Extra Deck]] monsters, especially LINK-1s, can all be used as material. Common LINK-1s include "Aleister the Invoker" → "[[Salamangreat Almiraj]]" (FIRE) → "[[Secure Gardna]]" (LIGHT) and "Aleister" → "[[Artemis, the Magistus Moon Maiden]]" (LIGHT), as the most desired payoff, "Invoked Mechaba", requires a LIGHT monster.
+
+  The "Invoked" support in ''[[Chaos Origins]]'' alongside the introduction of the "[[Aleister]]" archetype further expands and compliments the original strategy with additional support. "[[Aiwass the Spirit of the Law]]" can search any "Aleister" monster, and can provide an additional Normal Summon of a Spellcaster, allowing another method of searching "Aleister the Invoker" then searching "Invocation" with its effect. It can also revive itself from the GY and then provide a Fusion Summon of an "Invoked" monster. "[[Aleister the Reminiscent]]" and "[[Virakam the Artificial Spirit]]" are both able to freely Special Summon themselves from the hand and are able to search "Invocation" or 1 Spell that mentions it. Among the new Spells, "[[Invocation "Sword"]]" can perform a Fusion Summon of an "Invoked" monster by returning banished monsters to the GY while "[[Spirit Sword Aiwass]]" can either Special Summon "Aiwass the Spirit of the Law", send or banish 1 "Aleister" monster from the Deck or banish 1 card from the opponent's Extra Deck. 
+
+  The new "Invoked" Fusion Monsters ("[[Invoked Sorath|Sorath]]", "[[Invoked Babalon|Babalon]]" and "[[Invoked Okeanos|Okeanos]]") also simply require 1 "Aleister" monster and 1 monster with one of two Attributes whereas "[[Invoked Transcendence Aeon]]" requires 2+ Fusion Monsters with different Attributes, making them more flexible than the original "Invoked" line-up.
+
+  "[[Magical Name - "Rosa Mundi"]]" is a Normal Trap searchable with "Invoked Babalon" that can cheat out an "Invoked" Fusion Monster from the Extra Deck that stays for one turn, and it can also revive a banished "Invoked" monster.
+
+  In competitive play, "Invoked" was often splashed as an [[engine]] for Decks due to being compact, consistent, and great recursion for the time. It was mainly run in Decks that met the desired Attributes and/or did not need the Normal Summon, such as "[[Windwitch]]", "[[Shaddoll]]", "[[Dogmatika]]", and "[[Mekk-Knight]]".
+
+  === Recommended cards ===
+  {{Decklist|Recommended cards
+  |effect monsters =
+  * [[Aiwass the Spirit of the Law]]
+  * [[Aleister the Invoker]]
+  * [[Aleister the Reminiscent]]
+  * [[Crowley, the Gifted Magistus]]
+  ** [[Spenta, the Magistus Sealer]]
+  * [[Virakam the Artificial Spirit]]
+  * [[Armageddon Knight]]
+  * [[Dogmatika Lawbringer]]
+  * [[Elemental HERO Prisma]]
+  * [[Fusion Parasite]]
+  * [[Homunculus the Alchemic Being]]
+  * [[Inari Fire]]
+  * [[Jigabyte]]
+  * [[King of the Swamp]]
+  * [[Magical King of the Swamp]]
+  * [[Nefarious Archfiend Eater of Nefariousness]]
+  * [[Nemeses Corridor]]
+  * [[Nightmare Apprentice]]
+  * [[Ranryu]]
+  * [[Spellbook Magician of Prophecy]]
+  |flip monsters =
+  * "[[Shaddoll]]" monsters
+  ** [[Shaddoll Beast]]
+  ** [[Shaddoll Hedgehog]]
+  ** [[Shaddoll Squamata]]
+  |tuner monsters =
+  * [[Shaddoll Falco]]
+  |fusion monsters =
+  * [[Invoked Augoeides]]
+  * [[Invoked Babalon]]
+  * [[Invoked Caliga]]
+  * [[Invoked Cocytus]]
+  * [[Invoked Elysium]]
+  * [[Invoked Magellanica]]
+  * [[Invoked Magistus Omega]]
+  * [[Invoked Mechaba]]
+  * [[Invoked Okeanos]]
+  * [[Invoked Purgatrio]]
+  * [[Invoked Raidjin]]
+  * [[Invoked Sorath]]
+  * [[Invoked Transcendence Aeon]]
+  * [[El Shaddoll Wendigo]]
+  * [[El Shaddoll Winda]]
+  * [[Mudragon of the Swamp]]
+  * [[Mysterion the Dragon Crown]] (if running "Ranryu")
+  * [[Nightmare-Eyes Restrict]]
+  * [[Thunder Dragon Colossus]]
+  |link monsters =
+  * [[Aleister the Invoker of Madness]]
+  * [[Artemis, the Magistus Moon Maiden]]
+  * [[Day-Breaker the Shining Magical Warrior]]
+  * [[LANphorhynchus]]
+  * [[Miasma Necromancer]]
+  * [[Salamangreat Almiraj]]
+  * [[Secure Gardna]] (if running "Almiraj")
+  |normal spells =
+  * [[Invocation]]
+  * [[Spirit Sword Aiwass]]
+  * [[A Hero Lives]] (with "Elemental HERO Prisma")
+  * [[Allure of Darkness]]
+  * [[Dark Spirit's Mastery]]
+  * [[Fusion Substitute]] / [[Polymerization]]
+  * [[Instant Fusion]]
+  * [[Reinforcement of the Army]]
+  * [[Shaddoll Fusion]]
+  * [[Spellbook of Knowledge]]
+  * [[Spellbook of Secrets]]
+  * [[Terraforming]]
+  |field spells =
+  * [[Magical Meltdown]]
+  |quick-play spells =
+  * [[Invocation "Sword"]]
+  * [[The Book of the Law]]
+  * [[Eye of Illusion]]
+  * [[Relinquished Fusion]] (with "Nightmare-Eyes Restrict")
+  * [[Sinful Spoils of the White Forest]]
+  * [[Super Polymerization]]
+  * [[Susurrus of the Sinful Spoils]]
+  |normal traps =
+  * [[Magical Name - "Rosa Mundi"]]
+  * [[Omega Summon]]
+  * [[Azamina Aphes]]
+  * [[Dark Renewal]]
+  * [[Metaverse]]
+  * [[Trap Trick]]
+  * [[Necro Fusion]]
+  }}
+
+  === Weaknesses ===
+  * Floodgates, including:
+  ** Anti-Fusion Summon or Special Summon floodgates, like "[[Non-Fusion Area]]", "[[Fossil Dyna Pachycephalo]]", or "[[Dimensional Barrier]]", shut down the archetype.
+  ** Anti-banish floodgates, like "[[Imperial Iron Wall]]" or "[[Artifact Lancea]]", shut down "Invocation".
+  ** Anti-search floodgates, like "[[Mistake]]" or "[[Thunder King Rai-Oh]]" stop the archetype unless "Invocation" is drawn.
+  ** "[[Gozen Match]]" and "[[Rivalry of Warlords]]", due to the Extra Deck monsters generally having different Types/Attributes than "Aleister".
+  * GY disruption, such as the "[[Bystial]]" monsters, "[[Mudora the Sword Oracle]]", and "[[D.D. Crow]]" can remove "Aleister" from the GY before "Invocation" is activated.
+  ** If "Invocation" is sent to the GY (e.g., with "[[Forbidden Droplet]]"), it can be used to recover a banished "Aleister". 
+  ** An opposing "[[Branded Regained]]" can shuffle away the banished "Aleister", thus leaving "Invocation" in the GY with no banished "Aleister" to use its GY effect with.
+  * "[[Chain Disappearance]]" can be used to banish all copies of "Aleister" at the time it is Normal Summoned.
+  * A one-for-one handtrap, such as "[[Ash Blossom & Joyous Spring]]" or "[[Infinite Impermanence]]", can generally stop the engine unless "Invocation" is hard drawn. However, since "Invoked" is often run with other archetypes, these handtraps often won't stop all of the opponent's plays.
+
+  {{Archseries navbox}}
+  {{Archseries navbox (OCG Structures)}}
+  {{Archseries navbox (Duel Links)}}
+  {{Magical War}}
+  [[Category:TCG and OCG archetypes]]

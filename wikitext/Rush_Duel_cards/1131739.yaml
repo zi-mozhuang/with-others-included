@@ -1,0 +1,44 @@
+title: Red-Eyes Pluto Wyvern
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name              = {{Ruby|真紅眼の冥飛竜|レッドアイズ・プルートワイバーン}}
+  | base_romaji_name     = Shinkugan no Meihiryū
+  | base_translated_name = Red-Eyes Underworld Flying Dragon
+  | romaji_name          = Reddoaizu Purūto Waibān
+  | ko_name              = 붉은 눈의 명비룡
+  | image                = RedEyesPlutoWyvern-RDKP22-JP-UR.png
+  | attribute            = DARK
+  | types                = Dragon / Effect
+  | level                = 4
+  | atk                  = 1000
+  | def                  = 1200
+  | condition            = This card's name becomes "[[Red-Eyes Black Dragon (Rush Duel)|Red-Eyes Black Dragon]]" while in the [[hand]] or [[Graveyard]].
+  | requirement          = [[Send]] the top card of your [[Main Deck|Deck]] to the Graveyard.
+  | text                 = Make 1 [[face-up]] [[Effect Monster]] on your opponent's [[field]] lose 300 [[ATK]] until the end of this [[turn]]. Then, you can [[Add a card|add]] 1 "[[Red-Eyes Pluto Dragon]]" or 1 "[[Calling Dark Meteor]]" from your Graveyard to your hand.
+  | ja_condition         = 手札または墓地にいるこのカードのカード名は「真紅眼の黒竜」になる。
+  | ja_requirement       = デッキの一番上のカードを墓地へ送って発動できる。
+  | ja_text              = 相手フィールドの表側表示の効果モンスター１体を選び、その攻撃力をターン終了時まで３００ダウンする。その後、自分の墓地の「真紅眼の冥竜」１体または「コーリング・ダーク・メテオ」１枚を選んで手札に加える事ができる。
+  | ko_condition         = 패 또는 묘지에 있는 이 카드의 카드명은 "붉은 눈의 흑룡"이 된다.
+  | ko_requirement       = 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
+  | ko_text              = 상대 필드의 앞면 표시인 효과 몬스터 1장을 고르고, 그 공격력을 턴 종료시까지 300 내린다. 그 후, 자신 묘지의 "붉은 눈의 명룡" 1장 또는 "콜링 다크 메테오" 1장을 고르고 패에 넣을 수 있다.
+  | jp_sets              = 
+  RD/KP22-JP024; OuTerverSe of Terror; Ultra Rare, Secret Rare, Over Rush Rare
+  | kr_sets              = 
+  RD/KP22-KR024; OuTerverSe of Terror; Ultra Rare, Secret Rare, Over Rush Rare
+  | mentions             = 
+  * Red-Eyes Black Dragon (Rush Duel)
+  * Red-Eyes Pluto Dragon
+  * Calling Dark Meteor
+  | anti-supports        = Effect Monster
+  | archseries           = Red-Eyes (Rush Duel)
+  | action               = 
+  * Sends from the top of your Deck to your Graveyard for cost
+  * Adds from Graveyard to hand
+  | stat_change          = 
+  * Changes own name while in the hand
+  * Changes own name while in the GY
+  * Your opponent's monsters lose ATK
+  | database_id          = 22000
+  }}

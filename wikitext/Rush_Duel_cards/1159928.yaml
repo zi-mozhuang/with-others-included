@@ -1,0 +1,53 @@
+title: Great Moth Alternative
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = {{Ruby|相|そう}}{{Ruby|変|へん}}{{Ruby|異|い}}{{Ruby|態|たい}}・グレート・モス
+  | romaji_name     = Sōhen'itai Gurēto Mosu
+  | translated_name = Phase Variation Form - Great Moth
+  | ko_name         = 상변이체 그레이트 모스
+  | image           = GreatMothAlternative-RDAP02-JP-SR.png
+  | attribute       = EARTH
+  | types           = Insect / Fusion / Effect
+  | level           = 8
+  | atk             = 2600
+  | def             = 2500
+  | effect_types    = Continuous
+  | fusion_material = Cocoon of Evolution (Rush Duel)
+  | materials       = "[[Cocoon of Evolution (Rush Duel)|Cocoon of Evolution]]" + 1 [[Level]] 5 or higher [[EARTH]] [[Attribute]] [[Insect]] [[Type]] [[Monster Card|monster]]
+  | condition       = This card's name becomes "[[Great Moth (Rush Duel)|Great Moth]]" while in the [[Graveyard]].
+  | requirement     = None
+  | text            = This card's name becomes "Great Moth", and it cannot be [[destroy]]ed by your opponent's card [[effect]]s. Your Level 8 Insect Type monsters [[Damage|inflict]] [[piercing]] [[battle damage]].
+  | ja_materials    = 「進化の繭」＋モンスター（レベル５以上／地属性／昆虫族）
+  | ja_condition    = 墓地にいるこのカードのカード名は「グレート・モス」になる。
+  | ja_requirement  = なし
+  | ja_text         = このカードのカード名は「グレート・モス」になり、相手の効果では破壊されない。自分のモンスター（レベル８／昆虫族）の攻撃は貫通する。
+  | ko_text         = "진화의 고치" ＋ 몬스터(레벨 5 이상 / 땅 속성 / 곤충족)<br />묘지에 있는 이 카드의 카드명은 "그레이트 모스"가 된다.<br />【조건】없음<br />【지속 효과】이 카드의 카드명은 "그레이트 모스"가 되고, 상대 효과로는 파괴되지 않는다. 자신의 몬스터(레벨 8 / 곤충족)의 공격은 관통한다.
+  | jp_sets         = 
+  RD/AP02-JP032; Advance Pack: Revenge Hearts; Super Rare, Secret Rare
+  | kr_sets         = 
+  RD/AP02-KR032; Advance Pack: Revenge Hearts; Super Rare, Secret Rare
+  | mentions        = 
+  * Cocoon of Evolution (Rush Duel)
+  * Great Moth (Rush Duel)
+  | supports        = 
+  * EARTH
+  * Insect
+  | archseries      = Moth (Rush Duel)
+  | stat_change     = 
+  * Changes own name while in the GY
+  * Changes own name while on the field
+  | m/s/t           = Cannot be destroyed by card effects
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires specific Effect Monsters as Fusion Materials
+  * Requires Level specific Fusion Materials
+  * Requires Attribute specific Fusion Materials
+  * Requires Type specific Fusion Materials
+  | attack          = Piercing
+  | misc            = 
+  * Requires control of specific Level
+  * Requires control of specific Type
+  | database_id     = 22648
+  }}

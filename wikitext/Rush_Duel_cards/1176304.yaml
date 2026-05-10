@@ -1,0 +1,32 @@
+title: Aussa the Earth Spiritualist
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = {{Ruby|地|ち}}{{Ruby|霊|れい}}{{Ruby|術|じゅつ}}{{Ruby|師|し}}アウス
+  | romaji_name     = Chireijutsushi Ausu
+  | translated_name = Aus the Earth Spiritualist
+  | image           = AussatheEarthSpiritualist-RDORP4-JP-UR.png
+  | attribute       = EARTH
+  | types           = Spellcaster / Effect
+  | level           = 5
+  | atk             = 1900
+  | def             = 1500
+  | requirement     = During your [[Main Phase]] that you [[Normal Summon|Normal]] or [[Special Summon]]ed this card, [[send]] 1 [[Monster Card|monster]] from your [[hand]] or [[field]] to the [[Graveyard]].
+  | text            = Send the top card of your [[Main Deck|Deck]] to the Graveyard. Then, you can Special Summon 1 [[Level]] 5 or lower monster from your Graveyard [[face-up]] to your field. This [[turn]], you cannot [[activate]] the [[effect]] of "Aussa the Earth Spiritualist".
+  | ja_requirement  = このカードを召喚・特殊召喚した自分メインフェイズに、自分の手札・フィールドのモンスター１体を墓地へ送って発動できる。
+  | ja_text         = 自分のデッキの一番上のカードを墓地へ送る。その後、自分の墓地のモンスター（レベル５以下）１体を選んで自分フィールドに表側表示で特殊召喚できる。このターン、自分は「地霊術師アウス」の効果を発動できない。
+  | jp_sets         = 
+  RD/ORP4-JP009; Over Rush Pack 4; Ultra Rare, Over Rush Rare
+  | mentions        = Aussa the Earth Spiritualist
+  | archseries      = Charmer (Rush Duel)
+  | action          = 
+  * Activates during the turn in which it was Normal Summoned
+  * Activates during the turn in which it was Special Summoned
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  * Sends from the top of your Deck to your Graveyard
+  | summoning       = Special Summons from your Graveyard
+  | misc            = Only once per turn
+  | database_id     = 23042
+  }}

@@ -1,0 +1,43 @@
+title: Lightning Crash
+wikitext: |-
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|神|かみ}}{{Ruby|鳴|な}}り
+  | romaji_name           = Kaminari
+  | translated_name       = Divine Thundering
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 神鸣
+  | image                 = LightningCrash-LOCR-JP-UR.png
+  | card_type             = Spell
+  | property              = Normal
+  | password              = 89753095
+  | effect_types          = Effect, Condition
+  | text                  = [[Add a card|Add]] 1 [[Thunder]] [[monster]] from your [[Main Deck|Deck]] to your [[hand]], but you cannot [[Normal Summon]]/[[Set]] [[monsters]] with its name until the end of the next turn after this card [[resolve]]s. You can only activate 1 "Lightning Crash" per turn.
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = このカード名のカードは１ターンに１枚しか発動できない。①：デッキから雷族モンスター１体を手札に加える。このカードの発動後、次のターンの終了時まで、自分はこの効果で手札に加えたモンスター及びその同名モンスターを通常召喚できない。
+  | ko_text               = 
+  | sc_text               = 此卡名的卡1回合仅可发动1张。①：从牌组将1只雷族怪兽加入手牌。此卡发动后，直至下个回合结束时为止，自己不可通常召唤以此效果加入手牌的怪兽及其同名怪兽。
+  | jp_sets               = 
+  LOCR-JP021; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | sc_sets               = 
+  LOCR-SC021; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | supports              = Thunder
+  | action                = Adds from Deck to hand
+  | summoning             = 
+  * Prevents the player's Normal Summons
+  * Prevents the player's Normal Sets
+  | misc                  = 
+  * Turn limited effects
+  * Only once per turn
+  | database_id           = 22736
+  }}

@@ -1,0 +1,28 @@
+title: Vic Viper T301 (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Vic Viper T301
+  | de_name      = Vic Viper T301
+  | it_name      = Vic Viper T301
+  | es_name      = Vic Viper T301
+  | ko_name      = 빅 바이퍼 T301
+  | image        = VicViperT301-DULI-EN-VG.png
+  | ja_image     = VicViperT301-DULI-JP-VG.png
+  | attribute    = LIGHT
+  | types        = Machine / Effect
+  | atk          = 1200
+  | def          = 800
+  | level        = 4
+  | rarity       = UR
+  | effect_types = Trigger, Condition, Continuous
+  | text         = When an [[attack]] is [[declare]]d involving your [[face-up]] [[Monster Card|monster]] and an opponent's monster: You can [[Special Summon]] this card from your [[hand]] or [[Graveyard]], but [[banish]] it when it [[leaves the field]]. You can only use this [[effect]] of "Vic Viper T301" [[once per turn]]. Other LIGHT [[Machine]]-[[Type]] monsters you control gain 1200 [[ATK]].
+  | fr_text      = Lorsqu'une attaque est déclarée impliquant votre monstre face recto et un monstre de l'adversaire : vous pouvez Invoquer Spécialement cette carte depuis votre main ou Cimetière, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser cet effet de "Vic Viper T301" qu'une fois par tour. Les autres monstres LUMIÈRE Machine que vous contrôlez gagnent 1200 ATK.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=level_up|Quinton (Duel Links)|Level 10}}
+  {{Duel Links release table|type=level_up|Quinton (Duel Links)|Level 16}}
+  {{Duel Links release table|type=level_up|Quinton (Duel Links)|Level 35}}
+  {{Duel Links release table|type=box|Structure Deck EX: Core of the Salamander}}
+  {{Duel Links release table/footer}}
+  }}

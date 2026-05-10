@@ -1,0 +1,79 @@
+title: X-Saber Souza
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Souza, Sabre X
+  | de_name             = X-Säbel Souza
+  | it_name             = Souza Sciabola-X
+  | pt_name             = Sabre-X Souza
+  | es_name             = Sable-X Souza
+  | ja_name             = {{Ruby|Ｘ|エックス}}－セイバー ソウザ
+  | romaji_name         = Ekkusu-Seibā Souza
+  | ko_name             = X-세이버 소우저
+  | sc_name             = X－军刀 索扎
+  | image               = XSaberSouza-L26D-EN-C-1E.png
+  | attribute           = EARTH
+  | types               = Warrior / Synchro / Effect
+  | level               = 7
+  | atk                 = 2500
+  | def                 = 1600
+  | password            = 63612442
+  | materials           = 1 Tuner + 1 or more non-Tuner "X-Saber" monsters
+  | effect_types        = Ignition, Trigger, Continuous
+  | text                = 1 [[Tuner monster|Tuner]] + 1+ non-Tuner "[[X-Saber]]" [[Monster Card|monsters]]<br />You can [[Tribute]] 1 "X-Saber" monster, then choose 1 of these [[effect]]s; this card gains that effect until the end of this [[turn]].<br />● At the start of the [[Damage Step]], if this card [[battle]]s a monster: [[Destroy]] that monster.<br />● Cannot be destroyed by [[Trap Card|Trap]] effects.
+  | fr_text             = 1 Syntoniseur + 1+ monstre non-Syntoniseur "Sabre X"<br />Vous pouvez Sacrifier 1 monstre "Sabre X", puis choisissez 1 de ces effets ; jusqu'à la fin de ce tour, cette carte gagne l'effet.<br />● Au début de la Damage Step, si cette carte combat un monstre : détruisez le monstre.<br />● Non destructible par des effets de Piège.
+  | de_text             = 1 Empfänger + 1+ „X-Säbel“-Nicht-Empfänger-Monster<br />Du kannst 1 „X-Säbel“-Monster als Tribut anbieten und dann 1 dieser Effekte bestimmen; diese Karte erhält bis zum Ende dieses Spielzugs jenen Effekt.<br />● Am Beginn des Damage Steps, falls diese Karte gegen ein Monster kämpft: Zerstöre jenes Monster.<br />● Kann nicht durch Falleneffekte zerstört werden.
+  | it_text             = 1 Tuner + 1+ mostri "Sciabola-X" non-Tuner<br />Puoi offrire come Tributo 1 mostro "Sciabola-X", poi selezionare 1 di questi effetti; questa carta guadagna quell'effetto fino alla fine di questo turno.<br />● All'inizio del Damage Step, se questa carta combatte con un mostro: distruggi quel mostro.<br />● Non può essere distrutta dagli effetti delle Trappole.
+  | pt_text             = 1 Regulador + 1+ monstros "Sabre-X" não-Reguladores<br />Você pode oferecer como Tributo 1 monstro "Sabre-X" e, depois, selecione 1 desses efeitos; este card ganha esse efeito até o final deste turno.<br />● No começo da Etapa de Dano, se este card batalhar um monstro: destrua esse monstro.<br />● Não pode ser destruído por efeitos de Armadilha.
+  | es_text             = 1 Cantante + 1+ monstruos "Sable-X" que no sean Cantantes<br />Puedes Sacrificar 1 monstruo "Sable-X", y después elegir 1 de estos efectos; esta carta gana ese efecto hasta el final de este turno.<br />● Al comienzo del Damage Step, si esta carta batalla con un monstruo: destruye ese monstruo.<br />● No puede ser destruido por efectos de Trampas.
+  | ja_text             = [[Tuner monster|チューナー]]＋チューナー以外の「[[X-Saber|Ｘ－セイバー]]」モンスター１体以上<br />①：自分フィールドの「Ｘ－セイバー」モンスター１体を[[Tribute|リリース]]し、以下の効果から１つを選択して発動できる。その効果をターン終了時まで得る。●このカードがモンスターと戦闘を行うダメージステップ開始時に発動する。そのモンスターを[[Destroy|破壊]]する。●このカードは[[Trap Card|罠カード]]の効果では破壊されない。
+  | ko_text             = 튜너 + 튜너이외의 "X-세이버"라는 이름이 붙은 몬스터 1장 이상<br />자신의 메인 페이즈시에, 자신 필드 위에 존재하는 "X-세이버"라는이름이 붙은 몬스터 1장을 릴리스하는 것으로, 이하의 효과에서 1개 선택하고 엔드 페이즈시까지 얻는다. ●이 카드가 몬스터와 전투를 실행할 경우, 데미지 계산을 실행하지 않고, 그 몬스터를 파괴한다. ●이 카드는 함정 카드의 효과로는 파괴되지 않는다.
+  | sc_text             = 协调＋协调以外的“X－军刀”怪兽1只以上<br />①：解放自己场上1只其他的“X－军刀”怪兽，可从以下效果中选择1个发动。直至回合结束时为止获得该效果。<br />●此卡与怪兽进行战斗的伤害步骤开始时发动。将该怪兽破坏。<br />●此卡不会因陷阱卡的效果被破坏。
+  | en_sets             = 
+  CT09-EN017; Collectible Tins 2012 Wave 2; Super Rare
+  SP15-EN033; Star Pack ARC-V; Common, Shatterfoil Rare
+  L26D-ENX37; Legendary Modern Decks 2026; Common
+  | na_sets             = 
+  JUMP-EN058; Shonen Jump Vol. 10, Issue 3 promotional card; Ultra Rare
+  | fr_sets             = 
+  CT09-FR017; Collectible Tins 2012 Wave 2; Super Rare
+  SP15-FR033; Star Pack ARC-V; Common, Shatterfoil Rare
+  L26D-FRX37; Legendary Modern Decks 2026; Common
+  | de_sets             = 
+  CT09-DE017; Collectible Tins 2012 Wave 2; Super Rare
+  SP15-DE033; Star Pack ARC-V; Common, Shatterfoil Rare
+  L26D-DEX37; Legendary Modern Decks 2026; Common
+  | it_sets             = 
+  CT09-IT017; Collectible Tins 2012 Wave 2; Super Rare
+  SP15-IT033; Star Pack ARC-V; Common, Shatterfoil Rare
+  L26D-ITX37; Legendary Modern Decks 2026; Common
+  | pt_sets             = 
+  SP15-PT033; Star Pack ARC-V; Common, Shatterfoil Rare
+  L26D-PTX37; Legendary Modern Decks 2026; Common
+  | sp_sets             = 
+  CT09-SP017; Collectible Tins 2012 Wave 2; Super Rare
+  SP15-SP033; Star Pack ARC-V; Common, Shatterfoil Rare
+  L26D-SPX37; Legendary Modern Decks 2026; Common
+  | jp_sets             = 
+  VE04-JP005; V Jump Edition 4; Ultra Rare
+  SPRG-JP023; Booster SP: Raging Masters; Common, Normal Parallel Rare
+  | kr_sets             = 
+  XS12-KRSE2; X-Saber: Special Edition; Secret Rare
+  SPRG-KR023; Booster SP: Raging Masters; Common, Normal Parallel Rare
+  | sc_sets             = 
+  TW03-SC018; Terminal World 3; Normal Parallel Rare
+  | archseries          = 
+  * Saber
+  * X-Saber
+  | supports_archetypes = X-Saber
+  | summoning           = 
+  * 1 or more non-Tuner Synchro Materials
+  * Does not require specific Tuner Synchro Materials
+  * Requires archetype specific non-Tuner Synchro Materials
+  | action              = Tributes for cost
+  | m/s/t               = 
+  * Destroys your opponent's Monster Cards
+  * Destroys battling monster at the start of the Damage Step
+  * Cannot be destroyed by card effects
+  | misc                = Variable effects
+  | database_id         = 9444
+  }}

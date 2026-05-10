@@ -1,0 +1,52 @@
+title: Infernal Strike Fighter
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = ヘル・ダイブ・ボンバー
+  | romaji_name           = Heru Daibu Bonbā
+  | translated_name       = Hell Dive Bomber
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 地狱俯冲轰炸机
+  | image                 = InfernalStrikeFighter-25DB-JP-SR.png
+  | attribute             = DARK
+  | types                 = Machine / Synchro / Effect
+  | level                 = 7
+  | atk                   = 2600
+  | def                   = 1800
+  | password              = 66122213
+  | materials             = 1 Tuner + 1 or more non-Tuner monsters
+  | effect_types          = Quick, Trigger, Condition
+  | text                  = 1 [[Tuner]] + 1+ non-Tuners<br />During the [[Main Phase 2]] ([[Quick Effect]]): You can [[destroy]] as many [[face-up]] [[monsters]] on the [[field]] as possible, and if you do, inflict [[Effect damage|damage]] to your opponent equal to the combined [[original Level]]s of those destroyed monsters x 200. If this card is [[destroyed by battle]] or card [[effect]]: You can [[target]] 1 [[Level]] 5 or lower [[Machine]] monster in your [[GY]]; [[Special Summon]] it in [[Defense Position]]. You can only use each [[effect]] of "Infernal Strike Fighter" [[once per turn]].
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = チューナー＋チューナー以外のモンスター１体以上<br />このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手のメインフェイズ２に発動できる。フィールドの表側表示モンスターを全て破壊し、破壊したモンスターの元々のレベルの合計×２００ダメージを相手に与える。②：このカードが戦闘・効果で破壊された場合、自分の墓地のレベル５以下の機械族モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。
+  | ko_text               = 
+  | sc_text               = 协调＋协调以外的怪兽1只以上<br />此卡名的①②效果1回合仅可各使用1次。①：在自己・对手的主要阶段2可以发动。将场上的表侧表示怪兽全部破坏，给予对手所破坏怪兽的原本等级合计×200的伤害。②：此卡因战斗・效果被破坏的情况下，以自己墓地的1只等级5以下的机械族怪兽为对象可以发动。将该怪兽以守备表示特殊召唤。
+  | jp_sets               = 
+  25DB-JP003; Duelist Box: Prismatic Summon; Super Rare, Secret Rare, Prismatic Secret Rare
+  | sc_sets               = 
+  NE03-SC003; Nature Pack: Righteous Warriors; Ultra Rare, Secret Rare, Prismatic Secret Rare
+  | supports              = Machine
+  | related_to_archseries = Reactor
+  | action                = 
+  * Activates if destroyed by battle
+  * Activates if destroyed by card effect
+  | m/s/t                 = Destroys face-up Monster Cards
+  | summoning             = 
+  * Does not require specific Synchro Materials
+  * 1 or more non-Tuner Synchro Materials
+  * Special Summons from your Graveyard
+  | life_points           = Damages your opponent
+  | misc                  = Only once per turn
+  | database_id           = 22213
+  }}

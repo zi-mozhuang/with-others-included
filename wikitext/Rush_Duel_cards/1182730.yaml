@@ -1,0 +1,29 @@
+title: Skysavior Aspiration
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name        = {{Ruby|蒼|そう}}{{Ruby|救|きゅう}}の{{Ruby|宿|しゅく}}{{Ruby|願|がん}}
+  | romaji_name    = Sōkyū no Shukugan
+  | image          = SkysaviorAspiration-RDORP4-JP-C.png
+  | card_type      = Spell
+  | property       = Normal
+  | requirement    = [[Send]] 1 non-[[Legend Card|Legend]] [[Warrior]] or [[Fairy]] [[Type]] [[Monster Card|monster]] or 1 "[[Fusion (Rush Duel)|Fusion]]" from your [[hand]] to the [[Graveyard]].
+  | text           = [[Draw a card|Draw]] 2 cards. Until the end of this [[turn]], you cannot [[Special Summon]] non-[[Celestial Warrior]] Type monsters from the [[Extra Deck]] or [[attack]] with [[Level]] 8 or lower monsters.
+  | ja_requirement = レジェンドカード以外の手札のモンスター（戦士族・天使族）１体または「フュージョン」１枚を墓地へ送って発動できる。
+  | ja_text        = 自分は２枚ドローする。この効果の発動後、ターン終了時まで自分はＥＸデッキからモンスター（天界戦士族以外）を特殊召喚できず、モンスター（レベル８以下）で攻撃できない。
+  | jp_sets        = 
+  RD/ORP4-JP051; Over Rush Pack 4; Common
+  | mentions       = Fusion (Rush Duel)
+  | supports       = 
+  * Warrior
+  * Fairy
+  * Celestial Warrior
+  | archseries     = Skysavior
+  | action         = 
+  * Sends from hand to Graveyard for cost
+  * You draw cards
+  | summoning      = Restricts the player's Special Summons from the Extra Deck
+  | attack         = Prevents your monsters from attacking
+  | database_id    = 23075
+  }}

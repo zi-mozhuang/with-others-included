@@ -1,0 +1,24 @@
+title: Thunder Dragon Colossus (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Colosse, Dragon du Tonnerre
+  | de_name      = Donnerdrachen-Koloss
+  | it_name      = Colosso Drago del Tuono
+  | es_name      = Coloso Dragón de Trueno
+  | ko_name      = 초뇌룡－썬더 드래곤
+  | image        = ThunderDragonColossus-DULI-EN-VG.png
+  | attribute    = DARK
+  | types        = Thunder / Fusion / Effect
+  | atk          = 2600
+  | def          = 2400
+  | level        = 8
+  | rarity       = UR
+  | effect_types = Summoning condition, Continuous, Continuous
+  | text         = "[[Thunder Dragon (Duel Links)|Thunder Dragon]]" + 1 [[Thunder]]-[[Type]] monster<br />Must be either [[Fusion Summon]]ed, or [[Special Summon]]ed during the [[turn]] a Thunder-Type monster's [[effect]] was [[activate]]d in the [[hand]], by [[Tributing]] 1 Thunder-Type [[Effect Monster|Effect]] non-[[Fusion Monster]] (in which case you do not use "[[Polymerization (Duel Links)|Polymerization]]"). Cards cannot be added from the [[Main Deck]] to your opponent's hand except by [[Draw a card|drawing]] them. If this card would be [[destroyed by battle]] or card effect, you can [[banish]] 1 Thunder monster from your [[Graveyard]] instead.
+  | fr_text      = "Dragon du Tonnerre" + 1 monstre Tonnerre<br />Uniquement Invocable par Fusion, ou Invocable Spécialement durant le tour où un effet de monstre Tonnerre a été activé dans la main, en Sacrifiant 1 Monstre à Effet non-Fusion Tonnerre (auquel cas vous n'utilisez pas "Polymérisation"). Les cartes ne peuvent pas être ajoutées depuis le Main Deck à la main de votre adversaire sauf en les piochant. Si cette carte va être détruite au combat ou par un effet de carte, vous pouvez bannir 1 monstre Tonnerre depuis votre Cimetière à la place.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|The Ultimate Chaos}}
+  {{Duel Links release table/footer}}
+  }}

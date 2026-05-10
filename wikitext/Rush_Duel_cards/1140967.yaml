@@ -1,0 +1,38 @@
+title: Caius the Shadow Monarch (Rush Duel)
+wikitext: |-
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ko_name        = 사 제왕 가이우스
+  | image          = CaiustheShadowMonarch-RDSD0F-JP-UR.png
+  | attribute      = DARK
+  | types          = Fiend / Effect
+  | level          = 6
+  | atk            = 2400
+  | def            = 1000
+  | requirement    = During the [[turn]] you [[Tribute Summon]]ed this card in [[Attack Position]].
+  | text           = Place 1 card from the [[field]] on the bottom of the [[owner]]'s [[Main Deck|Deck]]. Then, if you placed a [[face-up]] [[Monster Card|monster]] whose original [[Attribute]] is [[DARK]] by this [[effect]], [[Damage|inflict]] 1000 [[Effect damage|damage]] to your opponent. This turn, you cannot [[activate]] the effect of "Caius the Shadow Monarch".
+  | ja_requirement = このカードを攻撃表示でアドバンス召喚したターンに発動できる。
+  | ja_text        = 自分または相手フィールドのカード１枚を選んで持ち主のデッキの下に戻す。この効果で元々の属性が闇属性の表側表示モンスターを戻した場合、さらに相手に１０００ダメージを与える。このターン、自分は「邪帝ガイウス」の効果を発動できない。
+  | ko_requirement = 이 카드를 공격 표시로 어드밴스 소환한 턴에 발동할 수 있다.
+  | ko_text        = 자신 또는 상대 필드의 카드 1장을 고르고 주인의 덱 아래로 되돌린다. 이 효과로 원래의 속성이 어둠 속성인 앞면 표시 몬스터를 되돌렸을 경우, 추가로 상대에게 1000 데미지를 준다. 이 턴에, 자신은 "사 제왕 가이우스"의 효과를 발동할 수 없다.
+  | jp_sets        = 
+  RD/SD0F-JP001; Structure Deck: Triumphant Return of the Monarchs; Ultra Rare
+  RD/SD0F-JPS01; Structure Deck: Triumphant Return of the Monarchs; Over Rush Rare
+  | kr_sets        = 
+  RD/SD0F-KR001; Structure Deck: Triumphant Return of the Monarchs; Ultra Rare
+  RD/SD0F-KRS01; Structure Deck: Triumphant Return of the Monarchs; Over Rush Rare
+  | mentions       = Caius the Shadow Monarch (Rush Duel)
+  | supports       = DARK
+  | anti-supports  = DARK
+  | archseries     = Monarch (Rush Duel series)
+  | action         = 
+  * Activates during the turn in which it was Tribute Summoned
+  * Places cards from the player's field on the bottom of the Deck
+  * Places cards from the opponent's field on the bottom of the Deck
+  | life_points    = Damages your opponent
+  | misc           = 
+  * Only once per turn
+  * Legend Card
+  * Cover card
+  | database_id    = 22092
+  }}

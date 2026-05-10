@@ -1,0 +1,23 @@
+title: Preparation of Rites (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Préparation des Rites
+  | de_name      = Vorbereitung der Riten
+  | it_name      = Preparazione dei Riti
+  | es_name      = Preparación de Rituales
+  | ko_name      = 의식의 준비
+  | image        = PreparationofRites-DULI-EN-VG.png
+  | ja_image     = PreparationofRites-DULI-JP-VG.png
+  | card_type    = Spell
+  | property     = Normal
+  | rarity       = UR
+  | effect_types = Effect
+  | text         = [[Add a card|Add]] 1 [[Level]] 7 or lower [[Ritual Monster]] from your [[Main Deck|Deck]] to your [[hand]], then you can add 1 [[Ritual Spell Card|Ritual Spell]] Card from your Graveyard to the hand.
+  | fr_text      = Ajoutez 1 Monstre Rituel de max. Niveau 7 depuis votre Deck à votre main, puis vous pouvez ajouter 1 Carte Magie Rituelle depuis votre Cimetière à la main.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Zillion Thunder}}
+  {{Duel Links release table|type=box|Deck Build Box: Ritual Territory}}
+  {{Duel Links release table/footer}}
+  }}

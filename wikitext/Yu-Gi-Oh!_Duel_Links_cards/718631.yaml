@@ -1,0 +1,22 @@
+title: Icarus Attack (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Attaque d'Icare
+  | de_name      = Icarus-Angriff
+  | it_name      = Attacco Icaro
+  | es_name      = Ataque de Ícaro
+  | ko_name      = 갓버드 어택
+  | image        = IcarusAttack-DULI-EN-VG.png
+  | ja_image     = IcarusAttack-DULI-JP-VG.png
+  | card_type    = Trap
+  | property     = Normal
+  | rarity       = UR
+  | effect_types = Cost, Effect
+  | text         = [[Tribute]] 1 [[Winged Beast]]-[[Type]] [[Monster Card|monster]], then [[target]] 2 cards on the [[field]]; [[destroy]] them.
+  | fr_text      = Sacrifiez 1 monstre de Type Bête Ailée, puis ciblez 2 cartes sur le Terrain ; détruisez-les.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Savage Shot}}
+  {{Duel Links release table/footer}}
+  }}

@@ -1,0 +1,24 @@
+title: Neo Space!
+wikitext: |-
+  {{Duel Links Skill
+  | fr_name               = Néo-Space !
+  | ja_name               = 新たな宇宙！
+  | romaji_name           = Aratana Uchū!
+  | text                  = Begin [[Duel]] with the card "[[Neo Space (Duel Links)|Neo Space]]" [[activate]]d.
+  | fr_text               = Commencez le Duel avec la Carte "Néo-Space" activée.
+  | ja_text               = 「ネオスペース」が発動した状態でデュエルを開始する。
+  | releases              = 
+  {{Duel Links Skill release table|type=mission|Jaden Yuki (Duel Links)|''Unknown''}}
+  {{Duel Links Skill release table|type=event|Jaden Yuki (Duel Links)|Duelist Chronicles GX: Society of Light|Completion Reward}}
+  {{Duel Links Skill release table|type=level_up|Jaden/Yubel|Level 13}}
+  | supports              = Neo Space (Duel Links)
+  | related_to_archseries = 
+  * Neos
+  * Neo Space (archetype)
+  * Neo-Spacian
+  * Elemental HERO
+  * HERO
+  | action                = 
+  * Activates at the beginning of the Duel
+  * Plays cards from outside of your Deck
+  }}

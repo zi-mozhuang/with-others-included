@@ -1,0 +1,47 @@
+title: Necromaid Lurker
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name               = ネクメイド・ルーカー
+  | romaji_name           = Nekumeido Rūkā
+  | translated_name       = Necmaid Lurker
+  | ko_name               = 네크메이드 루커
+  | image                 = 
+  1; NecromaidLurker-RDKP23-JP-UR.png; NecromaidLurker-OW.png
+  2; NecromaidLurker-RDKP23-JP-ORR-AA.png
+  | current_image         = 1
+  | attribute             = LIGHT
+  | types                 = Zombie / Ritual / Effect
+  | level                 = 7
+  | atk                   = 1100
+  | def                   = 2600
+  | ritualcard            = Necromaid Stitch
+  | condition             = This card's name becomes "[[Necromaid Nana]]" while in the [[Graveyard]].
+  | requirement           = [[Shuffle]] 1 [[Ritual Monster]] or 3 [[Zombie]] [[Type]] [[Monster Card|monster]]s from your Graveyard into the [[Main Deck|Deck]].
+  | text                  = [[Destroy]] 1 card on your opponent's [[field]]. Then, you can [[Damage|inflict]] 700 [[Effect damage|damage]] to your opponent.
+  | ja_condition          = 墓地にいるこのカードのカード名は「ネクメイド・ナナ」になる。
+  | ja_requirement        = 自分の墓地のリチュアルモンスター１体またはモンスター（アンデット族）３体をデッキに戻して発動できる。
+  | ja_text               = 相手フィールドのカード１枚を選んで破壊する。その後、相手に７００ダメージを与える事ができる。
+  | ko_condition          = 묘지에 있는 이 카드의 카드명은 "네크메이드 나나"가 된다.
+  | ko_requirement        = 자신 묘지의 리추얼 몬스터 1장 또는 몬스터(언데드족) 3장을 덱으로 되돌리고 발동할 수 있다.
+  | ko_text               = 상대 필드의 카드 1장을 고르고 파괴한다. 그 후, 상대에게 700 데미지를 줄 수 있다.
+  | jp_sets               = 
+  RD/KP23-JP044; Gias Charge of the Nova; Ultra Rare, Secret Rare, Over Rush Rare
+  | kr_sets               = 
+  RD/KP23-KR044; Gias Charge of the Nova; Ultra Rare, Secret Rare, Over Rush Rare
+  | mentions              = Necromaid Nana
+  | supports              = 
+  * Ritual Monster
+  * Zombie
+  | archseries            = Necromaid
+  | related_to_archseries = Ghost Story
+  | action                = Returns from Graveyard to Deck for cost
+  | stat_change           = Changes own name while in the GY
+  | m/s/t                 = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | life_points           = Damages your opponent
+  | database_id           = 22449
+  }}

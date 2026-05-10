@@ -1,0 +1,40 @@
+title: Dead Core the Mad Fiend of Despair
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = {{Ruby|絶|ぜつ}}{{Ruby|望|ぼう}}{{Ruby|狂|きょう}}{{Ruby|魔|ま}}デッド・コア
+  | romaji_name     = Zetsubōkyōma Deddo Koa
+  | translated_name = Dead Core the Mad Demon of Despair
+  | image           = DeadCoretheMadFiendofDespair-RDORP4-JP-SR.png
+  | attribute       = DARK
+  | types           = Fiend / Ritual / Effect
+  | level           = 3
+  | atk             = 0
+  | def             = 2400
+  | ritualcard      = 
+  * Rite of Despair
+  * Root of Despair
+  | requirement     = None
+  | text            = [[Fusion Summon]] a [[DARK]] [[Attribute]] [[Fiend]] [[Type]] [[Monster Card|monster]] with 2400 [[DEF]] by [[send]]ing monsters from your [[hand]] and/or [[field]] to the [[Graveyard]] as [[material]].
+  | ja_requirement  = なし
+  | ja_text         = 自分の手札・フィールドのモンスターを素材として墓地へ送り、モンスター（闇属性／悪魔族／守備力２４００）をフュージョン召喚する。
+  | jp_sets         = 
+  RD/ORP4-JP025; Over Rush Pack 4; Super Rare, Secret Rare
+  | supports        = 
+  * DARK
+  * Fiend
+  | archseries      = Mad Fiend of Despair
+  | action          = 
+  * Sends from your hand to your Graveyard
+  * Sends from your field to your Graveyard
+  * Uses cards in the hand as Fusion Materials
+  * Uses cards on the player's field as Fusion Materials
+  | summoning       = 
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  | fm_for          = 
+  * Heat Core the Mad Fiend of Despair
+  * Lock Core the Mad Fiend of Despair
+  | database_id     = 23058
+  }}

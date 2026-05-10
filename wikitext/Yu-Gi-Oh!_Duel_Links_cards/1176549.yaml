@@ -1,0 +1,24 @@
+title: Herald of the Arc Light (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Héraut de la Lumière Arc
+  | de_name      = Herold des Bogenlichts
+  | it_name      = Araldo della Luce ad Arco
+  | es_name      = Heraldo de la Luz del Arco
+  | ko_name      = 아크 디클레어러
+  | image        = 
+  | attribute    = LIGHT
+  | types        = Fairy / Synchro / Effect
+  | level        = 4
+  | atk          = 600
+  | def          = 1000
+  | rarity       = UR
+  | effect_types = Continuous, Quick, Trigger
+  | text         = 1 Tuner + 1+ non-[[Tuner monster]]s<br />Any [[Monster Card|monster]] [[sent]] from the [[hand]] or [[Main Deck]] to the [[Graveyard]] is [[banish]]ed instead. During either player's turn, when a [[Spell Card|Spell]]/[[Trap Card]], or [[monster effect]], is [[activate]]d: You can [[Tribute]] this card; [[negate]] the activation, and if you do, [[destroy]] that card. If this card is sent to the Graveyard: You can [[Add a card|add]] 1 [[Ritual Monster]] or 1 [[Ritual Spell Card]] from your Deck to your hand.
+  | fr_text      = 1 Syntoniseur + 1+ monstre non-Syntoniseur<br />Les monstres envoyés depuis la main ou Main Deck au Cimetière sont bannis à la place. Durant le tour de chaque joueur, lorsqu'une Carte Magie/Piège ou un effet de monstre est activé : vous pouvez Sacrifier cette carte ; annulez l'activation, et si vous le faites, détruisez la carte. Si cette carte est envoyée au Cimetière : vous pouvez ajouter 1 Monstre Rituel ou 1 Carte Magie Rituelle depuis votre Deck à votre main.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Bundle}}
+  {{Duel Links release table/footer}}
+  }}

@@ -1,0 +1,62 @@
+title: Future Fusion Nova
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|未|み}}{{Ruby|来|らい}}{{Ruby|融|ゆう}}{{Ruby|合|ごう}}－フューチャー・フュージョン・ノヴァ
+  | romaji_name           = Mirai Yūgō - Fyūchā Fyūjon Nova
+  | translated_name       = Future Fusion - Future Fusion Nova
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 未来融合－永望结合・新星
+  | image                 = 
+  1; FutureFusionNova-LOCR-JP-UR.png
+  2; FutureFusionNova-LOCR-JP-UR-EA.png
+  | current_image         = 1
+  | card_type             = Spell
+  | property              = Continuous
+  | password              = 92058902
+  | effect_types          = Effect, Continuous-like, Continuous-like, Condition
+  | text                  = When this card is [[activate]]d: [[Fusion Summon]] 1 [[LIGHT]] [[Machine]] [[Fusion Monster]] from your [[Extra Deck]], using [[monsters]] from your [[Main Deck|Deck]], including "[[Cyber Dragon]]", also for the rest of this [[turn]] after this card [[resolve]]s, you cannot [[Special Summon]], except Machine [[monster]]s, also you cannot [[declare]] [[attack]]s, except with the Summoned monster. When this card [[leaves the field]], [[destroy]] that monster. When that monster is destroyed, destroy this card. You can only activate 1 "Future Fusion Nova" per turn.
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、「サイバー・ドラゴン」を含む自分のデッキのモンスターを融合素材とし、機械族・光属性の融合モンスター１体を融合召喚する。このカードがフィールドから離れる時にそのモンスターは破壊される。そのモンスターが破壊される時にこのカードは破壊される。このカードの発動後、ターン終了時まで自分は、機械族モンスターしか特殊召喚できず、この効果で特殊召喚したモンスターでしか攻撃宣言できない。
+  | ko_text               = 
+  | sc_text               = 此卡名的卡1回合仅可发动1张。①：作为此卡发动时的效果处理，将包含“电子龙”在内的、自己牌组的怪兽作为融合素材，将1只机械族・光属性融合怪兽融合召唤。此卡从场上离开时该怪兽将被破坏。该怪兽被破坏时将此卡破坏。此卡发动后，直至回合结束时为止，自己仅可特殊召唤机械族怪兽，仅可用以此效果特殊召唤的怪兽攻击宣言。
+  | jp_sets               = 
+  LOCR-JP006; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | sc_sets               = 
+  LOCR-SC006; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | mentions              = Cyber Dragon
+  | supports              = 
+  * LIGHT
+  * Machine
+  * Fusion Monster
+  | archseries            = 
+  * Polymerization (archetype)
+  * Fusion (archetype)
+  | related_to_archseries = 
+  * Cyber
+  * Cyber Dragon (archetype)
+  | action                = 
+  * Uses cards in the player's Deck as Fusion Materials
+  * Must include particular Fusion Materials
+  | m/s/t                 = 
+  * Destroys your Monster Cards
+  * Destroys itself
+  | summoning             =
+  * Performs a Fusion Summon
+  * Special Summons from your Extra Deck
+  * Restricts the player's Special Summons to Type specific monsters
+  | attack                = Prevents your monsters from attacking
+  | misc                  = Only once per turn
+  | database_id           = 22721
+  }}

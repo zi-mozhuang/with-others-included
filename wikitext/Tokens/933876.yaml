@@ -1,0 +1,27 @@
+title: Beetrooper Token
+wikitext: |-
+  {{CardTable2
+  | fr_name     = Jeton Coléoptroupe
+  | de_name     = Käferkavallerie-Spielmarke
+  | it_name     = Segna-Scarasoldato
+  | pt_name     = Ficha de Bezoudado
+  | es_name     = Ficha Escaraballería
+  | ja_name     = {{Ruby|騎甲虫|ビートルーパー}}トークン
+  | romaji_name = Bītorūpā Tōkun
+  | ko_name     = 비틀트루퍼 토큰
+  | ko_rr_name  = 
+  | sc_name     = 骑甲虫衍生物
+  | image       = BeetrooperToken-DULI-EN-VG-CA.png
+  | card_type   = Token
+  | attribute   = EARTH
+  | types       = Insect / Normal
+  | level       = 3
+  | atk         = 1000
+  | def         = 1000
+  | summoned_by = 
+  * Beetrooper Descent
+  * Beetrooper Formation
+  * Beetrooper Squad
+  | archseries  = Beetrooper
+  | database_id = 16656
+  }}

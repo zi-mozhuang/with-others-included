@@ -1,0 +1,53 @@
+title: Red Dragon Archfiend's Chain
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = レッド・デーモンズ・チェーン
+  | romaji_name           = Reddo Dēmonzu Chēn
+  | translated_name       = Red Daemon's Chain
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 暗红恶魔锁链
+  | image                 = 
+  1; RedDragonArchfiendsChain-LOCR-JP-UR.png
+  2; RedDragonArchfiendsChain-LOCR-JP-UR-EA.png
+  | current_image         = 1
+  | card_type             = Trap
+  | property              = Continuous
+  | password              = 92936364
+  | effect_types          = Condition, Continuous-like, Continuous-like, Condition
+  | text                  = You can [[activate]] this card the [[turn]] it was [[Set]], by [[reveal]]ing 1 "[[Red Dragon Archfiend]]" in your [[Extra Deck]]. Activate this card by revealing any number of [[monsters]] in your hand, then [[target]] [[Effect Monster]]s your opponent [[control]]s equal to the number of [[Tuner]]s revealed +1; they lose 100 [[ATK]] for each card you revealed in the hand to activate this card, also their [[effect]]s are [[negate]]d. If the last of those monsters is not on the [[field]], [[destroy]] this card. You can only activate 1 "Red Dragon Archfiend's Chain" per turn.
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = このカード名のカードは１ターンに１枚しか発動できない。このカードはＥＸデッキの「レッド・デーモンズ・ドラゴン」１体を相手に見せ、セットしたターンに発動する事もできる。①：手札のモンスターを任意の数だけ相手に見せ、その内のチューナーの数＋１体だけ相手フィールドの効果モンスターを対象としてこのカードを発動できる。このカードが魔法＆罠ゾーンに存在する限り、対象のモンスターの攻撃力は手札から見せた数×１００ダウンし、効果は無効化される。対象のモンスターがフィールドに存在しない場合にこのカードは破壊される。
+  | ko_text               = 
+  | sc_text               = 此卡名的卡1回合仅可发动1张。此卡也可通过向对手出示额外牌组的1只“暗红恶魔龙”，来在放置的回合发动。①：向对手出示手牌任意数量的怪兽，依其中协调的数量＋1只，以对手场上的效果怪兽为对象可以发动此卡。只要此卡存在于魔法与陷阱区域，对象怪兽的攻击力下降从手牌出示的数量×100的数值，效果无效化。对象怪兽不存在场上的情况下，此卡将被破坏。
+  | jp_sets               = 
+  LOCR-JP009; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | sc_sets               = 
+  LOCR-SC009; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | mentions              = Red Dragon Archfiend
+  | supports              = Tuner monster
+  | archseries            = 
+  * Archfiend
+  * Red Dragon Archfiend (archetype)
+  | action                 =
+  * Reveals your Extra Deck for cost
+  * Reveals your hand for cost
+  | m/s/t                 = 
+  * Can be activated the turn it was Set
+  * Negates the effects of your opponent's Effect Monsters
+  * Destroys itself
+  | stat_change           = Your opponent's monsters lose ATK
+  | misc                  = Only once per turn
+  | database_id           = 22724
+  }}

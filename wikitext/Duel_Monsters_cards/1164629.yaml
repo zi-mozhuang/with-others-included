@@ -1,0 +1,61 @@
+title: 'Number 39: Utopia the Envoy of Light'
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|Ｎｏ．|ナンバーズ}}３９ {{Ruby|光|ひかり}}の{{Ruby|使|し}}{{Ruby|者|しゃ}} {{Ruby|希|き}}{{Ruby|望|ぼう}}{{Ruby|皇|おう}}ホープ
+  | romaji_name           = Nanbāzu Sanjūkyū Hikari no Shisha Kibōō Hōpu
+  | translated_name       = Numbers 39: Envoy of Light - King of Wishes, Hope
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 编号39 光之使者 希望皇霍普
+  | image                 = 
+  1; Number39UtopiatheEnvoyofLight-LOCH-JP-UR.png
+  2; Number39UtopiatheEnvoyofLight-LOCH-JP-UR-EA.png
+  | current_image         = 1
+  | attribute             = LIGHT
+  | types                 = Warrior / Xyz / Effect
+  | rank                  = 4
+  | atk                   = 2500
+  | def                   = 2000
+  | password              = 76504386
+  | materials             = 2 Level 4 monsters
+  | effect_types          = Continuous, Quick, Trigger, Trigger
+  | text                  = 2 [[Level]] 4 [[monster]]s<br />Cannot be [[destroy]]ed by [[battle]], except with a "[[Number]]" monster. ([[Quick Effect]]): You can [[detach]] 1 [[Xyz Material|material]] from this card, then [[target]] 1 monster you [[control]]; the first time it would be destroyed by battle or [[card effect]] this [[turn]], it is not destroyed. When the second [[attack]] of this turn is [[declare]]d: You can make this card gain 2500 [[ATK]], and if you do, it gains this effect.<br />● When this card destroys a monster by battle and [[send]]s it to the [[GY]]: You can [[Special Summon]] it to your [[field]].
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = レベル４モンスター×２<br />①：このカードは「Ｎｏ．」モンスター以外のモンスターとの戦闘では破壊されない。②：自分・相手ターンに、このカードのＸ素材を１つ取り除き、自分フィールドのモンスター１体を対象として発動できる。そのモンスターはこのターンに１度だけ戦闘・効果では破壊されない。③：このターンの２回目の攻撃宣言時に発動できる。このカードは攻撃力が２５００アップし、以下の効果を得る。●このカードが戦闘でモンスターを破壊し墓地へ送った時に発動できる。そのモンスターを自分フィールドに特殊召喚する。
+  | ko_text               = 
+  | sc_text               = 等级4怪兽×2<br />①：此卡不会因与“编号”怪兽以外的怪兽的战斗被破坏。②：在自己・对手回合中，去除此卡的1个超量素材，以自己场上的1只怪兽为对象可以发动。该怪兽在此回合仅1次，不会因战斗・效果被破坏。③：此回合的第2次攻击宣言时可以发动。此卡的攻击力上升2500，获得以下效果。●此卡战斗破坏怪兽并将其送至墓地时可以发动。将该怪兽特殊召唤至自己场上。
+  | jp_sets               = 
+  LOCH-JP010; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | sc_sets               = 
+  LOCH-SC010; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | archseries            = 
+  * Number
+  * Number (Spell/Trap archetype)
+  * Utopia (archetype)
+  * Utopic
+  | supports_archetypes   = Number
+  | action                = 
+  * Activates upon attack declaration
+  * Activates if it destroys a monster by battle
+  | stat_change           = This card gains ATK
+  | m/s/t                 = Prevents other cards being destroyed by card effects
+  | summoning             = 
+  * 2 Xyz Materials
+  * Does not require specific Xyz Materials
+  * Special Summons from your opponent's Graveyard to your field
+  | attack                = 
+  * Cannot be destroyed by battle
+  * Prevents other cards being destroyed by battle
+  | database_id           = 22699
+  }}

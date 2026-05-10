@@ -1,0 +1,57 @@
+title: Synchro Emergency
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = シンクロ・エマージェンシー
+  | romaji_name           = Shinkuro Emājenshī
+  | translated_name       = 
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 同步紧急
+  | image                 = 
+  1; SynchroEmergency-LOCH-JP-UR.png
+  2; SynchroEmergency-LOCH-JP-UR-EA.png
+  | current_image         = 1
+  | card_type             = Trap
+  | property              = Normal
+  | password              = 49415281
+  | effect_types          = Condition, Effect, Quick-like, Lingering, Condition
+  | text                  = If only your opponent [[control]]s a [[monster]], you can [[activate]] this card from your [[hand]]. [[Special Summon]] 1 monster from your hand (but [[negate]] its [[effect]]s), then if your opponent controls a monster Special Summoned from the [[Extra Deck]], you can Special Summon 1 "[[Synchron]]" monster from your [[Main Deck|Deck]]. Until the end of the next [[turn]] after this card [[resolve]]s, you cannot Special Summon from the Extra Deck, except [[Synchro Monster]]s. You can [[banish]] this card from your [[GY]]; immediately after this [[effect]] [[resolve]]s, [[Synchro Summon]] 1 Synchro Monster. You can only activate 1 "Synchro Emergency" per turn.
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = このカード名のカードは１ターンに１枚しか発動できない。相手フィールドにのみモンスターが存在する場合、このカードの発動は手札からもできる。①：手札からモンスター１体を効果を無効にして特殊召喚する。ＥＸデッキから特殊召喚されたモンスターが相手フィールドに存在する場合、さらにデッキから「シンクロン」モンスター１体を特殊召喚できる。このカードの発動後、次のターンの終了時まで自分はＳモンスターしかＥＸデッキから特殊召喚できない。②：墓地のこのカードを除外して発動できる。Ｓモンスター１体のＳ召喚を行う。
+  | ko_text               = 
+  | sc_text               = 此卡名的卡1回合仅可发动1张。仅有对手场上才存在怪兽的情况下，此卡也可从手牌发动。①：从手牌将1只怪兽的效果无效并特殊召唤。对手场上存在被从额外牌组特殊召唤的怪兽的情况下，进而可从牌组特殊召唤1只“同步士”怪兽。此卡发动后，直至下个回合结束时为止，自己从额外牌组仅可特殊召唤同步怪兽。②：将墓地的此卡除外可以发动。进行1只同步怪兽的同步召唤。
+  | jp_sets               = 
+  LOCH-JP009; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | sc_sets               = 
+  LOCH-SC009; Limit Over Collection: The Heroes; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | supports              = Synchro Monster
+  | archseries            = Synchro (archetype)
+  | supports_archetypes   = Synchron
+  | action                = Activates from your Graveyard
+  | m/s/t                 = 
+  * Can be activated from the hand
+  * Negates the effects of the Summoned monsters
+  | summoning             = 
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  * Restricts the player's Special Summons from the Extra Deck
+  * Performs a Synchro Summon
+  * Special Summons from your Extra Deck
+  | banished              = Banishes itself from Graveyard for cost
+  | misc                  = 
+  * Requires control of no monsters
+  * Turn limited effects
+  * Only once per turn
+  | database_id           = 22698
+  }}

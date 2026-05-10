@@ -1,0 +1,17 @@
+title: WINDS OF VICTORY
+wikitext: |-
+  {{CardTable2
+  | image        = WINDSOFVICTORY-NKC1-EN-PScR-LE.png
+  | card_type    = Spell
+  | property     = Equip
+  | password     = 37301660
+  | effect_types = Continuous-like
+  | text         = The [[equip]]ped [[monster]] gains 300 [[ATK]], also it becomes [[WIND]].
+  | en_sets      = 
+  NKC1-EN001; Nike collaboration cards; Secret Rare
+  | supports     = WIND
+  | stat_change  = 
+  * Equipped gains ATK
+  * Changes Attribute
+  | database_id  = 21580
+  }}

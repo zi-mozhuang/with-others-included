@@ -1,0 +1,26 @@
+title: Turbo Booster (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name          = Fusée Turbo
+  | de_name          = Turbobooster
+  | es_name          = Aumento Turbo
+  | it_name          = Turbo Booster
+  | ko_name          = 원샷 부스터
+  | image            = TurboBooster-DULI-EN-VG.png
+  | ja_image         = TurboBooster-DULI-JP-VG.png
+  | attribute        = EARTH
+  | types            = Machine / Effect
+  | atk              = 0
+  | def              = 0
+  | level            = 1
+  | rarity           = SR
+  | different_effect = true
+  | effect_types     = Unclassified, Ignition
+  | text             = If you [[Normal Summon]]ed a [[Monster Card|monster]] this [[turn]], you can [[Special Summon]] this card (from your [[hand]]). At the end of your [[Battle Phase]]: You can [[Tribute]] this card, then [[target]] 1 monsters your opponent [[control]]s that [[battle]]d one of your monsters this turn; [[destroy]] that target.
+  | fr_text         = Si vous avez Invoqué Normalement un monstre pendant ce tour, vous pouvez Invoquer Spécialement cette carte (depuis votre main). À la fin de votre Battle Phase : vous pouvez Sacrifier cette carte, puis cibler 1 monstre contrôlé par votre adversaire qui a combattu un de vos monstres ce tour ; détruisez cette cible
+  | ja_text         = 
+  | releases        = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=event|Turbo Duel Grand Prix}}
+  {{Duel Links release table/footer}}
+  }}

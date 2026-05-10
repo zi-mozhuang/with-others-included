@@ -1,0 +1,53 @@
+title: Comic Cat
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = コミックキャット
+  | romaji_name           = Komikkukyatto
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 漫画猫
+  | image                 = ComicCat-RV01-JP-OP.png
+  | attribute             = DARK
+  | types                 = Beast / Effect
+  | level                 = 1
+  | atk                   = 0
+  | def                   = 0
+  | password              = 
+  | effect_types          = Continuous, Quick, Condition
+  | text                  = This card is treated as a [[Toon monster]] while "[[Toon World]]" is on the [[field]]. During the [[Main Phase]] ([[Quick Effect]]): You can [[Tribute]] 1 monster (if you [[control]] "Toon World", you can Tribute 1 monster your opponent controls, even though you do not control it), and if you do, [[Special Summon]] 1 monster that mentions "Toon World" from your [[hand]] or [[Main Deck|Deck]], [[ignoring its Summoning conditions]]. You can only use this effect of "Comic Cat" [[once per turn]].
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = 
+  | ko_text               = 
+  | sc_text               = {{Icon|official proxy transcript}}<br />此卡名的②效果1回合仅可使用1次。①：只要场上存在“卡通世界”，此卡就视为卡通怪兽。②：在自己・对手的主要阶段可以发动。解放自己场上的1只怪兽，从手牌・牌组将1只记载有“卡通世界”卡名的怪兽无视召唤条件特殊召唤。自己场上存在“卡通世界”的情况下，要解放的怪兽也可从对手场上挑选。
+  | jp_sets               = 
+  RV01-JP002; Revolution Booster: Toon / Witchcrafter / Unchained; 
+  | sc_sets               = 
+  RV01-SC002; Revolution Booster: Toon / Witchcrafter / Unchained; 
+  | mentions              = Toon World
+  | supports              = Toon monster
+  | related_to_archseries = Toon
+  | action                = 
+  * Tributes as an effect
+  * Tributes opponent's monsters
+  | stat_change           = Grants abilities to monsters
+  | summoning             = 
+  * Special Summons from your hand
+  * Special Summons from your Deck
+  * Ignoring the Summoning conditions
+  | misc                  = 
+  * Requires control of specific card
+  * Mentions
+  * Only once per turn
+  | database_id           = 
+  }}

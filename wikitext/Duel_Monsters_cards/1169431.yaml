@@ -1,0 +1,62 @@
+title: Galaxy Defense Robot Orbital 7
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|ＧＤ|ギャラクシーディフェンス}}ロボ・オービタル {{Ruby|７|セブン}}
+  | romaji_name           = Gyarakushī Difensu Robo Ōbitaru Sebun
+  | translated_name       = Galaxy Defense Robo Orbital 7
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 银河防卫机器人・奥比塔尔 7
+  | image                 = 
+  1; GalaxyDefenseRobotOrbital7-LOCR-JP-UR.png
+  2; GalaxyDefenseRobotOrbital7-LOCR-JP-UR-EA.png
+  | current_image         = 1
+  | attribute             = LIGHT
+  | types                 = Machine / Effect
+  | level                 = 8
+  | atk                   = 2000
+  | def                   = 2000
+  | password              = 91714772
+  | effect_types          = Ignition, Trigger, Condition
+  | text                  = You can [[Tribute]] this card from your [[hand]] or [[field]]; take 1 "[[Photon]]" [[monster]] and 1 "[[Galaxy]]" monster from your [[Main Deck|Deck]], [[Add a card|add]] 1 of them to your hand, and [[send]] the other to the [[GY]], also you cannot [[Special Summon]] for the rest of this [[turn]], except [[LIGHT]] monsters. If a "[[Galaxy-Eyes]]" monster(s) is Special Summoned to your field (except during the [[Damage Step]]): You can Special Summon this card from your GY, but [[banish]] it when it [[leaves the field]]. You can only use each effect of "Galaxy Defense Robot Orbital 7" [[once per turn]].
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札・フィールドのこのカードをリリースして発動できる。デッキから「フォトン」モンスター１体と「ギャラクシー」モンスター１体を選び、その内の１体を手札に加え、もう１体を墓地へ送る。このターン、自分は光属性モンスターしか特殊召喚できない。②：自分フィールドに「ギャラクシーアイズ」モンスターが特殊召喚された場合に発動できる。このカードを墓地から特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。
+  | ko_text               = 
+  | sc_text               = 此卡名的①②效果1回合仅可各使用1次。①：解放手牌・场上的此卡可以发动。从牌组挑选1只“光子”怪兽和1只“银河”怪兽，将其中1只加入手牌，另1只送至墓地。此回合，自己仅可特殊召唤光属性怪兽。②：“银河眼”怪兽被特殊召唤至自己场上的情况下可以发动。从墓地将此卡特殊召唤。以此效果特殊召唤的此卡从场上离开的情况下，将其除外。
+  | jp_sets               = 
+  LOCR-JP012; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | sc_sets               = 
+  LOCR-SC012; Limit Over Collection: The Rivals; Ultra Rare, Secret Rare, Prismatic Secret Rare, Grand Master Rare
+  | archseries            = Galaxy
+  | supports_archetypes   = 
+  * Galaxy
+  * Galaxy-Eyes
+  * Photon
+  | related_to_archseries = Super Defense Robot
+  | action                = 
+  * Activates from your hand
+  * Tributes itself for cost
+  * Adds from Deck to hand
+  * Sends from your Deck to your Graveyard
+  * Activates upon Special Summon
+  * Activates from your Graveyard
+  | summoning             = 
+  * Restricts the player's Special Summons to Attribute specific monsters
+  * Special Summons itself from your Graveyard
+  | banished              = Banishes itself when it leaves the field
+  | misc                  = 
+  * Requires control of specific archetype
+  * Only once per turn
+  | database_id           = 22727
+  }}

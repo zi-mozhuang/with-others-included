@@ -1,0 +1,27 @@
+title: Beatrice, Lady of the Eternal (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Béatrice, la Dame Éternelle
+  | de_name      = Beatrice, die ewige Dame
+  | it_name      = Beatrice, la Signora Eterna
+  | es_name      = Beatriz, la Dama Eterna
+  | ko_name      = 영원의 숙녀 베아트리체
+  | image        = 
+  | attribute    = LIGHT
+  | types        = Fairy / Xyz / Effect
+  | rank         = 6
+  | atk          = 2500
+  | def          = 2800
+  | rarity       = SR
+  | status       = Limited 1
+  | effect_types = Summoning condition, Condition, Quick, Trigger
+  | text         = 2 [[Level]] 6 [[Monster Card|monsters]]<br />You can also [[Xyz Summon]] this card by [[send]]ing 1 "[[Burning Abyss]]" monster from your [[hand]] to the [[Graveyard]], then using 1 "[[Dante]]" monster you [[control]] as [[Xyz Material|material]]. (Xyr Materials attached to that monster also [[Transfer|become Xyz Materials on this card]].) If [[Summon]]ed this way, the following [[effect]] cannot be [[activate]]d this [[turn]]. [[Once per turn]] ([[Quick Effect|,during either player's turn]]): You can [[detach]] 1 material from this card; send 1 card from your [[Main Deck|Deck]] to the Graveyard. If this card in your [[possess]]ion is [[destroy]]ed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can Special Summon 1 "Burning Abyss" monster from your [[Extra Deck]], [[Ignoring the Summoning conditions|ignoring its Summoning conditions]].
+  | fr_text      = 2 monstres de Niveau 6<br />Vous pouvez aussi Invoquer par Xyz cette carte en envoyant 1 monstre "Abysses Ardents" depuis votre main au Cimetière, puis en utilisant 1 monstre "Dante," que vous contrôlez comme le Matériel Xyz. (Les Matériels Xyz attachés au monstre deviennent aussi des Matériels Xyz de cette carte.) Si elle est Invoquée de cette façon, l'effet suivant ne peut pas être activé ce tour. Une fois par tour, durant le tour de chaque joueur : vous pouvez détacher 1 Matériel Xyz de cette carte ; envoyez 1 carte depuis votre Deck au Cimetière. Si cette carte en votre possession est détruite par une carte de votre adversaire (au combat ou par un effet de carte) et envoyée à votre Cimetière : vous pouvez Invoquer Spécialement 1 monstre "Abysses Ardents" depuis votre Extra Deck, en ignorant ses conditions d'Invocation.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Heart of Xyz}}
+  {{Duel Links release table|type=box|Selection BOX Vol.06}}
+  {{Duel Links release table|type=box|Pick Up Box: Ruler's Abyss}}
+  {{Duel Links release table/footer}}
+  }}

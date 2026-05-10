@@ -1,0 +1,40 @@
+title: The End the Mad Fiend Deity of Despair
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | ja_name         = {{Ruby|絶|ぜつ}}{{Ruby|望|ぼう}}{{Ruby|狂|きょう}}{{Ruby|魔|ま}}{{Ruby|神|しん}}ジ・エンド
+  | romaji_name     = Zetsubōkyōmashin Ji Endo
+  | translated_name = The End the Mad Devil of Despair
+  | image           = TheEndtheMadFiendDeityofDespair-RDORP4-JP-UR.png
+  | attribute       = DARK
+  | types           = Fiend / Fusion / Effect
+  | level           = 11
+  | atk             = 3500
+  | def             = 2400
+  | fusion_material = 
+  * Dead End the Mad Fiend Deity of Despair
+  * Bad End the Mad Fiend Deity of Despair
+  | materials       = "[[Dead End the Mad Fiend of Despair]]" + "[[Bad End the Mad Fiend of Despair]]"
+  | requirement     = [[Shuffle]] 6 [[Monster Card|monster]]s from your [[Graveyard]] into the [[Main Deck|Deck]].
+  | text            = [[Destroy]] up to 2 cards on your opponent's [[field]]. Then, you can [[Special Summon]] 1 monster from your opponent's Graveyard [[face-up]] to your field.
+  | ja_materials    = 「絶望狂魔デッド・エンド」＋「絶望狂魔バッド・エンド」
+  | ja_requirement  = 自分の墓地のモンスター６体をデッキに戻して発動できる。
+  | ja_text         = 相手フィールドのカードを２枚まで選んで破壊する。その後、相手の墓地のモンスター１体を選んで自分フィールドに表側表示で特殊召喚できる。
+  | jp_sets         = 
+  RD/ORP4-JP022; Over Rush Pack 4; Ultra Rare, Over Rush Rare
+  | mentions        = 
+  * Dead End the Mad Fiend of Despair
+  * Bad End the Mad Fiend of Despair
+  | archseries      = Mad Fiend of Despair
+  | action          = Returns from Graveyard to Deck for cost
+  | m/s/t           = 
+  * Destroys your opponent's Monster Cards
+  * Destroys your opponent's Spell Cards
+  * Destroys your opponent's Trap Cards
+  | summoning       = 
+  * 2 Fusion Materials
+  * Requires only specific Effect Monsters as Fusion Materials
+  * Special Summons from your opponent's Graveyard to your field
+  | database_id     = 23055
+  }}

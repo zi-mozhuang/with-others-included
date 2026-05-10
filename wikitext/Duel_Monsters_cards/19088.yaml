@@ -1,0 +1,20 @@
+title: Eldeen
+wikitext: |-
+  {{CardTable2
+  | ja_name     = エルディーン
+  | romaji_name = Erudīn
+  | image       = Eldeen-V3-JP-C.jpg
+  | attribute   = LIGHT
+  | types       = Spellcaster / Normal
+  | level       = 3
+  | atk         = 950
+  | def         = 1000
+  | password    = 06367785
+  | text        = ''The cane of this monster is the source of many powerful spells.''
+  | ja_text     = 手にする杖を使い、様々な魔法で攻撃してくる。
+  | jp_sets     = 
+  ; Vol.3; Common
+  | ygo_sets    = 
+  '''[[Pack 6 (YGOO-BP)|Pack 6]]'''
+  | database_id = 4536
+  }}

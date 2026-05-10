@@ -1,0 +1,25 @@
+title: Blackwing - Kalut the Moon Shadow (Duel Links)
+wikitext: |-
+  {{Duel Links card
+  | fr_name      = Aile Noire - Kalut l'Ombre de la Lune
+  | de_name      = Schwarzflügel - Kalut der Mondschatten
+  | it_name      = Alanera - Kalut l'Ombra di Luna
+  | es_name      = Alanegra - Kalut la Sombra de la Luna
+  | ko_name      = {{Ruby|BF|블랙 페더|lang=ko}}－달그림자의 카르트
+  | image        = BlackwingKaluttheMoonShadow-DULI-EN-VG.png
+  | ja_image     = BlackwingKaluttheMoonShadow-DULI-JP-VG.png
+  | attribute    = DARK
+  | types        = Winged Beast / Effect
+  | atk          = 1400
+  | def          = 1000
+  | level        = 3
+  | rarity       = SR
+  | effect_types = Quick
+  | text         = During either player's [[Damage Step]], when a "[[Blackwing]]" [[Monster Card|monster]] you [[control]] is [[attack]]ing or being attacked: You can [[send]] this card from your [[hand]] to the [[Graveyard]]; that monster gains 1400 [[ATK]] until the end of this [[turn]].
+  | fr_text      = Durant la Damage Step de chaque joueur, lorsqu'un monstre "Aile Noire" que vous contrôlez attaque ou est attaqué : vous pouvez envoyer cette carte depuis votre main au Cimetière ; jusqu'à la fin de ce tour, le monstre gagne 1400 ATK.
+  | ja_text      = 
+  | releases     = 
+  {{Duel Links release table/header}}
+  {{Duel Links release table|type=box|Stars of Synchro}}
+  {{Duel Links release table/footer}}
+  }}

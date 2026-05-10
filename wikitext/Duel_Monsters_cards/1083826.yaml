@@ -1,0 +1,62 @@
+title: Release Brainwashing
+wikitext: |-
+  {{Distinguish|""Remove Brainwashing""}}
+  {{CardTable2
+  | fr_name         = Libération de Lavage de Cerveau
+  | de_name         = Gehirnwäsche freisetzen
+  | it_name         = Rilascio del Lavaggio del Cervello
+  | pt_name         = Liberar Lavagem Cerebral
+  | es_name         = Liberar Lavado de Cerebro
+  | ja_name         = {{Ruby|洗|せん}}{{Ruby|脳|のう}}{{Ruby|解|かい}}{{Ruby|放|ほう}}
+  | romaji_name     = Sennō Kaihō
+  | ko_name         = 세뇌해방
+  | ko_rr_name      = 
+  | sc_name         = 
+  | image           = ReleaseBrainwashing-MP25-EN-C-1E.png
+  | card_type       = Spell
+  | property        = Quick-Play
+  | password        = 85395151
+  | effect_types    = Effect, Condition
+  | text            = If a [[monster]](s) is [[Tribute]]d from the [[hand]] or [[field]] (except during the [[Damage Step]]): [[Target]] 1 [[face-up]] monster your opponent [[control]]s; apply the following [[effect]], based on which player [[own]]s that face-up monster.<br />● You: Take control of it, but [[return]] it to the hand during the [[End Phase]].<br />● Your opponent: [[Negate]] its effects until the end of this [[turn]].<br />You can only [[activate]] 1 "Release Brainwashing" per turn.
+  | fr_text         = Si un ou plusieurs monstres sont Sacrifiés depuis la main ou Terrain (sauf durant la Damage Step) : ciblez 1 monstre face recto contrôlé par votre adversaire ; appliquez l'effet suivant, selon quel joueur possède le monstre face recto.<br />● Vous : Prenez-en le contrôle, mais renvoyez-le à la main durant la End Phase.<br />● Votre adversaire : Jusqu'à la fin de ce tour, annulez ses effets.<br />Vous ne pouvez activer qu'1 "Libération de Lavage de Cerveau" par tour.
+  | de_text         = Falls ein oder mehr Monster von der Hand oder dem Spielfeld als Tribut angeboten werden (außer während des Damage Steps): Wähle 1 offenes Monster, das dein Gegner kontrolliert; führe den folgenden Effekt aus, basierend darauf, welcher Spieler jenes offene Monster besitzt.<br />● Du: Übernimm die Kontrolle darüber, aber gib es während der End Phase auf die Hand zurück.<br />● Dein Gegner: Annulliere bis zum Ende dieses Spielzugs seine Effekte.<br />Du kannst nur 1 „Gehirnwäsche freisetzen“ pro Spielzug aktivieren.
+  | it_text         = Se uno o più mostri vengono offerti come Tributo dalla mano o Terreno (eccetto durante il Damage Step): scegli come bersaglio 1 mostro scoperto controllato dal tuo avversario; applica il seguente effetto, a seconda di quale giocatore è il proprietario di quel mostro scoperto.<br />● Tu: Prendine il controllo, ma fallo ritornare nella mano durante la End Phase.<br />● Il tuo avversario: Annulla i suoi effetti fino alla fine di questo turno.<br />Puoi attivare solo 1 "Rilascio del Lavaggio del Cervello" per turno.
+  | pt_text         = Se um ou mais monstros forem oferecidos como Tributo da mão ou do campo (exceto durante a Etapa de Dano): escolha 1 monstro com a face para cima que seu oponente controla; aplique o seguinte efeito, dependendo de qual duelista é dono desse monstro com a face para cima.<br />● Você: Tome o controle dele, mas devolva-o para a mão durante a Fase Final.<br />● Seu oponente: Negue seus efeitos até o final deste turno.<br />Você só pode ativar 1 "Liberar Lavagem Cerebral" por turno.
+  | es_text         = Si uno o más monstruos en la mano o Campo son Sacrificados (excepto durante el Damage Step): selecciona 1 monstruo boca arriba que controle tu adversario; aplica el siguiente efecto, basado en qué jugador posee ese monstruo boca arriba.<br />● Tú: Toma su control, pero devuélvelo a la mano durante la End Phase.<br />● Tu adversario: Niega sus efectos hasta el final de este turno.<br />Sólo puedes activar 1 "Liberar Lavado de Cerebro" por turno.
+  | ja_text         = このカード名のカードは１ターンに１枚しか発動できない。①：手札・フィールドのモンスターがリリースされた場合、相手フィールドの表側表示モンスター１体を対象として発動できる。その表側表示モンスターの元々の持ち主によって以下の効果を適用する。<br />●自分：対象のモンスターのコントロールを得る。この効果でコントロールを得たモンスターはエンドフェイズに手札に戻る。<br />●相手：対象のモンスターの効果をターン終了時まで無効にする。
+  | ko_text         = 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 패 / 필드의 몬스터가 릴리스되었을 경우, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 앞면 표시 몬스터의 원래의 주인에 따라 이하의 효과를 적용한다.<br />●자신: 대상 몬스터의 컨트롤을 얻는다. 이 효과로 컨트롤을 얻은 몬스터는 엔드 페이즈에 패로 되돌아간다.<br />●상대: 대상 몬스터의 효과를 턴 종료시까지 무효로 한다.
+  | sc_text         = 
+  | en_sets         = 
+  ROTA-EN086; Rage of the Abyss; Common
+  MP25-EN431; 2025 Mega-Pack Tin; Common
+  | fr_sets         = 
+  ROTA-FR086; Rage of the Abyss; Common
+  MP25-FR431; 2025 Mega-Pack Tin; Common
+  | de_sets         = 
+  ROTA-DE086; Rage of the Abyss; Common
+  MP25-DE431; 2025 Mega-Pack Tin; Common
+  | it_sets         = 
+  ROTA-IT086; Rage of the Abyss; Common
+  MP25-IT431; 2025 Mega-Pack Tin; Common
+  | pt_sets         = 
+  ROTA-PT086; Rage of the Abyss; Common
+  MP25-PT431; 2025 Mega-Pack Tin; Common
+  | sp_sets         = 
+  ROTA-SP086; Rage of the Abyss; Common
+  MP25-SP431; 2025 Mega-Pack Tin; Common
+  | jp_sets         =  
+  WPP6-JP071; World Premiere Pack 2025; Common
+  | ae_sets         = 
+  26AT-AE119; Tournament Pack 2026 Vol.1 (Asian-English); Common
+  | kr_sets         =  
+  WPP6-KR071; World Premiere Pack 2025; Common
+  | action          = 
+  * Activates if Tributed
+  * Takes control of an opponent's monster
+  * Returns from your field to your hand
+  | m/s/t           = Negates the effects of your opponent's Effect Monsters
+  | misc            = 
+  * Variable effects
+  * Only once per turn
+  | database_id     = 20710
+  }}

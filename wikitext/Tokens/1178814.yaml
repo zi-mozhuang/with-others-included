@@ -1,0 +1,16 @@
+title: Homunculus Token
+wikitext: |-
+  {{CardTable2
+  | ja_name               = ホムンクルストークン
+  | romaji_name           = Homunkurusu Tōkun
+  | sc_name               = 人工生命体衍生物
+  | sc_translated_name    = Artificial Life Entity Token
+  | image                 = 
+  | card_type             = Token
+  | attribute             = LIGHT
+  | types                 = Fairy / Normal
+  | level                 = 2
+  | atk                   = 800
+  | def                   = 800
+  | summoned_by           = Demiurge Ema
+  }}

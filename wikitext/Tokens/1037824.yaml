@@ -1,0 +1,24 @@
+title: Gold Pride Token
+wikitext: |-
+  {{CardTable2
+  | fr_name     = Jeton Fierté d'Or
+  | de_name     = Goldstolz-Spielmarke
+  | it_name     = Segna-Orgoglio d'Oro
+  | pt_name     = Ficha de Orgulho Dourado
+  | es_name     = Ficha Orgullo Dorado
+  | ja_name     = {{Ruby|ＧＰ|ゴールド・プライド}}トークン
+  | romaji_name = Gōrudo Puraido Tōkun
+  | ko_name     = {{Ruby|GP|골드 프라이드|lang=ko}} 토큰
+  | ko_rr_name  = 
+  | sc_name     = 黄金荣耀衍生物
+  | image       = GoldPrideToken-MADU-EN-VG-artwork.png
+  | card_type   = Token
+  | attribute   = DARK
+  | types       = Machine / Normal
+  | level       = ?
+  | atk         = 0
+  | def         = 0
+  | summoned_by = Gold Pride - Eliminator
+  | archseries  = Gold Pride
+  | database_id = 19922
+  }}

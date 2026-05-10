@@ -1,0 +1,60 @@
+title: Army of the Haunted
+wikitext: |-
+  {{CardTable2
+  | fr_name             = Armée de l'Être Hanté
+  | de_name             = Armee der Gejagten
+  | it_name             = Armata del Posseduto
+  | pt_name             = Exército dos Assombrados
+  | es_name             = Ejército de los Condenados
+  | ja_name             = 
+  | romaji_name         = 
+  | translated_name     = 
+  | ko_name             = 
+  | ko_rr_name          = 
+  | sc_name             = 
+  | image               = ArmyoftheHaunted-MZMU-EN-SR-1E.png
+  | attribute           = DARK
+  | types               = Zombie / Effect
+  | level               = 6
+  | atk                 = 2400
+  | def                 = 0
+  | password            = 18078153
+  | effect_types        = Ignition, Trigger, Condition
+  | text                = If you [[control]] "[[Call of the Haunted]]" and this card is in your [[hand]] or [[GY]]: You can [[Special Summon]] this card. If this card is [[send|sent]] to the GY: You can [[target]] 1 "Call of the Haunted" in your GY; [[Set]] it. You can only use each [[effect]] of "Army of the Haunted" [[once per turn]].
+  | fr_text             = Si vous contrôlez "Appel de l'Être Hanté" et que cette carte est dans votre main ou Cimetière : vous pouvez Invoquer Spécialement cette carte. Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 "Appel de l'Être Hanté" dans votre Cimetière ; Posez-le. Vous ne pouvez utiliser chaque effet de "Armée de l'Être Hanté" qu'une fois par tour.
+  | de_text             = Falls du „Ruf der Gejagten“ kontrollierst und sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören. Falls diese Karte auf den Friedhof gelegt wird: Du kannst 1 „Ruf der Gejagten“ in deinem Friedhof wählen; setze ihn. Du kannst jeden Effekt von „Armee der Gejagten“ nur einmal pro Spielzug verwenden.
+  | it_text             = Se controlli "Richiamo del Posseduto" e questa carta è nella tua mano o Cimitero: puoi Evocare Specialmente questa carta. Se questa carta viene mandata al Cimitero: puoi scegliere come bersaglio 1 "Richiamo del Posseduto" nel tuo Cimitero; Posizionalo. Puoi utilizzare ogni effetto di "Armata del Posseduto" una sola volta per turno.
+  | pt_text             = Se você controlar "Chamado dos Assombrados" e este card estiver na sua mão ou no Cemitério: você pode Invocar este card por Invocação-Especial. Se este card for enviado para o Cemitério: você pode escolher 1 "Chamado dos Assombrados" no seu Cemitério; Baixe-o. Você só pode usar cada efeito de "Exército dos Assombrados" uma vez por turno.
+  | es_text             = Si controlas "Llamada de los Condenados" y esta carta está en tu mano o Cementerio: puedes Invocar esta carta de Modo Especial. Si esta carta es mandada al Cementerio: puedes seleccionar 1 "Llamada de los Condenados" en tu Cementerio; Colócala. Sólo puedes usar cada efecto de "Ejército de los Condenados" una vez por turno.
+  | ja_text             = 
+  | ko_text             = 
+  | sc_text             = 
+  | en_sets             = 
+  MZMU-EN002; Maze of Muertos; Super Rare
+  | fr_sets             = 
+  MZMU-FR002; Maze of Muertos; Super Rare
+  | de_sets             = 
+  MZMU-DE002; Maze of Muertos; Super Rare
+  | it_sets             = 
+  MZMU-IT002; Maze of Muertos; Super Rare
+  | pt_sets             = 
+  MZMU-PT002; Maze of Muertos; Super Rare
+  | sp_sets             = 
+  MZMU-SP002; Maze of Muertos; Super Rare
+  | ae_sets             = 
+  CR11-AE068; Creation Pack 11; Super Rare
+  | mentions            = Call of the Haunted
+  | archseries          = Call of the Haunted (series)
+  | action              = 
+  * Activates from your hand
+  * Activates from your Graveyard
+  * Activates if sent to the Graveyard
+  * Sets from your Graveyard
+  | summoning           = 
+  * Special Summons itself from your hand
+  * Special Summons itself from your Graveyard
+  | misc                = 
+  * Requires control of specific card
+  * Only once per turn
+  | database_id         = 22345
+  }}

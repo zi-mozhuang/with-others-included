@@ -1,0 +1,76 @@
+title: Darklord Rebellion
+wikitext: |-
+  {{Not archetype member|Rebellion (archetype)|リベリオン}}
+  {{CardTable2
+  | fr_name             = Rébellion Ange Déchu
+  | de_name             = Finsterlord-Rebellion
+  | it_name             = Ribellione Signore Oscuro
+  | pt_name             = Rebelião do Senhor Obscuro
+  | es_name             = Rebelión del Señoroscuro
+  | ja_name             = {{Ruby|背|はい}}{{Ruby|徳|とく}}の{{Ruby|堕|だ}}{{Ruby|天|てん}}{{Ruby|使|し}}
+  | romaji_name         = Haitoku no Datenshi
+  | translated_name     = Fallen Angels Falling from Grace
+  | ko_name             = 배덕의 타락천사
+  | sc_name             = 背德的堕天使
+  | image               = DarklordRebellion-MZMU-EN-R-1E.png
+  | card_type           = Trap
+  | property            = Normal
+  | password            = 50501121
+  | effect_types        = Effect, Condition
+  | text                = [[Send]] 1 "[[Darklord]]" [[Monster Card|monster]] from your [[hand]] or [[face-up]] [[field]] to the [[Graveyard|GY]]; [[destroy]] 1 card on the field. You can only [[activate]] 1 "Darklord Rebellion" per [[turn]].
+  | fr_text             = Envoyez 1 monstre "Ange Déchu" depuis votre main ou Terrain face recto au Cimetière ; détruisez 1 carte sur le Terrain. Vous ne pouvez activer qu'1 "Rébellion Ange Déchu" par tour.
+  | de_text             = Lege 1 „Finsterlord“-Monster von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof; zerstöre 1 Karte auf dem Spielfeld. Du kannst nur 1 „Finsterlord-Rebellion“ pro Spielzug aktivieren.
+  | it_text             = Manda 1 mostro "Signore Oscuro" dalla tua mano o Terreno scoperto al Cimitero; distruggi 1 carta sul Terreno. Puoi attivare solo 1 "Ribellione Signore Oscuro" per turno.
+  | pt_text             = Envie 1 monstro "Senhor(a) Obscuro(a)" da sua mão ou do campo com a face para cima para o Cemitério; destrua 1 card no campo. Você só pode ativar 1 "Rebelião do Senhor Obscuro" por turno.
+  | es_text             = Manda al Cementerio 1 monstruo "Señoroscuro/a" en tu mano o Campo boca arriba; destruye 1 carta en el Campo. Sólo puedes activar 1 "Rebelión del Señoroscuro" por turno.
+  | ja_text             = このカード名のカードは１ターンに１枚しか発動できない。①：自分の手札・フィールド（表側表示）から「堕天使」モンスター１体を墓地へ送って発動できる。フィールドのカード１枚を破壊する。
+  | ko_text             = 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신의 패 / 필드(앞면 표시)에서 "타락천사" 몬스터 1장을 묘지로 보내고 발동할 수 있다. 필드의 카드 1장을 파괴한다.
+  | sc_text             = 此卡名的卡1回合仅可发动1张。①：从自己手牌・场上（表侧表示）将1只“堕天使”怪兽送至墓地可以发动。将场上的1张卡破坏。
+  | en_sets             = 
+  DESO-EN036; Destiny Soldiers; Secret Rare
+  MAGO-EN109; Maximum Gold; Rare
+  MZMU-EN123; Maze of Muertos; Rare
+  | fr_sets             = 
+  DESO-FR036; Destiny Soldiers; Secret Rare
+  MAGO-FR109; Maximum Gold; Rare
+  MZMU-FR123; Maze of Muertos; Rare
+  | de_sets             = 
+  DESO-DE036; Destiny Soldiers; Secret Rare
+  MAGO-DE109; Maximum Gold; Rare
+  MZMU-DE123; Maze of Muertos; Rare
+  | it_sets             = 
+  DESO-IT036; Destiny Soldiers; Secret Rare
+  MAGO-IT109; Maximum Gold; Rare
+  MZMU-IT123; Maze of Muertos; Rare
+  | pt_sets             = 
+  DESO-PT036; Destiny Soldiers; Secret Rare
+  MAGO-PT109; Maximum Gold; Rare
+  MZMU-PT123; Maze of Muertos; Rare
+  | sp_sets             = 
+  DESO-SP036; Destiny Soldiers; Secret Rare
+  MAGO-SP109; Maximum Gold; Rare
+  MZMU-SP123; Maze of Muertos; Rare
+  | jp_sets             = 
+  SPDS-JP036; Booster SP: Destiny Soldiers; Common, Normal Parallel Rare
+  BPRO-JPS13; Burst Protocol +1 Assist Pack; Ultra Rare
+  | ae_sets               = 
+  CR10-AE037; Creation Pack 10; Super Rare
+  CR10-AES14; Creation Pack 10 +1 Bonus Pack; Secret Rare
+  | kr_sets             = 
+  SPDS-KR036; Booster SP: Destiny Soldiers; Common, Normal Parallel Rare
+  BPRO-KRS13; Burst Protocol +1 Assist Pack; Ultra Rare
+  | sc_sets             = 
+  WPS2-SC079; World Premiere Pack 2025; Common
+  | mentions            = Darklord Rebellion
+  | archseries          = Darklord
+  | supports_archetypes = Darklord
+  | action              = 
+  * Sends from hand to Graveyard for cost
+  * Sends from field to Graveyard for cost
+  | m/s/t               = 
+  * Destroys Monster Cards
+  * Destroys Spell Cards
+  * Destroys Trap Cards
+  | misc                = Only once per turn
+  | database_id         = 12730
+  }}
