@@ -1,0 +1,53 @@
+title: Reversal Box
+wikitext: |-
+  {{Unofficial name|English}}
+  {{Unofficial lore|English}}
+  {{CardTable2
+  | fr_name               = 
+  | de_name               = 
+  | it_name               = 
+  | pt_name               = 
+  | es_name               = 
+  | ja_name               = {{Ruby|大逆転|リバーサル}}{{Ruby|ＢＯＸ|ボックス}}
+  | base_romaji_name      = Daigyakuten Bokkusu
+  | base_translated_name      = Great Reversal Box
+  | romaji_name           = Ribāsaru Bokkusu
+  | translated_name       = 
+  | ko_name               = 
+  | ko_rr_name            = 
+  | sc_name               = 
+  | image                 = ReversalBox-BETB-JP-OP.png
+  | card_type             = Trap
+  | property              = Continuous
+  | password              = 
+  | effect_types          = Quick-like, Quick-like
+  | text                  = [[Once per turn]], during the [[Standby Phase]]: Roll a six-sided die and place counters on this card equal to the result (max. 6). When a [[monster effect]] is activated on your opponent's field, or once per [[battle]], during [[damage calculation]], if an opponent's monster [[attack]]s: You can remove 1 counter from this card, then [[target]] 1 of those monsters; toss a coin and call it. If you call it right, you can [[Special Summon]] 1 monster that mentions "[[Dark Time Wizard]]" from your [[Main Deck|Deck]], and if you do, until the end of this turn, change the targeted monster's [[ATK]] to 0, also its [[effect]]s are negated.
+  | fr_text               = 
+  | de_text               = 
+  | it_text               = 
+  | pt_text               = 
+  | es_text               = 
+  | ja_text               = 
+  | ko_text               = 
+  | sc_text               = 
+  | jp_sets               = 
+  BETB-JP071; Beyond The Brave; 
+  | mentions              = Dark Time Wizard
+  | archseries            = Dark Time Wizard (series)
+  | counter               = 
+  * Counter (counter)
+  * Places counters on itself
+  * Removes counters from itself for cost
+  | stat_change           = 
+  * Reduces ATK to 0
+  * Your opponent's monsters lose ATK
+  | m/s/t                 = Negates the effects of your opponent's Effect Monsters
+  | summoning             = Special Summons from your Deck
+  | misc                  = 
+  * Limited activations
+  * During the Standby Phase
+  * Die roll
+  * Coin toss
+  * Mentions
+  | database_id           = 
+  }}

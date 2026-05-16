@@ -11,7 +11,6 @@ wikitext: |-
   | atk       = 2500
   | def       = 2500
   | rarity    = UR
-  | status    = 
   | text      = ''Fight for the Light! Good Night!''
   | fr_text   = ''Combat pour la Lumière ! Bonne nuit !''
   | es_text   = ''¡Lucha por la luz! ¡Buenas noches!''
@@ -19,7 +18,8 @@ wikitext: |-
   | ko_text   = 워 투 젠! 오우섬 트루 굿 나이트!
   | releases  = 
   {{Duel Links release table/header}}
-  {{Duel Links release table|type=box|Galactica Go Rush|foil=Over-Rush Style}}
+  {{Duel Links release table|type=box|Galactica Go Rush|foil=Over-Rush Style|quantity=1}}
   {{Duel Links release table|type=box|Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)|foil=Over-Rush Style}}
+  {{Duel Links release table|type=box|Structure Deck: Quest of Transam|quantity=1}}
   {{Duel Links release table/footer}}
   }}

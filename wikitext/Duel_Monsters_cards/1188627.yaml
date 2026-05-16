@@ -12,13 +12,13 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = EvolvedDaneen-BLZD-EN-1E-OP.png
+  | image                 = EvolvedDaneen-BLZD-EN-SR-1E.png
   | attribute             = WATER
   | types                 = Dinosaur / Fusion / Effect
   | level                 = 6
   | atk                   = 2400
   | def                   = 1200
-  | password              = 
+  | password              = 01595137
   | fusion_material       = Returned Dino Daneen
   | materials             = "Returned Dino Daneen" + 1 Dinosaur-Type monster
   | effect_types          = Trigger, Condition, Trigger
@@ -57,5 +57,5 @@ wikitext: |-
   * Special Summons itself from your Graveyard
   | life_points           = You gain Life Points
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 22935
   }}

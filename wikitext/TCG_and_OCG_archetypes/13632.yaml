@@ -23,6 +23,7 @@ wikitext: |-
   * [[Duelist Pack: Aster Phoenix]]
   * [[Dark Neostorm]]
   * [[Burst of Destiny]]
+  * [[Beyond The Brave]]
   | tcg            =
   * [[Collectible Tins 2007 Wave 1]]
   * [[Dark Revelation Volume 4]]
@@ -95,7 +96,6 @@ wikitext: |-
   === Members ===
   The "Destiny HERO" monsters are based on vigilantes/antiheroes (such as [[wikipedia:Batman|Batman]], [[wikipedia:Devilman|Devilman]], and [[wikipedia:Spawn (character)|Spawn]]) as well as British culture, in contrast to the American superhero-theme of the "[[Elemental HERO]]" archetype. There is also an emphasis on time and the future in most "Destiny HERO" card effects, as opposed to the more immediate effects of "Elemental HERO" monsters, with many having effects that trigger/resolve during the Standby Phase, interact with the top card(s) of the Main Deck, or take effect over multiple turns.
 
-  ==== Main Deck ====
   {| class="wikitable sortable"
   ! colspan="2" | Destiny HERO
   ! rowspan="2" | European origin
@@ -115,6 +115,10 @@ wikitext: |-
   | ''Divine Guy''
   | N/A
   |-
+  | [[Destiny HERO - Dangerous|Dangerous]]
+  | ''Deadly Guy''
+  | N/A
+  |-
   | [[Destiny HERO - Dark Angel|Dark Angel]]
   | ''Dark Angel''
   | N/A
@@ -122,6 +126,13 @@ wikitext: |-
   | [[Destiny HERO - Dasher|Dasher]]
   | ''Dash Guy''
   | [[wikipedia:Spring Heeled Jack|Spring Heeled Jack]]
+  |-
+  | [[Destiny HERO - Death Dogma|Death Dogma]]
+  | ''Death Dogmaguy''
+  | rowspan="2" | [[wikipedia:Dogma|Dogma]]
+  |-
+  | [[Destiny HERO - Dogma|Dogma]]
+  | ''Dogma Guy''
   |-
   | [[Destiny HERO - Decider|Decider]]
   | ''Decision Guy''
@@ -139,6 +150,10 @@ wikitext: |-
   | ''Departed Guy''
   | [[wikipedia:The Invisible Man|The Invisible Man]]
   |-
+  | [[Destiny HERO - Destroyer Phoenix Enforcer|Destroyer Phoenix Enforcer]]
+  | ''Destroy Phoenix Guy''
+  | N/A
+  |-
   | [[Destiny HERO - Diamond Dude|Diamond Dude]]
   | ''Diamond Guy''
   | [[wikipedia:Cullinan Diamond|Cullinan Diamond]]
@@ -147,9 +162,13 @@ wikitext: |-
   | ''Disk Guy''
   | N/A
   |-
-  | [[Destiny HERO - Dogma|Dogma]]
-  | ''Dogma Guy''
-  | [[wikipedia:Dogma|Dogma]]
+  | [[Destiny HERO - Dominance|Dominance]]
+  | ''Dominate Guy''
+  | N/A
+  |-
+  | [[Destiny HERO - Doom Liege|Doom Liege]]
+  | ''Devil Lordguy''
+  | N/A
   |-
   | [[Destiny HERO - Doom Lord|Doom Lord]]
   | ''Devil Guy''
@@ -157,7 +176,7 @@ wikitext: |-
   |-
   | [[Destiny HERO - Double Dude|Double Dude]]
   | ''Double Guy''
-  | [[wikipedia:Strange Case of Dr Jekyll and Mr Hyde|Dr. Jekyll & Mr. Hyde]]
+  | [[wikipedia:Dr Jekyll and Mr Hyde (character)|Dr Jekyll and Mr Hyde]]
   |-
   | [[Destiny HERO - Drawhand|Drawhand]]
   | ''Draw Guy''
@@ -169,11 +188,18 @@ wikitext: |-
   |-
   | [[Destiny HERO - Dreadmaster|Dreadmaster]]
   | ''Dread Guy''
-  | [[wikipedia:Man in the Iron Mask|Man in the Iron Mask]]
+  | rowspan="2" | [[wikipedia:Man in the Iron Mask|Man in the Iron Mask]]
+  |-
+  | [[Destiny HERO - Dreadnought|Dreadnought]]
+  | ''Dreadnoughtguy''
+  |-
+  | [[Destiny HERO - Dreadnought Servant|Dreadnought Servant]]
+  | ''Dreadnought Servant''
+  | N/A
   |-
   | [[Destiny HERO - Dreamer|Dreamer]]
   | ''Dream Guy''
-  | [[wikipedia:Sandman|The Sandman]]
+  | [[wikipedia:Sandman|Sandman]]
   |-
   | [[Destiny HERO - Drilldark|Drilldark]]
   | ''Drill Guy''
@@ -183,9 +209,17 @@ wikitext: |-
   | ''Dunk Guy''
   | [[Wikipedia:Basketball in England|Basketball]]
   |-
+  | [[Destiny HERO - Dusktopia|Dusktopia]]
+  | ''Dusk Utopia Guy''
+  | N/A
+  |-
   | [[Destiny HERO - Dynatag|Dynatag]]
   | ''Dynamite Guy''
   | [[wikipedia:Dynamite Kid|Dynamite Kid]]
+  |-
+  | [[Destiny HERO - Dystopia|Dystopia]]
+  | ''Dystopia Guy''
+  | N/A
   |-
   | [[Destiny HERO - Fear Monger|Fear Monger]]
   | ''Doom Guy''
@@ -197,31 +231,9 @@ wikitext: |-
   |-
   | [[Destiny HERO - Plasma|Plasma]]
   | ''Bloo-D''
-  | [[wikipedia:Blue blood|Blue blood]]/[[wikipedia:Dracula|Count Dracula]]
+  | [[wikipedia:Nobility|Blue blood]]/[[wikipedia:Count Dracula|Count Dracula]]
   |}
 
-  ==== Extra Deck ====
-  {| class="wikitable sortable"
-  ! colspan="2" | Destiny HERO
-  |-
-  ! English
-  ! Japanese
-  |-
-  | [[Destiny HERO - Dangerous|Dangerous]]
-  | ''Deadly Guy''
-  |-
-  | [[Destiny HERO - Destroyer Phoenix Enforcer|Destroyer Phoenix Enforcer]]
-  | ''Destroy Phoenix Guy''
-  |-
-  | [[Destiny HERO - Dominance|Dominance]]
-  | ''Dominate Guy''
-  |-
-  | [[Destiny HERO - Dusktopia|Dusktopia]]
-  | ''Dusk Utopia Guy''
-  |-
-  | [[Destiny HERO - Dystopia|Dystopia]]
-  | ''Dystopia Guy''
-  |}
   "[[Destiny End Dragoon]]" is not a "Destiny HERO" monster, but it is a [[Fusion Monster|Fusion]] between two "Destiny HERO" monsters and supports the "Destiny HERO" archetype. "[[Xtra HERO Cross Crusader]]" also supports the archetype, and its Japanese name ends with "Guy".
 
   "[[Elemental HERO Phoenix Enforcer]]" and "[[Elemental HERO Shining Phoenix Enforcer]]" are also associated with the "Destiny HERO" archetype. They are named after and used by [[Aster Phoenix]] in ''[[Yu-Gi-Oh! GX]]'', and their Japanese names also end with "Guy". Incidentally, the ''OCG''/''TCG''-original card "Destiny HERO - Destroyer Phoenix Enforcer" serves as the inspiration for those "Elemental HERO" cards' association with the "Destiny HERO" archetype.
@@ -247,39 +259,71 @@ wikitext: |-
   == Playing style ==
   "Destiny HERO" is a Fusion archetype that generally revolves around Summoning powerful boss monsters to suppress the opponent. Their playstyle focuses heavily on [[Graveyard]] effects to get enough material for their bosses. The archetype also has sub-themes of drawing cards and delayed effects (cards activating/resolving the turn after their conditions are met).
 
-  The archetype is capable of controlling the game with endboard pieces like "[[Destiny HERO - Plasma|Plasma]]" (shuts down monster effects), "[[Destiny HERO - Dark Angel|Dark Angel]]" (shuts down the controller's Spells), and "[[D-Tactics]]" (banishes 1 card from hand/field/GY). "[[Destiny HERO - Dystopia|Dystopia]]" and "[[Destiny HERO - Destroyer Phoenix Enforcer|Destroyer Phoenix Enforcer]]" are Quick Effect disruptions. Easy access to "[[Masked HERO Dark Law]]" further supports this playstyle. The archetype also has some excellent protection in "[[Destiny HERO - Dreadmaster]]", "[[Destiny HERO - Dusktopia]]" , "[[Destiny HERO - Dreamer]]" and "[[D - Force]]" making their fellow "Destiny HERO" monsters untargetable and indestructible.
+  The archetype is capable of controlling the game with endboard pieces like "[[Destiny HERO - Plasma|Plasma]]" (shuts down monster effects), "[[Destiny HERO - Dark Angel|Dark Angel]]" (shuts down the controller's Spells), "[[Destiny HERO - Dystopia|Dystopia]]" and "[[Destiny HERO - Destroyer Phoenix Enforcer|Destroyer Phoenix Enforcer]]" (Quick Effect removal disruptions) and "[[D-Tactics]]" (banishes 1 card from hand/field/GY). Easy access to "[[Masked HERO Dark Law]]" further supports this playstyle. The archetype also has some excellent protection in "[[Destiny HERO - Dreadmaster]]", "[[Destiny HERO - Dusktopia]]" , "[[Destiny HERO - Dreamer]]" and "[[D - Force]]" making their fellow "Destiny HERO" monsters untargetable and indestructible.
 
-  The Main Deck monsters often have GY effects which help [[swarm]] the field and/or give advantage. "[[Destiny HERO - Malicious|Malicious]]" can banish itself to Summon another copy from the Deck, and is not [[once per turn]]. "[[Destiny HERO - Denier|Denier]]" can once per Duel Special Summon itself from the GY, then recycle a banished "Destiny HERO" monster. "[[Destiny HERO - Celestial|Celestial]]" can banish itself and another "Destiny HERO" from the GY to draw 2 cards, and "[[Destiny HERO - Dynatag|Dynatag]]" can banish itself to boost a "Destiny HERO" monster's ATK by 1000. Cards like "[[Fusion Destiny]]" (Fuses by sending materials from Deck to GY) and "[[Destiny Draw]]" help get the cards to the GY.
+  The Main Deck monsters often have GY effects which help [[swarm]] the field and/or give advantage. "[[Destiny HERO - Malicious|Malicious]]" can banish itself to Summon another copy from the Deck, and is not [[once per turn]]. "[[Destiny HERO - Denier|Denier]]" can once per Duel Special Summon itself from the GY, then recycle a banished "Destiny HERO" monster (usually paired with "Malicious" to enable it to use its effect one more time). "[[Destiny HERO - Celestial|Celestial]]" can banish itself and another "Destiny HERO" from the GY to draw 2 cards, and "[[Destiny HERO - Dynatag|Dynatag]]" can banish itself to boost a "Destiny HERO" monster's ATK by 1000. Cards like "[[Fusion Destiny]]" ([[Fusion Summon]]s by using materials from the hand or Deck) and "[[Destiny Draw]]" help get the cards to the GY.
+
+  For Fusion plays, the "Destiny HERO" archetype has historically relied on monsters from other "HERO" sub-archetypes such as "[[Vision HERO Vyon]]", "[[Elemental HERO Blazeman]]" and "[[Masked HERO Furnace]]" to search "[[Polymerization]]". Recently however, "Destiny HERO" now has reliable tools from their own sub-archetype such as the aformentioned "Fusion Destiny", "[[Destiny HERO - Dusktopia|Dusktopia]]" (perform a Fusion Summon upon its Fusion Summon), "[[Destiny HERO - Dreadnought Servant|Dreadnought Servant]]" (which can search "Polymerization") and "[[Destiny HERO - Death Dogma|Death Dogma]]" (which has a Quick Effect to perform a Fusion Summon in response to an opponent activating a card/effect).
+
+  === Sample combos ===
+  {{Combo steps
+  | opening = "[[Fusion Destiny]]"
+  | end     = "[[Destiny HERO - Plasma]]", "[[Destiny HERO - Destroyer Phoenix Enforcer]]", "[[Destiny HERO - Death Dogma]]", and "[[Destiny HERO - Malicious]]" on your field + "[[Destiny HERO - Dark Angel]]" on opponent's field.
+  | steps   = 
+  # Activate "Fusion Destiny", using "[[Destiny HERO - Malicious]]" and "[[Destiny HERO - Death Dogma]]" to summon "[[Destiny HERO - Dreadnought]]".
+  # "Dreadnought" adds "[[Destiny HERO - Doom Liege]]" and "[[Destiny HERO - Dark Angel]]".
+  # Summon "Doom Liege", use effect to send "[[Destiny HERO - Denier]]" to GY and add "[[Clock Tower Prison City - Dark City]]".
+  # Use "Dark Angel" effect to summon itself.
+  # Summon "[[Xtra HERO Cross Crusader]]" using "Dreadnought" and "Doom Liege".
+  # "Cross Crusader" effect to special summon a "Destiny HERO", then tribute to add "[[Destiny HERO - Plasma]]".
+  # Activate "Clock Tower Prison City - Dark City" and add "[[Destiny HERO - Dreadnought Servant]]" to hand.
+  # Special Summon "Dreadnought Servant", destroy "Clock Tower Prison City", and add "[[Polymerization]]".
+  # Effect of "Clock Tower Prison City" to summon "[[Destiny HERO - Dreadmaster]]".
+  # Use "Polymerization" to Fuse "Dreadmaster" and "Dreadnought Servant" to summon "[[Destiny HERO - Destroyer Phoenix Enforcer]]".
+  # Banish "Malicious" to summon another copy.
+  # Summon "Denier", who adds back the banished "Malicious".
+  # Tribute "Malicious", "Denier" and "Cross Crusader" for "Plasma".
+  # Banish three "Destiny HERO" monsters from GY to summon "Death Dogma".
+  # Banish "Malicious" from GY to summon another copy.
+  # On opponent's turn.
+  ## The effect of "Dark Angel" will not be active unless they clear "Plasma", but it will be stopping them from using certain cards (e.g. "[[Lightning Storm]]".)
+  ## "Death Dogma" can use its effect to fuse with "Malicious" into another monster, examples include:
+  ### "Dreadnought" to add follow up, and trigger "Dreadnought Servant" in the GY.
+  ### "[[Starving Venom Fusion Dragon of the Four Heavenly Dragons]]", who in turn can fuse into "[[Predaplant Dragostapelia]]" or "[[Predaplant Triphyoverutum]]" using opponent's monsters.
+  }}
 
   === With other HERO archetypes ===
   <!--How other HEROs support Destiny HEROs-->
   The archetype is often combined with other parts of the "[[HERO]]" archetype, with many "HERO" cards supporting "Destiny HERO".
-  * The "[[Vision HERO]]" combo of "[[Vision HERO Faris|Faris]]" → "[[Vision HERO Increase|Increase]]" → "[[Vision HERO Vyon|Vyon]]" is an excellent support for the "Destiny HERO" playstyle, since "Vyon" can search out "[[Polymerization]]" and either strategically [[mill]] or search out needed "Destiny HERO" monsters (by sending "[[Elemental HERO Shadow Mist]]" to the GY)
-  * "[[Elemental HERO Stratos]]" can search for any "HERO" monster, including "Destiny HEROs".
-  * "Shadow Mist", "[[Masked HERO Dusk Crow]]" and "[[Masked HERO Furnace]]" opens up the possibility for "Destiny HERO" to run the powerful "[[Masked HERO]]" monsters (mainly "[[Masked HERO Dark Law]]" and "[[Masked HERO Anki]]") and possibly "[[Contrast HERO Chaos]]".
+  * The "[[Vision HERO]]" combo of "[[Vision HERO Faris|Faris]]" → "[[Vision HERO Increase|Increase]]" → "[[Vision HERO Vyon|Vyon]]" is an excellent support for the "Destiny HERO" playstyle, since "Vyon" can search out "[[Polymerization]]" and either strategically [[mill]] "Destiny HERO" monsters.
+  * "[[Elemental HERO Stratos]]" and "[[Elemental HERO Shadow Mist]]" can search for any "HERO" monster, including "Destiny HEROs".
+  * "Shadow Mist", "[[Masked HERO Dusk Crow]]", "[[Masked HERO Furnace]]" and "[[Masked HERO Fountain]]" opens up the possibility for "Destiny HERO" to run the powerful "[[Masked HERO]]" Fusion Monsters (mainly "[[Masked HERO Dark Law]]" and "[[Masked HERO Anki]]") as well as possibly "[[Contrast HERO Chaos]]". The Main Deck "Masked HERO" members can un-brick "Destiny HERO" monsters in an otherwise unplayable hand by Summoning them or discarding them.
   * "[[Xtra HERO Cross Crusader]]" directly supports "Destiny HERO" monsters. Upon being Link Summoned, "Cross Crusader" can Special Summon a "Destiny HERO" monster from the GY, and can Tribute a "Destiny HERO" to search out another "HERO" monster, making it useful both as a searcher and as a recovery option.
 
   <!--How Destiny HEROs support other HEROs-->
-  On the other side of the relationship, the "Destiny HERO" archetype is one of the backbones in the overall "omni-HERO" playstyle, thanks to the [[Link Summon]] "climbing" capabilities offered by "[[Destiny HERO - Malicious|Malicious]]" and "[[Destiny HERO - Denier|Denier]]", along with "Cross Crusader's" effect to Summon from Deck. The power offered by the "Destiny HERO" boss monsters also makes them popular to include, with "Fusion Destiny" being an excellent card overall. While "Fusion Destiny" locks the player out of non-DARK "HEROs", most of the consistent "HERO" extenders and strong endboard pieces (i.e., all "Vision HEROes", "Masked HERO Dusk Crow" "Masked HERO Dark Law", "Masked HERO Anki", "Contrast HERO Chaos", and all "Xtra HERO" monsters sans "[[Xtra HERO Wonder Driver]]") are "DARK", so "HERO" can still build a competent field even if the player has to use "Fusion Destiny" as their early combo starter.
+  On the other side of the relationship, the "Destiny HERO" archetype is one of the backbones in the overall "omni-HERO" playstyle, thanks to the [[Link Summon]] "climbing" capabilities offered by "[[Destiny HERO - Malicious|Malicious]]" and "[[Destiny HERO - Denier|Denier]]", along with "Cross Crusader's" effect to Summon from Deck. The power offered by the "Destiny HERO" boss monsters also makes them popular to include, with "Fusion Destiny" being an excellent card overall. While "Fusion Destiny" (as well as "[[Destiny HERO - Doom Liege]]") locks the player out of Special Summoning non-DARK "HERO" monsters, most of the consistent "HERO" extenders and strong endboard pieces (i.e., all "Vision HEROes", "Masked HERO Dusk Crow", "Masked HERO Dark Law", "Masked HERO Anki", "Contrast HERO Chaos", and all "Xtra HERO" monsters sans "[[Xtra HERO Wonder Driver]]") are "DARK", so "HERO" decks can still build a competent field even if the player has to use "Fusion Destiny" as their early combo starter.
 
   === Recommended cards ===
   {{Decklist|Recommended cards
   <!--This is not an exact Decklist. Do not add staples or multiples-->
   |effect monsters =
   * [[Destiny HERO - Celestial]]
+  * [[Destiny HERO - Dark Angel]]
+  * [[Destiny HERO - Death Dogma]]
   * [[Destiny HERO - Decider]]
   * [[Destiny HERO - Denier]]
   * [[Destiny HERO - Diamond Dude]]
   * [[Destiny HERO - Disk Commander]]
   * [[Destiny HERO - Dogma]]
+  * [[Destiny HERO - Doom Liege]]
   * [[Destiny HERO - Drawhand]]
   * [[Destiny HERO - Dreadmaster]]
+  * [[Destiny HERO - Dreadnought Servant]]
   * [[Destiny HERO - Drilldark]]
   * [[Destiny HERO - Dynatag]]
   * [[Destiny HERO - Malicious]]
   * [[Destiny HERO - Plasma]]
   * [[Elemental HERO]] monsters
-  ** [[Elemental HERO Liquid Soldier]]
   ** [[Elemental HERO Shadow Mist]]
   ** [[Elemental HERO Stratos]]
   * [[Vision HERO]] monsters
@@ -288,25 +332,28 @@ wikitext: |-
   ** [[Vision HERO Vyon]]
   * [[Masked HERO]] monsters
   ** [[Masked HERO Dusk Crow]]
+  ** [[Masked HERO Fountain]]
   ** [[Masked HERO Furnace]]
   * [[Winged Kuriboh Sabatiel LV10]]
   * [[Droll & Lock Bird]] ''(with "Drawhand" & Dark Law")''
   * [[Double Disruptor Dragon]] ''(for "Rapid Trigger")''
-  * [[Summoner of Illusions]]
 
   |fusion monsters =
   * [[Destiny HERO - Dangerous]]
   * [[Destiny HERO - Destroyer Phoenix Enforcer]]
   * [[Destiny HERO - Dominance]]
+  * [[Destiny HERO - Dreadnought]]
   * [[Destiny HERO - Dusktopia]]
   * [[Destiny HERO - Dystopia]]
   * [[Destiny End Dragoon]]
-  * [[Elemental HERO Absolute Zero]]
+  * [[Contrast HERO Chaos]]
   * [[Elemental HERO Clay Guardian]]
   * [[Elemental HERO Escuridao]]
-  * [[Elemental HERO Sunrise]]
   * [[Masked HERO Dark Law]]
-  * [[Masked HERO Blast]]
+  * [[Starving Venom Fusion Dragon of the Four Heavenly Dragons]]
+  ** [[Starving Venom Fusion Dragon]]
+  ** [[Predaplant Dragostapelia]]
+  ** [[Predaplant Triphyoverutum]]
 
   |xyz monsters =
   * [[Beatrice, Lady of the Eternal]] ''(Traditional Format only)''
@@ -314,6 +361,7 @@ wikitext: |-
   |link monsters =
   * [[Xtra HERO Cross Crusader]]
   * [[Xtra HERO Wonder Driver]]
+  * [[Xtra HERO Dread Decimator]]
   * [[Predaplant Verte Anaconda]] ''(Traditonal Format only)''
 
   |normal spells =
@@ -330,12 +378,14 @@ wikitext: |-
   * [[Miracle Fusion]]
   * [[Polymerization]]
   * [[Reinforcement of the Army]]
+  * [[Rainbow Bridge Bifrost]] ''(with a Level 10+ Synchro Monster)''
 
   |continuous spells =
   * [[D - Force]]
 
   |field spells =
   * [[Clock Tower Prison]]
+  * [[Clock Tower Prison City - Dark City]]
 
   |quick-play spells =
   * [[Mask Change]]
@@ -343,7 +393,6 @@ wikitext: |-
 
   |normal traps =
   * [[Break the Destiny]]
-  * [[Favorite Contact]]
 
   |continuous traps =
   * [[D - Tactics]]

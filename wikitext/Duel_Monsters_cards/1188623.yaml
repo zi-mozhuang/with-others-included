@@ -12,13 +12,13 @@ wikitext: |-
   | ko_name               = 
   | ko_rr_name            = 
   | sc_name               = 
-  | image                 = GMXPartnerSelandea-BLZD-EN-1E-OP.png
+  | image                 = GMXPartnerSelandea-BLZD-EN-UR-1E.png
   | attribute             = FIRE
   | types                 = Warrior / Effect
   | level                 = 5
   | atk                   = 1500
   | def                   = 1900
-  | password              = 
+  | password              = 02618725
   | effect_types          = Ignition, Trigger, Condition
   | text                  = You can [[reveal]] this card in your [[hand]]; [[Special Summon]] 1 "[[GMX]]" [[monster]] or 1 [[Dinosaur]] monster from your [[hand]], also you can only [[attack directly]] with "GMX" monsters for the rest of this [[turn]]. If this card is Special Summoned by a [[monster effect]]: You can Special Summon 1 [[Level]] 4 or lower "GMX" or Dinosaur monster from your hand, [[GY]], or [[banish]]ment in [[Defense Position]]. You can only use each effect of "GMX Partner Selandea" [[once per turn]].
   | fr_text               = Vous pouvez révéler cette carte dans votre main ; Invoquez Spécialement 1 monstre "GMX" ou 1 monstre Dinosaure depuis votre main, et aussi, vous ne pouvez attaquer directement qu'avec des monstres "GMX" le reste de ce tour. Si cette carte est Invoquée Spécialement par un effet de monstre : vous pouvez Invoquer Spécialement 1 monstre "GMX" ou Dinosaure de max. Niveau 4 depuis votre main, Cimetière ou bannissement en Position de Défense. Vous ne pouvez utiliser chaque effet de "Selandea, Partenaire GMX" qu'une fois par tour.
@@ -30,17 +30,17 @@ wikitext: |-
   | ko_text               = 
   | sc_text               = 
   | en_sets               = 
-  BLZD-EN090; Blazing Dominion; Ultra Rare
+  BLZD-EN090; Blazing Dominion; Ultra Rare, Starlight Rare
   | fr_sets               = 
-  BLZD-FR090; Blazing Dominion; Ultra Rare
+  BLZD-FR090; Blazing Dominion; Ultra Rare, Starlight Rare
   | de_sets               = 
-  BLZD-DE090; Blazing Dominion; Ultra Rare
+  BLZD-DE090; Blazing Dominion; Ultra Rare, Starlight Rare
   | it_sets               = 
-  BLZD-IT090; Blazing Dominion; Ultra Rare
+  BLZD-IT090; Blazing Dominion; Ultra Rare, Starlight Rare
   | pt_sets               = 
-  BLZD-PT090; Blazing Dominion; Ultra Rare
+  BLZD-PT090; Blazing Dominion; Ultra Rare, Starlight Rare
   | sp_sets               = 
-  BLZD-SP090; Blazing Dominion; Ultra Rare
+  BLZD-SP090; Blazing Dominion; Ultra Rare, Starlight Rare
   | supports              = Dinosaur
   | archseries            = GMX
   | supports_archetypes   = GMX
@@ -54,5 +54,5 @@ wikitext: |-
   * Special Summons from your banishment
   | attack                = Prevents direct attacks
   | misc                  = Only once per turn
-  | database_id           = 
+  | database_id           = 22932
   }}
